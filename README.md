@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 10/26/2020.
 
 ### Hitokoto
 
-> 与其想着怎么美丽地牺牲,倒不如想着怎么漂亮地活到最后一刻。
+> 比希望更炙热，比绝望更深邃，这就是爱啊。
 > 
-> ——银魂
+> ——魔法少女小圆-叛逆的物语
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
 Autogen by LittleJake.
