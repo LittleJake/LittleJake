@@ -4,10 +4,10 @@ Today is 10/26/2020.
 
 ### Hitokoto
 
-> 深藏不露是一种卓越的才能
+> 牙白得斯内！
 > 
-> ——欢迎来到实力至上主义的教室
+> ——公主连结Re:Dive
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 14:10:50
+Autogen by LittleJake at 16:14:48
