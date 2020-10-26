@@ -4,10 +4,10 @@ Today is 10/26/2020.
 
 ### Hitokoto
 
-> 重要的是无论我们选择哪条路，都要担负起选择的责任。
+> 深藏不露是一种卓越的才能
 > 
-> ——蜂蜜与四叶草
+> ——欢迎来到实力至上主义的教室
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 12:13:12
+Autogen by LittleJake at 14:10:50
