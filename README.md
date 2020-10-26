@@ -4,10 +4,10 @@ Today is 10/26/2020.
 
 ### Hitokoto
 
-> 我不是天生的王者 但我骨子里流动着不让我低头的血液
+> 相信十年后的八月，我们还会相遇。
 > 
-> ——海贼王
+> ——未闻花名
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 09:08:55
+Autogen by LittleJake at 10:11:36
