@@ -4,10 +4,10 @@ Today is 10/26/2020.
 
 ### Hitokoto
 
-> 比希望更炙热，比绝望更深邃，这就是爱啊。
+> 历史虽然会一再重演，但人类却无法回到过去。
 > 
-> ——魔法少女小圆-叛逆的物语
+> ——海贼王
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
 Autogen by LittleJake.
