@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 10/26/2020.
 
 ### Hitokoto
 
-> 人类的赞歌是勇气的赞歌，人类的伟大是勇气的伟大！
+> 与其想着怎么美丽地牺牲,倒不如想着怎么漂亮地活到最后一刻。
 > 
-> ——JOJO的奇妙冒险
+> ——银魂
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
 Autogen by LittleJake.
