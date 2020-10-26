@@ -25,7 +25,7 @@ def generate_readme(hitokoto):
         fp.write("### Hitokoto\n\n> {}\n> \n> ——{}\n\n".format(hitokoto['hitokoto'],hitokoto['from']))
         shuffle(IMGS)
         fp.write("![{}]({}{})\n\n".format(welcome, URL, IMGS.pop()))
-        fp.write("Autogen by LittleJake.")
+        fp.write("Autogen by LittleJake at {}".format(time.strftime("%H:%M:%S")))
 
     return
 
