@@ -1,16 +1,13 @@
-### Hi there 👋
+Good afternoon work time!
 
-<!--
-**LittleJake/LittleJake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Today is 10/26/2020.
 
-Here are some ideas to get you started:
+### Hitokoto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 人类的赞歌是勇气的赞歌，人类的伟大是勇气的伟大！
+> 
+> ——JOJO的奇妙冒险
+
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+
+Autogen by LittleJake.
