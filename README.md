@@ -4,10 +4,10 @@ Today is 10/27/2020.
 
 ### Hitokoto
 
-> 遇到事情不能坐以待毙！
+> 美好的人眼里映出的世界也是美好的。
 > 
-> ——捷德奥特曼
+> ——ARIA
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 14:10:45
+Autogen by LittleJake at 16:15:20
