@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 10/27/2020.
 
 ### Hitokoto
 
-> 千军万马滚滚来，不知何人留情怀！
+> 今天我就要带她走，我看谁敢拦我
 > 
-> ——Other
+> ——刺客伍六七
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 04:12:30
+Autogen by LittleJake at 06:11:36
