@@ -4,10 +4,10 @@ Today is 10/27/2020.
 
 ### Hitokoto
 
-> 只要能努力，就应当去努力；只要还能前进，就要向前走去。
+> 人难免伤害别人,也难免受伤,不过,人是不会轻易讨厌别人的.
 > 
-> ——CLANNAD
+> ——火影忍者
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 18:10:26
+Autogen by LittleJake at 20:10:21
