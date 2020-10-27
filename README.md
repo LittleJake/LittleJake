@@ -4,10 +4,10 @@ Today is 10/27/2020.
 
 ### Hitokoto
 
-> Ex - ploooosion !
+> 没有一封信是不必被送达的。
 > 
-> ——为美好的世界献上祝福
+> ——紫罗兰永恒花园
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 00:28:41
+Autogen by LittleJake at 02:14:05
