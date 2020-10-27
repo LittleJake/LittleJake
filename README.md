@@ -4,10 +4,10 @@ Today is 10/27/2020.
 
 ### Hitokoto
 
-> 没有一封信是不必被送达的。
+> 千军万马滚滚来，不知何人留情怀！
 > 
-> ——紫罗兰永恒花园
+> ——Other
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 02:14:05
+Autogen by LittleJake at 04:12:30
