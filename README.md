@@ -4,10 +4,10 @@ Today is 10/28/2020.
 
 ### Hitokoto
 
-> 或许只需一滴露水，便能守护这绽放的花朵。
+> 我看到这个世界的恶意，我们正在接受考验。
 > 
-> ——反叛的鲁鲁修
+> ——机动战士高达00
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 08:11:47
+Autogen by LittleJake at 10:11:47
