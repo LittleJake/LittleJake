@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 10/28/2020.
 
 ### Hitokoto
 
-> 我看到这个世界的恶意，我们正在接受考验。
+> 受尽苦难而不厌，此乃阿修罗之道。
 > 
-> ——机动战士高达00
+> ——海贼王
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 10:11:47
+Autogen by LittleJake at 12:13:43
