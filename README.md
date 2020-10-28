@@ -4,10 +4,10 @@ Today is 10/28/2020.
 
 ### Hitokoto
 
-> 我对Darling啊，最喜欢了。我们从今以后，都要在一起哦。
+> 所谓的奇迹就是要发生之后才会有价值存在的吧
 > 
-> ——Darling in the FRANXX
+> ——EVA
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 18:10:38
+Autogen by LittleJake at 20:10:34
