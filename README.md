@@ -4,10 +4,10 @@ Today is 10/28/2020.
 
 ### Hitokoto
 
-> 所谓的奇迹就是要发生之后才会有价值存在的吧
+> 叶え！私たちの夢ー。
 > 
-> ——EVA
+> ——ラブライブ！
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 20:10:34
+Autogen by LittleJake at 22:10:54
