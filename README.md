@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 10/27/2020.
+Today is 10/28/2020.
 
 ### Hitokoto
 
-> 每个人能走到现在，都是自己选择的结果。
+> 让我成为你的双眼，把那世界万千，描绘在你面前。
 > 
-> ——我想吃掉你的胰脏
+> ——狐妖小红娘
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 22:10:54
+Autogen by LittleJake at 00:29:12
