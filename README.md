@@ -4,10 +4,10 @@ Today is 10/28/2020.
 
 ### Hitokoto
 
-> 孤独的人不会伤害别人，只会不断地伤害自己罢了。
+> 或许只需一滴露水，便能守护这绽放的花朵。
 > 
-> ——我的青春恋爱物语果然有问题
+> ——反叛的鲁鲁修
 
 ![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 06:11:15
+Autogen by LittleJake at 08:11:47
