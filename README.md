@@ -4,10 +4,10 @@ Today is 10/28/2020.
 
 ### Hitokoto
 
-> 让我成为你的双眼，把那世界万千，描绘在你面前。
+> 你们人类让我明白了一个道理，那就是这个世界是不讲道理的
 > 
-> ——狐妖小红娘
+> ——刺客伍六七
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 00:29:12
+Autogen by LittleJake at 02:15:08
