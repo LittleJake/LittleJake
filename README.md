@@ -4,10 +4,10 @@ Today is 10/28/2020.
 
 ### Hitokoto
 
-> 欺骗世界，欺骗最初的你。
+> 无可取代的东西要到失去后才知道珍惜呢。
 > 
-> ——Steins;Gate
+> ——干物妹小埋
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 14:11:16
+Autogen by LittleJake at 16:15:49
