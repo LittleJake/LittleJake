@@ -4,10 +4,10 @@ Today is 10/29/2020.
 
 ### Hitokoto
 
-> 温柔解救不了这个世界
+> 只要有你想要保护的东西，那就拔剑好了。
 > 
-> ——罪恶王冠
+> ——银魂
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 20:05:08
+Autogen by LittleJake at 22:05:07
