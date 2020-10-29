@@ -4,10 +4,10 @@ Today is 10/29/2020.
 
 ### Hitokoto
 
-> 正因为不会发生，人们才称它为”奇迹“
+> 死亡不是终点，被遗忘才是。
 > 
-> ——KANON
+> ——寻梦环游记
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 14:11:12
+Autogen by LittleJake at 16:17:38
