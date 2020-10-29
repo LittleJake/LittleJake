@@ -4,10 +4,10 @@ Today is 10/29/2020.
 
 ### Hitokoto
 
-> 彼方为谁，无我有问 ；九月露湿，待君之前
+> 温柔解救不了这个世界
 > 
-> ——你的名字
+> ——罪恶王冠
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 18:07:01
+Autogen by LittleJake at 20:05:08
