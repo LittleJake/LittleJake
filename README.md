@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 10/29/2020.
 
 ### Hitokoto
 
-> 如果你一个人把什么都做完了，那我做什么？
+> 能够用自己喜欢的工作维持生活是件很幸福的事情
 > 
-> ——元气少女缘结神
+> ——白箱
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 04:12:56
+Autogen by LittleJake at 06:11:51
