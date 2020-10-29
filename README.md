@@ -4,10 +4,10 @@ Today is 10/29/2020.
 
 ### Hitokoto
 
-> 不拼尽全力去试一下，又怎么会知道啊
+> 正因为不会发生，人们才称它为”奇迹“
 > 
-> ——刺客伍六七
+> ——KANON
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 12:14:14
+Autogen by LittleJake at 14:11:12
