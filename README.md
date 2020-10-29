@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 10/29/2020.
 
 ### Hitokoto
 
-> 所以，他们的祭典还没结束。
+> 不拼尽全力去试一下，又怎么会知道啊
 > 
-> ——我的青春恋爱物语果然有问题
+> ——刺客伍六七
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 10:11:57
+Autogen by LittleJake at 12:14:14
