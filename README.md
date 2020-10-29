@@ -4,10 +4,10 @@ Today is 10/29/2020.
 
 ### Hitokoto
 
-> 能够用自己喜欢的工作维持生活是件很幸福的事情
+> 一举一动，都是承诺，会被另一个人看在眼里，记在心上的。
 > 
-> ——白箱
+> ——悬崖上的金鱼姬
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 06:11:51
+Autogen by LittleJake at 08:12:04
