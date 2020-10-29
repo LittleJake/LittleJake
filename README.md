@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 10/29/2020.
 
 ### Hitokoto
 
-> 死亡不是终点，被遗忘才是。
+> 彼方为谁，无我有问 ；九月露湿，待君之前
 > 
-> ——寻梦环游记
+> ——你的名字
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 16:17:38
+Autogen by LittleJake at 18:07:01
