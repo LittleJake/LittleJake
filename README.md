@@ -4,10 +4,10 @@ Today is 10/29/2020.
 
 ### Hitokoto
 
-> 据说啊 叹气会让幸福溜走的
+> 光就是羁绊之力，它会再度被某人继承，散发出耀眼的光。
 > 
-> ——再见了 我们的幼儿园
+> ——奈克瑟斯奥特曼
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 00:29:47
+Autogen by LittleJake at 02:16:47
