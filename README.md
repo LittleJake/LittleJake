@@ -4,10 +4,10 @@ Today is 10/30/2020.
 
 ### Hitokoto
 
-> 希望老师像帮我一样帮帮れいジ
+> 虚伪的眼泪，会伤害别人，虚伪的笑容，会伤害自己。
 > 
-> ——九重凛
+> ——反叛的鲁鲁修
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 14:06:00
+Autogen by LittleJake at 16:10:50
