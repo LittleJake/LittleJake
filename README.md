@@ -4,10 +4,10 @@ Today is 10/30/2020.
 
 ### Hitokoto
 
-> 我们所度过的每个平凡的日常，也许就是连续发生的奇迹。
+> 难道我输了吗？
 > 
-> ——日常
+> ——火影忍者
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 20:05:45
+Autogen by LittleJake at 22:07:48
