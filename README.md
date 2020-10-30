@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 10/30/2020.
 
 ### Hitokoto
 
-> 淅淅沥沥的雨，即便能填满路上的水坑，也填不满心中的空洞。
+> 面对就好，去经历就好。
 > 
-> ——神圣之门
+> ——花伞菌
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 04:09:39
+Autogen by LittleJake at 06:06:54
