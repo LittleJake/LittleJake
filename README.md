@@ -4,10 +4,10 @@ Today is 10/30/2020.
 
 ### Hitokoto
 
-> 不相信人咬不到肚脐的，咬破肚脐去死如何？
+> 淅淅沥沥的雨，即便能填满路上的水坑，也填不满心中的空洞。
 > 
-> ——海猫鸣泣之时
+> ——神圣之门
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 02:06:43
+Autogen by LittleJake at 04:09:39
