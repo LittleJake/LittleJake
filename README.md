@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 10/30/2020.
 
 ### Hitokoto
 
-> 虚伪的眼泪，会伤害别人，虚伪的笑容，会伤害自己。
+> 除了爱你，我什么都可以。
 > 
-> ——反叛的鲁鲁修
+> ——命运守护夜
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 16:10:50
+Autogen by LittleJake at 18:06:04
