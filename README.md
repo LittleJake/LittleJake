@@ -4,10 +4,10 @@ Today is 10/30/2020.
 
 ### Hitokoto
 
-> 除了爱你，我什么都可以。
+> 我们所度过的每个平凡的日常，也许就是连续发生的奇迹。
 > 
-> ——命运守护夜
+> ——日常
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 18:06:04
+Autogen by LittleJake at 20:05:45
