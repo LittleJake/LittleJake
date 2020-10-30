@@ -4,10 +4,10 @@ Today is 10/30/2020.
 
 ### Hitokoto
 
-> 从你站在桥上看我的 那一刻起你就是我的世界。
+> 比希望更炙热，比绝望更深邃，这就是爱啊。
 > 
-> ——火影忍者
+> ——魔法少女小圆-叛逆的物语
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 08:10:18
+Autogen by LittleJake at 10:13:08
