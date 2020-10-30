@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 10/29/2020.
+Today is 10/30/2020.
 
 ### Hitokoto
 
-> 只要有你想要保护的东西，那就拔剑好了。
+> 绝对要一起去吃拉面喵~
 > 
-> ——银魂
+> ——星空凛
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 22:05:07
+Autogen by LittleJake at 00:17:26
