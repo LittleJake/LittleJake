@@ -4,10 +4,10 @@ Today is 10/31/2020.
 
 ### Hitokoto
 
-> 花开花落，再灿烂的星光也会消失。
+> 别低下头  排球是一门积极向上的运动！
 > 
-> ——圣斗士星矢
+> ——排球少年
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 14:06:03
+Autogen by LittleJake at 16:14:48
