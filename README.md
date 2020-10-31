@@ -4,10 +4,10 @@ Today is 10/31/2020.
 
 ### Hitokoto
 
-> 与其被自己的本性牵着走而痛苦，倒不如试着改变自己。
+> 我是想被包养，但不会接受施舍
 > 
-> ——银魂
+> ——我的青春恋爱物语果然有问题
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 20:13:23
+Autogen by LittleJake at 22:16:21
