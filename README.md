@@ -4,10 +4,10 @@ Today is 10/31/2020.
 
 ### Hitokoto
 
-> 据说啊 叹气会让幸福溜走的
+> 十代目的意志就是我们的意志！
 > 
-> ——再见了 我们的幼儿园
+> ——家庭教师
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 06:09:07
+Autogen by LittleJake at 08:09:23
