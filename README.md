@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 11/01/2020.
 
 ### Hitokoto
 
-> 在虚构现实里寻求现实感的人才有问题
+> 一日为灵，终生为影，灵气共生，魂命无分，阴阳调和，万物皆宁。
 > 
-> ——凉宫春日的忧郁
+> ——灵契
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 10:16:23
+Autogen by LittleJake at 12:08:10
