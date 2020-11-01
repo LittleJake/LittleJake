@@ -4,10 +4,10 @@ Today is 11/01/2020.
 
 ### Hitokoto
 
-> 今日的余晖和你最后那天给我的拥抱，同一个温度
+> 最有名的莫过于想死一次吗。
 > 
-> ——Myself
+> ——阎魔爱
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 18:08:11
+Autogen by LittleJake at 20:14:14
