@@ -4,10 +4,10 @@ Today is 11/01/2020.
 
 ### Hitokoto
 
-> 我可是要成为海贼王的男人！
+> 隐约雷鸣，阴霾天空，但盼风雨来，能留你在此。
 > 
-> ——海贼王
+> ——言叶之庭
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 02:07:26
+Autogen by LittleJake at 04:13:24
