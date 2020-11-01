@@ -4,10 +4,10 @@ Today is 11/01/2020.
 
 ### Hitokoto
 
-> 最有名的莫过于想死一次吗。
+> 美好的人眼里映出的世界也是美好的。
 > 
-> ——阎魔爱
+> ——ARIA
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 20:14:14
+Autogen by LittleJake at 22:12:11
