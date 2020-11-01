@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 11/01/2020.
 
 ### Hitokoto
 
-> 隐约雷鸣，阴霾天空，但盼风雨来，能留你在此。
+> 喂，前面可是地狱啊！おい、この先は地狱だぜ！
 > 
-> ——言叶之庭
+> ——Fate/stay night
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 04:13:24
+Autogen by LittleJake at 06:08:37
