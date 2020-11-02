@@ -4,10 +4,10 @@ Today is 11/02/2020.
 
 ### Hitokoto
 
-> 只要有想见面的人，自己就不再是孤单一人。
+> 有些梦想虽然遥不可及，但不是不可能实现。只要我足够的强。
 > 
-> ——夏目友人帐
+> ——秦时明月
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 20:06:29
+Autogen by LittleJake at 22:12:45
