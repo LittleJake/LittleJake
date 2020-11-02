@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 11/02/2020.
 
 ### Hitokoto
 
-> 我喜欢的人…也能喜欢上自己，我认为这就是奇迹。
+> 能够轻易就放弃的梦想，有存在的价值么？
 > 
-> ——月色真美
+> ——守护甜心
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 16:15:08
+Autogen by LittleJake at 18:06:31
