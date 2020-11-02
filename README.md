@@ -4,10 +4,10 @@ Today is 11/02/2020.
 
 ### Hitokoto
 
-> 你不会死的，因为我会保护你.
+> 脱！！巨乳！
 > 
-> ——EVA
+> ——暗杀教室
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 12:09:11
+Autogen by LittleJake at 14:06:49
