@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 11/02/2020.
 
 ### Hitokoto
 
-> 如果我不会飞，那我就只是一只普通的猪。
+> 你不会死的，因为我会保护你.
 > 
-> ——红猪
+> ——EVA
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 10:15:03
+Autogen by LittleJake at 12:09:11
