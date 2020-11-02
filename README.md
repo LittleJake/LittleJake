@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 11/01/2020.
+Today is 11/02/2020.
 
 ### Hitokoto
 
-> 美好的人眼里映出的世界也是美好的。
+> 即使你忘记我，我也不会遗忘你！
 > 
-> ——ARIA
+> ——从零开始的异世界生活
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 22:12:11
+Autogen by LittleJake at 00:17:31
