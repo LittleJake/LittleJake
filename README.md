@@ -4,10 +4,10 @@ Today is 11/03/2020.
 
 ### Hitokoto
 
-> 你在那么美丽的地方，纯属奇迹般的偶然。
+> 我知道的，面码……自己已经死掉这点事，还是知道的……
 > 
-> ——理科生坠入情网故尝试证明
+> ——我们仍未知道那天所看见的花的名字
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 08:11:09
+Autogen by LittleJake at 10:12:14
