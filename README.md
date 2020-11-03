@@ -4,10 +4,10 @@ Today is 11/03/2020.
 
 ### Hitokoto
 
-> 你在那么美丽的地方，纯属奇迹般的偶然。
+> 世界上 ，没有一拳解决不了的事，如果有，那就两拳。
 > 
-> ——理科生坠入情网故尝试证明
+> ——一拳超人
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 00:17:32
+Autogen by LittleJake at 02:07:42
