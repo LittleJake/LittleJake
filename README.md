@@ -4,10 +4,10 @@ Today is 11/03/2020.
 
 ### Hitokoto
 
-> 我终不能改变那个开始，何不忘了那个结局呢。
+> 你在那么美丽的地方，纯属奇迹般的偶然。
 > 
-> ——悟空传
+> ——理科生坠入情网故尝试证明
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 06:07:51
+Autogen by LittleJake at 08:11:09
