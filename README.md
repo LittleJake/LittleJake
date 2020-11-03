@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 11/03/2020.
 
 ### Hitokoto
 
-> 一旦失去的东西，就再也拿不回来了。
+> 我终不能改变那个开始，何不忘了那个结局呢。
 > 
-> ——黑执事
+> ——悟空传
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 04:16:41
+Autogen by LittleJake at 06:07:51
