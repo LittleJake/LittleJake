@@ -4,10 +4,10 @@ Today is 11/04/2020.
 
 ### Hitokoto
 
-> 欧拉欧拉欧拉欧拉！
+> 是个男人就要对自己的人生负责
 > 
-> ——JOJO的奇妙冒险
+> ——麻辣教师
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 06:07:28
+Autogen by LittleJake at 08:10:05
