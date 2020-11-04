@@ -4,10 +4,10 @@ Today is 11/04/2020.
 
 ### Hitokoto
 
-> 真相只有一个！
+> 只要呼唤你的名字，我们的牵绊就永远不会消逝。
 > 
-> ——柯南
+> ——紫罗兰永恒花园外传：永远与自动手记人偶
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 18:06:36
+Autogen by LittleJake at 20:06:24
