@@ -4,10 +4,10 @@ Today is 11/04/2020.
 
 ### Hitokoto
 
-> 只要呼唤你的名字，我们的牵绊就永远不会消逝。
+> 正因生来一无所有，因此我们能拥有一切。
 > 
-> ——紫罗兰永恒花园外传：永远与自动手记人偶
+> ——游戏人生
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 20:06:24
+Autogen by LittleJake at 22:14:59
