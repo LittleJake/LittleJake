@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 11/04/2020.
 
 ### Hitokoto
 
-> 正因生来一无所有，因此我们能拥有一切。
+> 只要学不死，就往死里学。
 > 
-> ——游戏人生
+> ——网络热语
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 10:11:28
+Autogen by LittleJake at 12:09:00
