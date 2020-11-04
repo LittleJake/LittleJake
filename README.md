@@ -4,10 +4,10 @@ Today is 11/04/2020.
 
 ### Hitokoto
 
-> 只要学不死，就往死里学。
+> 和我定下契约，成为魔法少女吧！
 > 
-> ——网络热语
+> ——魔法少女小圆
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 12:09:00
+Autogen by LittleJake at 14:06:50
