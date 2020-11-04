@@ -4,10 +4,10 @@ Today is 11/04/2020.
 
 ### Hitokoto
 
-> 是个男人就要对自己的人生负责
+> 正因生来一无所有，因此我们能拥有一切。
 > 
-> ——麻辣教师
+> ——游戏人生
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 08:10:05
+Autogen by LittleJake at 10:11:28
