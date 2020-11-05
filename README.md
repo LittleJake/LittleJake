@@ -4,10 +4,10 @@ Today is 11/05/2020.
 
 ### Hitokoto
 
-> 世界上的人都变成废柴，这个世界就没有废柴了。
+> 将愿望倾入不愿忘却的回忆中…
 > 
-> ——春物
+> ——ef-a tale of memories
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 12:09:28
+Autogen by LittleJake at 14:07:17
