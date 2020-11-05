@@ -4,10 +4,10 @@ Today is 11/05/2020.
 
 ### Hitokoto
 
-> 夕阳真是耀眼无比啊。
+> 真正重要的东西，永远都是非常简单的。
 > 
-> ——女高中生的虚度日常
+> ——Clannad
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 18:06:39
+Autogen by LittleJake at 20:06:54
