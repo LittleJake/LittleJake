@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 11/04/2020.
+Today is 11/05/2020.
 
 ### Hitokoto
 
-> 正因生来一无所有，因此我们能拥有一切。
+> 王有王的才能，厨师有厨师的才能，替身之间是没有强弱之分的
 > 
-> ——游戏人生
+> ——JOJO的奇妙冒险
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 22:14:59
+Autogen by LittleJake at 00:18:57
