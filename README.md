@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 11/05/2020.
 
 ### Hitokoto
 
-> 活着本身就是一种价值，因为还有明天。
+> 在未知的未来将要发生的事，一定有它的意义
 > 
-> ——高达
+> ——火影忍者
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 04:12:45
+Autogen by LittleJake at 06:11:52
