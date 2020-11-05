@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 11/05/2020.
 
 ### Hitokoto
 
-> 自己不经意的一句话，触动了别人的心。
+> 夕阳真是耀眼无比啊。
 > 
-> ——恋如雨止
+> ——女高中生的虚度日常
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 16:15:46
+Autogen by LittleJake at 18:06:39
