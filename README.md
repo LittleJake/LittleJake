@@ -4,10 +4,10 @@ Today is 11/05/2020.
 
 ### Hitokoto
 
-> 真正重要的东西，永远都是非常简单的。
+> 龙儿是我的，谁都不许碰。
 > 
-> ——Clannad
+> ——龙与虎
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 20:06:54
+Autogen by LittleJake at 22:09:14
