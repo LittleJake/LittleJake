@@ -4,10 +4,10 @@ Today is 11/05/2020.
 
 ### Hitokoto
 
-> 我很好奇！
+> 活着本身就是一种价值，因为还有明天。
 > 
-> ——冰菓
+> ——高达
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 02:10:14
+Autogen by LittleJake at 04:12:45
