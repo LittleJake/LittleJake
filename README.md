@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 11/05/2020.
 
 ### Hitokoto
 
-> 即便我弱了，也并不代表你强了。
+> 世界上的人都变成废柴，这个世界就没有废柴了。
 > 
-> ——魔法禁书目录
+> ——春物
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 10:08:32
+Autogen by LittleJake at 12:09:28
