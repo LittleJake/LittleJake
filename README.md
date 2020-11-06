@@ -4,10 +4,10 @@ Today is 11/06/2020.
 
 ### Hitokoto
 
-> 廉价的自尊、粗劣的傲气，无论哪个后生小辈都很重视这些东西。
+> 大部分人并不想长大 只是没办法继续当一个小孩子。
 > 
-> ——狼与香辛料
+> ——小林家的龙女仆
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 14:07:14
+Autogen by LittleJake at 16:14:25
