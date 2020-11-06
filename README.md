@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 11/06/2020.
 
 ### Hitokoto
 
-> 大部分人并不想长大 只是没办法继续当一个小孩子。
+> 我是奥尔加·伊滋卡，几颗子弹不要紧的！
 > 
-> ——小林家的龙女仆
+> ——机动战士高达：铁血的孤儿
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 16:14:25
+Autogen by LittleJake at 18:06:57
