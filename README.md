@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 11/06/2020.
 
 ### Hitokoto
 
-> 隐约雷鸣，阴霾天空，但盼风雨来，能留你在此。
+> 我看到这个世界的恶意，我们正在接受考验。
 > 
-> ——言叶之庭
+> ——机动战士高达00
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 10:09:18
+Autogen by LittleJake at 12:09:28
