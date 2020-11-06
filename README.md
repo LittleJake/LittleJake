@@ -4,10 +4,10 @@ Today is 11/06/2020.
 
 ### Hitokoto
 
-> 成功率不到2%，那剩下的用勇气来补足吧！
+> 隐约雷鸣，阴霾天空，但盼风雨来，能留你在此。
 > 
-> ——勇者王
+> ——言叶之庭
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 08:10:37
+Autogen by LittleJake at 10:09:18
