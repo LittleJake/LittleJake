@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 11/06/2020.
 
 ### Hitokoto
 
-> 我们开始一起攀登，这长长的，长长的坡道。
+> 就是因为你不好，才要留在你身边，给你幸福。
 > 
-> ——Clannad
+> ——哈尔的移动城堡
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 04:13:53
+Autogen by LittleJake at 06:08:11
