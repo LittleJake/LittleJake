@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 11/05/2020.
+Today is 11/06/2020.
 
 ### Hitokoto
 
-> 龙儿是我的，谁都不许碰。
+> 我最喜欢三月的风，四月的雨，不落的太阳和最好的你
 > 
-> ——龙与虎
+> ——闺密
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 22:09:14
+Autogen by LittleJake at 00:19:08
