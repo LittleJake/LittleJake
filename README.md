@@ -4,10 +4,10 @@ Today is 11/06/2020.
 
 ### Hitokoto
 
-> 就是因为你不好，才要留在你身边，给你幸福。
+> 成功率不到2%，那剩下的用勇气来补足吧！
 > 
-> ——哈尔的移动城堡
+> ——勇者王
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 06:08:11
+Autogen by LittleJake at 08:10:37
