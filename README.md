@@ -4,10 +4,10 @@ Today is 11/07/2020.
 
 ### Hitokoto
 
-> 你将不再是道具，而是人如其名的人。
+> 我本身得不到答案。所以，我希望有能够答出来之物的诞生。
 > 
-> ——紫罗兰永恒的花园
+> ——Fate/Stay Night
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 18:06:47
+Autogen by LittleJake at 20:06:35
