@@ -4,10 +4,10 @@ Today is 11/07/2020.
 
 ### Hitokoto
 
-> 你就赌我会死吧，因为你逢赌必输。
+> 当你决定了要向前迈进的那一刻, 你就已经踏出前进的一步了。
 > 
-> ——火影忍者
+> ——Canvas2 ～七彩的素描～
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 12:09:14
+Autogen by LittleJake at 14:07:18
