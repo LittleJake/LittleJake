@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 11/07/2020.
 
 ### Hitokoto
 
-> 有话直说就是我的忍道！
+> 即使你忘却了我，我也不会遗忘你。
 > 
-> ——火影忍者
+> ——菜月昂
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 04:12:00
+Autogen by LittleJake at 06:10:52
