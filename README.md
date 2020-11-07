@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 11/06/2020.
+Today is 11/07/2020.
 
 ### Hitokoto
 
-> 世界并不完美，却因此而美丽。
+> 我知道的，面码…自己已经死掉这点事，还是知道的…
 > 
-> ——奇诺之旅
+> ——我们仍未知道那天所看见的花的名字
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 22:18:03
+Autogen by LittleJake at 00:19:01
