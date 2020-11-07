@@ -4,10 +4,10 @@ Today is 11/07/2020.
 
 ### Hitokoto
 
-> 嗯，明白。我们是天人的Gundam Meister
+> 有话直说就是我的忍道！
 > 
-> ——机动战士高达00
+> ——火影忍者
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 02:14:10
+Autogen by LittleJake at 04:12:00
