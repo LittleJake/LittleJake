@@ -4,10 +4,10 @@ Today is 11/07/2020.
 
 ### Hitokoto
 
-> 我知道的，面码…自己已经死掉这点事，还是知道的…
+> 嗯，明白。我们是天人的Gundam Meister
 > 
-> ——我们仍未知道那天所看见的花的名字
+> ——机动战士高达00
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 00:19:01
+Autogen by LittleJake at 02:14:10
