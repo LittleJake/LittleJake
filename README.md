@@ -4,10 +4,10 @@ Today is 11/07/2020.
 
 ### Hitokoto
 
-> 前天是小兔子,昨天是小鹿,今天是你
+> 女人的武器不是眼泪，而是微笑。
 > 
-> ——CLANNAD
+> ——凉宫春日的忧郁
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 08:08:15
+Autogen by LittleJake at 10:15:41
