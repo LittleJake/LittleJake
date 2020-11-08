@@ -4,10 +4,10 @@ Today is 11/08/2020.
 
 ### Hitokoto
 
-> 青春是谎言，是邪恶。
+> 无论最终的结果是什么，只要这是自己选择的道路。
 > 
-> ——春物
+> ——龙与虎
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 14:10:26
+Autogen by LittleJake at 16:19:40
