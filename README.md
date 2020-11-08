@@ -4,10 +4,10 @@ Today is 11/08/2020.
 
 ### Hitokoto
 
-> 不知彼此来世相逢。是否还能记得我是谁？
+> 卧龙低伏，入我阵来。
 > 
-> ——狐妖小红娘
+> ——一人之下
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 20:06:32
+Autogen by LittleJake at 22:13:57
