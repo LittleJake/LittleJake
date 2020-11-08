@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 11/08/2020.
 
 ### Hitokoto
 
-> 那里还有——医生的房间啊！
+> 重要的人，不能忘记的人，不想忘记的人。 你，是谁？
 > 
-> ——Fate / Grand Order
+> ——你的名字
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 04:10:06
+Autogen by LittleJake at 06:07:46
