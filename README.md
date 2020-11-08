@@ -4,10 +4,10 @@ Today is 11/08/2020.
 
 ### Hitokoto
 
-> 一个人有表里两面，你能看到的，仅仅是其中一面而已。
+> 那里还有——医生的房间啊！
 > 
-> ——零的执行人
+> ——Fate / Grand Order
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 02:10:16
+Autogen by LittleJake at 04:10:06
