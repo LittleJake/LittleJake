@@ -4,10 +4,10 @@ Today is 11/08/2020.
 
 ### Hitokoto
 
-> 正因为生来什么都没有，因此我们能拥有一切。
+> 青春是谎言，是邪恶。
 > 
-> ——游戏人生
+> ——春物
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 12:13:10
+Autogen by LittleJake at 14:10:26
