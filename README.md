@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 11/07/2020.
+Today is 11/08/2020.
 
 ### Hitokoto
 
-> 此身为剑所天成，身如钢铁，心似琉璃。
+> 龙儿是我的！谁都不准碰！
 > 
-> ——Fate
+> ——逢坂大河
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 22:13:29
+Autogen by LittleJake at 00:19:52
