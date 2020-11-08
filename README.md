@@ -4,10 +4,10 @@ Today is 11/08/2020.
 
 ### Hitokoto
 
-> 已经没什么好害怕了。
+> 不知彼此来世相逢。是否还能记得我是谁？
 > 
-> ——魔法少女小圆
+> ——狐妖小红娘
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 18:08:51
+Autogen by LittleJake at 20:06:32
