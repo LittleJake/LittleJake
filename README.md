@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 11/08/2020.
+Today is 11/09/2020.
 
 ### Hitokoto
 
-> 卧龙低伏，入我阵来。
+> 失礼、噛みました
 > 
-> ——一人之下
+> ——化物语
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 22:13:57
+Autogen by LittleJake at 00:19:49
