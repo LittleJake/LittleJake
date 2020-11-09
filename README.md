@@ -4,10 +4,10 @@ Today is 11/09/2020.
 
 ### Hitokoto
 
-> 我不喜欢这世界，我只喜欢你
+> 我一直都在你身边 ，一直都在。
 > 
-> ——乔一
+> ——CLANNAD
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 06:08:23
+Autogen by LittleJake at 08:09:01
