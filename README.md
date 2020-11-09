@@ -4,10 +4,10 @@ Today is 11/09/2020.
 
 ### Hitokoto
 
-> 我一直都在你身边 ，一直都在。
+> 你的心可以属于耶稣，但你的屁股永远属于陆战队！
 > 
-> ——CLANNAD
+> ——魔法少女陆战队
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 08:09:01
+Autogen by LittleJake at 10:09:16
