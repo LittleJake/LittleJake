@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 11/09/2020.
 
 ### Hitokoto
 
-> 你的心可以属于耶稣，但你的屁股永远属于陆战队！
+> 神啊 我的人生到底为何而存在呢
 > 
-> ——魔法少女陆战队
+> ——蜂蜜与四叶草
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 10:09:16
+Autogen by LittleJake at 12:09:54
