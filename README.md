@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 11/09/2020.
 
 ### Hitokoto
 
-> 你们这些天才止步不前的时候，我会走得更远。
+> 干燥的冷气，尘埃的味道，我在其中……踏上旅途。
 > 
-> ——如果有个妹妹就好了
+> ——四月是你的谎言
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 16:19:59
+Autogen by LittleJake at 18:07:23
