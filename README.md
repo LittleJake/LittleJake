@@ -4,10 +4,10 @@ Today is 11/09/2020.
 
 ### Hitokoto
 
-> 失礼、噛みました
+> 叫做妈妈的人，是不会哭的。
 > 
-> ——化物语
+> ——朝花夕誓
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 00:19:49
+Autogen by LittleJake at 02:08:47
