@@ -4,10 +4,10 @@ Today is 11/09/2020.
 
 ### Hitokoto
 
-> 樱花满地集于我心，楪舞纷飞祈愿相随
+> 你们这些天才止步不前的时候，我会走得更远。
 > 
-> ——罪恶王冠
+> ——如果有个妹妹就好了
 
 ![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 14:08:08
+Autogen by LittleJake at 16:19:59
