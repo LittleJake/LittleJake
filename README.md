@@ -4,10 +4,10 @@ Today is 11/09/2020.
 
 ### Hitokoto
 
-> 干燥的冷气，尘埃的味道，我在其中……踏上旅途。
+> 木叶飞舞之处，火亦生生不息
 > 
-> ——四月是你的谎言
+> ——火影忍者
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 18:07:23
+Autogen by LittleJake at 20:06:45
