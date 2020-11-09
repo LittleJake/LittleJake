@@ -4,10 +4,10 @@ Today is 11/09/2020.
 
 ### Hitokoto
 
-> 神啊 我的人生到底为何而存在呢
+> 樱花满地集于我心，楪舞纷飞祈愿相随
 > 
-> ——蜂蜜与四叶草
+> ——罪恶王冠
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 12:09:54
+Autogen by LittleJake at 14:08:08
