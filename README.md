@@ -4,10 +4,10 @@ Today is 11/10/2020.
 
 ### Hitokoto
 
-> 我连宇宙尽头在哪里都不知道，怎么会知道这个。
+> Ex - ploooosion !
 > 
-> ——JOJO的奇妙冒险
+> ——为美好的世界献上祝福
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 02:08:59
+Autogen by LittleJake at 04:06:58
