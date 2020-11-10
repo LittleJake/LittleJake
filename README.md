@@ -4,10 +4,10 @@ Today is 11/10/2020.
 
 ### Hitokoto
 
-> (」・ω・)」うー！(／・ω・)／にゃー！
+> 只要人活在这世上就一定是有意义的，怎么活是自己选的。
 > 
-> ——潜行吧奈亚子
+> ——我想吃掉你的胰脏
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 18:06:28
+Autogen by LittleJake at 20:06:09
