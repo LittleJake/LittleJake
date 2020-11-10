@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 11/10/2020.
 
 ### Hitokoto
 
-> 夜晚还远远没有结束!
+> (」・ω・)」うー！(／・ω・)／にゃー！
 > 
-> ——春宵苦短，少女前进吧！
+> ——潜行吧奈亚子
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 16:10:27
+Autogen by LittleJake at 18:06:28
