@@ -4,10 +4,10 @@ Today is 11/10/2020.
 
 ### Hitokoto
 
-> 我的腿让我停下，可是心却不允许我那么做。
+> 我连宇宙尽头在哪里都不知道，怎么会知道这个。
 > 
-> ——钢之炼金术师
+> ——JOJO的奇妙冒险
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 00:19:44
+Autogen by LittleJake at 02:08:59
