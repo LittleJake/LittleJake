@@ -4,10 +4,10 @@ Today is 11/10/2020.
 
 ### Hitokoto
 
-> 就是因为抱有不现实的理想，所以才总是做出如此极端的事情！
+> 夜晚还远远没有结束!
 > 
-> ——逆袭的夏亚
+> ——春宵苦短，少女前进吧！
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 14:07:09
+Autogen by LittleJake at 16:10:27
