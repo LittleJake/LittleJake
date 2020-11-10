@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 11/10/2020.
 
 ### Hitokoto
 
-> 在东京的天空上，我们决定性的改变了世界的模样。
+> 不管是怎样的回忆，都是我们活过的人生。
 > 
-> ——天气之子
+> ——angel beats
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 10:07:08
+Autogen by LittleJake at 12:08:12
