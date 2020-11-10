@@ -4,10 +4,10 @@ Today is 11/10/2020.
 
 ### Hitokoto
 
-> 不管是怎样的回忆，都是我们活过的人生。
+> 就是因为抱有不现实的理想，所以才总是做出如此极端的事情！
 > 
-> ——angel beats
+> ——逆袭的夏亚
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 12:08:12
+Autogen by LittleJake at 14:07:09
