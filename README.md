@@ -4,10 +4,10 @@ Today is 11/10/2020.
 
 ### Hitokoto
 
-> 今天你最后遇见的那个人有在微笑吗？
+> 面对就好，去经历就好。
 > 
-> ——幸运星
+> ——花伞菌
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 06:07:01
+Autogen by LittleJake at 08:06:55
