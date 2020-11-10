@@ -4,10 +4,10 @@ Today is 11/10/2020.
 
 ### Hitokoto
 
-> 只要人活在这世上就一定是有意义的，怎么活是自己选的。
+> 人は一生、中二病なんだ。
 > 
-> ——我想吃掉你的胰脏
+> ——中二病也要谈恋爱
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 20:06:09
+Autogen by LittleJake at 22:07:34
