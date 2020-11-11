@@ -4,10 +4,10 @@ Today is 11/11/2020.
 
 ### Hitokoto
 
-> 相比昨日明日，今天更适合开始。
+> 就算鼻血流尽，也不能放弃妄想。
 > 
-> ——Comic Girls
+> ——摇曳百合
 
 ![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 08:07:27
+Autogen by LittleJake at 10:07:23
