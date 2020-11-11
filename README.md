@@ -4,10 +4,10 @@ Today is 11/11/2020.
 
 ### Hitokoto
 
-> 有些事情我不看透，不是我笨，只是我太善良。
+> 如果你是魔女，我只要化身魔王就可以了。
 > 
-> ——樱桃小丸子
+> ——反叛的鲁鲁修
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 02:07:12
+Autogen by LittleJake at 04:07:41
