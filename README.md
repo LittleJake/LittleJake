@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 11/11/2020.
 
 ### Hitokoto
 
-> 与众不同的生活方式很累人呢，因为找不到借口。
+> 当我拔出第二把剑时，就是为了我所爱之人
 > 
-> ——幸运星
+> ——刀剑神域
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 16:10:36
+Autogen by LittleJake at 18:06:49
