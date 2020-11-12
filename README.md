@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 11/12/2020.
 
 ### Hitokoto
 
-> 我不会让任何人看到我软弱的一面。
+> 清算，终将到来。
 > 
-> ——桔梗
+> ——Stellaris
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 10:07:31
+Autogen by LittleJake at 12:08:44
