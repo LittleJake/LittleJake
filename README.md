@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 11/12/2020.
 
 ### Hitokoto
 
-> 你们腌太监也不会动人脑子啊！
+> 你还是这么冷漠啊。不过，仅此而已的话，我是不会泄气的。
 > 
-> ——铁心搏奕
+> ——银魂
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 04:07:50
+Autogen by LittleJake at 06:07:43
