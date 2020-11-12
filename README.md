@@ -4,10 +4,10 @@ Today is 11/12/2020.
 
 ### Hitokoto
 
-> 我是要成为海贼王的男人！
+> 有些事情我不看透，不是我太笨，只是我太善良。
 > 
-> ——海贼王
+> ——樱桃小丸子
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 00:17:45
+Autogen by LittleJake at 02:07:45
