@@ -4,10 +4,10 @@ Today is 11/13/2020.
 
 ### Hitokoto
 
-> 因为我...我希望不做任何的努力，让对方喜欢上最真实的我。
+> 对不起，风太大，我没有听清楚……
 > 
-> ——女高中生的无所事事
+> ——东京巴比伦
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 18:06:49
+Autogen by LittleJake at 20:12:51
