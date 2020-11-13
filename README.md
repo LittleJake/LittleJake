@@ -4,10 +4,10 @@ Today is 11/13/2020.
 
 ### Hitokoto
 
-> 人啊...想要保护重要东西的时候，就真的能变得很坚强。
+> 你们腌太监也不会动人脑子啊！
 > 
-> ——火影忍者
+> ——铁心搏奕
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 12:09:00
+Autogen by LittleJake at 14:07:20
