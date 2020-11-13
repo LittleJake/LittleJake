@@ -4,10 +4,10 @@ Today is 11/13/2020.
 
 ### Hitokoto
 
-> 你们腌太监也不会动人脑子啊！
+> 想哭的时候能哭出来，也是一种坚强
 > 
-> ——铁心搏奕
+> ——翼年代记
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 14:07:20
+Autogen by LittleJake at 16:10:21
