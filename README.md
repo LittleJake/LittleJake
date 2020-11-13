@@ -4,10 +4,10 @@ Today is 11/13/2020.
 
 ### Hitokoto
 
-> 拿着刀并且可以让人们变得幸福的只有料理人。
+> 虽然想做一团火，却成了一块透视苦难的冰
 > 
-> ——假面骑士kabuto
+> ——卡夫卡研究
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 08:07:44
+Autogen by LittleJake at 10:07:17
