@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 11/13/2020.
 
 ### Hitokoto
 
-> 从开始的第一天起，就回不去了。
+> 只要人活在这世上就一定是有意义的，怎么活是自己选的。
 > 
-> ——流浪地球
+> ——我想吃掉你的胰脏
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 04:08:07
+Autogen by LittleJake at 06:07:43
