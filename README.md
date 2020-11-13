@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 11/13/2020.
 
 ### Hitokoto
 
-> 虽然想做一团火，却成了一块透视苦难的冰
+> 人啊...想要保护重要东西的时候，就真的能变得很坚强。
 > 
-> ——卡夫卡研究
+> ——火影忍者
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 10:07:17
+Autogen by LittleJake at 12:09:00
