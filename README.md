@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 11/12/2020.
+Today is 11/13/2020.
 
 ### Hitokoto
 
-> 人，只有在放弃战斗的时候才算输，只要坚持战斗，就还没输！
+> 算了，和你说话感觉就像是大姨妈来了。
 > 
-> ——进击的巨人
+> ——龙虎斗
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 22:07:31
+Autogen by LittleJake at 00:17:19
