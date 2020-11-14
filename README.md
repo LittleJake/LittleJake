@@ -4,10 +4,10 @@ Today is 11/14/2020.
 
 ### Hitokoto
 
-> 无可取代的东西要到失去后才知道珍惜呢。
+> 此生无悔入东方，来世愿生幻想乡！
 > 
-> ——干物妹小埋
+> ——东方project
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 12:08:39
+Autogen by LittleJake at 14:07:03
