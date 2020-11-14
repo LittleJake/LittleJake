@@ -4,10 +4,10 @@ Today is 11/14/2020.
 
 ### Hitokoto
 
-> 不知彼此来世相逢。是否还能记得我是谁？
+> 神啊 我的人生到底为何而存在呢
 > 
-> ——狐妖小红娘
+> ——蜂蜜与四叶草
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 02:07:52
+Autogen by LittleJake at 04:07:51
