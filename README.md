@@ -4,10 +4,10 @@ Today is 11/14/2020.
 
 ### Hitokoto
 
-> 不要为自己的努力道歉，这样太对不起自己了！
+> 由变态化身成为变态，也就是真·变态，也就是说，完全变态呢。
 > 
-> ——火影忍者
+> ——一拳超人
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 20:06:03
+Autogen by LittleJake at 22:07:35
