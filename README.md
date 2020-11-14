@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 11/14/2020.
 
 ### Hitokoto
 
-> 一定要保护自己的梦想，即使牺牲一切。
+> 从现在开始，我将追寻你的名字。
 > 
-> ——NANA
+> ——你的名字
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 16:10:03
+Autogen by LittleJake at 18:06:25
