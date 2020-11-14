@@ -4,10 +4,10 @@ Today is 11/14/2020.
 
 ### Hitokoto
 
-> 此生无悔入东方，来世愿生幻想乡！
+> 一定要保护自己的梦想，即使牺牲一切。
 > 
-> ——东方project
+> ——NANA
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 14:07:03
+Autogen by LittleJake at 16:10:03
