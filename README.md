@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 11/13/2020.
+Today is 11/14/2020.
 
 ### Hitokoto
 
-> 加油
+> 我再也不要看见她哭的样子了，就算我从此从她心目中消失。
 > 
-> ——自编
+> ——名侦探柯南
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 22:08:13
+Autogen by LittleJake at 00:18:04
