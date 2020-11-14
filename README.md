@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 11/14/2020.
 
 ### Hitokoto
 
-> 神啊 我的人生到底为何而存在呢
+> 虚伪的眼泪，会伤害别人，虚伪的笑容，会伤害自己。
 > 
-> ——蜂蜜与四叶草
+> ——反叛的鲁鲁修
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 04:07:51
+Autogen by LittleJake at 06:07:23
