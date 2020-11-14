@@ -4,10 +4,10 @@ Today is 11/14/2020.
 
 ### Hitokoto
 
-> 从现在开始，我将追寻你的名字。
+> 不要为自己的努力道歉，这样太对不起自己了！
 > 
-> ——你的名字
+> ——火影忍者
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 18:06:25
+Autogen by LittleJake at 20:06:03
