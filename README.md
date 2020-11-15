@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 11/14/2020.
+Today is 11/15/2020.
 
 ### Hitokoto
 
-> 由变态化身成为变态，也就是真·变态，也就是说，完全变态呢。
+> 我一直都在你身边 ，一直都在。
 > 
-> ——一拳超人
+> ——CLANNAD
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 22:07:35
+Autogen by LittleJake at 00:19:07
