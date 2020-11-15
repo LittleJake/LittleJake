@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 11/15/2020.
 
 ### Hitokoto
 
-> 我是为了与你相见才诞生于世的。
+> 风子参上！
 > 
-> ——EVA
+> ——伊吹风子
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 10:08:24
+Autogen by LittleJake at 12:08:36
