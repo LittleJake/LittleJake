@@ -4,10 +4,10 @@ Today is 11/15/2020.
 
 ### Hitokoto
 
-> 与绝望~和睦相处。
+> 今日已成往昔，明日即将到来，为此理所当然之事，感到无比痛心。
 > 
-> ——少女终末旅行
+> ——寻找失去的未来
 
 ![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 06:07:53
+Autogen by LittleJake at 08:07:19
