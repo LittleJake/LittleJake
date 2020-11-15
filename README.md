@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 11/15/2020.
 
 ### Hitokoto
 
-> 我看到这个世界的恶意，我们正在接受考验。
+> 与绝望~和睦相处。
 > 
-> ——机动战士高达00
+> ——少女终末旅行
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 04:08:14
+Autogen by LittleJake at 06:07:53
