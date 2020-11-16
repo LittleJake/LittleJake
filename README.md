@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 11/15/2020.
+Today is 11/16/2020.
 
 ### Hitokoto
 
-> 算了，和你说话感觉就像是大姨妈来了。
+> 这只手，暂时不洗了
 > 
-> ——龙虎斗
+> ——小林家的龙女仆
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 22:07:21
+Autogen by LittleJake at 00:19:02
