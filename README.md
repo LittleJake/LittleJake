@@ -4,10 +4,10 @@ Today is 11/16/2020.
 
 ### Hitokoto
 
-> 男人从小的时候就是无药可救的。
+> 求你，保护那孩子，消除灾厄，抹除祸事。哪怕…那是我自己…
 > 
-> ——秋之回忆
+> ——食灵
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 02:08:20
+Autogen by LittleJake at 04:08:22
