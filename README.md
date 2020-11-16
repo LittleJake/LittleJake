@@ -4,10 +4,10 @@ Today is 11/16/2020.
 
 ### Hitokoto
 
-> 就算是自私…我也希望那些人能够永远都有笑容…
+> 我想要握紧的并不是匕首或是什么，只不过是他的掌心而已。
 > 
-> ——夏目友人帐
+> ——空之境界
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 08:08:00
+Autogen by LittleJake at 10:08:04
