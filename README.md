@@ -4,10 +4,10 @@ Today is 11/16/2020.
 
 ### Hitokoto
 
-> 打架这玩意，不就是为了守护什么东西吗？
+> 由变态化身成为变态，也就是真·变态，也就是说，完全变态呢。
 > 
-> ——银魂
+> ——一拳超人
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 14:08:39
+Autogen by LittleJake at 16:11:56
