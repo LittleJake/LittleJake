@@ -4,10 +4,10 @@ Today is 11/16/2020.
 
 ### Hitokoto
 
-> 没有偶然的必然，只有必然的偶然
+> 打架这玩意，不就是为了守护什么东西吗？
 > 
-> ——魔卡少女樱
+> ——银魂
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 12:09:01
+Autogen by LittleJake at 14:08:39
