@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 11/16/2020.
 
 ### Hitokoto
 
-> 由变态化身成为变态，也就是真·变态，也就是说，完全变态呢。
+> 朝着下一道光芒横渡大海吧！
 > 
-> ——一拳超人
+> ——Aqours
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 16:11:56
+Autogen by LittleJake at 18:07:08
