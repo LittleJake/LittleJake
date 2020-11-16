@@ -4,10 +4,10 @@ Today is 11/16/2020.
 
 ### Hitokoto
 
-> 这只手，暂时不洗了
+> 男人从小的时候就是无药可救的。
 > 
-> ——小林家的龙女仆
+> ——秋之回忆
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 00:19:02
+Autogen by LittleJake at 02:08:20
