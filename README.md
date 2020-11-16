@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 11/16/2020.
 
 ### Hitokoto
 
-> 求你，保护那孩子，消除灾厄，抹除祸事。哪怕…那是我自己…
+> 就连一直都无容身之地的我……也不是可以任意舍弃的生命。
 > 
-> ——食灵
+> ——夏目友人帐
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 04:08:22
+Autogen by LittleJake at 06:07:54
