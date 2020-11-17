@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 11/16/2020.
+Today is 11/17/2020.
 
 ### Hitokoto
 
-> Time waits for no one.
+> 人是可以改变一切的，世上的一切。
 > 
-> ——穿越时空的少女
+> ——吹响！上低音号
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 22:07:58
+Autogen by LittleJake at 00:18:42
