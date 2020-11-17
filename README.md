@@ -4,10 +4,10 @@ Today is 11/17/2020.
 
 ### Hitokoto
 
-> 人是可以改变一切的，世上的一切。
+> 苹果是给那些为了爱选择死亡的人的奖励
 > 
-> ——吹响！上低音号
+> ——回转企鹅罐
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 00:18:42
+Autogen by LittleJake at 02:08:36
