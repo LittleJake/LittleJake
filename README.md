@@ -4,10 +4,10 @@ Today is 11/17/2020.
 
 ### Hitokoto
 
-> 求你，保护那孩子，消除灾厄，抹除祸事。哪怕…那是我自己…
+> 今天的我，凌驾于阿修罗之上！
 > 
-> ——食灵
+> ——机动战士高达00
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 20:06:50
+Autogen by LittleJake at 22:09:52
