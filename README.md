@@ -4,10 +4,10 @@ Today is 11/17/2020.
 
 ### Hitokoto
 
-> 我不甘心，明明你为我做了那么多，我却什么都不能为你做。
+> 愿你有一天，能与你最重要的人重逢
 > 
-> ——四月是你的谎言
+> ——可塑性记忆
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 14:08:55
+Autogen by LittleJake at 16:12:03
