@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 11/17/2020.
 
 ### Hitokoto
 
-> 愿你有一天，能与你最重要的人重逢
+> 我不会去统治这片大海，在这片大海上，最自由的人就是海贼王！
 > 
-> ——可塑性记忆
+> ——海贼王
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 16:12:03
+Autogen by LittleJake at 18:07:11
