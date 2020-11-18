@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 11/18/2020.
 
 ### Hitokoto
 
-> 你受伤的时候，我永远都在。
+> 我们的夏天仍未结束。
 > 
-> ——多啦A梦
+> ——王牌投手
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 16:11:51
+Autogen by LittleJake at 18:07:26
