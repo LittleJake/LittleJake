@@ -4,10 +4,10 @@ Today is 11/18/2020.
 
 ### Hitokoto
 
-> 我们的夏天仍未结束。
+> 我爱你，与你何干？
 > 
-> ——王牌投手
+> ——歌德
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 18:07:26
+Autogen by LittleJake at 20:10:09
