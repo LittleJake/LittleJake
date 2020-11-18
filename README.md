@@ -4,10 +4,10 @@ Today is 11/18/2020.
 
 ### Hitokoto
 
-> 朝着下一道光芒横渡大海吧！
+> 总有一天，我要撕碎这片虚伪的星空。
 > 
-> ——Aqours
+> ——黑之契约者
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 00:18:59
+Autogen by LittleJake at 02:08:24
