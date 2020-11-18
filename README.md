@@ -4,10 +4,10 @@ Today is 11/18/2020.
 
 ### Hitokoto
 
-> 总有一天，我要撕碎这片虚伪的星空。
+> 孤高的游荡灵魂不需要羁绊之地
 > 
-> ——黑之契约者
+> ——春物
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 02:08:24
+Autogen by LittleJake at 04:08:40
