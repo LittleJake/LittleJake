@@ -4,10 +4,10 @@ Today is 11/18/2020.
 
 ### Hitokoto
 
-> 今日的余晖和你最后那天给我的拥抱，同一个温度
+> 这个世界上没有完美的人类，所以，人无法自己一个人活著。
 > 
-> ——Myself
+> ——不可思议游戏
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 12:09:01
+Autogen by LittleJake at 14:07:59
