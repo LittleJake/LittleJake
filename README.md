@@ -4,10 +4,10 @@ Today is 11/18/2020.
 
 ### Hitokoto
 
-> 即使如此，我也有我想保护的世界！
+> 相信奇迹的人本身就和奇迹一样了不起啊
 > 
-> ——高达seed
+> ——星游记
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 06:08:18
+Autogen by LittleJake at 08:10:29
