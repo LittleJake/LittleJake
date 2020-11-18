@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 11/18/2020.
 
 ### Hitokoto
 
-> 孤高的游荡灵魂不需要羁绊之地
+> 即使如此，我也有我想保护的世界！
 > 
-> ——春物
+> ——高达seed
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 04:08:40
+Autogen by LittleJake at 06:08:18
