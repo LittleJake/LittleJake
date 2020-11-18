@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 11/17/2020.
+Today is 11/18/2020.
 
 ### Hitokoto
 
-> 今天的我，凌驾于阿修罗之上！
+> 朝着下一道光芒横渡大海吧！
 > 
-> ——机动战士高达00
+> ——Aqours
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 22:09:52
+Autogen by LittleJake at 00:18:59
