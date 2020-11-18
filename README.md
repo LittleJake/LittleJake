@@ -4,10 +4,10 @@ Today is 11/18/2020.
 
 ### Hitokoto
 
-> 相信奇迹的人本身就和奇迹一样了不起啊
+> 叫做妈妈的人，是不会哭的。
 > 
-> ——星游记
+> ——朝花夕誓
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 08:10:29
+Autogen by LittleJake at 10:08:08
