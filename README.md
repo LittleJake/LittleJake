@@ -4,10 +4,10 @@ Today is 11/19/2020.
 
 ### Hitokoto
 
-> 你以为我是谁？这是我埋下的因，我要亲手解决这一切。
+> 以智者之名，为愚者代辩。
 > 
-> ——某科学的超电磁炮
+> ——Gosick
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 02:08:31
+Autogen by LittleJake at 04:08:22
