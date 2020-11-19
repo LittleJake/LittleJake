@@ -4,10 +4,10 @@ Today is 11/19/2020.
 
 ### Hitokoto
 
-> 你们腌太监也不会动人脑子啊！
+> 重要的是无论我们选择哪条路，都要担负起选择的责任。
 > 
-> ——铁心搏奕
+> ——蜂蜜与四叶草
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 20:07:26
+Autogen by LittleJake at 22:09:07
