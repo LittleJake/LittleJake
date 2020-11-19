@@ -4,10 +4,10 @@ Today is 11/19/2020.
 
 ### Hitokoto
 
-> 我今天就要带她走，我看谁敢拦我！
+> El Psy Congroo..
 > 
-> ——刺客伍六七
+> ——命运石之门
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 12:10:03
+Autogen by LittleJake at 14:08:53
