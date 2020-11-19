@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 11/19/2020.
 
 ### Hitokoto
 
-> 如果你愿意的话，让我带您去吧，这座小镇，愿望实现的地方…
+> 我今天就要带她走，我看谁敢拦我！
 > 
-> ——CLANNAD
+> ——刺客伍六七
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 10:08:36
+Autogen by LittleJake at 12:10:03
