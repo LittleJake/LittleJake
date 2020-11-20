@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 11/20/2020.
 
 ### Hitokoto
 
-> 就连一直都无容身之地的我……也不是可以任意舍弃的生命。
+> 龙儿是我的！谁都不准碰！
 > 
-> ——夏目友人帐
+> ——逢坂大河
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 10:08:02
+Autogen by LittleJake at 12:09:39
