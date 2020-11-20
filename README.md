@@ -4,10 +4,10 @@ Today is 11/20/2020.
 
 ### Hitokoto
 
-> 就是因为抱有不现实的理想，所以才总是做出如此极端的事情！
+> 真正重要的东西，永远都是非常简单的。
 > 
-> ——逆袭的夏亚
+> ——Clannad
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 14:09:10
+Autogen by LittleJake at 16:11:14
