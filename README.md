@@ -4,10 +4,10 @@ Today is 11/20/2020.
 
 ### Hitokoto
 
-> 我觉得，不改变也很好。
+> 就连一直都无容身之地的我……也不是可以任意舍弃的生命。
 > 
-> ——来自风平浪静的明天
+> ——夏目友人帐
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 08:08:58
+Autogen by LittleJake at 10:08:02
