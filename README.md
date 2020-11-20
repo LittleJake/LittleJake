@@ -4,10 +4,10 @@ Today is 11/20/2020.
 
 ### Hitokoto
 
-> 少年少女 向前走吧。
+> 我很好奇！
 > 
-> ——阳炎PROJECT
+> ——冰菓
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 20:06:59
+Autogen by LittleJake at 22:11:41
