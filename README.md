@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 11/19/2020.
+Today is 11/20/2020.
 
 ### Hitokoto
 
-> 重要的是无论我们选择哪条路，都要担负起选择的责任。
+> 错的不是我，而是这个世界！
 > 
-> ——蜂蜜与四叶草
+> ——东京喰种
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 22:09:07
+Autogen by LittleJake at 00:19:22
