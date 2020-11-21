@@ -4,10 +4,10 @@ Today is 11/21/2020.
 
 ### Hitokoto
 
-> 勇气，就是即便害怕也会去做。
+> 将愿望倾入不愿忘却的回忆中⋯⋯
 > 
-> ——原创
+> ——ef-a tale of memories
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 02:08:22
+Autogen by LittleJake at 04:08:25
