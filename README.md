@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 11/21/2020.
 
 ### Hitokoto
 
-> 美好的人眼里映出的世界也是美好的。
+> 即使从梦中醒来，还会有回忆留下。
 > 
-> ——ARIA
+> ——AIR
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 16:11:00
+Autogen by LittleJake at 18:07:26
