@@ -4,10 +4,10 @@ Today is 11/21/2020.
 
 ### Hitokoto
 
-> 规则是用来被打破的。
+> 什么叫忍者？学会忍耐的人就叫忍者。
 > 
-> ——机械公敌
+> ——哔哩哔哩
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 06:08:41
+Autogen by LittleJake at 08:08:01
