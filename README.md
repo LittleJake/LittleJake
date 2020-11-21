@@ -4,10 +4,10 @@ Today is 11/21/2020.
 
 ### Hitokoto
 
-> 即使从梦中醒来，还会有回忆留下。
+> 雁过拔毛，兽走留皮。涂山，我罩的，懂？
 > 
-> ——AIR
+> ——狐妖小红娘
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 18:07:26
+Autogen by LittleJake at 20:09:40
