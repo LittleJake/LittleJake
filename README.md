@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 11/21/2020.
 
 ### Hitokoto
 
-> 将愿望倾入不愿忘却的回忆中⋯⋯
+> 规则是用来被打破的。
 > 
-> ——ef-a tale of memories
+> ——机械公敌
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 04:08:25
+Autogen by LittleJake at 06:08:41
