@@ -4,10 +4,10 @@ Today is 11/21/2020.
 
 ### Hitokoto
 
-> さあ、始めようか。(那么，游戏开始吧。)
+> 正因为听不见和看不到，所以风子才会做这样的事情。
 > 
-> ——No Game No Life
+> ——Clannad
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 12:09:49
+Autogen by LittleJake at 14:07:30
