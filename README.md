@@ -4,10 +4,10 @@ Today is 11/21/2020.
 
 ### Hitokoto
 
-> 一个人有表里两面，你能看到的，仅仅是其中一面而已。
+> 勇气，就是即便害怕也会去做。
 > 
-> ——零的执行人
+> ——原创
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 00:19:32
+Autogen by LittleJake at 02:08:22
