@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 11/22/2020.
 
 ### Hitokoto
 
-> 比起悲伤来说，无法分享快乐这件事，要更加的寂寞吧。
+> 不动身的话就永远无法追寻，哪怕是休息也不会就此停下。
 > 
-> ——AIR
+> ——Aqours
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 10:09:11
+Autogen by LittleJake at 12:09:01
