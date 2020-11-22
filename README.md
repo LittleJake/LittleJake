@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 11/22/2020.
 
 ### Hitokoto
 
-> 这个世界啊，很美丽的，很广大的，很辽阔的！
+> 纵使日薄西山。
 > 
-> ——Darling in the FRANXX
+> ——末日时在做什么
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 04:11:49
+Autogen by LittleJake at 06:09:04
