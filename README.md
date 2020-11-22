@@ -4,10 +4,10 @@ Today is 11/22/2020.
 
 ### Hitokoto
 
-> 纵使日薄西山。
+> 你们这些天才止步不前的时候，我会走得更远。
 > 
-> ——末日时在做什么
+> ——如果有个妹妹就好了
 
 ![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 06:09:04
+Autogen by LittleJake at 08:08:17
