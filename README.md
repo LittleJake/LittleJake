@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 11/22/2020.
 
 ### Hitokoto
 
-> 枷锁，自然规律，时光的流逝，名为身体的容器，名为心灵的自我。
+> 真正的危机不是机器人像人一样思考，而是人像机器一样思考。
 > 
-> ——四月一日灵异事件薄
+> ——凉宫春日的忧郁
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 16:11:03
+Autogen by LittleJake at 18:07:08
