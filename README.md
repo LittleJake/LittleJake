@@ -4,10 +4,10 @@ Today is 11/22/2020.
 
 ### Hitokoto
 
-> 不动身的话就永远无法追寻，哪怕是休息也不会就此停下。
+> 我只是想要得到「我没有逃避」的记忆吧。
 > 
-> ——Aqours
+> ——三月的狮子
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 12:09:01
+Autogen by LittleJake at 14:12:31
