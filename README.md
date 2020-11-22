@@ -4,10 +4,10 @@ Today is 11/22/2020.
 
 ### Hitokoto
 
-> 就连一直都无容身之地的我…也不是可以任意舍弃的生命。
+> 这个世界啊，很美丽的，很广大的，很辽阔的！
 > 
-> ——夏目友人帐
+> ——Darling in the FRANXX
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 02:10:34
+Autogen by LittleJake at 04:11:49
