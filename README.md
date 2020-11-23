@@ -4,10 +4,10 @@ Today is 11/23/2020.
 
 ### Hitokoto
 
-> 与绝望~和睦相处。
+> 为了爱，与梦想！
 > 
-> ——少女终末旅行
+> ——眼大人
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 02:09:04
+Autogen by LittleJake at 04:09:14
