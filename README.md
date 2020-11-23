@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 11/22/2020.
+Today is 11/23/2020.
 
 ### Hitokoto
 
-> 你以为我是谁？这是我埋下的因，我要亲手解决这一切。
+> 倘若只是为了驱赶心中的寂寞，找谁都可以的。
 > 
-> ——某科学的超电磁炮
+> ——秒速5厘米
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 22:08:42
+Autogen by LittleJake at 00:20:18
