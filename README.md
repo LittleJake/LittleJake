@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 11/23/2020.
 
 ### Hitokoto
 
-> 今天我就要带她走，我看谁敢拦我
+> 要是因为烦恼很痛苦，就选择了轻松的选项，将来一定会后悔。
 > 
-> ——刺客伍六七
+> ——樱花庄的宠物女孩
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 10:08:50
+Autogen by LittleJake at 12:11:12
