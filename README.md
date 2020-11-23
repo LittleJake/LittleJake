@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 11/23/2020.
 
 ### Hitokoto
 
-> 为了爱，与梦想！
+> 你是笨蛋吗？
 > 
-> ——眼大人
+> ——小桐桐（きりりん）
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 04:09:14
+Autogen by LittleJake at 06:09:17
