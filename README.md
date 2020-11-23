@@ -4,10 +4,10 @@ Today is 11/23/2020.
 
 ### Hitokoto
 
-> 一个人吃饭，太寂寞了。
+> 今天我就要带她走，我看谁敢拦我
 > 
-> ——无头骑士异闻录
+> ——刺客伍六七
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 08:11:10
+Autogen by LittleJake at 10:08:50
