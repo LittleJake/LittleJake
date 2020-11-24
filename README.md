@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 11/23/2020.
+Today is 11/24/2020.
 
 ### Hitokoto
 
-> 我知道的，面码……自己已经死掉这点事，还是知道的……
+> 如果把那一端的敌人全部杀掉的话，我们就能自由了吗？
 > 
-> ——我们仍未知道那天所看见的花的名字
+> ——进击的巨人
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 22:08:33
+Autogen by LittleJake at 00:20:12
