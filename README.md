@@ -4,10 +4,10 @@ Today is 11/24/2020.
 
 ### Hitokoto
 
-> 从这里（太空）根本看不到什么国境线，只有地球。
+> 我要拼，装上假牙也要拼！
 > 
-> ——星空清理者
+> ——灌篮高手
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 18:07:44
+Autogen by LittleJake at 20:07:50
