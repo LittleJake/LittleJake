@@ -4,10 +4,10 @@ Today is 11/24/2020.
 
 ### Hitokoto
 
-> 做不到的事没必要勉强去做，不也挺好吗？
+> 你将不再是道具，而是人如其名的人。
 > 
-> ——青春猪头少年不会梦到兔女郎学姐
+> ——紫罗兰永恒的花园
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 02:09:29
+Autogen by LittleJake at 04:08:52
