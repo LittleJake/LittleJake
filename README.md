@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 11/24/2020.
 
 ### Hitokoto
 
-> 你将不再是道具，而是人如其名的人。
+> 因为我喜欢你，喜欢得想吃掉你啊！
 > 
-> ——紫罗兰永恒的花园
+> ——有顶天家族
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 04:08:52
+Autogen by LittleJake at 06:08:41
