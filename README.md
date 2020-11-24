@@ -4,10 +4,10 @@ Today is 11/24/2020.
 
 ### Hitokoto
 
-> 因为我喜欢你，喜欢得想吃掉你啊！
+> 面对就好，去经历就好。
 > 
-> ——有顶天家族
+> ——花伞菌
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 06:08:41
+Autogen by LittleJake at 08:09:38
