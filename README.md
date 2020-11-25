@@ -4,10 +4,10 @@ Today is 11/25/2020.
 
 ### Hitokoto
 
-> 不是我，都是社会的错
+> 我的金子，只给千寻。
 > 
-> ——我的青春恋爱物语果然有问题
+> ——千与千寻
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 06:09:08
+Autogen by LittleJake at 08:08:41
