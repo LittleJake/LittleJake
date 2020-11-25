@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 11/25/2020.
 
 ### Hitokoto
 
-> 这虽然这是游戏，但可不是闹着玩的。
+> 自古以来，天空上就是另一个世界。
 > 
-> ——刀剑神域
+> ——天气之子
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 16:12:10
+Autogen by LittleJake at 18:07:47
