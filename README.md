@@ -4,10 +4,10 @@ Today is 11/25/2020.
 
 ### Hitokoto
 
-> 正因为不会发生，人们才称它为”奇迹“
+> 这虽然这是游戏，但可不是闹着玩的。
 > 
-> ——KANON
+> ——刀剑神域
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 14:08:38
+Autogen by LittleJake at 16:12:10
