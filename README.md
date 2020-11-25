@@ -4,10 +4,10 @@ Today is 11/25/2020.
 
 ### Hitokoto
 
-> 我的金子，只给千寻。
+> 如果你是魔女，我只要化身魔王就可以了。
 > 
-> ——千与千寻
+> ——反叛的鲁鲁修
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 08:08:41
+Autogen by LittleJake at 10:08:24
