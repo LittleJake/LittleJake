@@ -4,10 +4,10 @@ Today is 11/26/2020.
 
 ### Hitokoto
 
-> 如果你一个人把什么都做完了，那我做什么？
+> 受尽苦难而不厌，此乃阿修罗之道。
 > 
-> ——元气少女缘结神
+> ——海贼王
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 18:07:58
+Autogen by LittleJake at 20:07:57
