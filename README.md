@@ -4,10 +4,10 @@ Today is 11/26/2020.
 
 ### Hitokoto
 
-> 必须洗净一切往事，否则你永远无法清楚自由地看这个世界
+> 请不要跟我搭话。我讨厌你！
 > 
-> ——死神
+> ——八九寺真宵
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 00:20:08
+Autogen by LittleJake at 02:09:07
