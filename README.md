@@ -4,10 +4,10 @@ Today is 11/26/2020.
 
 ### Hitokoto
 
-> 请不要跟我搭话。我讨厌你！
+> 枷锁，自然规律，时光的流逝，名为身体的容器，名为心灵的自我。
 > 
-> ——八九寺真宵
+> ——四月一日灵异事件薄
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 02:09:07
+Autogen by LittleJake at 04:09:25
