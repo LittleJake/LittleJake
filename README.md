@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 11/26/2020.
 
 ### Hitokoto
 
-> 枷锁，自然规律，时光的流逝，名为身体的容器，名为心灵的自我。
+> 龙儿是我的，谁都不许碰。
 > 
-> ——四月一日灵异事件薄
+> ——龙与虎
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 04:09:25
+Autogen by LittleJake at 06:09:02
