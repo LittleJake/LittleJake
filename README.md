@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 11/25/2020.
+Today is 11/26/2020.
 
 ### Hitokoto
 
-> 无论是丢下还是被丢下，这两者都是一样痛苦的。
+> 必须洗净一切往事，否则你永远无法清楚自由地看这个世界
 > 
-> ——水果篮子
+> ——死神
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 22:08:53
+Autogen by LittleJake at 00:20:08
