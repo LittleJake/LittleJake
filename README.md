@@ -4,10 +4,10 @@ Today is 11/26/2020.
 
 ### Hitokoto
 
-> 龙儿是我的，谁都不许碰。
+> 重要的不是你做了多少事，而是你放了多少心思进去。
 > 
-> ——龙与虎
+> ——凉宫春日的忧郁
 
 ![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 06:09:02
+Autogen by LittleJake at 08:09:01
