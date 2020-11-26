@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 11/26/2020.
 
 ### Hitokoto
 
-> (」・ω・)」うー！(／・ω・)／にゃー！
+> 喂？FFF团团长须川亮吗？这有一个要入团的！
 > 
-> ——潜行吧奈亚子
+> ——五更琉璃
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 10:08:24
+Autogen by LittleJake at 12:10:06
