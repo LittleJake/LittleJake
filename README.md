@@ -4,10 +4,10 @@ Today is 11/26/2020.
 
 ### Hitokoto
 
-> 重要的不是你做了多少事，而是你放了多少心思进去。
+> (」・ω・)」うー！(／・ω・)／にゃー！
 > 
-> ——凉宫春日的忧郁
+> ——潜行吧奈亚子
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 08:09:01
+Autogen by LittleJake at 10:08:24
