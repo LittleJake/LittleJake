@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 11/27/2020.
 
 ### Hitokoto
 
-> 樱花满地集于我心，楪舞纷飞祈愿相随
+> 扎古不论怎么化妆都不可能变成高达的。
 > 
-> ——罪恶王冠
+> ——银魂
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 14:13:24
+Autogen by LittleJake at 18:07:44
