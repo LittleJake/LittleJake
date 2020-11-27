@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 11/27/2020.
 
 ### Hitokoto
 
-> 不要为自己的努力道歉，这样太对不起自己了！
+> 此生无悔入东方，来世愿生幻想乡！
 > 
-> ——火影忍者
+> ——东方project
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 10:08:42
+Autogen by LittleJake at 12:10:25
