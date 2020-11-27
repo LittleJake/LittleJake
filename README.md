@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 11/27/2020.
 
 ### Hitokoto
 
-> 大部分人并不想长大，只是没办法继续当一个小孩子
+> 我再也不要看见她哭的样子了，就算我从此从她心目中消失。
 > 
-> ——小林家的龙女仆
+> ——名侦探柯南
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 04:09:46
+Autogen by LittleJake at 06:09:04
