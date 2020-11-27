@@ -4,10 +4,10 @@ Today is 11/27/2020.
 
 ### Hitokoto
 
-> 此生无悔入东方，来世愿生幻想乡！
+> 樱花满地集于我心，楪舞纷飞祈愿相随
 > 
-> ——东方project
+> ——罪恶王冠
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 12:10:25
+Autogen by LittleJake at 14:13:24
