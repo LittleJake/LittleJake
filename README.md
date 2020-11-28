@@ -4,10 +4,10 @@ Today is 11/28/2020.
 
 ### Hitokoto
 
-> 我在未来等你。
+> 一个人吃饭，太寂寞了。
 > 
-> ——穿越时空的少女
+> ——无头骑士异闻录
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 06:09:03
+Autogen by LittleJake at 08:09:20
