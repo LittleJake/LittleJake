@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 11/27/2020.
+Today is 11/28/2020.
 
 ### Hitokoto
 
-> 要改变别人的心真是件很难办的事，不过改变自己要容易一点。
+> 就算鼻血流尽，也不能放弃妄想。
 > 
-> ——XXXHolic
+> ——摇曳百合
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 22:08:44
+Autogen by LittleJake at 00:21:09
