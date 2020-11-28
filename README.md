@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 11/28/2020.
 
 ### Hitokoto
 
-> 不拼尽全力去试一下，又怎么会知道啊
+> 我在未来等你。
 > 
-> ——刺客伍六七
+> ——穿越时空的少女
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 04:09:55
+Autogen by LittleJake at 06:09:03
