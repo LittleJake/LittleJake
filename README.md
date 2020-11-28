@@ -4,10 +4,10 @@ Today is 11/28/2020.
 
 ### Hitokoto
 
-> 我觉得只要这样继续加油，总有一天能赶上他们的。
+> 无论是丢下还是被丢下，这两者都是一样痛苦的。
 > 
-> ——刀剑神域
+> ——水果篮子
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 20:08:08
+Autogen by LittleJake at 22:08:56
