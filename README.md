@@ -4,10 +4,10 @@ Today is 11/28/2020.
 
 ### Hitokoto
 
-> 去做你喜欢做的事吧 这就是所谓的那啥...青春嘛
+> 我相信十年后的八月，我们还能再相遇。
 > 
-> ——月色真美
+> ——secret base ～君がくれたもの～
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 12:11:08
+Autogen by LittleJake at 14:08:34
