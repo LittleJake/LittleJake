@@ -4,10 +4,10 @@ Today is 11/28/2020.
 
 ### Hitokoto
 
-> 失礼。噛みました
+> 不拼尽全力去试一下，又怎么会知道啊
 > 
-> ——化物语(上)
+> ——刺客伍六七
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 02:09:07
+Autogen by LittleJake at 04:09:55
