@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 11/28/2020.
 
 ### Hitokoto
 
-> 呐，知道么，樱花飘落的速度，是每秒五厘米哦~
+> 去做你喜欢做的事吧 这就是所谓的那啥...青春嘛
 > 
-> ——秒速五厘米
+> ——月色真美
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 10:08:12
+Autogen by LittleJake at 12:11:08
