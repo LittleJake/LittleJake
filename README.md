@@ -4,10 +4,10 @@ Today is 11/29/2020.
 
 ### Hitokoto
 
-> 生命可以随心所欲，但不能随波逐流
+> 爱迪生说过：“要把BOSS打倒就要准备足够的等级。”
 > 
-> ——猫的报恩
+> ——学生会的一己之见
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 08:09:30
+Autogen by LittleJake at 10:08:24
