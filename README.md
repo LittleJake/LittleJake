@@ -4,10 +4,10 @@ Today is 11/29/2020.
 
 ### Hitokoto
 
-> 我的面包！
+> 就算鼻血流尽，也不能放弃妄想。
 > 
-> ——Clannad
+> ——摇曳百合
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 20:07:56
+Autogen by LittleJake at 22:08:59
