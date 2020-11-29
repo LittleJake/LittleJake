@@ -4,10 +4,10 @@ Today is 11/29/2020.
 
 ### Hitokoto
 
-> 我在未来等你。
+> 冈崎，永远都别迷失自己最珍爱的事物啊。
 > 
-> ——穿越时空的少女
+> ——CLANNAD ～AFTER STORY～
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 14:08:33
+Autogen by LittleJake at 16:11:52
