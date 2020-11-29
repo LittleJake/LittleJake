@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 11/29/2020.
 
 ### Hitokoto
 
-> 冈崎，永远都别迷失自己最珍爱的事物啊。
+> 只会比大小真是没品
 > 
-> ——CLANNAD ～AFTER STORY～
+> ——某科学的超电磁炮S
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 16:11:52
+Autogen by LittleJake at 18:07:46
