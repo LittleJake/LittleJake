@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 11/30/2020.
 
 ### Hitokoto
 
-> 你们人类让我明白了一个道理，那就是这个世界是不讲道理的
+> 世界は恋に落ちている。
 > 
-> ——刺客伍六七
+> ——青春之旅OP（我的世界已坠入爱河）
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 10:08:47
+Autogen by LittleJake at 12:11:58
