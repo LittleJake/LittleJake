@@ -4,10 +4,10 @@ Today is 11/30/2020.
 
 ### Hitokoto
 
-> 以后继续来一起练习打篮球
+> 卧龙低伏，入我阵来。
 > 
-> ——湊智花
+> ——一人之下
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 20:08:21
+Autogen by LittleJake at 22:09:20
