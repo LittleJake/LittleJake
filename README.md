@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 11/30/2020.
 
 ### Hitokoto
 
-> 如果你是魔女，我只要化身魔王就可以了。
+> 那些坚定决心的人们，会展现出好脸色。
 > 
-> ——反叛的鲁鲁修
+> ——闪电十一人
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 16:13:02
+Autogen by LittleJake at 18:08:28
