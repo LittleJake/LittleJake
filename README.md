@@ -4,10 +4,10 @@ Today is 11/30/2020.
 
 ### Hitokoto
 
-> 不相信自己的人，连努力的价值都没有。
+> 有时语言就像把利刃，使用不当，就会成为凶器。
 > 
-> ——火影忍者
+> ——名侦探柯南
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 06:09:19
+Autogen by LittleJake at 08:10:47
