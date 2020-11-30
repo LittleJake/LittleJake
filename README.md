@@ -4,10 +4,10 @@ Today is 11/30/2020.
 
 ### Hitokoto
 
-> 有时语言就像把利刃，使用不当，就会成为凶器。
+> 你们人类让我明白了一个道理，那就是这个世界是不讲道理的
 > 
-> ——名侦探柯南
+> ——刺客伍六七
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 08:10:47
+Autogen by LittleJake at 10:08:47
