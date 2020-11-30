@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 11/30/2020.
 
 ### Hitokoto
 
-> 音无结弦之日 跃动天使之心 立于浮华之世 奏响天籁之音
+> 不相信自己的人，连努力的价值都没有。
 > 
-> ——Angel Beats!
+> ——火影忍者
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 04:10:22
+Autogen by LittleJake at 06:09:19
