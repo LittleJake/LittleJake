@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 11/29/2020.
+Today is 11/30/2020.
 
 ### Hitokoto
 
-> 就算鼻血流尽，也不能放弃妄想。
+> 真相只有一个！
 > 
-> ——摇曳百合
+> ——柯南
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 22:08:59
+Autogen by LittleJake at 00:22:29
