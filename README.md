@@ -4,10 +4,10 @@ Today is 12/01/2020.
 
 ### Hitokoto
 
-> 有样东西是其他生物绝对没有，只有人类才有 那就是人有秘密。
+> 理解何为孤单，努力想得到爱的你，内心的悲伤是否稍微宣泄了呢？
 > 
-> ——月色真美
+> ——夏目友人帐
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 08:10:14
+Autogen by LittleJake at 10:10:43
