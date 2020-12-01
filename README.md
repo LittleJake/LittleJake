@@ -4,10 +4,10 @@ Today is 12/01/2020.
 
 ### Hitokoto
 
-> 你那无聊的幻想，就由我来打破！
+> 不是我，都是社会的错
 > 
-> ——魔法禁书目录
+> ——我的青春恋爱物语果然有问题
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 02:09:17
+Autogen by LittleJake at 04:11:10
