@@ -4,10 +4,10 @@ Today is 12/01/2020.
 
 ### Hitokoto
 
-> 隐约雷鸣，阴霾天空，但盼风雨来，能留你在此。
+> 求求你，不要对我这么温柔！
 > 
-> ——言叶之庭
+> ——秒速五厘米
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 12:11:19
+Autogen by LittleJake at 14:10:10
