@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 12/01/2020.
 
 ### Hitokoto
 
-> 世界怎样与我无关，以我自己的意识！
+> 求求你，不要对我这么温柔！
 > 
-> ——机动战士高达00
+> ——秒速五厘米
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 16:11:52
+Autogen by LittleJake at 18:08:04
