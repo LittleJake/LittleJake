@@ -4,10 +4,10 @@ Today is 12/01/2020.
 
 ### Hitokoto
 
-> 不可结缘，徒留寂寞……
+> 有样东西是其他生物绝对没有，只有人类才有 那就是人有秘密。
 > 
-> ——夏目友人帐
+> ——月色真美
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 06:09:36
+Autogen by LittleJake at 08:10:14
