@@ -4,10 +4,10 @@ Today is 12/02/2020.
 
 ### Hitokoto
 
-> 有被杀的觉悟，才有资格开枪。
+> 你将不再是道具，而是成为人如其名的人。
 > 
-> ——反叛的鲁路修
+> ——紫罗兰的永恒花园
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 00:22:14
+Autogen by LittleJake at 02:08:44
