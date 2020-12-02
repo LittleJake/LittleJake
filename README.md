@@ -4,10 +4,10 @@ Today is 12/02/2020.
 
 ### Hitokoto
 
-> 重要的人，不能忘记的人，不想忘记的人。 你，是谁？
+> 我的腿让我停下，可是心却不允许我那么做。
 > 
-> ——你的名字
+> ——钢之炼金术师
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 18:08:00
+Autogen by LittleJake at 20:08:26
