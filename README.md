@@ -4,10 +4,10 @@ Today is 12/02/2020.
 
 ### Hitokoto
 
-> 木叶飞舞之处，火亦生生不息。
+> 不可结缘
 > 
-> ——火影忍者
+> ——夏目友人帐
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 06:09:31
+Autogen by LittleJake at 08:09:59
