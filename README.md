@@ -4,10 +4,10 @@ Today is 12/02/2020.
 
 ### Hitokoto
 
-> 天才的字典里，没有不可能这三个字。
+> 人类的赞歌是勇气的赞歌，人类的伟大是勇气的伟大！
 > 
-> ——灌篮高手
+> ——JOJO的奇妙冒险
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 12:11:18
+Autogen by LittleJake at 14:09:23
