@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 12/02/2020.
 
 ### Hitokoto
 
-> 活着本身就是一种价值，因为还有明天。
+> 重要的人，不能忘记的人，不想忘记的人。 你，是谁？
 > 
-> ——高达
+> ——你的名字
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 16:18:08
+Autogen by LittleJake at 18:08:00
