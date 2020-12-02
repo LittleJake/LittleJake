@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 12/02/2020.
 
 ### Hitokoto
 
-> 真正让我难受的，大概是因为让你看到如此狼狈的自己。
+> 天才的字典里，没有不可能这三个字。
 > 
-> ——元气少女缘结神
+> ——灌篮高手
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 10:09:11
+Autogen by LittleJake at 12:11:18
