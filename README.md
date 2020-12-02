@@ -4,10 +4,10 @@ Today is 12/02/2020.
 
 ### Hitokoto
 
-> 你将不再是道具，而是成为人如其名的人。
+> 所谓的奇迹就是要发生之后才会有价值存在的吧
 > 
-> ——紫罗兰的永恒花园
+> ——EVA
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 02:08:44
+Autogen by LittleJake at 04:10:27
