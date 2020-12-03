@@ -4,10 +4,10 @@ Today is 12/03/2020.
 
 ### Hitokoto
 
-> 当敌人变成战友多半是为了生存，而战友变成敌人多半是为了金钱。
+> 不好意思，我喜欢的是艾米莉亚
 > 
-> ——端脑
+> ——Re：从零开始的异世界生活
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 14:08:54
+Autogen by LittleJake at 16:12:48
