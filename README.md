@@ -4,10 +4,10 @@ Today is 12/03/2020.
 
 ### Hitokoto
 
-> 我本身得不到答案。所以，我希望有能够答出来之物的诞生。
+> 当敌人变成战友多半是为了生存，而战友变成敌人多半是为了金钱。
 > 
-> ——Fate/Stay Night
+> ——端脑
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 12:11:08
+Autogen by LittleJake at 14:08:54
