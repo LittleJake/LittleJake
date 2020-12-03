@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 12/03/2020.
 
 ### Hitokoto
 
-> 君の名を 今追いかけるよ
+> 我本身得不到答案。所以，我希望有能够答出来之物的诞生。
 > 
-> ——君の名は。
+> ——Fate/Stay Night
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 10:08:49
+Autogen by LittleJake at 12:11:08
