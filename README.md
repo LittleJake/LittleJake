@@ -4,10 +4,10 @@ Today is 12/03/2020.
 
 ### Hitokoto
 
-> 魔装少女就是本少爷！
+> 男人就应该保持冷静，沸腾的水只会被蒸发掉。
 > 
-> ——这是僵尸吗？
+> ——假面骑士kabuto
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 00:22:26
+Autogen by LittleJake at 02:09:12
