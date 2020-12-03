@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 12/02/2020.
+Today is 12/03/2020.
 
 ### Hitokoto
 
-> 在自称善意的之时，即存恶意。
+> 魔装少女就是本少爷！
 > 
-> ——罪恶王冠
+> ——这是僵尸吗？
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 22:09:20
+Autogen by LittleJake at 00:22:26
