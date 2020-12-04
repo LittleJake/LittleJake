@@ -4,10 +4,10 @@ Today is 12/04/2020.
 
 ### Hitokoto
 
-> 我不是萝莉控，是妹控啊！
+> 只要学不死，就往死里学。
 > 
-> ——我的妹妹不可能那么可爱第二季
+> ——网络热语
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 18:09:41
+Autogen by LittleJake at 20:08:19
