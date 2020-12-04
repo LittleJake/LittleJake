@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 12/04/2020.
 
 ### Hitokoto
 
-> 我愿意呀，五十年前就愿意了。
+> 悲伤教会了我喜悦。
 > 
-> ——狐妖小红娘
+> ——秋之回忆
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 04:10:37
+Autogen by LittleJake at 06:09:47
