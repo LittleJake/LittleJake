@@ -4,10 +4,10 @@ Today is 12/04/2020.
 
 ### Hitokoto
 
-> 悲伤教会了我喜悦。
+> 我，将某个人，唯一的某个人，试图锁定。我，
 > 
-> ——秋之回忆
+> ——你的名字
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 06:09:47
+Autogen by LittleJake at 08:12:04
