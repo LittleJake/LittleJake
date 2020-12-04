@@ -4,10 +4,10 @@ Today is 12/04/2020.
 
 ### Hitokoto
 
-> 只要学不死，就往死里学。
+> 汝真是个烂好人
 > 
-> ——网络热语
+> ——狼与香辛料
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 20:08:19
+Autogen by LittleJake at 22:10:53
