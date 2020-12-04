@@ -4,10 +4,10 @@ Today is 12/04/2020.
 
 ### Hitokoto
 
-> 我，将某个人，唯一的某个人，试图锁定。我，
+> 不可结缘,徒增寂寞
 > 
-> ——你的名字
+> ——夏目友人帐
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 08:12:04
+Autogen by LittleJake at 10:09:45
