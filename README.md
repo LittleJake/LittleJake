@@ -4,10 +4,10 @@ Today is 12/05/2020.
 
 ### Hitokoto
 
-> 如果你都不知道自己想去哪里，那去哪里都是一样的。
+> 今日的余晖和你最后那天给我的拥抱，同一个温度
 > 
-> ——柴郡猫
+> ——Myself
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 18:08:29
+Autogen by LittleJake at 20:08:08
