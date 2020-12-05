@@ -4,10 +4,10 @@ Today is 12/05/2020.
 
 ### Hitokoto
 
-> 其实...根本就没有什么天堂和地狱吧....
+> 我的船上没有手下，只有伙伴。
 > 
-> ——死亡笔记
+> ——海贼王
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 00:24:19
+Autogen by LittleJake at 02:10:08
