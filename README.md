@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 12/05/2020.
 
 ### Hitokoto
 
-> 人は一生、中二病なんだ。
+> 我并不羡慕别人的人生，这就是所谓幸福。
 > 
-> ——中二病也要谈恋爱
+> ——幸运星
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 10:09:52
+Autogen by LittleJake at 12:11:09
