@@ -4,10 +4,10 @@ Today is 12/05/2020.
 
 ### Hitokoto
 
-> 并非喜欢、也不是爱。而是更加深刻而沉重的——
+> 人は一生、中二病なんだ。
 > 
-> ——SWEET POOL
+> ——中二病也要谈恋爱
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 08:09:42
+Autogen by LittleJake at 10:09:52
