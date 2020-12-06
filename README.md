@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 12/06/2020.
 
 ### Hitokoto
 
-> 你们这些天才止步不前的时候，我会走得更远。
+> 我，将某个人，唯一的某个人，试图锁定。我，
 > 
-> ——如果有个妹妹就好了
+> ——你的名字
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 10:09:35
+Autogen by LittleJake at 12:11:07
