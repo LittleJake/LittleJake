@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 12/06/2020.
 
 ### Hitokoto
 
-> 努力可是要默默藏起来的。
+> 我不会去统治这片大海，在这片大海上，最自由的人就是海贼王！
 > 
-> ——Re：从零开始的异世界生活
+> ——海贼王
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 16:12:41
+Autogen by LittleJake at 18:08:40
