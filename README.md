@@ -4,10 +4,10 @@ Today is 12/06/2020.
 
 ### Hitokoto
 
-> 重要的是无论我们选择哪条路，都要担负起选择的责任。
+> 把同班的可爱女同学娶回家就是我最大的梦想
 > 
-> ——蜂蜜与四叶草
+> ——月色真美
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 20:08:37
+Autogen by LittleJake at 22:10:12
