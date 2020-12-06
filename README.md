@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 12/05/2020.
+Today is 12/06/2020.
 
 ### Hitokoto
 
-> 有时语言就像把利刃，使用不当，就会成为凶器。
+> 对于虚伪而言，真实的光明或许过于耀眼了
 > 
-> ——名侦探柯南
+> ——蔷薇少女
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 22:10:23
+Autogen by LittleJake at 00:24:28
