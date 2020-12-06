@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 12/06/2020.
 
 ### Hitokoto
 
-> 还能再见面吗? 一定能见面的
+> 相信奇迹的人本身就和奇迹一样了不起啊
 > 
-> ——Fantastic Children
+> ——星游记
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 04:10:45
+Autogen by LittleJake at 06:11:01
