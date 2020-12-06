@@ -4,10 +4,10 @@ Today is 12/06/2020.
 
 ### Hitokoto
 
-> 相信奇迹的人本身就和奇迹一样了不起啊
+> 只要你在，我便无所不能。
 > 
-> ——星游记
+> ——进击的巨人
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 06:11:01
+Autogen by LittleJake at 08:10:05
