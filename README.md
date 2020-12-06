@@ -4,10 +4,10 @@ Today is 12/06/2020.
 
 ### Hitokoto
 
-> 对于虚伪而言，真实的光明或许过于耀眼了
+> 其实...根本就没有什么天堂和地狱吧....
 > 
-> ——蔷薇少女
+> ——死亡笔记
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 00:24:28
+Autogen by LittleJake at 02:12:20
