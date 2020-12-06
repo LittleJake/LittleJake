@@ -4,10 +4,10 @@ Today is 12/06/2020.
 
 ### Hitokoto
 
-> 我，将某个人，唯一的某个人，试图锁定。我，
+> 你不会死的，因为我会保护你.
 > 
-> ——你的名字
+> ——EVA
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 12:11:07
+Autogen by LittleJake at 14:09:36
