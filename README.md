@@ -4,10 +4,10 @@ Today is 12/06/2020.
 
 ### Hitokoto
 
-> 其实...根本就没有什么天堂和地狱吧....
+> 还能再见面吗? 一定能见面的
 > 
-> ——死亡笔记
+> ——Fantastic Children
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 02:12:20
+Autogen by LittleJake at 04:10:45
