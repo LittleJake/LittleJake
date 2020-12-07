@@ -4,10 +4,10 @@ Today is 12/07/2020.
 
 ### Hitokoto
 
-> 青春是谎言，是邪恶。
+> 我很好奇！
 > 
-> ——春物
+> ——冰菓
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 08:10:21
+Autogen by LittleJake at 10:09:49
