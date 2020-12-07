@@ -4,10 +4,10 @@ Today is 12/07/2020.
 
 ### Hitokoto
 
-> 我本身得不到答案。所以，我希望有能够答出来之物的诞生。
+> 少罗嗦，你还不如虫子呢！
 > 
-> ——Fate/Stay Night
+> ——迷糊餐厅
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 00:24:01
+Autogen by LittleJake at 02:13:02
