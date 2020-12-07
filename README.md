@@ -4,10 +4,10 @@ Today is 12/07/2020.
 
 ### Hitokoto
 
-> 少罗嗦，你还不如虫子呢！
+> 为了传达不到的思念而苦恼，只会感到痛不欲生。
 > 
-> ——迷糊餐厅
+> ——WHITE FIRST LOVE
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 02:13:02
+Autogen by LittleJake at 04:13:34
