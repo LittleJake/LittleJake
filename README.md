@@ -4,10 +4,10 @@ Today is 12/07/2020.
 
 ### Hitokoto
 
-> 人生在世何其痛苦，所以咖啡至少该甜一点。
+> 干燥的冷气，尘埃的味道，我在其中……踏上旅途。
 > 
-> ——我的青春恋爱物语果然有问题
+> ——四月是你的谎言
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 18:09:14
+Autogen by LittleJake at 20:08:43
