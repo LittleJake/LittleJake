@@ -4,10 +4,10 @@ Today is 12/07/2020.
 
 ### Hitokoto
 
-> 干燥的冷气，尘埃的味道，我在其中……踏上旅途。
+> 只要能努力，就应当去努力；只要还能前进，就要向前走去。
 > 
-> ——四月是你的谎言
+> ——CLANNAD
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 20:08:43
+Autogen by LittleJake at 22:11:30
