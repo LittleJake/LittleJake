@@ -4,10 +4,10 @@ Today is 12/07/2020.
 
 ### Hitokoto
 
-> 喜欢上一个人就是变得束手无策。
+> 求求你，不要对我这么温柔！
 > 
-> ——悠久之翼2
+> ——秒速五厘米
 
 ![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 12:11:48
+Autogen by LittleJake at 14:10:09
