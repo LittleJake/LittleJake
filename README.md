@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 12/07/2020.
 
 ### Hitokoto
 
-> 为了传达不到的思念而苦恼，只会感到痛不欲生。
+> 我没有任何理由为了那些人让自己的人生付之一炬！
 > 
-> ——WHITE FIRST LOVE
+> ——三月的狮子
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 04:13:34
+Autogen by LittleJake at 06:10:31
