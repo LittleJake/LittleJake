@@ -4,10 +4,10 @@ Today is 12/08/2020.
 
 ### Hitokoto
 
-> 无可取代的东西要到失去后才知道珍惜呢。
+> 重要的感情总是非常单纯 自然脱口而出的
 > 
-> ——干物妹小埋
+> ——GAMERS电玩咖！
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 12:12:05
+Autogen by LittleJake at 14:10:25
