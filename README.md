@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 12/07/2020.
+Today is 12/08/2020.
 
 ### Hitokoto
 
-> 只要能努力，就应当去努力；只要还能前进，就要向前走去。
+> 世界上所有的不利情况都是因为当事者的能力不足造成的
 > 
-> ——CLANNAD
+> ——东京喰种
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 22:11:30
+Autogen by LittleJake at 00:23:29
