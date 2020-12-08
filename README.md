@@ -4,10 +4,10 @@ Today is 12/08/2020.
 
 ### Hitokoto
 
-> 世界上所有的不利情况都是因为当事者的能力不足造成的
+> 爱迪生说过：“要把BOSS打倒就要准备足够的等级。”
 > 
-> ——东京喰种
+> ——学生会的一己之见
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 00:23:29
+Autogen by LittleJake at 02:13:46
