@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 12/09/2020.
 
 ### Hitokoto
 
-> 即使如此，我也有我想保护的世界！
+> 千载流年一如梦，月落山河一世倾。
 > 
-> ——高达seed
+> ——灵契
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 16:13:18
+Autogen by LittleJake at 18:09:09
