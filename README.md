@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 12/08/2020.
+Today is 12/09/2020.
 
 ### Hitokoto
 
-> 不愿意的时候，逃跑也没有关系！
+> 这只手，暂时不洗了
 > 
-> ——灵能百分百
+> ——小林家的龙女仆
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 22:10:44
+Autogen by LittleJake at 00:23:38
