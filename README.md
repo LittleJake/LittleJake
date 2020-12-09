@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 12/09/2020.
 
 ### Hitokoto
 
-> 雨，何时停？
+> 你再怎么称赞我，我也不会高兴的，你这个混蛋~
 > 
-> ——秋之回忆
+> ——海贼王
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 10:09:53
+Autogen by LittleJake at 12:12:09
