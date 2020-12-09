@@ -4,10 +4,10 @@ Today is 12/09/2020.
 
 ### Hitokoto
 
-> 哭过喊过便会停止哭泣
+> 即使如此，我也有我想保护的世界！
 > 
-> ——从零开始的异世界生活
+> ——高达seed
 
 ![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 14:12:05
+Autogen by LittleJake at 16:13:18
