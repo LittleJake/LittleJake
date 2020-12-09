@@ -4,10 +4,10 @@ Today is 12/09/2020.
 
 ### Hitokoto
 
-> 我想让自己强大起来，因为至少我已经有幸和想要保护的人相遇了。
+> 奇迹不是免费的，如果你祈求了希望，也会散播出同等的绝望。
 > 
-> ——夏目友人帐
+> ——魔法少女小圆
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 02:14:25
+Autogen by LittleJake at 04:11:39
