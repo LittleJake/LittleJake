@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 12/09/2020.
 
 ### Hitokoto
 
-> 奇迹不是免费的，如果你祈求了希望，也会散播出同等的绝望。
+> 为了终止绝望的连锁，希望她能化为照亮正确道路的灯火。
 > 
-> ——魔法少女小圆
+> ——Re：从零开始的异世界生活
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 04:11:39
+Autogen by LittleJake at 06:10:40
