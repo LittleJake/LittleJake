@@ -4,10 +4,10 @@ Today is 12/09/2020.
 
 ### Hitokoto
 
-> 你再怎么称赞我，我也不会高兴的，你这个混蛋~
+> 哭过喊过便会停止哭泣
 > 
-> ——海贼王
+> ——从零开始的异世界生活
 
 ![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 12:12:09
+Autogen by LittleJake at 14:12:05
