@@ -4,10 +4,10 @@ Today is 12/10/2020.
 
 ### Hitokoto
 
-> 即使你已经习惯了受伤害，也有人看了会心疼的。
+> 为了你,如果是为了你,即使我被困在永远的迷宫中,也没关系.
 > 
-> ——我的恋爱物语果然有问题
+> ——魔法少女小圆
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 14:13:09
+Autogen by LittleJake at 16:13:11
