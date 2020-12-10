@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 12/09/2020.
+Today is 12/10/2020.
 
 ### Hitokoto
 
-> 人难免伤害别人,也难免受伤,不过,人是不会轻易讨厌别人的.
+> 什么都无法舍弃的人，什么都无法改变 。
 > 
-> ——火影忍者
+> ——进击的巨人
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 22:12:34
+Autogen by LittleJake at 00:24:04
