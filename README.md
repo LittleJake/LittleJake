@@ -4,10 +4,10 @@ Today is 12/10/2020.
 
 ### Hitokoto
 
-> 不敢反抗压迫的心理将伴你一生
+> 我想让自己强大起来，因为至少我已经有幸和想要保护的人相遇了。
 > 
-> ——狂赌深渊
+> ——夏目友人帐
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 18:09:27
+Autogen by LittleJake at 20:08:52
