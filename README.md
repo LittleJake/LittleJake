@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 12/10/2020.
 
 ### Hitokoto
 
-> 痴情的妖怪啊,请再等一世吧。
+> 经为流逝的日月。纬为人们的生业。
 > 
-> ——狐妖小红娘
+> ——朝花夕誓
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 10:11:38
+Autogen by LittleJake at 12:13:53
