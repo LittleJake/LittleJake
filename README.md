@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 12/10/2020.
 
 ### Hitokoto
 
-> 让我成为你的双眼，把那世界万千，描绘在你面前。
+> 我们的哀伤和年龄是没有关系的。
 > 
-> ——狐妖小红娘
+> ——樱桃小丸子
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 04:11:17
+Autogen by LittleJake at 06:10:41
