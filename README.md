@@ -4,10 +4,10 @@ Today is 12/11/2020.
 
 ### Hitokoto
 
-> 与其想着怎么美丽地牺牲,倒不如想着怎么漂亮地活到最后一刻。
+> 将所有人类当成玩偶的神,本身居然也是个小丑啊。
 > 
-> ——银魂
+> ——Fate/Zero
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 18:09:19
+Autogen by LittleJake at 20:09:06
