@@ -4,10 +4,10 @@ Today is 12/11/2020.
 
 ### Hitokoto
 
-> 我无知又愚蠢，世界残酷又疯狂。
+> 时间可以治愈？如果时间也病了怎么办？
 > 
-> ——进击的巨人
+> ——寒蝉鸣泣之时
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 12:12:15
+Autogen by LittleJake at 14:10:25
