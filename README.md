@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 12/11/2020.
 
 ### Hitokoto
 
-> 在东京的天空上，我们决定性的改变了世界的模样。
+> 千军万马滚滚来，不知何人留情怀！
 > 
-> ——天气之子
+> ——Other
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 04:11:29
+Autogen by LittleJake at 06:11:10
