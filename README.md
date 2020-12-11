@@ -4,10 +4,10 @@ Today is 12/11/2020.
 
 ### Hitokoto
 
-> 时间可以治愈？如果时间也病了怎么办？
+> 要是眼睁睁的看着重要的同伴死去，就算是死，我也不能瞑目。
 > 
-> ——寒蝉鸣泣之时
+> ——家庭教师
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 14:10:25
+Autogen by LittleJake at 16:13:14
