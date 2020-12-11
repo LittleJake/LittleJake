@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 12/11/2020.
 
 ### Hitokoto
 
-> 要是眼睁睁的看着重要的同伴死去，就算是死，我也不能瞑目。
+> 与其想着怎么美丽地牺牲,倒不如想着怎么漂亮地活到最后一刻。
 > 
-> ——家庭教师
+> ——银魂
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 16:13:14
+Autogen by LittleJake at 18:09:19
