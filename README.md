@@ -4,10 +4,10 @@ Today is 12/11/2020.
 
 ### Hitokoto
 
-> 将所有人类当成玩偶的神,本身居然也是个小丑啊。
+> 明明只是活着，哀伤却无处不在…
 > 
-> ——Fate/Zero
+> ——秒速五厘米
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 20:09:06
+Autogen by LittleJake at 22:10:24
