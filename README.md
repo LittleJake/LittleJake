@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 12/10/2020.
+Today is 12/11/2020.
 
 ### Hitokoto
 
-> 心，可是很重的。
+> 有被杀的觉悟，才有资格开枪。
 > 
-> ——哈尔的移动城堡
+> ——反叛的鲁路修
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 22:11:52
+Autogen by LittleJake at 00:24:03
