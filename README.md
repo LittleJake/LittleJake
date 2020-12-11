@@ -4,10 +4,10 @@ Today is 12/11/2020.
 
 ### Hitokoto
 
-> 千军万马滚滚来，不知何人留情怀！
+> 相比昨日明日，今天更适合开始。
 > 
-> ——Other
+> ——Comic Girls
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 06:11:10
+Autogen by LittleJake at 08:11:05
