@@ -4,10 +4,10 @@ Today is 12/12/2020.
 
 ### Hitokoto
 
-> 我会继续等着你，就算是一万二千年。
+> 只会比大小真是没品
 > 
-> ——创圣的大天使EVOL
+> ——某科学的超电磁炮S
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 02:17:04
+Autogen by LittleJake at 04:11:27
