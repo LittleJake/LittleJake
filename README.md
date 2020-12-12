@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 12/11/2020.
+Today is 12/12/2020.
 
 ### Hitokoto
 
-> 明明只是活着，哀伤却无处不在…
+> 你指尖跳动的电光，是我此生不变的信仰
 > 
-> ——秒速五厘米
+> ——某科学的超电磁炮
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 22:10:24
+Autogen by LittleJake at 00:24:17
