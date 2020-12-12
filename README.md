@@ -4,10 +4,10 @@ Today is 12/12/2020.
 
 ### Hitokoto
 
-> 能哭的地方只有厕所和爸爸的怀里。
+> 无论在哪里遇到你，我都会喜欢上你。
 > 
-> ——Clannad
+> ——AngleBeats!
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 14:09:53
+Autogen by LittleJake at 16:13:31
