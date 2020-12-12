@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 12/12/2020.
 
 ### Hitokoto
 
-> 只会比大小真是没品
+> 比起悲伤来说，无法分享快乐这件事，要更加的寂寞吧。
 > 
-> ——某科学的超电磁炮S
+> ——AIR
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 04:11:27
+Autogen by LittleJake at 06:11:03
