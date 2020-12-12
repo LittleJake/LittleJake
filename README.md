@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 12/12/2020.
 
 ### Hitokoto
 
-> 无论在哪里遇到你，我都会喜欢上你。
+> 无论最终的结果是什么，只要这是自己选择的道路。
 > 
-> ——AngleBeats!
+> ——龙与虎
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 16:13:31
+Autogen by LittleJake at 18:09:36
