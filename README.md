@@ -4,10 +4,10 @@ Today is 12/12/2020.
 
 ### Hitokoto
 
-> 长大了，才能体会什么是责任！
+> 能哭的地方只有厕所和爸爸的怀里。
 > 
-> ——家庭
+> ——Clannad
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 12:11:50
+Autogen by LittleJake at 14:09:53
