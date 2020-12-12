@@ -4,10 +4,10 @@ Today is 12/12/2020.
 
 ### Hitokoto
 
-> 背后即是祖国，我们无路可退。
+> 前天是小兔子，昨天是小鹿，今天是你。
 > 
-> ——那年那兔那些事
+> ——Clannad
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 08:10:47
+Autogen by LittleJake at 10:10:15
