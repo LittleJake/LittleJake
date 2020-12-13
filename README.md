@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 12/13/2020.
 
 ### Hitokoto
 
-> 沒有永远下不停的雨。
+> 我到底要以怎么样的速度生活才能与你再次相遇？
 > 
-> ——秋之回憶
+> ——秒速五厘米
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 04:11:24
+Autogen by LittleJake at 06:11:02
