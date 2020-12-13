@@ -4,10 +4,10 @@ Today is 12/13/2020.
 
 ### Hitokoto
 
-> 木叶飞舞之处，火亦生生不息
+> 沒有永远下不停的雨。
 > 
-> ——火影忍者
+> ——秋之回憶
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 02:17:35
+Autogen by LittleJake at 04:11:24
