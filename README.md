@@ -4,10 +4,10 @@ Today is 12/13/2020.
 
 ### Hitokoto
 
-> 和绝望，和睦相处
+> 所谓人，无论是谁到了最后，都会形单影只。
 > 
-> ——少女终末旅行
+> ——悠久之翼2
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 12:12:00
+Autogen by LittleJake at 14:10:41
