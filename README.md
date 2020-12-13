@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 12/12/2020.
+Today is 12/13/2020.
 
 ### Hitokoto
 
-> 神啊 我的人生到底为何而存在呢
+> 败者死于绝望，胜者死于渴望。
 > 
-> ——蜂蜜与四叶草
+> ——戏言系列
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 22:10:38
+Autogen by LittleJake at 00:25:23
