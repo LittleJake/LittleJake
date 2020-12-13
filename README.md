@@ -4,10 +4,10 @@ Today is 12/13/2020.
 
 ### Hitokoto
 
-> 所谓人，无论是谁到了最后，都会形单影只。
+> 一旦失去的东西，就再也拿不回来了。
 > 
-> ——悠久之翼2
+> ——黑执事
 
 ![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 14:10:41
+Autogen by LittleJake at 16:13:26
