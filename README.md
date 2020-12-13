@@ -4,10 +4,10 @@ Today is 12/13/2020.
 
 ### Hitokoto
 
-> 只要万事俱备，就能一直保持冷静，无论发生什么事，都不会害怕。
+> 我不是天生的王者 但我骨子里流动着不让我低头的血液
 > 
-> ——银魂
+> ——海贼王
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 20:08:47
+Autogen by LittleJake at 22:14:17
