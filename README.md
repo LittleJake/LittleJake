@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 12/14/2020.
 
 ### Hitokoto
 
-> 即便我弱了，也并不代表你强了。
+> 呐，我们好像是，被宇宙和地球拆散的恋人似的。
 > 
-> ——魔法禁书目录
+> ——星之声
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 16:12:40
+Autogen by LittleJake at 18:07:55
