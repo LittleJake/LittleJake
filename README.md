@@ -4,10 +4,10 @@ Today is 12/14/2020.
 
 ### Hitokoto
 
-> 即使想放弃，也没法放弃最想要的东西，这就是人
+> 即便我弱了，也并不代表你强了。
 > 
-> ——悠久之翼
+> ——魔法禁书目录
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 14:10:49
+Autogen by LittleJake at 16:12:40
