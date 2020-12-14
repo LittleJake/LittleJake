@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 12/14/2020.
 
 ### Hitokoto
 
-> 我是为了与你相见才诞生于世的。
+> 梦是现实的延续，现实是梦的终结。
 > 
-> ——EVA
+> ——Eva
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 10:10:31
+Autogen by LittleJake at 12:12:38
