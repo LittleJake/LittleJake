@@ -4,10 +4,10 @@ Today is 12/15/2020.
 
 ### Hitokoto
 
-> 人生在世何其痛苦，所以咖啡至少该甜一点。
+> 我是奥尔加·伊滋卡，几颗子弹不要紧的！
 > 
-> ——我的青春恋爱物语果然有问题
+> ——机动战士高达：铁血的孤儿
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 12:12:32
+Autogen by LittleJake at 14:10:55
