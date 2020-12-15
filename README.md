@@ -4,10 +4,10 @@ Today is 12/15/2020.
 
 ### Hitokoto
 
-> 悲痛的事，温柔以对；难过的事，坚强以对。
+> 算了，和你说话感觉就像是大姨妈来了。
 > 
-> ——朝花夕誓
+> ——龙虎斗
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 18:09:15
+Autogen by LittleJake at 20:09:20
