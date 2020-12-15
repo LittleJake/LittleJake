@@ -4,10 +4,10 @@ Today is 12/15/2020.
 
 ### Hitokoto
 
-> 我是奥尔加·伊滋卡，几颗子弹不要紧的！
+> 由变态化身成为变态，也就是真·变态，也就是说，完全变态呢。
 > 
-> ——机动战士高达：铁血的孤儿
+> ——一拳超人
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 14:10:55
+Autogen by LittleJake at 16:13:54
