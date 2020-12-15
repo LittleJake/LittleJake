@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 12/15/2020.
 
 ### Hitokoto
 
-> 世界不完美 所以才显得美丽
+> 告白当天就要H什么的，真是没办法的男人呢。
 > 
-> ——钢之炼金术士
+> ——高坂桐乃
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 04:11:22
+Autogen by LittleJake at 06:11:03
