@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 12/14/2020.
+Today is 12/15/2020.
 
 ### Hitokoto
 
-> 要是因为烦恼很痛苦，就选择了轻松的选项，将来一定会后悔。
+> 人找不到某种东西沉迷就活不下来。人都是某种东西的奴隶。
 > 
-> ——樱花庄的宠物女孩
+> ——进击的巨人
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 22:10:40
+Autogen by LittleJake at 00:24:09
