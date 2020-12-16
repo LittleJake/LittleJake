@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 12/16/2020.
 
 ### Hitokoto
 
-> 恋爱不是谈出来的，而是陷进去的。
+> 不拼尽全力去试一下，又怎么会知道啊
 > 
-> ——GAMER电玩咖！
+> ——刺客伍六七
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 16:15:02
+Autogen by LittleJake at 18:09:19
