@@ -4,10 +4,10 @@ Today is 12/16/2020.
 
 ### Hitokoto
 
-> 只要微笑就可以了。
+> 有被杀的觉悟，才有资格开枪。
 > 
-> ——EVA
+> ——反叛的鲁路修
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 02:20:48
+Autogen by LittleJake at 04:11:32
