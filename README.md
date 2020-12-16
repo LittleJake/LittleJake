@@ -4,10 +4,10 @@ Today is 12/16/2020.
 
 ### Hitokoto
 
-> 我相信十年后的八月，我们还能再相遇。
+> 幸福感就如沉积在悲哀之河底下 隐隐发光的金砂
 > 
-> ——secret base ～君がくれたもの～
+> ——月色真美
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 20:09:20
+Autogen by LittleJake at 22:11:24
