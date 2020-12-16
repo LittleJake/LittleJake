@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 12/16/2020.
 
 ### Hitokoto
 
-> 我喜欢你，比世界上任何人都喜欢你。
+> 告诉我，神会流血吗？——神不会，但你会。
 > 
-> ——名侦探柯南
+> ——烦人的村民
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 10:10:25
+Autogen by LittleJake at 12:12:42
