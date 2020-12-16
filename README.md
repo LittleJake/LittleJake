@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 12/15/2020.
+Today is 12/16/2020.
 
 ### Hitokoto
 
-> 我一点也不走运。
+> 你一直相信的事，也让我相信吧。活着，是件美好的事。
 > 
-> ——Fairy gone
+> ——Angle Beats
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 22:10:07
+Autogen by LittleJake at 00:24:30
