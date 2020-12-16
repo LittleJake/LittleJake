@@ -4,10 +4,10 @@ Today is 12/16/2020.
 
 ### Hitokoto
 
-> 能哭的地方只有厕所和爸爸的怀里。
+> 恋爱不是谈出来的，而是陷进去的。
 > 
-> ——Clannad
+> ——GAMER电玩咖！
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 14:10:40
+Autogen by LittleJake at 16:15:02
