@@ -4,10 +4,10 @@ Today is 12/16/2020.
 
 ### Hitokoto
 
-> 告诉我，神会流血吗？——神不会，但你会。
+> 能哭的地方只有厕所和爸爸的怀里。
 > 
-> ——烦人的村民
+> ——Clannad
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 12:12:42
+Autogen by LittleJake at 14:10:40
