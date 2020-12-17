@@ -4,10 +4,10 @@ Today is 12/17/2020.
 
 ### Hitokoto
 
-> 在时间的流逝里，没有什么是一成不变的。
+> 我没有梦想，但是我能保护！
 > 
-> ——CLANNAD ～AFTER STORY～
+> ——假面骑士555
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 06:11:26
+Autogen by LittleJake at 08:12:31
