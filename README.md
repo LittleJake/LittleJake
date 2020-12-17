@@ -4,10 +4,10 @@ Today is 12/17/2020.
 
 ### Hitokoto
 
-> 我没有梦想，但是我能保护！
+> 人类的赞歌就是勇气的赞歌。
 > 
-> ——假面骑士555
+> ——JOJO的奇妙冒险
 
 ![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 08:12:31
+Autogen by LittleJake at 10:10:32
