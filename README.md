@@ -4,10 +4,10 @@ Today is 12/17/2020.
 
 ### Hitokoto
 
-> 你是否会等待着我?我还想变的更加完美...
+> 死亡只要在人生的终点尝试一次就够了~
 > 
-> ——LoveLive!Sunshine!
+> ——Re：从零开始的异世界生活
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 12:13:15
+Autogen by LittleJake at 14:11:09
