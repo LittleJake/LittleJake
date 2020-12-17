@@ -4,10 +4,10 @@ Today is 12/17/2020.
 
 ### Hitokoto
 
-> 死亡不是终点，被遗忘才是。
+> 在狂热思绪下喊出的爱情宣言中，存在着爱情的实体
 > 
-> ——寻梦环游记
+> ——月色真美
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 00:26:33
+Autogen by LittleJake at 02:21:19
