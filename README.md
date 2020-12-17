@@ -4,10 +4,10 @@ Today is 12/17/2020.
 
 ### Hitokoto
 
-> 你在那么美丽的地方，纯属奇迹般的偶然。
+> 比自己,比梦想更重要的东西永远都存在着...
 > 
-> ——理科生坠入情网故尝试证明
+> ——钢之炼金术师
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 18:10:54
+Autogen by LittleJake at 20:09:34
