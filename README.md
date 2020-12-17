@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 12/16/2020.
+Today is 12/17/2020.
 
 ### Hitokoto
 
-> 幸福感就如沉积在悲哀之河底下 隐隐发光的金砂
+> 死亡不是终点，被遗忘才是。
 > 
-> ——月色真美
+> ——寻梦环游记
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 22:11:24
+Autogen by LittleJake at 00:26:33
