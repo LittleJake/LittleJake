@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 12/18/2020.
 
 ### Hitokoto
 
-> 追寻只是因为无法抓获，想要触碰，只是因为知道自己触碰不到。
+> 即使我变弱了，也不代表你变强了。
 > 
-> ——FLCL Progressive
+> ——魔法禁书目录
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 16:19:07
+Autogen by LittleJake at 18:17:14
