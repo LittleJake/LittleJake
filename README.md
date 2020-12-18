@@ -4,10 +4,10 @@ Today is 12/18/2020.
 
 ### Hitokoto
 
-> 比自己,比梦想更重要的东西永远都存在着...
+> 追寻只是因为无法抓获，想要触碰，只是因为知道自己触碰不到。
 > 
-> ——钢之炼金术师
+> ——FLCL Progressive
 
 ![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 14:12:20
+Autogen by LittleJake at 16:19:07
