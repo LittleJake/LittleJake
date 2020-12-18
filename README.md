@@ -4,10 +4,10 @@ Today is 12/18/2020.
 
 ### Hitokoto
 
-> 即使我变弱了，也不代表你变强了。
+> 隐约雷鸣阴霾天空即使风无雨我亦留此地
 > 
-> ——魔法禁书目录
+> ——言叶之庭
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 18:17:14
+Autogen by LittleJake at 20:10:11
