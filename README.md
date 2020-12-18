@@ -4,10 +4,10 @@ Today is 12/18/2020.
 
 ### Hitokoto
 
-> 隐约雷鸣阴霾天空即使风无雨我亦留此地
+> 哥哥也可以喜欢上我之外的女孩子，但只有音梦是不可以的！
 > 
-> ——言叶之庭
+> ——芳乃樱对朝仓纯
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 20:10:11
+Autogen by LittleJake at 22:11:25
