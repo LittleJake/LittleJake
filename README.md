@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 12/18/2020.
 
 ### Hitokoto
 
-> 将愿望倾入不愿忘却的回忆中⋯⋯
+> 只要世间有酒,我就喝不够!
 > 
-> ——ef-a tale of memories
+> ——春宵苦短，少女前进吧！
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 04:13:12
+Autogen by LittleJake at 06:11:53
