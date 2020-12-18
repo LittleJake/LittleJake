@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 12/18/2020.
 
 ### Hitokoto
 
-> 在虚构现实里寻求现实感的人才有问题
+> 用决斗......给大家......带来笑容......
 > 
-> ——凉宫春日的忧郁
+> ——游戏王<A-RCV>
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 10:12:45
+Autogen by LittleJake at 12:13:45
