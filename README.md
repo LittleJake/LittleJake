@@ -4,10 +4,10 @@ Today is 12/18/2020.
 
 ### Hitokoto
 
-> 用决斗......给大家......带来笑容......
+> 比自己,比梦想更重要的东西永远都存在着...
 > 
-> ——游戏王<A-RCV>
+> ——钢之炼金术师
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 12:13:45
+Autogen by LittleJake at 14:12:20
