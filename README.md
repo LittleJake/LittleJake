@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 12/18/2020.
+Today is 12/19/2020.
 
 ### Hitokoto
 
-> 哥哥也可以喜欢上我之外的女孩子，但只有音梦是不可以的！
+> 在排练的休息时间里要好好补充水分和盐分哦！
 > 
-> ——芳乃樱对朝仓纯
+> ——三森铃子致海未
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 22:11:25
+Autogen by LittleJake at 00:25:56
