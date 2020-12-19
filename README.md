@@ -4,10 +4,10 @@ Today is 12/19/2020.
 
 ### Hitokoto
 
-> JOJO，我不想再做人了！！
+> 要是太勉强自己的话，总有一天会受伤的
 > 
-> ——JOJO的奇妙冒险
+> ——吸血鬼骑士
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 14:11:18
+Autogen by LittleJake at 16:18:37
