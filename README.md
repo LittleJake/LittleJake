@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 12/19/2020.
 
 ### Hitokoto
 
-> 要是太勉强自己的话，总有一天会受伤的
+> 世界怎样与我无关，以我自己的意识！
 > 
-> ——吸血鬼骑士
+> ——机动战士高达00
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 16:18:37
+Autogen by LittleJake at 18:13:54
