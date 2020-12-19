@@ -4,10 +4,10 @@ Today is 12/19/2020.
 
 ### Hitokoto
 
-> 星星只有在夜里才璀璨夺目啊。
+> 我的终点，与幸福同在。
 > 
-> ——四月是你的谎言
+> ——AIR
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 08:11:40
+Autogen by LittleJake at 10:12:14
