@@ -4,10 +4,10 @@ Today is 12/19/2020.
 
 ### Hitokoto
 
-> 她有心，她的心在我这里。
+> 人只会看到自己想看到的、听到自己想听到的，我也并不例外。
 > 
-> ——人形电脑天使心
+> ——我的青春恋爱物语果然有问题
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 20:10:24
+Autogen by LittleJake at 22:11:32
