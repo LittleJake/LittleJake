@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 12/19/2020.
 
 ### Hitokoto
 
-> 你们人类让我明白了一个道理，那就是这个世界是不讲道理的
+> 你只见树，未见森林
 > 
-> ——刺客伍六七
+> ——火影忍者
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 04:12:40
+Autogen by LittleJake at 06:11:44
