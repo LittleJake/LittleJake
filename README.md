@@ -4,10 +4,10 @@ Today is 12/20/2020.
 
 ### Hitokoto
 
-> 应该可以了吧，我已经很努力了，应该可以抵达终点了……
+> 我不甘心，明明你为我做了那么多，我却什么都不能为你做。
 > 
-> ——AIR
+> ——四月是你的谎言
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 08:11:44
+Autogen by LittleJake at 10:11:03
