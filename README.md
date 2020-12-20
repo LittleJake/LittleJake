@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 12/19/2020.
+Today is 12/20/2020.
 
 ### Hitokoto
 
-> 人只会看到自己想看到的、听到自己想听到的，我也并不例外。
+> 我怕失去了你，我的世界就没有了光明
 > 
-> ——我的青春恋爱物语果然有问题
+> ——凸变英雄
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 22:11:32
+Autogen by LittleJake at 00:26:06
