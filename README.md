@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 12/20/2020.
 
 ### Hitokoto
 
-> 从你的前前前世开始，我就开始找寻你
+> 告白当天就要H什么的，真是没办法的男人呢。
 > 
-> ——你的名字
+> ——高坂桐乃
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 16:17:37
+Autogen by LittleJake at 18:14:05
