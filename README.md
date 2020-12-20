@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 12/20/2020.
 
 ### Hitokoto
 
-> 我不甘心，明明你为我做了那么多，我却什么都不能为你做。
+> 想象力是武器，没有想象力的人会先死。
 > 
-> ——四月是你的谎言
+> ——哥布林杀手
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 10:11:03
+Autogen by LittleJake at 12:13:21
