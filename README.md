@@ -4,10 +4,10 @@ Today is 12/20/2020.
 
 ### Hitokoto
 
-> 想象力是武器，没有想象力的人会先死。
+> 就算世界终结，也无所谓
 > 
-> ——哥布林杀手
+> ——少女终末旅行
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 12:13:21
+Autogen by LittleJake at 14:10:59
