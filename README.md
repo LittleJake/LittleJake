@@ -4,10 +4,10 @@ Today is 12/20/2020.
 
 ### Hitokoto
 
-> 樱花满地集于我心，楪舞纷飞祈愿相随
+> 有被杀的觉悟，才有资格开枪。
 > 
-> ——罪恶王冠
+> ——反叛的鲁路修
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 20:10:02
+Autogen by LittleJake at 22:12:04
