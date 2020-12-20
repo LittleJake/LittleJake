@@ -4,10 +4,10 @@ Today is 12/20/2020.
 
 ### Hitokoto
 
-> 努力不会背叛自己，虽然有时会背叛梦想
+> 应该可以了吧，我已经很努力了，应该可以抵达终点了……
 > 
-> ——我的青春恋爱物语果然有问题
+> ——AIR
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 06:11:18
+Autogen by LittleJake at 08:11:44
