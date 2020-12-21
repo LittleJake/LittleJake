@@ -4,10 +4,10 @@ Today is 12/21/2020.
 
 ### Hitokoto
 
-> 我只是个兴趣使然的英雄。
+> 不能逃避，不能逃避，不能逃避，不能逃避……
 > 
-> ——一拳超人
+> ——EVA
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 02:29:05
+Autogen by LittleJake at 04:15:37
