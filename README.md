@@ -4,10 +4,10 @@ Today is 12/21/2020.
 
 ### Hitokoto
 
-> 翠星石最喜欢苍星石的说,所以到死也要在一起的说...
+> 喜欢和不讨厌之间可是有着数亿光年的距离的。
 > 
-> ——Rozen Maiden
+> ——四月是你的谎言
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 08:12:42
+Autogen by LittleJake at 10:13:10
