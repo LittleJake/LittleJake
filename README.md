@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 12/21/2020.
 
 ### Hitokoto
 
-> 不能逃避，不能逃避，不能逃避，不能逃避……
+> 在弱者眼里可能是这样，不过，我的确很强。
 > 
-> ——EVA
+> ——蔷薇少女
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 04:15:37
+Autogen by LittleJake at 06:11:54
