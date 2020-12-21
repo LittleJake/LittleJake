@@ -4,10 +4,10 @@ Today is 12/21/2020.
 
 ### Hitokoto
 
-> 悲伤教会了我喜悦。
+> 即使你忘却了我，我也不会遗忘你。
 > 
-> ——秋之回忆
+> ——菜月昂
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 12:13:51
+Autogen by LittleJake at 14:12:05
