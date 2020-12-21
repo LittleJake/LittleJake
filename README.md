@@ -4,10 +4,10 @@ Today is 12/21/2020.
 
 ### Hitokoto
 
-> 在弱者眼里可能是这样，不过，我的确很强。
+> 翠星石最喜欢苍星石的说,所以到死也要在一起的说...
 > 
-> ——蔷薇少女
+> ——Rozen Maiden
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 06:11:54
+Autogen by LittleJake at 08:12:42
