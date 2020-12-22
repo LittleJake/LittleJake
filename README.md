@@ -4,10 +4,10 @@ Today is 12/22/2020.
 
 ### Hitokoto
 
-> 我的出生就是为了用鲜花将你淹没。
+> 我的内心就和厕纸一样单纯！
 > 
-> ——怪物Monster
+> ——Little Busters!
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 08:14:49
+Autogen by LittleJake at 10:17:01
