@@ -4,10 +4,10 @@ Today is 12/22/2020.
 
 ### Hitokoto
 
-> 我下定决心要当海贼王，就算因此而战死，那也无所谓。
+> 我的出生就是为了用鲜花将你淹没。
 > 
-> ——海贼王
+> ——怪物Monster
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 06:14:00
+Autogen by LittleJake at 08:14:49
