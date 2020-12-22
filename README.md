@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 12/22/2020.
 
 ### Hitokoto
 
-> 十步做一死，千里不留行，事了拂衣去，深藏功与名~
+> 我下定决心要当海贼王，就算因此而战死，那也无所谓。
 > 
-> ——侠客行
+> ——海贼王
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 04:17:47
+Autogen by LittleJake at 06:14:00
