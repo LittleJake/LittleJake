@@ -4,10 +4,10 @@ Today is 12/22/2020.
 
 ### Hitokoto
 
-> 哭也不会改变什么，这个世界从来不会对任何人温柔。
+> 纵使日薄西山。
 > 
-> ——黑执事
+> ——末日时在做什么
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 00:29:47
+Autogen by LittleJake at 02:33:15
