@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 12/22/2020.
 
 ### Hitokoto
 
-> 我的内心就和厕纸一样单纯！
+> 人类的赞歌就是勇气的赞歌。
 > 
-> ——Little Busters!
+> ——JOJO的奇妙冒险
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 10:17:01
+Autogen by LittleJake at 12:16:29
