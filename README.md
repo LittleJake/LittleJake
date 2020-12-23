@@ -4,10 +4,10 @@ Today is 12/23/2020.
 
 ### Hitokoto
 
-> 回家后我得好好找你人生咨询一下！
+> 如果你不能击败你的敌人，那么就加入他们。
 > 
-> ——高坂桐乃
+> ——加菲猫
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 06:14:06
+Autogen by LittleJake at 08:15:36
