@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 12/23/2020.
 
 ### Hitokoto
 
-> 木叶飞舞之处，火亦生生不息。
+> 回家后我得好好找你人生咨询一下！
 > 
-> ——火影忍者
+> ——高坂桐乃
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 04:19:48
+Autogen by LittleJake at 06:14:06
