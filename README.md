@@ -4,10 +4,10 @@ Today is 12/23/2020.
 
 ### Hitokoto
 
-> 青春是谎言，是邪恶。
+> 木叶飞舞之处，火亦生生不息。
 > 
-> ——春物
+> ——火影忍者
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 02:36:02
+Autogen by LittleJake at 04:19:48
