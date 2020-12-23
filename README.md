@@ -4,10 +4,10 @@ Today is 12/23/2020.
 
 ### Hitokoto
 
-> 有的鱼是永远关不住的，因为他们属于天空。
+> 告白当天就要H什么的，真是没办法的男人呢。
 > 
-> ——大鱼海棠
+> ——高坂桐乃
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 12:16:11
+Autogen by LittleJake at 14:13:57
