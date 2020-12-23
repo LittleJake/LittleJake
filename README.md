@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 12/23/2020.
 
 ### Hitokoto
 
-> 人生最糟糕的事，一个是饿肚子，一个是孤独。
+> 想哭的时候能哭出来，也是一种坚强
 > 
-> ——夏日大作战
+> ——翼年代记
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 16:24:53
+Autogen by LittleJake at 18:27:20
