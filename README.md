@@ -4,10 +4,10 @@ Today is 12/23/2020.
 
 ### Hitokoto
 
-> 不能逃避，不能逃避，不能逃避，不能逃避……
+> 青春是谎言，是邪恶。
 > 
-> ——EVA
+> ——春物
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 00:31:35
+Autogen by LittleJake at 02:36:02
