@@ -4,10 +4,10 @@ Today is 12/24/2020.
 
 ### Hitokoto
 
-> 我的梦想实现了，也留下了美好的回忆，我已经没有任何遗憾了。
+> 世界上哪有不会输的英雄啊
 > 
-> ——末日时在做什么?有没有空?可以来拯救吗?
+> ——凸变英雄
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 18:28:36
+Autogen by LittleJake at 20:12:48
