@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 12/23/2020.
+Today is 12/24/2020.
 
 ### Hitokoto
 
-> 彼方为谁，无我有问 ；九月露湿，待君之前
+> 我不会去统治这片大海，在这片大海上，最自由的人就是海贼王！
 > 
-> ——你的名字
+> ——海贼王
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 22:15:57
+Autogen by LittleJake at 00:34:29
