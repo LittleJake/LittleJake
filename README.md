@@ -4,10 +4,10 @@ Today is 12/24/2020.
 
 ### Hitokoto
 
-> 当你想做一件事，却无能为力的时候，是最痛苦的。
+> 世界上没有一个人能代替另一个人。
 > 
-> ——高达SEED
+> ——人型电脑天使心
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 06:15:26
+Autogen by LittleJake at 08:15:54
