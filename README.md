@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 12/24/2020.
 
 ### Hitokoto
 
-> Ko no Dio da!
+> 你们人类让我明白了一个道理，那就是这个世界是不讲道理的
 > 
-> ——JOJO的奇妙冒险
+> ——刺客伍六七
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 10:18:41
+Autogen by LittleJake at 12:16:11
