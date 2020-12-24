@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 12/24/2020.
 
 ### Hitokoto
 
-> 哦~
+> 当你想做一件事，却无能为力的时候，是最痛苦的。
 > 
-> ——袴田日向
+> ——高达SEED
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 04:22:00
+Autogen by LittleJake at 06:15:26
