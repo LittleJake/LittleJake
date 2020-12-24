@@ -4,10 +4,10 @@ Today is 12/24/2020.
 
 ### Hitokoto
 
-> 喜欢的人喜欢别人不是很正常吗。
+> 绝对要一起去吃拉面喵~
 > 
-> ——四月是你的谎言
+> ——星空凛
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 14:13:58
+Autogen by LittleJake at 16:25:37
