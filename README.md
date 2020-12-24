@@ -4,10 +4,10 @@ Today is 12/24/2020.
 
 ### Hitokoto
 
-> 你们人类让我明白了一个道理，那就是这个世界是不讲道理的
+> 喜欢的人喜欢别人不是很正常吗。
 > 
-> ——刺客伍六七
+> ——四月是你的谎言
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 12:16:11
+Autogen by LittleJake at 14:13:58
