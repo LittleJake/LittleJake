@@ -4,10 +4,10 @@ Today is 12/25/2020.
 
 ### Hitokoto
 
-> 这里有你,他现在只有我了。
+> 所谓爱情，是对对自己最重要的人，以慈悲的心保护他的想法。
 > 
-> ——罗小黑战记
+> ——火影忍者
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 20:09:54
+Autogen by LittleJake at 22:13:17
