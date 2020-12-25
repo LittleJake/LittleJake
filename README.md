@@ -4,10 +4,10 @@ Today is 12/25/2020.
 
 ### Hitokoto
 
-> 扎古不论怎么化妆都不可能变成高达的。
+> 人生没有彩排，只有现场直播，所以做最好的自己。
 > 
-> ——银魂
+> ——Internet
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 12:14:03
+Autogen by LittleJake at 14:11:17
