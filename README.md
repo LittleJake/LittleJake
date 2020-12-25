@@ -4,10 +4,10 @@ Today is 12/25/2020.
 
 ### Hitokoto
 
-> 千军万马滚滚来，不知何人留情怀！
+> 这里有你,他现在只有我了。
 > 
-> ——Other
+> ——罗小黑战记
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 18:23:12
+Autogen by LittleJake at 20:09:54
