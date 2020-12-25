@@ -4,10 +4,10 @@ Today is 12/25/2020.
 
 ### Hitokoto
 
-> 在虚构现实里寻求现实感的人才有问题
+> 想说什么就说，想做什么就做，我们不就是这么一直过来的吗？
 > 
-> ——凉宫春日的忧郁
+> ——LoveLive!
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 08:13:10
+Autogen by LittleJake at 10:15:13
