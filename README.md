@@ -4,10 +4,10 @@ Today is 12/25/2020.
 
 ### Hitokoto
 
-> 做不到的事没必要勉强去做，不也挺好吗？
+> 如果我不会飞，那我就只是一只普通的猪。
 > 
-> ——青春猪头少年不会梦到兔女郎学姐
+> ——红猪
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 00:31:52
+Autogen by LittleJake at 02:34:30
