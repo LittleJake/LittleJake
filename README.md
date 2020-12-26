@@ -4,10 +4,10 @@ Today is 12/26/2020.
 
 ### Hitokoto
 
-> 隐约雷鸣，阴霾天空，即使天无雨，我亦留此地。
+> 愿你有一天，能与你最重要的人重逢
 > 
-> ——言叶之庭
+> ——可塑性记忆
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 02:34:13
+Autogen by LittleJake at 04:17:20
