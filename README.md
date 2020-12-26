@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 12/26/2020.
 
 ### Hitokoto
 
-> 愿你有一天，能与你最重要的人重逢
+> 只要是正义的一方，无论手段多么卑鄙都可以被原谅
 > 
-> ——可塑性记忆
+> ——东京喰种
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 04:17:20
+Autogen by LittleJake at 06:11:57
