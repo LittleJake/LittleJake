@@ -4,10 +4,10 @@ Today is 12/26/2020.
 
 ### Hitokoto
 
-> 要改变别人的心真是件很难办的事，不过改变自己要容易一点。
+> 看似美好的东西，往往藏着陷阱。
 > 
-> ——XXXHolic
+> ——只有神知道的世界
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 18:23:25
+Autogen by LittleJake at 20:09:45
