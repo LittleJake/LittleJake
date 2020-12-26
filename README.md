@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 12/26/2020.
 
 ### Hitokoto
 
-> 干燥的冷气，尘埃的味道，我在其中……踏上旅途。
+> 要改变别人的心真是件很难办的事，不过改变自己要容易一点。
 > 
-> ——四月是你的谎言
+> ——XXXHolic
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 16:20:08
+Autogen by LittleJake at 18:23:25
