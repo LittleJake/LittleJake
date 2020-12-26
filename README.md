@@ -4,10 +4,10 @@ Today is 12/26/2020.
 
 ### Hitokoto
 
-> “把剑放下，成为本王的妻子吧。”
+> 我愿意呀，五十年前就愿意了。
 > 
-> ——fate/zero
+> ——狐妖小红娘
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 08:12:50
+Autogen by LittleJake at 10:15:06
