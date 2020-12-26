@@ -4,10 +4,10 @@ Today is 12/26/2020.
 
 ### Hitokoto
 
-> 看似美好的东西，往往藏着陷阱。
+> 死亡的尽头，没有神
 > 
-> ——只有神知道的世界
+> ——机动战士高达00:先驱者的觉醒
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 20:09:45
+Autogen by LittleJake at 22:13:20
