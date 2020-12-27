@@ -4,10 +4,10 @@ Today is 12/27/2020.
 
 ### Hitokoto
 
-> 话说回来，现充还真是麻烦啊。
+> 因为喜欢你，所以想继续相信下去。
 > 
-> ——我的青春恋爱物语果然有问题
+> ——空之境界
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 20:09:58
+Autogen by LittleJake at 22:13:46
