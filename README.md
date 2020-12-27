@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 12/27/2020.
 
 ### Hitokoto
 
-> 为了做一名真正的绅士，即使明知必输无疑，也要有勇气接受挑战！
+> 沒有永远下不停的雨。
 > 
-> ——JOJO的奇妙冒险
+> ——秋之回憶
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 04:18:21
+Autogen by LittleJake at 06:11:51
