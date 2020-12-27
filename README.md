@@ -4,10 +4,10 @@ Today is 12/27/2020.
 
 ### Hitokoto
 
-> 生命可以随心所欲，但不能随波逐流
+> 笨蛋,蠢货
 > 
-> ——猫的报恩
+> ——南千秋
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 12:13:53
+Autogen by LittleJake at 14:11:07
