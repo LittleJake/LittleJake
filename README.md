@@ -4,10 +4,10 @@ Today is 12/27/2020.
 
 ### Hitokoto
 
-> 沒有永远下不停的雨。
+> 我连宇宙尽头在哪里都不知道，怎么会知道这个。
 > 
-> ——秋之回憶
+> ——JOJO的奇妙冒险
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 06:11:51
+Autogen by LittleJake at 08:13:12
