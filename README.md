@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 12/27/2020.
 
 ### Hitokoto
 
-> 古往传奇多少别离，我 只是不经意 遇到了你
+> 生命可以随心所欲，但不能随波逐流
 > 
-> ——狐妖小红娘
+> ——猫的报恩
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 10:15:40
+Autogen by LittleJake at 12:13:53
