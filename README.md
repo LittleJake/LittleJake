@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 12/26/2020.
+Today is 12/27/2020.
 
 ### Hitokoto
 
-> 死亡的尽头，没有神
+> 在末日中，人们总想寻找希望，但要真有希望的话，那还叫末日吗？
 > 
-> ——机动战士高达00:先驱者的觉醒
+> ——灵笼
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 22:13:20
+Autogen by LittleJake at 00:32:24
