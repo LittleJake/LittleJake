@@ -4,10 +4,10 @@ Today is 12/27/2020.
 
 ### Hitokoto
 
-> 我连宇宙尽头在哪里都不知道，怎么会知道这个。
+> 古往传奇多少别离，我 只是不经意 遇到了你
 > 
-> ——JOJO的奇妙冒险
+> ——狐妖小红娘
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 08:13:12
+Autogen by LittleJake at 10:15:40
