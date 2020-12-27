@@ -4,10 +4,10 @@ Today is 12/27/2020.
 
 ### Hitokoto
 
-> 在末日中，人们总想寻找希望，但要真有希望的话，那还叫末日吗？
+> 不相信自己的人，连努力的价值都没有。
 > 
-> ——灵笼
+> ——火影忍者
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 00:32:24
+Autogen by LittleJake at 02:35:41
