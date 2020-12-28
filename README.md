@@ -4,10 +4,10 @@ Today is 12/28/2020.
 
 ### Hitokoto
 
-> 你知道雪为什么是白色的吗？因为她忘记了本来的颜色。
+> 我一直注视着你，似近，似远。但你永远，看不见我……
 > 
-> ——反叛的鲁路修
+> ——来自风平浪静的明天
 
 ![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 08:14:06
+Autogen by LittleJake at 10:17:02
