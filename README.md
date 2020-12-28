@@ -4,10 +4,10 @@ Today is 12/28/2020.
 
 ### Hitokoto
 
-> 梦想是一个天真的词，实现梦想是一个残酷的词
+> 你知道雪为什么是白色的吗？因为她忘记了本来的颜色。
 > 
-> ——哆啦A梦
+> ——反叛的鲁路修
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 06:13:06
+Autogen by LittleJake at 08:14:06
