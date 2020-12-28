@@ -4,10 +4,10 @@ Today is 12/28/2020.
 
 ### Hitokoto
 
-> 我知道的，面码……自己已经死掉这点事，还是知道的……
+> 不可结缘，徒留寂寞……
 > 
-> ——我们仍未知道那天所看见的花的名字
+> ——夏目友人帐
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 20:12:14
+Autogen by LittleJake at 22:14:53
