@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 12/28/2020.
 
 ### Hitokoto
 
-> 把同班的可爱女同学娶回家就是我最大的梦想
+> 痴情的妖怪啊,请再等一世吧。
 > 
-> ——月色真美
+> ——狐妖小红娘
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 16:22:43
+Autogen by LittleJake at 18:28:53
