@@ -4,10 +4,10 @@ Today is 12/28/2020.
 
 ### Hitokoto
 
-> 胜而不灭，霸而不辱，这才是真正的征服。
+> 只要能努力，就应当去努力；只要还能前进，就要向前走去。
 > 
-> ——fate zero
+> ——CLANNAD
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 02:36:39
+Autogen by LittleJake at 04:19:38
