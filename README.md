@@ -4,10 +4,10 @@ Today is 12/29/2020.
 
 ### Hitokoto
 
-> 只要引导着二人的两把命运之剑还在身边，我们就绝不会失败。
+> 我们不是狼，我们只是长着獠牙的羊......
 > 
-> ——刀剑神域
+> ——羊之歌
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 14:13:31
+Autogen by LittleJake at 16:26:04
