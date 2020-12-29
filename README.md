@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 12/28/2020.
+Today is 12/29/2020.
 
 ### Hitokoto
 
-> 不可结缘，徒留寂寞……
+> 少罗嗦，你还不如虫子呢！
 > 
-> ——夏目友人帐
+> ——迷糊餐厅
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 22:14:53
+Autogen by LittleJake at 00:33:42
