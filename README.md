@@ -4,10 +4,10 @@ Today is 12/29/2020.
 
 ### Hitokoto
 
-> 应该可以了吧，我已经很努力了，应该可以抵达终点了…
+> 一旦你尝试过天空的味道，你就会永远向上仰望
 > 
-> ——AIR
+> ——列奥那多·达芬奇
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 08:15:35
+Autogen by LittleJake at 10:19:08
