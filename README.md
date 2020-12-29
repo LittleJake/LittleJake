@@ -4,10 +4,10 @@ Today is 12/29/2020.
 
 ### Hitokoto
 
-> 从你站在桥上看我的 那一刻起你就是我的世界。
+> 以为大哭大闹一场就有人来安慰的家伙真是幸福呢。
 > 
-> ——火影忍者
+> ——龙与虎
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 02:37:38
+Autogen by LittleJake at 04:22:29
