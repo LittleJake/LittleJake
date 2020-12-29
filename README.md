@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 12/29/2020.
 
 ### Hitokoto
 
-> 以为大哭大闹一场就有人来安慰的家伙真是幸福呢。
+> 比自己，比梦想更重要的东西永远都存在着...
 > 
-> ——龙与虎
+> ——钢之炼金术师
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 04:22:29
+Autogen by LittleJake at 06:14:37
