@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 12/29/2020.
 
 ### Hitokoto
 
-> 一旦你尝试过天空的味道，你就会永远向上仰望
+> 隐约雷鸣，阴霾天空，但盼风雨来，能留你在此。
 > 
-> ——列奥那多·达芬奇
+> ——言叶之庭
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 10:19:08
+Autogen by LittleJake at 12:15:30
