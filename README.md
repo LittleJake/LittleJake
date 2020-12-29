@@ -4,10 +4,10 @@ Today is 12/29/2020.
 
 ### Hitokoto
 
-> 比自己，比梦想更重要的东西永远都存在着...
+> 应该可以了吧，我已经很努力了，应该可以抵达终点了…
 > 
-> ——钢之炼金术师
+> ——AIR
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 06:14:37
+Autogen by LittleJake at 08:15:35
