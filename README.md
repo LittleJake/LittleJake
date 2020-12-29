@@ -4,10 +4,10 @@ Today is 12/29/2020.
 
 ### Hitokoto
 
-> 隐约雷鸣，阴霾天空，但盼风雨来，能留你在此。
+> 只要引导着二人的两把命运之剑还在身边，我们就绝不会失败。
 > 
-> ——言叶之庭
+> ——刀剑神域
 
 ![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 12:15:30
+Autogen by LittleJake at 14:13:31
