@@ -4,10 +4,10 @@ Today is 12/29/2020.
 
 ### Hitokoto
 
-> 你的心可以属于耶稣，但你的屁股永远属于陆战队！
+> 曾经发生过的事情不可能忘记，只不过是想不起而已。
 > 
-> ——魔法少女陆战队
+> ——千与千寻
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 18:34:23
+Autogen by LittleJake at 20:15:25
