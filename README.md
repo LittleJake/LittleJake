@@ -4,10 +4,10 @@ Today is 12/29/2020.
 
 ### Hitokoto
 
-> 少罗嗦，你还不如虫子呢！
+> 从你站在桥上看我的 那一刻起你就是我的世界。
 > 
-> ——迷糊餐厅
+> ——火影忍者
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 00:33:42
+Autogen by LittleJake at 02:37:38
