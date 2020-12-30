@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 12/30/2020.
 
 ### Hitokoto
 
-> 人类的赞歌是勇气的赞歌，人类的伟大是勇气的伟大！
+> 廉价的自尊、粗劣的傲气，无论哪个后生小辈都很重视这些东西。
 > 
-> ——JOJO的奇妙冒险
+> ——狼与香辛料
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 04:21:53
+Autogen by LittleJake at 06:14:19
