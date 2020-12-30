@@ -4,10 +4,10 @@ Today is 12/30/2020.
 
 ### Hitokoto
 
-> 即便我弱了，也并不代表你强了。
+> 人类的赞歌就是勇气的赞歌
 > 
-> ——魔法禁书目录
+> ——JOJO的奇妙冒险
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 18:34:10
+Autogen by LittleJake at 20:15:45
