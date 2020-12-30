@@ -4,10 +4,10 @@ Today is 12/30/2020.
 
 ### Hitokoto
 
-> 只要是正义的一方，无论手段多么卑鄙都可以被原谅
+> 音无结弦之日 跃动天使之心 立于浮华之世 奏响天籁之音
 > 
-> ——东京喰种
+> ——Angel Beats!
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 14:13:10
+Autogen by LittleJake at 16:25:10
