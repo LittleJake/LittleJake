@@ -4,10 +4,10 @@ Today is 12/30/2020.
 
 ### Hitokoto
 
-> 只要呼唤你的名字，我们的牵绊就永远不会消逝。
+> 人啊...想要保护重要东西的时候，就真的能变得很坚强。
 > 
-> ——紫罗兰永恒花园外传：永远与自动手记人偶
+> ——火影忍者
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 08:15:37
+Autogen by LittleJake at 10:19:12
