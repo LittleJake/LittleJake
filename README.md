@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 12/31/2020.
 
 ### Hitokoto
 
-> 喜欢上你，爱上你，真是太好了，谢谢。
+> 无限接近于零，却又不等于零的可能性。
 > 
-> ——龙虎斗
+> ——游戏人生
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 10:23:35
+Autogen by LittleJake at 12:17:46
