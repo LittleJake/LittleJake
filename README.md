@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 12/31/2020.
 
 ### Hitokoto
 
-> 那些坚定决心的人们，会展现出好脸色。
+> 神啊 我的人生到底为何而存在呢
 > 
-> ——闪电十一人
+> ——蜂蜜与四叶草
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 04:24:46
+Autogen by LittleJake at 06:18:02
