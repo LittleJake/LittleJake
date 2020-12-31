@@ -4,10 +4,10 @@ Today is 12/31/2020.
 
 ### Hitokoto
 
-> 相信奇迹的人，本身就和奇迹一样了不起。
+> 十代目的意志就是我们的意志！
 > 
-> ——星游记
+> ——家庭教师
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 00:37:07
+Autogen by LittleJake at 02:40:44
