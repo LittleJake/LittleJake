@@ -4,10 +4,10 @@ Today is 12/31/2020.
 
 ### Hitokoto
 
-> 人生没有彩排，只有现场直播，所以做最好的自己。
+> 喜欢上你，爱上你，真是太好了，谢谢。
 > 
-> ——Internet
+> ——龙虎斗
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 08:19:27
+Autogen by LittleJake at 10:23:35
