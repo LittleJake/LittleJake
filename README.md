@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 12/31/2020.
 
 ### Hitokoto
 
-> 你驻足于春色中，于那独一无二的春色之中。
+> 相信十年后的八月，我们还会相遇。
 > 
-> ——四月是你的谎言
+> ——未闻花名
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 16:28:28
+Autogen by LittleJake at 18:36:57
