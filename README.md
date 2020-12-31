@@ -4,10 +4,10 @@ Today is 12/31/2020.
 
 ### Hitokoto
 
-> 难道我输了吗？
+> 你驻足于春色中，于那独一无二的春色之中。
 > 
-> ——火影忍者
+> ——四月是你的谎言
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 14:17:29
+Autogen by LittleJake at 16:28:28
