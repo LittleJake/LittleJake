@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 12/30/2020.
+Today is 12/31/2020.
 
 ### Hitokoto
 
-> 在排练的休息时间里要好好补充水分和盐分哦！
+> 相信奇迹的人，本身就和奇迹一样了不起。
 > 
-> ——三森铃子致海未
+> ——星游记
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 22:16:00
+Autogen by LittleJake at 00:37:07
