@@ -4,10 +4,10 @@ Today is 01/01/2021.
 
 ### Hitokoto
 
-> 明天的事，交给明天的我。
+> 只要万事俱备，就能一直保持冷静，无论发生什么事，都不会害怕。
 > 
-> ——一拳超人
+> ——银魂
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 20:14:27
+Autogen by LittleJake at 22:15:38
