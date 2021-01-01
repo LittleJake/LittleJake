@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 01/01/2021.
 
 ### Hitokoto
 
-> Star Burst Stream!
+> 青春是谎言，是邪恶。
 > 
-> ——刀剑神域
+> ——春物
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 04:23:00
+Autogen by LittleJake at 06:15:32
