@@ -4,10 +4,10 @@ Today is 01/01/2021.
 
 ### Hitokoto
 
-> 我不甘心，明明你为我做了那么多，我却什么都不能为你做。
+> 如果你是魔女，我只要化身魔王就可以了。
 > 
-> ——四月是你的谎言
+> ——反叛的鲁鲁修
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 14:14:19
+Autogen by LittleJake at 16:25:41
