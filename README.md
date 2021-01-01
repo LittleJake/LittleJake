@@ -4,10 +4,10 @@ Today is 01/01/2021.
 
 ### Hitokoto
 
-> 因为喜欢你，所以想继续相信下去。
+> Star Burst Stream!
 > 
-> ——空之境界
+> ——刀剑神域
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 02:42:26
+Autogen by LittleJake at 04:23:00
