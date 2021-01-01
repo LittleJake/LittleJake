@@ -4,10 +4,10 @@ Today is 01/01/2021.
 
 ### Hitokoto
 
-> 既然今天是昨天，那么睡到明天就好。
+> 因为喜欢你，所以想继续相信下去。
 > 
-> ——青春猪头少年不会梦到兔女郎学姐
+> ——空之境界
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 00:36:45
+Autogen by LittleJake at 02:42:26
