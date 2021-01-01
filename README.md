@@ -4,10 +4,10 @@ Today is 01/01/2021.
 
 ### Hitokoto
 
-> 你是否会等待着我?我还想变的更加完美...
+> 明天的事，交给明天的我。
 > 
-> ——LoveLive!Sunshine!
+> ——一拳超人
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 18:32:10
+Autogen by LittleJake at 20:14:27
