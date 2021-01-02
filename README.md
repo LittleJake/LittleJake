@@ -4,10 +4,10 @@ Today is 01/02/2021.
 
 ### Hitokoto
 
-> 我对Darling啊，最喜欢了。我们从今以后，都要在一起哦。
+> 龙儿是我的，谁都不准碰！
 > 
-> ——Darling in the FRANXX
+> ——龙虎斗
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 18:30:55
+Autogen by LittleJake at 20:13:48
