@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 01/02/2021.
 
 ### Hitokoto
 
-> 超频链接
+> 我对Darling啊，最喜欢了。我们从今以后，都要在一起哦。
 > 
-> ——加速世界
+> ——Darling in the FRANXX
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 16:24:22
+Autogen by LittleJake at 18:30:55
