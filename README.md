@@ -4,10 +4,10 @@ Today is 01/02/2021.
 
 ### Hitokoto
 
-> 人难免伤害别人,也难免受伤,不过,人是不会轻易讨厌别人的.
+> 希望老师像帮我一样帮帮れいジ
 > 
-> ——火影忍者
+> ——九重凛
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 00:35:33
+Autogen by LittleJake at 02:39:41
