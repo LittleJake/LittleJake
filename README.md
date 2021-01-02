@@ -4,10 +4,10 @@ Today is 01/02/2021.
 
 ### Hitokoto
 
-> 不得了不得了
+> 超频链接
 > 
-> ——小林家的龙女仆
+> ——加速世界
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 16:09:46
+Autogen by LittleJake at 16:24:22
