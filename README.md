@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 01/03/2021.
 
 ### Hitokoto
 
-> 无论乌云有多浓厚，星星也一定还在，只是暂时看不到了而已。
+> 追寻只是因为无法抓获，想要触碰，只是因为知道自己触碰不到。
 > 
-> ——电波女与青春男
+> ——FLCL Progressive
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 04:23:59
+Autogen by LittleJake at 06:15:51
