@@ -4,10 +4,10 @@ Today is 01/03/2021.
 
 ### Hitokoto
 
-> (눈_눈)
+> 我是为了与你相见才诞生于世的。
 > 
-> ——进击的巨人
+> ——EVA
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 14:13:16
+Autogen by LittleJake at 16:25:34
