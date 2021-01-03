@@ -4,10 +4,10 @@ Today is 01/03/2021.
 
 ### Hitokoto
 
-> 如果把那一端的敌人全部杀掉的话，我们就能自由了吗？
+> 苹果是给那些为了爱选择死亡的人的奖励
 > 
-> ——进击的巨人
+> ——回转企鹅罐
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 18:31:28
+Autogen by LittleJake at 20:15:09
