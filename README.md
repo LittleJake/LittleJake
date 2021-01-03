@@ -4,10 +4,10 @@ Today is 01/03/2021.
 
 ### Hitokoto
 
-> 苹果是给那些为了爱选择死亡的人的奖励
+> 倘若只是为了驱赶心中的寂寞，找谁都可以的。
 > 
-> ——回转企鹅罐
+> ——秒速5厘米
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 20:15:09
+Autogen by LittleJake at 22:16:15
