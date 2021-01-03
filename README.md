@@ -4,10 +4,10 @@ Today is 01/03/2021.
 
 ### Hitokoto
 
-> 话说回来，现充还真是麻烦啊。
+> (눈_눈)
 > 
-> ——我的青春恋爱物语果然有问题
+> ——进击的巨人
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 12:15:11
+Autogen by LittleJake at 14:13:16
