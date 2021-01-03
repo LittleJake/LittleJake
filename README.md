@@ -4,10 +4,10 @@ Today is 01/03/2021.
 
 ### Hitokoto
 
-> 人是可以改变一切的，世上的一切。
+> 哭过喊过便会停止哭泣
 > 
-> ——吹响！上低音号
+> ——从零开始的异世界生活
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 08:17:29
+Autogen by LittleJake at 10:20:59
