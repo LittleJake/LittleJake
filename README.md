@@ -4,10 +4,10 @@ Today is 01/03/2021.
 
 ### Hitokoto
 
-> 追寻只是因为无法抓获，想要触碰，只是因为知道自己触碰不到。
+> 人是可以改变一切的，世上的一切。
 > 
-> ——FLCL Progressive
+> ——吹响！上低音号
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 06:15:51
+Autogen by LittleJake at 08:17:29
