@@ -4,10 +4,10 @@ Today is 01/04/2021.
 
 ### Hitokoto
 
-> 如果结果不如你所愿，就在尘埃落定前奋力一搏。
+> 我的腿让我停下，可是心却不允许我那么做。
 > 
-> ——夏目友人帐
+> ——钢之炼金术师
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 06:17:52
+Autogen by LittleJake at 08:20:59
