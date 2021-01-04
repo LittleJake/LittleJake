@@ -4,10 +4,10 @@ Today is 01/04/2021.
 
 ### Hitokoto
 
-> 我的腿让我停下，可是心却不允许我那么做。
+> 世界不完美 所以才显得美丽
 > 
-> ——钢之炼金术师
+> ——钢之炼金术士
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 08:20:59
+Autogen by LittleJake at 10:24:07
