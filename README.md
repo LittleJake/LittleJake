@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 01/04/2021.
 
 ### Hitokoto
 
-> 用我的左手将你那个不可理喻的幻想粉碎掉！
+> 如果结果不如你所愿，就在尘埃落定前奋力一搏。
 > 
-> ——魔法禁书目录
+> ——夏目友人帐
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 04:25:53
+Autogen by LittleJake at 06:17:52
