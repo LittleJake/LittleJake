@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 01/04/2021.
 
 ### Hitokoto
 
-> 世界不完美 所以才显得美丽
+> 粉色蓝宝石的宝石语是「献给弱者的正义」。
 > 
-> ——钢之炼金术士
+> ——宝石商人理查德的谜鉴定
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 10:24:07
+Autogen by LittleJake at 12:16:30
