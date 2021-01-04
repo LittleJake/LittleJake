@@ -4,10 +4,10 @@ Today is 01/04/2021.
 
 ### Hitokoto
 
-> 在虚构现实里寻求现实感的人才有问题
+> 用我的左手将你那个不可理喻的幻想粉碎掉！
 > 
-> ——凉宫春日的忧郁
+> ——魔法禁书目录
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 02:45:38
+Autogen by LittleJake at 04:25:53
