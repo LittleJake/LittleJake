@@ -4,10 +4,10 @@ Today is 01/04/2021.
 
 ### Hitokoto
 
-> 能哭的地方只有厕所和爸爸的怀里。
+> 我喜欢的人…也能喜欢上自己，我认为这就是奇迹。
 > 
-> ——Clannad
+> ——月色真美
 
 ![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 14:17:14
+Autogen by LittleJake at 16:27:29
