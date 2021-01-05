@@ -4,10 +4,10 @@ Today is 01/05/2021.
 
 ### Hitokoto
 
-> 我愿意呀，五十年前就愿意了。
+> 没有期盼就不会出现奇迹。
 > 
-> ——狐妖小红娘
+> ——古城荆棘王
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 18:35:11
+Autogen by LittleJake at 20:16:58
