@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 01/05/2021.
 
 ### Hitokoto
 
-> 我不知道离别的滋味是这样凄凉，我不知道说声再见要这么坚强。
+> 我愿意呀，五十年前就愿意了。
 > 
-> ——千与千寻
+> ——狐妖小红娘
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 16:32:51
+Autogen by LittleJake at 18:35:11
