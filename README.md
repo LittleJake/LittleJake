@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 01/04/2021.
+Today is 01/05/2021.
 
 ### Hitokoto
 
-> 越是试着忘记，越是记得深刻。
+> 所谓人，无论是谁到了最后，都会形单影只。
 > 
-> ——天空之城
+> ——悠久之翼2
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 22:16:24
+Autogen by LittleJake at 00:38:43
