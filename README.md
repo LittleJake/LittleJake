@@ -4,10 +4,10 @@ Today is 01/05/2021.
 
 ### Hitokoto
 
-> 有的鱼是永远关不住的，因为他们属于天空。
+> 败者死于绝望，胜者死于渴望。
 > 
-> ——大鱼海棠
+> ——戏言系列
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 06:17:50
+Autogen by LittleJake at 08:20:47
