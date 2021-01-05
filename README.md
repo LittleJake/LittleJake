@@ -4,10 +4,10 @@ Today is 01/05/2021.
 
 ### Hitokoto
 
-> 如果说现在的日子过得很穷困，那我就去喜欢上穷困。
+> 电助！凉子，看到了吗！
 > 
-> ——隐瞒之事
+> ——电脑线圈
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 12:16:35
+Autogen by LittleJake at 14:16:45
