@@ -4,10 +4,10 @@ Today is 01/05/2021.
 
 ### Hitokoto
 
-> 男人从小的时候就是无药可救的。
+> 美好的事情，现在才开始呐。
 > 
-> ——秋之回忆
+> ——Clannad
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 02:46:22
+Autogen by LittleJake at 04:26:34
