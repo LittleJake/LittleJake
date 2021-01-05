@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 01/05/2021.
 
 ### Hitokoto
 
-> 扎古不论怎么化妆都不可能变成高达的。
+> 如果说现在的日子过得很穷困，那我就去喜欢上穷困。
 > 
-> ——银魂
+> ——隐瞒之事
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 10:24:17
+Autogen by LittleJake at 12:16:35
