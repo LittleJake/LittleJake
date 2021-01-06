@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 01/06/2021.
 
 ### Hitokoto
 
-> 君の名を 今追いかけるよ
+> 我是要成为海贼王的男人！
 > 
-> ——君の名は。
+> ——海贼王
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 10:25:29
+Autogen by LittleJake at 12:17:03
