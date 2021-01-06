@@ -4,10 +4,10 @@ Today is 01/06/2021.
 
 ### Hitokoto
 
-> 不服从命令的人是人渣，抛弃同伴的人连人渣都不如。
+> 即使想放弃，也没法放弃最想要的东西，这就是人
 > 
-> ——火影忍者
+> ——悠久之翼
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 00:38:45
+Autogen by LittleJake at 02:47:21
