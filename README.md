@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 01/06/2021.
 
 ### Hitokoto
 
-> 规则是用来被打破的。
+> 男人至死都是少年
 > 
-> ——机械公敌
+> ——银魂
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 16:29:04
+Autogen by LittleJake at 18:36:34
