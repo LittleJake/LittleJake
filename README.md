@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 01/07/2021.
 
 ### Hitokoto
 
-> 其实我对混合咖啡还是很有自信的
+> 挚友的执念烙印此身，无尽的黑暗化为光明，天上天下，一骑当神！
 > 
-> ——珈百璃的堕落
+> ——天元突破：红莲螺岩
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 10:25:55
+Autogen by LittleJake at 12:17:04
