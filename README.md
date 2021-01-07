@@ -4,10 +4,10 @@ Today is 01/07/2021.
 
 ### Hitokoto
 
-> 挚友的执念烙印此身，无尽的黑暗化为光明，天上天下，一骑当神！
+> 明天的事，交给明天的我。
 > 
-> ——天元突破：红莲螺岩
+> ——一拳超人
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 12:17:04
+Autogen by LittleJake at 14:17:55
