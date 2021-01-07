@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 01/06/2021.
+Today is 01/07/2021.
 
 ### Hitokoto
 
-> Exia，驱逐目标！
+> 我除了投三分，就什么都没有了……
 > 
-> ——机动战士高达00
+> ——灌篮高手
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 22:17:31
+Autogen by LittleJake at 00:42:01
