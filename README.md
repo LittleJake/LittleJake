@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 01/08/2021.
 
 ### Hitokoto
 
-> 没有偶然的必然，只有必然的偶然
+> (」・ω・)」うー！(／・ω・)／にゃー！
 > 
-> ——魔卡少女樱
+> ——潜行吧奈亚子
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 04:30:54
+Autogen by LittleJake at 06:21:20
