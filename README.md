@@ -4,10 +4,10 @@ Today is 01/08/2021.
 
 ### Hitokoto
 
-> 有些景色必须前进才能看到，那么只有勇往直前。
+> 没有偶然的必然，只有必然的偶然
 > 
-> ——如果有个妹妹就好了
+> ——魔卡少女樱
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 02:50:44
+Autogen by LittleJake at 04:30:54
