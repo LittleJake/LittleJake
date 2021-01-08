@@ -4,10 +4,10 @@ Today is 01/08/2021.
 
 ### Hitokoto
 
-> 所谓的「改变自己，世界就会随之改变」这种事，是不可能的。
+> 必须洗净一切往事，否则你永远无法清楚自由地看这个世界
 > 
-> ——我的青春恋爱物语果然有问题
+> ——死神
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 08:22:20
+Autogen by LittleJake at 10:27:07
