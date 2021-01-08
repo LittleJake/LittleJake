@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 01/07/2021.
+Today is 01/08/2021.
 
 ### Hitokoto
 
-> 人类的赞歌就是勇气的赞歌。
+> 没有一封信是不必被送达的。
 > 
-> ——JOJO的奇妙冒险
+> ——紫罗兰永恒花园
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 22:17:36
+Autogen by LittleJake at 00:41:24
