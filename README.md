@@ -4,10 +4,10 @@ Today is 01/09/2021.
 
 ### Hitokoto
 
-> 前天是小兔子，昨天是小鹿，今天是你。
+> 已经无法回到过去了。也不知道将来会是什么模样。
 > 
-> ——CLANNAD
+> ——文学少女
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 00:41:27
+Autogen by LittleJake at 02:50:59
