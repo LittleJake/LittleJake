@@ -4,10 +4,10 @@ Today is 01/09/2021.
 
 ### Hitokoto
 
-> 已经无法回到过去了。也不知道将来会是什么模样。
+> 虚伪的眼泪，会伤害别人，虚伪的笑容，会伤害自己。
 > 
-> ——文学少女
+> ——叛逆的鲁鲁修
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 02:50:59
+Autogen by LittleJake at 04:32:40
