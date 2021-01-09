@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 01/09/2021.
 
 ### Hitokoto
 
-> 虚伪的眼泪，会伤害别人，虚伪的笑容，会伤害自己。
+> 不能逃避，不能逃避，不能逃避，不能逃避……
 > 
-> ——叛逆的鲁鲁修
+> ——EVA
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 04:32:40
+Autogen by LittleJake at 06:23:03
