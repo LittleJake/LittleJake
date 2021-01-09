@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 01/08/2021.
+Today is 01/09/2021.
 
 ### Hitokoto
 
-> 努力是不会背叛自己的，虽然梦想有时会背叛自己。
+> 前天是小兔子，昨天是小鹿，今天是你。
 > 
-> ——我的青春恋爱物语果然有问题
+> ——CLANNAD
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 22:19:43
+Autogen by LittleJake at 00:41:27
