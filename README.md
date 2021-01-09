@@ -4,10 +4,10 @@ Today is 01/09/2021.
 
 ### Hitokoto
 
-> 为了终止绝望的连锁，希望她能化为照亮正确道路的灯火。
+> 隐约雷鸣，阴霾天空，但盼风雨来，能留你在此。
 > 
-> ——Re：从零开始的异世界生活
+> ——言叶之庭
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 14:17:57
+Autogen by LittleJake at 16:32:04
