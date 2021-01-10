@@ -4,10 +4,10 @@ Today is 01/10/2021.
 
 ### Hitokoto
 
-> 沒有永远下不停的雨。
+> 一定要保护自己的梦想，即使牺牲一切。
 > 
-> ——秋之回憶
+> ——NANA
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 20:19:05
+Autogen by LittleJake at 22:19:04
