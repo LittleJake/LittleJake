@@ -4,10 +4,10 @@ Today is 01/10/2021.
 
 ### Hitokoto
 
-> 明明只是活着，哀伤却无处不在……
+> 给我高高的飞起来啊！
 > 
-> ——秒速五厘米
+> ——星游记
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 02:55:11
+Autogen by LittleJake at 04:34:41
