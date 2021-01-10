@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 01/10/2021.
 
 ### Hitokoto
 
-> 给我高高的飞起来啊！
+> 把同班的可爱女同学娶回家就是我最大的梦想
 > 
-> ——星游记
+> ——月色真美
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 04:34:41
+Autogen by LittleJake at 06:25:04
