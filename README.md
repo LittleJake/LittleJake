@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 01/09/2021.
+Today is 01/10/2021.
 
 ### Hitokoto
 
-> 理解何为孤单，努力想得到爱的你，内心的悲伤是否稍微宣泄了呢？
+> 人就是要以自卑为跳板才能跳得更高。
 > 
-> ——夏目友人帐
+> ——银魂
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 22:20:31
+Autogen by LittleJake at 00:43:31
