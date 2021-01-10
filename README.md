@@ -4,10 +4,10 @@ Today is 01/10/2021.
 
 ### Hitokoto
 
-> 人就是要以自卑为跳板才能跳得更高。
+> 明明只是活着，哀伤却无处不在……
 > 
-> ——银魂
+> ——秒速五厘米
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 00:43:31
+Autogen by LittleJake at 02:55:11
