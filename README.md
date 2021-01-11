@@ -4,10 +4,10 @@ Today is 01/11/2021.
 
 ### Hitokoto
 
-> 你受伤的时候，我永远都在。
+> 我知道的，面码…自己已经死掉这点事，还是知道的…
 > 
-> ——多啦A梦
+> ——我们仍未知道那天所看见的花的名字
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 08:26:37
+Autogen by LittleJake at 10:32:48
