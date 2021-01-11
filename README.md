@@ -4,10 +4,10 @@ Today is 01/11/2021.
 
 ### Hitokoto
 
-> 喂，前面可是地狱啊！おい、この先は地狱だぜ！
+> 哭泣并不能改变任何事情。
 > 
-> ——Fate/stay night
+> ——推理之绊
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 14:22:47
+Autogen by LittleJake at 16:31:12
