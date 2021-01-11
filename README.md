@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 01/11/2021.
 
 ### Hitokoto
 
-> 我知道的，面码…自己已经死掉这点事，还是知道的…
+> 起风了,唯有努力生存。
 > 
-> ——我们仍未知道那天所看见的花的名字
+> ——起风了
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 10:32:48
+Autogen by LittleJake at 12:23:35
