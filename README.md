@@ -4,10 +4,10 @@ Today is 01/11/2021.
 
 ### Hitokoto
 
-> 我相信十年后的八月，我们还能再相遇。
+> 你受伤的时候，我永远都在。
 > 
-> ——secret base ～君がくれたもの～
+> ——多啦A梦
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 06:26:12
+Autogen by LittleJake at 08:26:37
