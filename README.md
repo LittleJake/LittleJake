@@ -4,10 +4,10 @@ Today is 01/11/2021.
 
 ### Hitokoto
 
-> 一天最大任务莫过于，好好睡觉，好好醒来。
+> 有些梦想虽然遥不可及，但不是不可能实现。只要我足够的强。
 > 
-> ——火影忍者
+> ——秦时明月
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 20:22:37
+Autogen by LittleJake at 22:23:19
