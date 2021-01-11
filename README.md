@@ -4,10 +4,10 @@ Today is 01/11/2021.
 
 ### Hitokoto
 
-> 你已经不是我的狗了。
+> 没问题，绝对没问题
 > 
-> ——龙与虎
+> ——木之本樱（无敌咒语）
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 02:55:14
+Autogen by LittleJake at 04:34:46
