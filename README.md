@@ -4,10 +4,10 @@ Today is 01/12/2021.
 
 ### Hitokoto
 
-> 在时间的流逝里，没有什么是一成不变的。
+> Ex - ploooosion !
 > 
-> ——CLANNAD ～AFTER STORY～
+> ——为美好的世界献上祝福
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 00:46:06
+Autogen by LittleJake at 02:57:14
