@@ -4,10 +4,10 @@ Today is 01/12/2021.
 
 ### Hitokoto
 
-> 算了，和你说话感觉就像是大姨妈来了。
+> 有时语言就像把利刃，使用不当，就会成为凶器。
 > 
-> ——龙虎斗
+> ——名侦探柯南
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 20:27:43
+Autogen by LittleJake at 22:26:21
