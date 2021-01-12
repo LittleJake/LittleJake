@@ -4,10 +4,10 @@ Today is 01/12/2021.
 
 ### Hitokoto
 
-> 知识是很美的，它们可以让你不出家门就了解这世上的许多事。
+> 人没有回忆是无法活下去的哟
 > 
-> ——妖精的尾巴
+> ——AIR
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 14:25:26
+Autogen by LittleJake at 16:39:22
