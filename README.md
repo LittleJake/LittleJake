@@ -4,10 +4,10 @@ Today is 01/12/2021.
 
 ### Hitokoto
 
-> 我不努力，就见不到你了啊。
+> 算了，和你说话感觉就像是大姨妈来了。
 > 
-> ——昨日之歌
+> ——龙虎斗
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 18:43:35
+Autogen by LittleJake at 20:27:43
