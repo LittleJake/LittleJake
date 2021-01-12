@@ -4,10 +4,10 @@ Today is 01/12/2021.
 
 ### Hitokoto
 
-> 她有心，她的心在我这里。
+> (」・ω・)」うー！(／・ω・)／にゃー！
 > 
-> ——人形电脑天使心
+> ——潜行吧奈亚子
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 06:26:58
+Autogen by LittleJake at 08:28:16
