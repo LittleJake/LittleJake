@@ -4,10 +4,10 @@ Today is 01/12/2021.
 
 ### Hitokoto
 
-> Ex - ploooosion !
+> 就算是自私⋯⋯我也希望那些人能够永远都有笑容⋯⋯
 > 
-> ——为美好的世界献上祝福
+> ——夏目友人帐
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 02:57:14
+Autogen by LittleJake at 04:34:07
