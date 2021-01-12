@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 01/11/2021.
+Today is 01/12/2021.
 
 ### Hitokoto
 
-> 有些梦想虽然遥不可及，但不是不可能实现。只要我足够的强。
+> 在时间的流逝里，没有什么是一成不变的。
 > 
-> ——秦时明月
+> ——CLANNAD ～AFTER STORY～
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 22:23:19
+Autogen by LittleJake at 00:46:06
