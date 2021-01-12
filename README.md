@@ -4,10 +4,10 @@ Today is 01/12/2021.
 
 ### Hitokoto
 
-> 是个男人就要对自己的人生负责
+> 知识是很美的，它们可以让你不出家门就了解这世上的许多事。
 > 
-> ——麻辣教师
+> ——妖精的尾巴
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 12:24:20
+Autogen by LittleJake at 14:25:26
