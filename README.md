@@ -4,10 +4,10 @@ Today is 01/13/2021.
 
 ### Hitokoto
 
-> 我的愿望是—幸福地活着，幸福地死去。
+> 只要努力活下去，总有一天会笑着回忆。
 > 
-> ——神不在的星期天
+> ——不可思议游戏
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 08:35:30
+Autogen by LittleJake at 10:41:31
