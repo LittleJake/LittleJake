@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 01/13/2021.
 
 ### Hitokoto
 
-> 不得了不得了
+> 我这个人呀，能过着这样平凡普通的日子就很开心了。
 > 
-> ——小林家的龙女仆
+> ——我想吃掉你的胰脏
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 16:43:18
+Autogen by LittleJake at 18:52:30
