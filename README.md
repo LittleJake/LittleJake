@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 01/12/2021.
+Today is 01/13/2021.
 
 ### Hitokoto
 
-> 有时语言就像把利刃，使用不当，就会成为凶器。
+> 我会化作人间的风雨陪在你的身边
 > 
-> ——名侦探柯南
+> ——大鱼海棠
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 22:26:21
+Autogen by LittleJake at 00:52:04
