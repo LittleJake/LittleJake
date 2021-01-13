@@ -4,10 +4,10 @@ Today is 01/13/2021.
 
 ### Hitokoto
 
-> 今天不想做，所以才要做
+> 我的愿望是—幸福地活着，幸福地死去。
 > 
-> ——春上村树
+> ——神不在的星期天
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 06:32:49
+Autogen by LittleJake at 08:35:30
