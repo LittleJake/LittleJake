@@ -4,10 +4,10 @@ Today is 01/13/2021.
 
 ### Hitokoto
 
-> 我要拼，装上假牙也要拼！
+> 给我高高的飞起来啊！
 > 
-> ——灌篮高手
+> ——星游记
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 12:32:14
+Autogen by LittleJake at 14:34:37
