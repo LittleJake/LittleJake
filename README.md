@@ -4,10 +4,10 @@ Today is 01/14/2021.
 
 ### Hitokoto
 
-> 我到底要以怎么样的速度生活才能与你再次相遇？
+> 真正的危机不是机器人像人一样思考，而是人像机器一样思考。
 > 
-> ——秒速五厘米
+> ——凉宫春日的忧郁
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 06:35:23
+Autogen by LittleJake at 08:35:46
