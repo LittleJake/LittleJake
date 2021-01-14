@@ -4,10 +4,10 @@ Today is 01/14/2021.
 
 ### Hitokoto
 
-> 所谓的「改变自己，世界就会随之改变」这种事，是不可能的。
+> 目标是以科学的力量凌驾于超能力之上，为了伯伦希尔的荣耀。
 > 
-> ——我的青春恋爱物语果然有问题
+> ——小绿和小蓝
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 03:05:17
+Autogen by LittleJake at 04:37:26
