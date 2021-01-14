@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 01/14/2021.
 
 ### Hitokoto
 
-> 正因为听不见和看不到，所以风子才会做这样的事情。
+> 我们不是大人，而是同学吧。
 > 
-> ——clannad
+> ——恋如雨止
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 10:42:19
+Autogen by LittleJake at 12:30:54
