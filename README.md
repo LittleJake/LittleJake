@@ -4,10 +4,10 @@ Today is 01/14/2021.
 
 ### Hitokoto
 
-> 我会继续等着你，就算是一万二千年。
+> 只要一天活著,难过的事总有一天会让你笑著说出来。
 > 
-> ——创圣的大天使EVOL
+> ——天空之城
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 18:49:16
+Autogen by LittleJake at 20:32:27
