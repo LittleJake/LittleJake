@@ -4,10 +4,10 @@ Today is 01/14/2021.
 
 ### Hitokoto
 
-> 真正的危机不是机器人像人一样思考，而是人像机器一样思考。
+> 正因为听不见和看不到，所以风子才会做这样的事情。
 > 
-> ——凉宫春日的忧郁
+> ——clannad
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 08:35:46
+Autogen by LittleJake at 10:42:19
