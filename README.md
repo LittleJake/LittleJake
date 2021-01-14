@@ -4,10 +4,10 @@ Today is 01/14/2021.
 
 ### Hitokoto
 
-> 因为我...我希望不做任何的努力，让对方喜欢上最真实的我。
+> みんなで作る、最高のライブ！
 > 
-> ——女高中生的无所事事
+> ——LoveLive! The School idol Movie
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 14:33:53
+Autogen by LittleJake at 16:43:15
