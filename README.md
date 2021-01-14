@@ -4,10 +4,10 @@ Today is 01/14/2021.
 
 ### Hitokoto
 
-> 只要一天活著,难过的事总有一天会让你笑著说出来。
+> 所谓的言语，只有当对方听进去了才开始有意义啊。
 > 
-> ——天空之城
+> ——少年同盟
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 20:32:27
+Autogen by LittleJake at 22:27:43
