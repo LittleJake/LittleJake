@@ -4,10 +4,10 @@ Today is 01/14/2021.
 
 ### Hitokoto
 
-> 我们不是大人，而是同学吧。
+> 因为我...我希望不做任何的努力，让对方喜欢上最真实的我。
 > 
-> ——恋如雨止
+> ——女高中生的无所事事
 
 ![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 12:30:54
+Autogen by LittleJake at 14:33:53
