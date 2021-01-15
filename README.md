@@ -4,10 +4,10 @@ Today is 01/15/2021.
 
 ### Hitokoto
 
-> 世界は恋に落ちている。
+> 不是我，都是社会的错
 > 
-> ——青春之旅OP（我的世界已坠入爱河）
+> ——我的青春恋爱物语果然有问题
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 20:34:00
+Autogen by LittleJake at 22:29:59
