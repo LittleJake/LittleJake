@@ -4,10 +4,10 @@ Today is 01/15/2021.
 
 ### Hitokoto
 
-> 我不做人了！
+> 我最喜欢三月的风，四月的雨，不落的太阳和最好的你
 > 
-> ——JOJO的奇妙冒险
+> ——闺密
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 06:31:51
+Autogen by LittleJake at 08:33:11
