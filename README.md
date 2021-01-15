@@ -4,10 +4,10 @@ Today is 01/15/2021.
 
 ### Hitokoto
 
-> 要改变别人的心真是件很难办的事，不过改变自己要容易一点。
+> 世界は恋に落ちている。
 > 
-> ——XXXHolic
+> ——青春之旅OP（我的世界已坠入爱河）
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 18:48:52
+Autogen by LittleJake at 20:34:00
