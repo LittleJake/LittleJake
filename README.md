@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 01/16/2021.
 
 ### Hitokoto
 
-> 不相信自己的人，连努力的价值都没有。
+> 不动身的话就永远无法追寻，哪怕是休息也不会就此停下。
 > 
-> ——火影忍者
+> ——Aqours
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 04:36:11
+Autogen by LittleJake at 06:32:40
