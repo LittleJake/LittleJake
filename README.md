@@ -4,10 +4,10 @@ Today is 01/16/2021.
 
 ### Hitokoto
 
-> 活下去的意志是最强的力量！
+> 因为我喜欢你，喜欢得想吃掉你啊！
 > 
-> ——浪客剑心
+> ——有顶天家族
 
 ![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 14:30:27
+Autogen by LittleJake at 16:39:34
