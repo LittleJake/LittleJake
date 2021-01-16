@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 01/16/2021.
 
 ### Hitokoto
 
-> 生命可以随心所欲，但不能随波逐流
+> 大部分人并不想长大 只是没办法继续当一个小孩子。
 > 
-> ——猫的报恩
+> ——小林家的龙女仆
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 10:39:41
+Autogen by LittleJake at 12:29:00
