@@ -4,10 +4,10 @@ Today is 01/16/2021.
 
 ### Hitokoto
 
-> 不动身的话就永远无法追寻，哪怕是休息也不会就此停下。
+> 什么叫忍者？学会忍耐的人就叫忍者。
 > 
-> ——Aqours
+> ——哔哩哔哩
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 06:32:40
+Autogen by LittleJake at 08:33:07
