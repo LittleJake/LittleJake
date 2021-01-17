@@ -4,10 +4,10 @@ Today is 01/17/2021.
 
 ### Hitokoto
 
-> 我一直注视着你，似近，似远。但你永远，看不见我……
+> 过分的神圣，往往比恶魔更加恶质。
 > 
-> ——来自风平浪静的明天
+> ——黑执事
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 14:29:01
+Autogen by LittleJake at 16:39:09
