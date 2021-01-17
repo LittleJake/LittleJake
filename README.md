@@ -4,10 +4,10 @@ Today is 01/17/2021.
 
 ### Hitokoto
 
-> 隐约雷鸣，阴霾天空，即使天无雨，我亦留此地。
+> 用决斗......给大家......带来笑容......
 > 
-> ——言叶之庭
+> ——游戏王<A-RCV>
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 18:45:48
+Autogen by LittleJake at 20:29:45
