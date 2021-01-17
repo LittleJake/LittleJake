@@ -4,10 +4,10 @@ Today is 01/17/2021.
 
 ### Hitokoto
 
-> 用决斗......给大家......带来笑容......
+> 人类的赞歌就是勇气的赞歌。
 > 
-> ——游戏王<A-RCV>
+> ——JOJO的奇妙冒险
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 20:29:45
+Autogen by LittleJake at 22:26:19
