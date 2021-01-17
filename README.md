@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 01/17/2021.
 
 ### Hitokoto
 
-> 过分的神圣，往往比恶魔更加恶质。
+> 隐约雷鸣，阴霾天空，即使天无雨，我亦留此地。
 > 
-> ——黑执事
+> ——言叶之庭
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 16:39:09
+Autogen by LittleJake at 18:45:48
