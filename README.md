@@ -4,10 +4,10 @@ Today is 01/17/2021.
 
 ### Hitokoto
 
-> 龙儿是我的，谁都不准碰！
+> 无论你在哪里，就算我看不见你，我也会一直注视着你。
 > 
-> ——龙虎斗
+> ——妖精的尾巴
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 08:32:39
+Autogen by LittleJake at 10:38:49
