@@ -4,10 +4,10 @@ Today is 01/18/2021.
 
 ### Hitokoto
 
-> 恋ではなく、爱でもなく、もっとずっと 深く重い。
+> 下一次重逢，将是何年何月？天空必将见证。
 > 
-> ——sweet   pool
+> ——SOLA
 
 ![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 06:33:26
+Autogen by LittleJake at 08:35:45
