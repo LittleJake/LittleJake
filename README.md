@@ -4,10 +4,10 @@ Today is 01/18/2021.
 
 ### Hitokoto
 
-> 下一次重逢，将是何年何月？天空必将见证。
+> 即使如此，我也有我想保护的世界！
 > 
-> ——SOLA
+> ——高达seed
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 08:35:45
+Autogen by LittleJake at 10:42:54
