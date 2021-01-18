@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 01/17/2021.
+Today is 01/18/2021.
 
 ### Hitokoto
 
-> 人类的赞歌就是勇气的赞歌。
+> 雨，何时停？
 > 
-> ——JOJO的奇妙冒险
+> ——秋之回忆
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 22:26:19
+Autogen by LittleJake at 00:55:00
