@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 01/18/2021.
 
 ### Hitokoto
 
-> 即使如此，我也有我想保护的世界！
+> 相信十年后的八月，我们还会相遇。
 > 
-> ——高达seed
+> ——未闻花名
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 10:42:54
+Autogen by LittleJake at 12:31:01
