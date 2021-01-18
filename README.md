@@ -4,10 +4,10 @@ Today is 01/18/2021.
 
 ### Hitokoto
 
-> 背后即是祖国，我们无路可退。
+> 倘若只是为了驱赶心中的寂寞，找谁都可以的。
 > 
-> ——那年那兔那些事
+> ——秒速5厘米
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 14:34:01
+Autogen by LittleJake at 16:41:57
