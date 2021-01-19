@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 01/19/2021.
 
 ### Hitokoto
 
-> 应该可以了吧，我已经很努力了，应该可以抵达终点了…
+> 只要万事俱备，就能一直保持冷静，无论发生什么事，都不会害怕。
 > 
-> ——AIR
+> ——银魂
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 04:36:43
+Autogen by LittleJake at 06:35:11
