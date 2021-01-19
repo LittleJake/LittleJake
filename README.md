@@ -4,10 +4,10 @@ Today is 01/19/2021.
 
 ### Hitokoto
 
-> 我一直都在你身边 ，一直都在。
+> 要是太勉强自己的话，总有一天会受伤的
 > 
-> ——CLANNAD
+> ——吸血鬼骑士
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 14:37:26
+Autogen by LittleJake at 16:42:28
