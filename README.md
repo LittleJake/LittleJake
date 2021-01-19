@@ -4,10 +4,10 @@ Today is 01/19/2021.
 
 ### Hitokoto
 
-> 我的出生就是为了用鲜花将你淹没。
+> 我不会让任何人看到我软弱的一面。
 > 
-> ——怪物Monster
+> ——桔梗
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 18:47:58
+Autogen by LittleJake at 20:36:36
