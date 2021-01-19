@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 01/18/2021.
+Today is 01/19/2021.
 
 ### Hitokoto
 
-> 为了做一名真正的绅士，即使明知必输无疑，也要有勇气接受挑战！
+> 她有心，她的心在我这里。
 > 
-> ——JOJO的奇妙冒险
+> ——人形电脑天使心
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 22:30:03
+Autogen by LittleJake at 00:58:11
