@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 01/19/2021.
 
 ### Hitokoto
 
-> 悲伤教会了我喜悦。
+> 我是奥尔加·伊滋卡，几颗子弹不要紧的！
 > 
-> ——秋之回忆
+> ——机动战士高达：铁血的孤儿
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 10:45:17
+Autogen by LittleJake at 12:32:47
