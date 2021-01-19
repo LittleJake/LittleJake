@@ -4,10 +4,10 @@ Today is 01/19/2021.
 
 ### Hitokoto
 
-> 我不会让任何人看到我软弱的一面。
+> 恋ではなく、爱でもなく、もっとずっと 深く重い。
 > 
-> ——桔梗
+> ——sweet   pool
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 20:36:36
+Autogen by LittleJake at 22:31:06
