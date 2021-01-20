@@ -4,10 +4,10 @@ Today is 01/20/2021.
 
 ### Hitokoto
 
-> 己所欲者，杀而夺之，亦同天赐
+> 这个世界上没有完美的人类，所以，人无法自己一个人活著。
 > 
-> ——游戏人生
+> ——不可思议游戏
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 00:59:44
+Autogen by LittleJake at 03:06:25
