@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 01/19/2021.
+Today is 01/20/2021.
 
 ### Hitokoto
 
-> 恋ではなく、爱でもなく、もっとずっと 深く重い。
+> 己所欲者，杀而夺之，亦同天赐
 > 
-> ——sweet   pool
+> ——游戏人生
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 22:31:06
+Autogen by LittleJake at 00:59:44
