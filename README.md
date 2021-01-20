@@ -4,10 +4,10 @@ Today is 01/20/2021.
 
 ### Hitokoto
 
-> 这个世界上没有完美的人类，所以，人无法自己一个人活著。
+> 勇气，就是即便害怕也会去做。
 > 
-> ——不可思议游戏
+> ——原创
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 03:06:25
+Autogen by LittleJake at 04:38:16
