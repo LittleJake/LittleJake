@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 01/20/2021.
 
 ### Hitokoto
 
-> 勇气，就是即便害怕也会去做。
+> 错的不是我，而是这个世界！
 > 
-> ——原创
+> ——东京喰种
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 04:38:16
+Autogen by LittleJake at 06:37:55
