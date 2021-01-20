@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 01/20/2021.
 
 ### Hitokoto
 
-> 我只希望，我喜欢的人可以健康的活着。
+> 谢谢你至今为止都容忍我的任性，我是你的妹妹真的太好了。
 > 
-> ——人渣的本愿
+> ——俺妹
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 10:45:54
+Autogen by LittleJake at 12:32:57
