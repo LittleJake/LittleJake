@@ -4,10 +4,10 @@ Today is 01/20/2021.
 
 ### Hitokoto
 
-> 你再怎么称赞我，我也不会高兴的，你这个混蛋~
+> 我的出生就是为了用鲜花将你淹没。
 > 
-> ——海贼王
+> ——怪物Monster
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 14:34:20
+Autogen by LittleJake at 16:46:12
