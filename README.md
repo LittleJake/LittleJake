@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 01/21/2021.
 
 ### Hitokoto
 
-> 如果我们能活着出去，千山万水，你愿意陪我一起看吗？
+> 努力是不会背叛自己的，虽然梦想有时会背叛自己。
 > 
-> ——狐妖小红娘
+> ——我的青春恋爱物语果然有问题
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 04:38:34
+Autogen by LittleJake at 06:36:49
