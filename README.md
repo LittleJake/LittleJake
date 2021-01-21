@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 01/21/2021.
 
 ### Hitokoto
 
-> 让我成为你的双眼，把那世界万千，描绘在你面前。
+> 君の名を 今追いかけるよ
 > 
-> ——狐妖小红娘
+> ——君の名は。
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 10:44:51
+Autogen by LittleJake at 12:32:55
