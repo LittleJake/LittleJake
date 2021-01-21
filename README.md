@@ -4,10 +4,10 @@ Today is 01/21/2021.
 
 ### Hitokoto
 
-> 君の名を 今追いかけるよ
+> 目标是以科学的力量凌驾于超能力之上，为了伯伦希尔的荣耀。
 > 
-> ——君の名は。
+> ——小绿和小蓝
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 12:32:55
+Autogen by LittleJake at 14:35:54
