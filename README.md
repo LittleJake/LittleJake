@@ -4,10 +4,10 @@ Today is 01/21/2021.
 
 ### Hitokoto
 
-> 你们这些天才止步不前的时候，我会走得更远。
+> 我只是个兴趣使然的英雄。
 > 
-> ——如果有个妹妹就好了
+> ——一拳超人
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 18:47:06
+Autogen by LittleJake at 20:32:27
