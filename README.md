@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 01/20/2021.
+Today is 01/21/2021.
 
 ### Hitokoto
 
-> 世界上哪有不会输的英雄啊
+> 尽情的依靠我吧，因为总有一天我也会依靠你的。
 > 
-> ——凸变英雄
+> ——妖精的尾巴
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 22:27:16
+Autogen by LittleJake at 00:59:20
