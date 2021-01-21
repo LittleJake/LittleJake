@@ -4,10 +4,10 @@ Today is 01/21/2021.
 
 ### Hitokoto
 
-> 努力是不会背叛自己的，虽然梦想有时会背叛自己。
+> 所谓爱情，是对对自己最重要的人，以慈悲的心保护他的想法。
 > 
-> ——我的青春恋爱物语果然有问题
+> ——火影忍者
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 06:36:49
+Autogen by LittleJake at 08:38:09
