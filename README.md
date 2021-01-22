@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 01/22/2021.
 
 ### Hitokoto
 
-> 虽然想做一团火，却成了一块透视苦难的冰
+> 我必须要变强，但是孤独居然这么痛苦。
 > 
-> ——卡夫卡研究
+> ——黑色五叶草
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 16:42:32
+Autogen by LittleJake at 18:47:19
