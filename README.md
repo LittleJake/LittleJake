@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 01/22/2021.
 
 ### Hitokoto
 
-> 男人只要去行动就好，做得到或做不到，女孩子会来告诉你的。
+> 已经没什么好害怕了。
 > 
-> ——四月是你的谎言
+> ——魔法少女小圆
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 04:37:46
+Autogen by LittleJake at 06:36:03
