@@ -4,10 +4,10 @@ Today is 01/22/2021.
 
 ### Hitokoto
 
-> 你的败因只有一个，就是与我为敌。 ­
+> 虽然想做一团火，却成了一块透视苦难的冰
 > 
-> ——家庭教师
+> ——卡夫卡研究
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 14:34:42
+Autogen by LittleJake at 16:42:32
