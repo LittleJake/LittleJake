@@ -4,10 +4,10 @@ Today is 01/22/2021.
 
 ### Hitokoto
 
-> 当朋友是不需要什么资格的。
+> 美好的人眼里映出的世界也是美好的。
 > 
-> ——全职猎人
+> ——ARIA
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 00:57:34
+Autogen by LittleJake at 03:06:13
