@@ -4,10 +4,10 @@ Today is 01/22/2021.
 
 ### Hitokoto
 
-> 美好的人眼里映出的世界也是美好的。
+> 男人只要去行动就好，做得到或做不到，女孩子会来告诉你的。
 > 
-> ——ARIA
+> ——四月是你的谎言
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 03:06:13
+Autogen by LittleJake at 04:37:46
