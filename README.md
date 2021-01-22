@@ -4,10 +4,10 @@ Today is 01/22/2021.
 
 ### Hitokoto
 
-> 已经没什么好害怕了。
+> 失礼、噛みました
 > 
-> ——魔法少女小圆
+> ——化物语
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 06:36:03
+Autogen by LittleJake at 08:37:42
