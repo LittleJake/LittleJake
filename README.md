@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 01/23/2021.
 
 ### Hitokoto
 
-> 世界并不完美，却因此而美丽。
+> 一定要保护自己的梦想，即使牺牲一切。
 > 
-> ——奇诺之旅
+> ——NANA
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 16:40:19
+Autogen by LittleJake at 18:46:21
