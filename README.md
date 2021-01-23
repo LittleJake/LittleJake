@@ -4,10 +4,10 @@ Today is 01/23/2021.
 
 ### Hitokoto
 
-> 经为流逝的日月。纬为人们的生业。
+> 死亡的尽头，没有神
 > 
-> ——朝花夕誓
+> ——机动战士高达00:先驱者的觉醒
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 00:57:43
+Autogen by LittleJake at 03:05:07
