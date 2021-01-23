@@ -4,10 +4,10 @@ Today is 01/23/2021.
 
 ### Hitokoto
 
-> 问灵十三载，等一不归人。
+> 世界并不完美，却因此而美丽。
 > 
-> ——魔道祖师
+> ——奇诺之旅
 
 ![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 14:31:05
+Autogen by LittleJake at 16:40:19
