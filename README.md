@@ -4,10 +4,10 @@ Today is 01/23/2021.
 
 ### Hitokoto
 
-> 死亡的尽头，没有神
+> 一个人吃饭，太寂寞了。
 > 
-> ——机动战士高达00:先驱者的觉醒
+> ——无头骑士异闻录
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 03:05:07
+Autogen by LittleJake at 04:36:46
