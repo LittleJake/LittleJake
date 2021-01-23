@@ -4,10 +4,10 @@ Today is 01/23/2021.
 
 ### Hitokoto
 
-> 就是因为你不好，才要留在你身边，给你幸福。
+> 没有未来的未来不是我想要的未来。
 > 
-> ——哈尔的移动城堡
+> ——境界的彼方
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 20:31:07
+Autogen by LittleJake at 22:27:23
