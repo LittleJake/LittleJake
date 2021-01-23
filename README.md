@@ -4,10 +4,10 @@ Today is 01/23/2021.
 
 ### Hitokoto
 
-> Ex - ploooosion !
+> 问灵十三载，等一不归人。
 > 
-> ——为美好的世界献上祝福
+> ——魔道祖师
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 12:29:16
+Autogen by LittleJake at 14:31:05
