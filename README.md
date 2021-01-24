@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 01/24/2021.
 
 ### Hitokoto
 
-> All for one, one for all.
+> 当一个胖纸没有什么不好，最起码可以温暖其他的人。
 > 
-> ——海贼王
+> ——龙猫
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 04:38:42
+Autogen by LittleJake at 06:35:23
