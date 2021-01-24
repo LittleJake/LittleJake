@@ -4,10 +4,10 @@ Today is 01/24/2021.
 
 ### Hitokoto
 
-> 当一个胖纸没有什么不好，最起码可以温暖其他的人。
+> 不服从命令的人是人渣，抛弃同伴的人连人渣都不如。
 > 
-> ——龙猫
+> ——火影忍者
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 06:35:23
+Autogen by LittleJake at 08:34:58
