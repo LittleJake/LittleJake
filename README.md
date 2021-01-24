@@ -4,10 +4,10 @@ Today is 01/24/2021.
 
 ### Hitokoto
 
-> 不服从命令的人是人渣，抛弃同伴的人连人渣都不如。
+> 我手里拿着刀，没法抱你，我放下刀，没法保护你！
 > 
-> ——火影忍者
+> ——死神
 
 ![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 08:34:58
+Autogen by LittleJake at 10:40:56
