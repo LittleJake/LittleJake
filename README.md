@@ -4,10 +4,10 @@ Today is 01/24/2021.
 
 ### Hitokoto
 
-> 花早晚会凋谢，记忆最终也会消散。
+> All for one，one for all.
 > 
-> ——镇魂街
+> ——海贼王
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 20:32:34
+Autogen by LittleJake at 22:28:29
