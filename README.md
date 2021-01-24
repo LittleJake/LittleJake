@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 01/24/2021.
 
 ### Hitokoto
 
-> 我手里拿着刀，没法抱你，我放下刀，没法保护你！
+> 如果你愿意的话，让我带您去吧，这座小镇，愿望实现的地方…
 > 
-> ——死神
+> ——CLANNAD
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 10:40:56
+Autogen by LittleJake at 12:30:19
