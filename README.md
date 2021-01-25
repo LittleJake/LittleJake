@@ -4,10 +4,10 @@ Today is 01/25/2021.
 
 ### Hitokoto
 
-> 大家即将各自展开旅程，挥别这个没落的城镇。
+> 无论世界如何改变，我们都将永不分离。
 > 
-> ——仰望半月的夜空
+> ——GOSICK
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 08:39:26
+Autogen by LittleJake at 10:44:02
