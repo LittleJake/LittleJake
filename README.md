@@ -4,10 +4,10 @@ Today is 01/25/2021.
 
 ### Hitokoto
 
-> 我怕失去了你，我的世界就没有了光明
+> Exia，驱逐目标！
 > 
-> ——凸变英雄
+> ——机动战士高达00
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 12:31:52
+Autogen by LittleJake at 14:34:36
