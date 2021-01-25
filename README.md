@@ -4,10 +4,10 @@ Today is 01/25/2021.
 
 ### Hitokoto
 
-> 因为喜欢你，所以想继续相信下去。
+> 因为无法再见面，所以要笑着说再见。
 > 
-> ——空之境界
+> ——AIR
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 00:57:29
+Autogen by LittleJake at 03:07:12
