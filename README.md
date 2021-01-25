@@ -4,10 +4,10 @@ Today is 01/25/2021.
 
 ### Hitokoto
 
-> 因为无法再见面，所以要笑着说再见。
+> 一日为灵，终生为影，灵气共生，魂命无分，阴阳调和，万物皆宁。
 > 
-> ——AIR
+> ——灵契
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 03:07:12
+Autogen by LittleJake at 04:37:34
