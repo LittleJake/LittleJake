@@ -4,10 +4,10 @@ Today is 01/25/2021.
 
 ### Hitokoto
 
-> 我从未让你们骄傲，你们却待我如宝。
+> 要改变别人的心真是件很难办的事，不过改变自己要容易一点。
 > 
-> ——Az殇芯的chx
+> ——XXXHolic
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 20:34:37
+Autogen by LittleJake at 22:21:09
