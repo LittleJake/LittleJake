@@ -4,10 +4,10 @@ Today is 01/25/2021.
 
 ### Hitokoto
 
-> Exia，驱逐目标！
+> 我要拼，装上假牙也要拼！
 > 
-> ——机动战士高达00
+> ——灌篮高手
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 14:34:36
+Autogen by LittleJake at 16:42:13
