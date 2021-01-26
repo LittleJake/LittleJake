@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 01/26/2021.
 
 ### Hitokoto
 
-> 我秃了，我也变强了
+> 我喜欢的人…也能喜欢上自己，我认为这就是奇迹。
 > 
-> ——一拳超人
+> ——月色真美
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 10:12:16
+Autogen by LittleJake at 12:13:49
