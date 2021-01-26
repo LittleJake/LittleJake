@@ -4,10 +4,10 @@ Today is 01/26/2021.
 
 ### Hitokoto
 
-> 相信奇迹的人本身就和奇迹一样了不起啊
+> 共道人间惆怅事，不知今夕是何年。
 > 
-> ——星游记
+> ——周秦行纪
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 00:31:47
+Autogen by LittleJake at 02:28:20
