@@ -4,10 +4,10 @@ Today is 01/26/2021.
 
 ### Hitokoto
 
-> 受尽苦难而不厌，此乃阿修罗之道。
+> 知道和感觉到是两码事。
 > 
-> ——海贼王
+> ——《看见》
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 06:11:14
+Autogen by LittleJake at 08:12:22
