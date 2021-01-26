@@ -4,10 +4,10 @@ Today is 01/26/2021.
 
 ### Hitokoto
 
-> 知道和感觉到是两码事。
+> 我秃了，我也变强了
 > 
-> ——《看见》
+> ——一拳超人
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 08:12:22
+Autogen by LittleJake at 10:12:16
