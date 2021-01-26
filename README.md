@@ -4,10 +4,10 @@ Today is 01/26/2021.
 
 ### Hitokoto
 
-> 共道人间惆怅事，不知今夕是何年。
+> 正因为不会发生，人们才称它为”奇迹“
 > 
-> ——周秦行纪
+> ——KANON
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 02:28:20
+Autogen by LittleJake at 04:13:58
