@@ -4,10 +4,10 @@ Today is 01/26/2021.
 
 ### Hitokoto
 
-> 我喜欢的人…也能喜欢上自己，我认为这就是奇迹。
+> 正是因为这一点一滴觉得还有希望的自己，才是最无可救药的吧。
 > 
-> ——月色真美
+> ——人渣的本愿
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 12:13:49
+Autogen by LittleJake at 14:11:40
