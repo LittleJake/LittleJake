@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 01/26/2021.
+Today is 01/27/2021.
 
 ### Hitokoto
 
-> 我没有任何理由为了那些人让自己的人生付之一炬！
+> 不辜负年华，做自己想做的事，唱自己想唱的歌
 > 
-> ——三月的狮子
+> ——我是江小白
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 22:10:37
+Autogen by LittleJake at 00:26:22
