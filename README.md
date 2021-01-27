@@ -4,10 +4,10 @@ Today is 01/27/2021.
 
 ### Hitokoto
 
-> 邪王真眼是最强的
+> 相信奇迹的人本身就和奇迹一样了不起啊
 > 
-> ——中二病也要谈恋爱
+> ——星游记
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 20:10:02
+Autogen by LittleJake at 22:10:33
