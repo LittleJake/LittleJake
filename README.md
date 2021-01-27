@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 01/27/2021.
 
 ### Hitokoto
 
-> 爱，其实很简单，困难的是去接受它。
+> 神啊 我的人生到底为何而存在呢
 > 
-> ——通灵王
+> ——蜂蜜与四叶草
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 04:14:33
+Autogen by LittleJake at 06:11:32
