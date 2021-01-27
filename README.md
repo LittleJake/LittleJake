@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 01/27/2021.
 
 ### Hitokoto
 
-> 如果我们能活着出去的话，千山万水，你愿意陪我一起看吗？
+> 算了，和你说话感觉就像是大姨妈来了。
 > 
-> ——狐妖小红娘
+> ——龙虎斗
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 16:27:15
+Autogen by LittleJake at 18:27:10
