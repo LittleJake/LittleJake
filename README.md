@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 01/27/2021.
 
 ### Hitokoto
 
-> 当一个胖纸没有什么不好，最起码可以温暖其他的人。
+> 隐约雷鸣，阴霾天空，即使天无雨，我亦留此地。
 > 
-> ——龙猫
+> ——言叶之庭
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 10:12:22
+Autogen by LittleJake at 12:15:01
