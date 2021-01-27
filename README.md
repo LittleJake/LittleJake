@@ -4,10 +4,10 @@ Today is 01/27/2021.
 
 ### Hitokoto
 
-> 算了，和你说话感觉就像是大姨妈来了。
+> 邪王真眼是最强的
 > 
-> ——龙虎斗
+> ——中二病也要谈恋爱
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 18:27:10
+Autogen by LittleJake at 20:10:02
