@@ -4,10 +4,10 @@ Today is 01/28/2021.
 
 ### Hitokoto
 
-> 孤独的我们才有人类的样子。
+> 恋ではなく、爱でもなく、もっとずっと 深く重い。
 > 
-> ——Angel Beats!
+> ——sweet   pool
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 12:13:54
+Autogen by LittleJake at 14:12:09
