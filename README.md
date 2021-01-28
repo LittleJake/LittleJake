@@ -4,10 +4,10 @@ Today is 01/28/2021.
 
 ### Hitokoto
 
-> 就连一直都无容身之地的我……也不是可以任意舍弃的生命。
+> 好红，每当想起你，枫叶就会被染红。
 > 
-> ——夏目友人帐
+> ——银仙
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 08:05:10
+Autogen by LittleJake at 09:01:07
