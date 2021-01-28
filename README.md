@@ -4,10 +4,10 @@ Today is 01/28/2021.
 
 ### Hitokoto
 
-> 恋ではなく、爱でもなく、もっとずっと 深く重い。
+> 一个人觉得寂寞，和另一个人相互依偎又有什么错
 > 
-> ——sweet   pool
+> ——人渣的本愿
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 14:12:09
+Autogen by LittleJake at 16:19:52
