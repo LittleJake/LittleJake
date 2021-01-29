@@ -4,10 +4,10 @@ Today is 01/29/2021.
 
 ### Hitokoto
 
-> 重要的是无论我们选择哪条路，都要担负起选择的责任。
+> 有些梦想虽然遥不可及，但不是不可能实现。只要我足够的强。
 > 
-> ——蜂蜜与四叶草
+> ——秦时明月
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 20:10:03
+Autogen by LittleJake at 22:10:28
