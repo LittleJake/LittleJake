@@ -4,10 +4,10 @@ Today is 01/29/2021.
 
 ### Hitokoto
 
-> 想哭的时候能哭出来，也是一种坚强
+> 相信十年后的八月，我们还会相遇。
 > 
-> ——翼年代记
+> ——未闻花名
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 06:12:05
+Autogen by LittleJake at 08:12:36
