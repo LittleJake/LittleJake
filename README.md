@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 01/29/2021.
 
 ### Hitokoto
 
-> 人是可以改变一切的，世上的一切。
+> 悲痛的事，温柔以对；难过的事，坚强以对。
 > 
-> ——吹响！上低音号
+> ——朝花夕誓
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 16:19:56
+Autogen by LittleJake at 18:24:37
