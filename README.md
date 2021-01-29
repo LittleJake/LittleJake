@@ -4,10 +4,10 @@ Today is 01/29/2021.
 
 ### Hitokoto
 
-> 悲痛的事，温柔以对；难过的事，坚强以对。
+> 重要的是无论我们选择哪条路，都要担负起选择的责任。
 > 
-> ——朝花夕誓
+> ——蜂蜜与四叶草
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 18:24:37
+Autogen by LittleJake at 20:10:03
