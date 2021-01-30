@@ -4,10 +4,10 @@ Today is 01/30/2021.
 
 ### Hitokoto
 
-> 人总有一天都会死的，但正因为生命是有限的，才能够欢喜和悲伤。
+> 人生在世何其痛苦，所以咖啡至少该甜一点。
 > 
-> ——通灵王
+> ——我的青春恋爱物语果然有问题
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 20:10:22
+Autogen by LittleJake at 22:10:42
