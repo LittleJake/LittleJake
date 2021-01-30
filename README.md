@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 01/29/2021.
+Today is 01/30/2021.
 
 ### Hitokoto
 
-> 有些梦想虽然遥不可及，但不是不可能实现。只要我足够的强。
+> 神啊 我的人生到底为何而存在呢
 > 
-> ——秦时明月
+> ——蜂蜜与四叶草
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 22:10:28
+Autogen by LittleJake at 00:27:14
