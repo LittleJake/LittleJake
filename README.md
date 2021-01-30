@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 01/30/2021.
 
 ### Hitokoto
 
-> 哭也不会改变什么，这个世界从来不会对任何人温柔。
+> 有样东西是其他生物绝对没有，只有人类才有 那就是人有秘密。
 > 
-> ——黑执事
+> ——月色真美
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 04:15:08
+Autogen by LittleJake at 06:11:25
