@@ -4,10 +4,10 @@ Today is 01/30/2021.
 
 ### Hitokoto
 
-> 神啊 我的人生到底为何而存在呢
+> 总觉得跟你在一起，不管多高的地方都可以到达。
 > 
-> ——蜂蜜与四叶草
+> ——网球王子
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 00:27:14
+Autogen by LittleJake at 02:29:14
