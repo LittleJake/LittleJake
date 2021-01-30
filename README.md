@@ -4,10 +4,10 @@ Today is 01/30/2021.
 
 ### Hitokoto
 
-> 有时语言就像把利刃，使用不当，就会成为凶器。
+> 人总有一天都会死的，但正因为生命是有限的，才能够欢喜和悲伤。
 > 
-> ——名侦探柯南
+> ——通灵王
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 18:21:25
+Autogen by LittleJake at 20:10:22
