@@ -4,10 +4,10 @@ Today is 01/30/2021.
 
 ### Hitokoto
 
-> 不敢反抗压迫的心理将伴你一生
+> 一个人决定寂寞，和另一个人相互依偎又有什么错
 > 
-> ——狂赌深渊
+> ——人渣的本愿
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 08:12:03
+Autogen by LittleJake at 10:12:17
