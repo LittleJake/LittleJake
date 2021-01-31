@@ -4,10 +4,10 @@ Today is 01/31/2021.
 
 ### Hitokoto
 
-> 只要有你，我便无所不能。
+> 有些景色必须前进才能看到，那么只有勇往直前。
 > 
-> ——进击的巨人
+> ——如果有个妹妹就好了
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 00:28:19
+Autogen by LittleJake at 02:30:57
