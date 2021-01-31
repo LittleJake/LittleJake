@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 01/31/2021.
 
 ### Hitokoto
 
-> 除了这一颗心，都是你的。
+> 要是因为烦恼很痛苦，就选择了轻松的选项，将来一定会后悔。
 > 
-> ——人渣的本愿
+> ——樱花庄的宠物女孩
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 16:19:24
+Autogen by LittleJake at 18:21:38
