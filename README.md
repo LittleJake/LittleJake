@@ -4,10 +4,10 @@ Today is 01/31/2021.
 
 ### Hitokoto
 
-> 春天是胖次的季节。
+> 除了这一颗心，都是你的。
 > 
-> ——电器街漫画店
+> ——人渣的本愿
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 14:10:14
+Autogen by LittleJake at 16:19:24
