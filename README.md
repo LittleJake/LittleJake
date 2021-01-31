@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 01/30/2021.
+Today is 01/31/2021.
 
 ### Hitokoto
 
-> 人生在世何其痛苦，所以咖啡至少该甜一点。
+> 只要有你，我便无所不能。
 > 
-> ——我的青春恋爱物语果然有问题
+> ——进击的巨人
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 22:10:42
+Autogen by LittleJake at 00:28:19
