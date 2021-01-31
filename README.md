@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 01/31/2021.
 
 ### Hitokoto
 
-> 我只是想要得到「我没有逃避」的记忆吧。
+> 倘若只是为了驱赶心中的寂寞，找谁都可以的。
 > 
-> ——三月的狮子
+> ——秒速5厘米
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 10:12:13
+Autogen by LittleJake at 12:13:40
