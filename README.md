@@ -4,10 +4,10 @@ Today is 01/31/2021.
 
 ### Hitokoto
 
-> 由变态化身成为变态，也就是真·变态，也就是说，完全变态呢。
+> 笑是对身边的事物感到一瞬间的幸福而表现出来的东西。
 > 
-> ——一拳超人
+> ——CLANNAD
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 20:10:22
+Autogen by LittleJake at 22:10:41
