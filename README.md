@@ -4,10 +4,10 @@ Today is 01/31/2021.
 
 ### Hitokoto
 
-> 有些景色必须前进才能看到，那么只有勇往直前。
+> 不管你在世界的哪个地方，我一定会，再次去见你的。
 > 
-> ——如果有个妹妹就好了
+> ——你的名字
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 02:30:57
+Autogen by LittleJake at 04:15:10
