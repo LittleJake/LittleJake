@@ -4,10 +4,10 @@ Today is 01/31/2021.
 
 ### Hitokoto
 
-> 要是因为烦恼很痛苦，就选择了轻松的选项，将来一定会后悔。
+> 由变态化身成为变态，也就是真·变态，也就是说，完全变态呢。
 > 
-> ——樱花庄的宠物女孩
+> ——一拳超人
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 18:21:38
+Autogen by LittleJake at 20:10:22
