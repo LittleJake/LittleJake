@@ -4,10 +4,10 @@ Today is 02/01/2021.
 
 ### Hitokoto
 
-> 告白当天就要H什么的，真是没办法的男人呢。
+> 你知道雪为什么是白色的吗？因为她忘记了本来的颜色。
 > 
-> ——高坂桐乃
+> ——反叛的鲁路修
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 12:16:21
+Autogen by LittleJake at 14:11:25
