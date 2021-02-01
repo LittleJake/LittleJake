@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 02/01/2021.
 
 ### Hitokoto
 
-> 我喜欢你，比世界上任何人都喜欢你。
+> みんなで作る、最高のライブ！
 > 
-> ——名侦探柯南
+> ——LoveLive! The School idol Movie
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 16:19:44
+Autogen by LittleJake at 18:24:26
