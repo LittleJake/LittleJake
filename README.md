@@ -4,10 +4,10 @@ Today is 02/01/2021.
 
 ### Hitokoto
 
-> 你知道雪为什么是白色的吗？因为她忘记了本来的颜色。
+> 我喜欢你，比世界上任何人都喜欢你。
 > 
-> ——反叛的鲁路修
+> ——名侦探柯南
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 14:11:25
+Autogen by LittleJake at 16:19:44
