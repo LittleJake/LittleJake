@@ -4,10 +4,10 @@ Today is 02/01/2021.
 
 ### Hitokoto
 
-> 在末日中，人们总想寻找希望，但要真有希望的话，那还叫末日吗？
+> 没有偶然的必然，只有必然的偶然
 > 
-> ——灵笼
+> ——魔卡少女樱
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 20:10:11
+Autogen by LittleJake at 22:10:57
