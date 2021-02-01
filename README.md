@@ -4,10 +4,10 @@ Today is 02/01/2021.
 
 ### Hitokoto
 
-> 女人的武器不是眼泪，而是微笑。
+> 用你的笑容去改变这个世界，别让这个世界改变了你的笑容。
 > 
-> ——凉宫春日的忧郁
+> ——网络
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 06:11:55
+Autogen by LittleJake at 08:16:57
