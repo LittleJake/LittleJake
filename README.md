@@ -4,10 +4,10 @@ Today is 02/01/2021.
 
 ### Hitokoto
 
-> 用你的笑容去改变这个世界，别让这个世界改变了你的笑容。
+> 我是否住进了某人的心房呢？
 > 
-> ——网络
+> ——四月是你的谎言
 
 ![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 08:16:57
+Autogen by LittleJake at 10:13:47
