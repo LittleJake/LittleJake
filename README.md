@@ -4,10 +4,10 @@ Today is 02/01/2021.
 
 ### Hitokoto
 
-> 长大了，才能体会什么是责任！
+> 只要微笑就可以了。
 > 
-> ——家庭
+> ——EVA
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 02:32:24
+Autogen by LittleJake at 04:16:24
