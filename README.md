@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 02/01/2021.
 
 ### Hitokoto
 
-> 我是否住进了某人的心房呢？
+> 告白当天就要H什么的，真是没办法的男人呢。
 > 
-> ——四月是你的谎言
+> ——高坂桐乃
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 10:13:47
+Autogen by LittleJake at 12:16:21
