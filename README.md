@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 01/31/2021.
+Today is 02/01/2021.
 
 ### Hitokoto
 
-> 笑是对身边的事物感到一瞬间的幸福而表现出来的东西。
+> 世界上一切不利状况，都是因为当事人的能力不足。
 > 
-> ——CLANNAD
+> ——东京食尸鬼
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 22:10:41
+Autogen by LittleJake at 00:28:52
