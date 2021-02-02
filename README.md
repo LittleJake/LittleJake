@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 02/02/2021.
 
 ### Hitokoto
 
-> 有样东西是其他生物绝对没有，只有人类才有 那就是人有秘密。
+> 就算没有意义，偶尔也会有好事发生。
 > 
-> ——月色真美
+> ——终末少女旅行
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 10:17:31
+Autogen by LittleJake at 12:14:22
