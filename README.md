@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 02/02/2021.
 
 ### Hitokoto
 
-> 隐约雷鸣，阴霾天空，即使天无雨，我亦留此地。
+> 美丽的不是这个世界，而是接受了这个世界的你的眼睛。
 > 
-> ——言叶之庭
+> ——吸血鬼骑士
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 16:19:46
+Autogen by LittleJake at 18:24:23
