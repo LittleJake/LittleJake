@@ -4,10 +4,10 @@ Today is 02/02/2021.
 
 ### Hitokoto
 
-> 就算没有意义，偶尔也会有好事发生。
+> 今天的我，凌驾于阿修罗之上！
 > 
-> ——终末少女旅行
+> ——机动战士高达00
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 12:14:22
+Autogen by LittleJake at 14:10:42
