@@ -4,10 +4,10 @@ Today is 02/02/2021.
 
 ### Hitokoto
 
-> 纵使日薄西山。
+> 在狂热思绪下喊出的爱情宣言中，存在着爱情的实体
 > 
-> ——末日时在做什么
+> ——月色真美
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 20:09:51
+Autogen by LittleJake at 22:11:08
