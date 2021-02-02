@@ -4,10 +4,10 @@ Today is 02/02/2021.
 
 ### Hitokoto
 
-> 时间可以治愈？如果时间也病了怎么办？
+> 明天，不是你想要就能有的。
 > 
-> ——寒蝉鸣泣之时
+> ——未闻花名
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 06:11:26
+Autogen by LittleJake at 08:12:34
