@@ -4,10 +4,10 @@ Today is 02/03/2021.
 
 ### Hitokoto
 
-> 喜欢和不讨厌之间可是有着数亿光年的距离的。
+> 有些事情我不看透，不是我太笨，只是我太善良。
 > 
-> ——四月是你的谎言
+> ——樱桃小丸子
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 02:24:29
+Autogen by LittleJake at 04:11:39
