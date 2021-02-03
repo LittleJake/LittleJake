@@ -4,10 +4,10 @@ Today is 02/03/2021.
 
 ### Hitokoto
 
-> 龙儿是我的！谁都不准碰！
+> 规则是用来被打破的。
 > 
-> ——逢坂大河
+> ——机械公敌
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 20:10:04
+Autogen by LittleJake at 22:09:22
