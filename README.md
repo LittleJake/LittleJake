@@ -4,10 +4,10 @@ Today is 02/03/2021.
 
 ### Hitokoto
 
-> 有时语言就像把利刃，使用不当，就会成为凶器。
+> 龙儿是我的！谁都不准碰！
 > 
-> ——名侦探柯南
+> ——逢坂大河
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 18:16:11
+Autogen by LittleJake at 20:10:04
