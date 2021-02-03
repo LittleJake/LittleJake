@@ -4,10 +4,10 @@ Today is 02/03/2021.
 
 ### Hitokoto
 
-> 因为无法再见面，所以要笑着说再见。
+> 温柔解救不了这个世界
 > 
-> ——AIR
+> ——罪恶王冠
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 08:11:45
+Autogen by LittleJake at 10:10:13
