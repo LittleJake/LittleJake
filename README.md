@@ -4,10 +4,10 @@ Today is 02/03/2021.
 
 ### Hitokoto
 
-> 我不喜欢这世界，我只喜欢你
+> 时间是伟大的作家，总会写下完美的结局。
 > 
-> ——乔一
+> ——秋之回忆
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 14:11:57
+Autogen by LittleJake at 16:17:36
