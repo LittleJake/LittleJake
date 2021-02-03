@@ -4,10 +4,10 @@ Today is 02/03/2021.
 
 ### Hitokoto
 
-> 比希望更炙热，比绝望更深邃，这就是爱啊。
+> 喜欢和不讨厌之间可是有着数亿光年的距离的。
 > 
-> ——魔法少女小圆-叛逆的物语
+> ——四月是你的谎言
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 00:23:03
+Autogen by LittleJake at 02:24:29
