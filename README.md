@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 02/03/2021.
 
 ### Hitokoto
 
-> 温柔解救不了这个世界
+> 孤独的人不会伤害别人，只会不断地伤害自己罢了。
 > 
-> ——罪恶王冠
+> ——我的青春恋爱物语果然有问题
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 10:10:13
+Autogen by LittleJake at 12:13:59
