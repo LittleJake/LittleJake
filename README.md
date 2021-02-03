@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 02/02/2021.
+Today is 02/03/2021.
 
 ### Hitokoto
 
-> 在狂热思绪下喊出的爱情宣言中，存在着爱情的实体
+> 比希望更炙热，比绝望更深邃，这就是爱啊。
 > 
-> ——月色真美
+> ——魔法少女小圆-叛逆的物语
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 22:11:08
+Autogen by LittleJake at 00:23:03
