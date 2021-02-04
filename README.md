@@ -4,10 +4,10 @@ Today is 02/04/2021.
 
 ### Hitokoto
 
-> 花开花落，再灿烂的星光也会消失。
+> 活下去的意志是最强的力量！
 > 
-> ——圣斗士星矢
+> ——浪客剑心
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 06:12:17
+Autogen by LittleJake at 08:13:30
