@@ -4,10 +4,10 @@ Today is 02/05/2021.
 
 ### Hitokoto
 
-> 君の名を 今追いかけるよ
+> 扎古不论怎么化妆都不可能变成高达的。
 > 
-> ——君の名は。
+> ——银魂
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 12:11:22
+Autogen by LittleJake at 14:12:49
