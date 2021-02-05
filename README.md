@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 02/05/2021.
 
 ### Hitokoto
 
-> 我不努力，就见不到你了啊。
+> 君の名を 今追いかけるよ
 > 
-> ——昨日之歌
+> ——君の名は。
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 10:09:25
+Autogen by LittleJake at 12:11:22
