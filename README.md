@@ -4,10 +4,10 @@ Today is 02/06/2021.
 
 ### Hitokoto
 
-> 知识是很美的，它们可以让你不出家门就了解这世上的许多事。
+> 只要微笑就可以了。
 > 
-> ——妖精的尾巴
+> ——EVA
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 08:11:36
+Autogen by LittleJake at 10:09:29
