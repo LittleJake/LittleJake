@@ -4,10 +4,10 @@ Today is 02/06/2021.
 
 ### Hitokoto
 
-> 由变态化身成为变态，也就是真·变态，也就是说，完全变态呢。
+> 我们所过的每个平凡的日常，也许就是连续发生的奇迹。
 > 
-> ——一拳超人
+> ——日常
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 20:08:45
+Autogen by LittleJake at 22:09:15
