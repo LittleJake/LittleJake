@@ -4,10 +4,10 @@ Today is 02/06/2021.
 
 ### Hitokoto
 
-> 只要你在，我便无所不能。
+> 如果真是这样， 就由我来把彭格列毁灭！
 > 
-> ——进击的巨人
+> ——家庭教师
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 12:11:23
+Autogen by LittleJake at 14:08:20
