@@ -4,10 +4,10 @@ Today is 02/06/2021.
 
 ### Hitokoto
 
-> 无法逃避的是自我，而无法挽回的是过去。
+> 魔装少女就是本少爷！
 > 
-> ——机动战士高达
+> ——这是僵尸吗？
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 00:21:11
+Autogen by LittleJake at 02:12:58
