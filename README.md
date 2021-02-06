@@ -4,10 +4,10 @@ Today is 02/06/2021.
 
 ### Hitokoto
 
-> 如果真是这样， 就由我来把彭格列毁灭！
+> 如果可以，愿来生你不要忘记我，我也不要忘记你那熟悉的温柔。
 > 
-> ——家庭教师
+> ——狐妖小红娘
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 14:08:20
+Autogen by LittleJake at 16:13:36
