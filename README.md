@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 02/06/2021.
 
 ### Hitokoto
 
-> 木叶飞舞之处，火亦生生不息
+> 像平常的你一样引发奇迹吧-
 > 
-> ——火影忍者
+> ——魔法少女小圆
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 04:10:27
+Autogen by LittleJake at 06:09:45
