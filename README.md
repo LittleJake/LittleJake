@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 02/07/2021.
 
 ### Hitokoto
 
-> 如果当时我们说了再见，后来是不是就可以再见
+> 为了爱，与梦想！
 > 
-> ——昨日青空
+> ——眼大人
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 16:13:49
+Autogen by LittleJake at 18:09:34
