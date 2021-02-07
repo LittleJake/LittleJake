@@ -4,10 +4,10 @@ Today is 02/07/2021.
 
 ### Hitokoto
 
-> 在走廊上跌倒会流鼻血，在人生中跌倒会流眼泪。
+> 只会比大小真是没品
 > 
-> ——龙虎斗
+> ——某科学的超电磁炮S
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 00:22:08
+Autogen by LittleJake at 02:14:18
