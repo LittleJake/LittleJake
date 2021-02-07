@@ -4,10 +4,10 @@ Today is 02/07/2021.
 
 ### Hitokoto
 
-> 如果你执意追寻着我的幻影，总有一天会被真正的我打败。
+> 她有心，她的心在我这里。
 > 
-> ——棋魂
+> ——人形电脑天使心
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 20:08:39
+Autogen by LittleJake at 22:09:22
