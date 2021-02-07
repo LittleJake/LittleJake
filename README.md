@@ -4,10 +4,10 @@ Today is 02/07/2021.
 
 ### Hitokoto
 
-> 不是我，都是社会的错
+> 如果当时我们说了再见，后来是不是就可以再见
 > 
-> ——我的青春恋爱物语果然有问题
+> ——昨日青空
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 14:08:32
+Autogen by LittleJake at 16:13:49
