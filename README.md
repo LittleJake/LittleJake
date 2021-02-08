@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 02/07/2021.
+Today is 02/08/2021.
 
 ### Hitokoto
 
-> 她有心，她的心在我这里。
+> 我不甘心，明明你为我做了那么多，我却什么都不能为你做。
 > 
-> ——人形电脑天使心
+> ——四月是你的谎言
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 22:09:22
+Autogen by LittleJake at 00:21:41
