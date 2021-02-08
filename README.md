@@ -4,10 +4,10 @@ Today is 02/08/2021.
 
 ### Hitokoto
 
-> 我不甘心，明明你为我做了那么多，我却什么都不能为你做。
+> 世上所以不公平之事是由于当事人能力不足所致。
 > 
-> ——四月是你的谎言
+> ——金木研
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 00:21:41
+Autogen by LittleJake at 02:17:30
