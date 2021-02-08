@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 02/08/2021.
 
 ### Hitokoto
 
-> 人是可以改变一切的，世上的一切。
+> 生命可以随心所欲，但不能随波逐流
 > 
-> ——吹响！上低音号
+> ——猫的报恩
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 10:12:49
+Autogen by LittleJake at 12:13:05
