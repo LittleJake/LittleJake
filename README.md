@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 02/08/2021.
 
 ### Hitokoto
 
-> 千山万水，因你不过毫厘
+> 干燥的冷气，尘埃的味道，我在其中……踏上旅途。
 > 
-> ——狐妖小红娘
+> ——四月是你的谎言
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 16:14:10
+Autogen by LittleJake at 18:13:30
