@@ -4,10 +4,10 @@ Today is 02/08/2021.
 
 ### Hitokoto
 
-> 不得了不得了
+> 世界上一切不利状况，都是因为当事人的能力不足。
 > 
-> ——小林家的龙女仆
+> ——东京食尸鬼
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 20:08:54
+Autogen by LittleJake at 22:08:22
