@@ -4,10 +4,10 @@ Today is 02/09/2021.
 
 ### Hitokoto
 
-> 男生送的礼物要方便拿来换钱才好吧！
+> 大家都是伪善者，世间充斥着不真实。
 > 
-> ——来栖加奈子
+> ——无头骑士异闻录
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 02:13:09
+Autogen by LittleJake at 04:10:17
