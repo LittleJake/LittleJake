@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 02/08/2021.
+Today is 02/09/2021.
 
 ### Hitokoto
 
-> 世界上一切不利状况，都是因为当事人的能力不足。
+> 一举一动，都是承诺，会被另一个人看在眼里，记在心上的。
 > 
-> ——东京食尸鬼
+> ——悬崖上的金鱼姬
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 22:08:22
+Autogen by LittleJake at 00:21:24
