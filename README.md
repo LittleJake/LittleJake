@@ -4,10 +4,10 @@ Today is 02/09/2021.
 
 ### Hitokoto
 
-> 你的那双手呢，是为了紧紧抓住什么而存在的哦。
+> 扎古不论怎么化妆都不可能变成高达的。
 > 
-> ——仰望半月的夜空
+> ——银魂
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 12:11:35
+Autogen by LittleJake at 14:18:29
