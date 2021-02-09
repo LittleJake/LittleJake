@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 02/09/2021.
 
 ### Hitokoto
 
-> 千载流年一如梦，月落山河一世倾。
+> 你的那双手呢，是为了紧紧抓住什么而存在的哦。
 > 
-> ——灵契
+> ——仰望半月的夜空
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 10:19:32
+Autogen by LittleJake at 12:11:35
