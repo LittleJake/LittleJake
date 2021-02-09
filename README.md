@@ -4,10 +4,10 @@ Today is 02/09/2021.
 
 ### Hitokoto
 
-> 人总有一天都会死的，但正因为生命是有限的，才能够欢喜和悲伤。
+> 重要的不是你做了多少事，而是你放了多少心思进去。
 > 
-> ——通灵王
+> ——凉宫春日的忧郁
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 18:12:30
+Autogen by LittleJake at 20:14:01
