@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 02/09/2021.
 
 ### Hitokoto
 
-> 大家都是伪善者，世间充斥着不真实。
+> 有样东西是其他生物绝对没有，只有人类才有 那就是人有秘密。
 > 
-> ——无头骑士异闻录
+> ——月色真美
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 04:10:17
+Autogen by LittleJake at 06:09:19
