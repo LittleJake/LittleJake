@@ -4,10 +4,10 @@ Today is 02/09/2021.
 
 ### Hitokoto
 
-> All for one, one for all.
+> 千载流年一如梦，月落山河一世倾。
 > 
-> ——海贼王
+> ——灵契
 
 ![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 08:10:38
+Autogen by LittleJake at 10:19:32
