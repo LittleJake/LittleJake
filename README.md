@@ -4,10 +4,10 @@ Today is 02/10/2021.
 
 ### Hitokoto
 
-> 当敌人变成战友多半是为了生存，而战友变成敌人多半是为了金钱。
+> 如果真是这样， 就由我来把彭格列毁灭！
 > 
-> ——端脑
+> ——家庭教师
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 12:11:44
+Autogen by LittleJake at 14:14:48
