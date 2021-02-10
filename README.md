@@ -4,10 +4,10 @@ Today is 02/10/2021.
 
 ### Hitokoto
 
-> 死亡不是终点，被遗忘才是。
+> 这么温暖的世界里有我，要感谢神明了。
 > 
-> ——寻梦环游记
+> ——Comic Girls
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 06:09:59
+Autogen by LittleJake at 08:12:02
