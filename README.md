@@ -4,10 +4,10 @@ Today is 02/10/2021.
 
 ### Hitokoto
 
-> 魔装少女就是本少爷！
+> 规则是用来被打破的。
 > 
-> ——这是僵尸吗？
+> ——机械公敌
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 18:18:10
+Autogen by LittleJake at 20:14:22
