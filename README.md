@@ -4,10 +4,10 @@ Today is 02/10/2021.
 
 ### Hitokoto
 
-> 规则是用来被打破的。
+> 成一事者，是失之不渝的愚者；毁一事者，是停滞不前的贤者。
 > 
-> ——机械公敌
+> ——不正经的魔法讲师
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 20:14:22
+Autogen by LittleJake at 22:12:52
