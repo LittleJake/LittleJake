@@ -4,10 +4,10 @@ Today is 02/10/2021.
 
 ### Hitokoto
 
-> 龙儿是我的，谁都不准碰！
+> 与众不同的生活方式很累人呢，因为找不到借口。
 > 
-> ——龙虎斗
+> ——幸运星
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 00:21:26
+Autogen by LittleJake at 02:10:11
