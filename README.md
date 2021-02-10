@@ -4,10 +4,10 @@ Today is 02/10/2021.
 
 ### Hitokoto
 
-> 与众不同的生活方式很累人呢，因为找不到借口。
+> 在东京的天空上，我们决定性的改变了世界的模样。
 > 
-> ——幸运星
+> ——天气之子
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 02:10:11
+Autogen by LittleJake at 04:10:29
