@@ -4,10 +4,10 @@ Today is 02/11/2021.
 
 ### Hitokoto
 
-> 愿你有一天，能和你最重要的人重逢。
+> 世界怎样与我无关，以我自己的意识！
 > 
-> ——可塑性记忆
+> ——机动战士高达00
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 20:09:02
+Autogen by LittleJake at 22:09:35
