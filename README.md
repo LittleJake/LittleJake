@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 02/10/2021.
+Today is 02/11/2021.
 
 ### Hitokoto
 
-> 成一事者，是失之不渝的愚者；毁一事者，是停滞不前的贤者。
+> 乘上与平时相反的列车，为了去见从未见过的风景。
 > 
-> ——不正经的魔法讲师
+> ——比宇宙更远的地方
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 22:12:52
+Autogen by LittleJake at 00:21:29
