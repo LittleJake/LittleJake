@@ -4,10 +4,10 @@ Today is 02/11/2021.
 
 ### Hitokoto
 
-> 人生最糟糕的事，一个是饿肚子，一个是孤独。
+> 你不会死的，因为我会保护你.
 > 
-> ——夏日大作战
+> ——EVA
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 06:10:33
+Autogen by LittleJake at 08:10:37
