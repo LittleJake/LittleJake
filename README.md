@@ -4,10 +4,10 @@ Today is 02/11/2021.
 
 ### Hitokoto
 
-> 乘上与平时相反的列车，为了去见从未见过的风景。
+> 想和你重新认识一次 从你叫什么名字说起。
 > 
-> ——比宇宙更远的地方
+> ——你的名字
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 00:21:29
+Autogen by LittleJake at 02:13:57
