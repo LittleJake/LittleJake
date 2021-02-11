@@ -4,10 +4,10 @@ Today is 02/11/2021.
 
 ### Hitokoto
 
-> 观察铅笔和橡皮，哪个是攻哪个是受，请写出它们晚上的对话。
+> 求你，保护那孩子，消除灾厄，抹除祸事。哪怕…那是我自己…
 > 
-> ——学生会的一己之见
+> ——食灵
 
 ![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 12:11:46
+Autogen by LittleJake at 14:12:46
