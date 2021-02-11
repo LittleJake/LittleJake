@@ -4,10 +4,10 @@ Today is 02/11/2021.
 
 ### Hitokoto
 
-> 你不会死的，因为我会保护你.
+> 不能逃避，不能逃避，不能逃避，不能逃避⋯⋯
 > 
 > ——EVA
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 08:10:37
+Autogen by LittleJake at 10:11:53
