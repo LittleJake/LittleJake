@@ -4,10 +4,10 @@ Today is 02/12/2021.
 
 ### Hitokoto
 
-> 一个人有表里两面，你能看到的，仅仅是其中一面而已。
+> 雁过拔毛，兽走留皮。涂山，我罩的，懂？
 > 
-> ——零的执行人
+> ——狐妖小红娘
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 00:21:50
+Autogen by LittleJake at 02:14:32
