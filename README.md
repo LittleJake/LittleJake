@@ -4,10 +4,10 @@ Today is 02/12/2021.
 
 ### Hitokoto
 
-> 用我的左手将你那个不可理喻的幻想粉碎掉！
+> 我会化作人间的风雨陪在你的身边
 > 
-> ——魔法禁书目录
+> ——大鱼海棠
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 08:10:47
+Autogen by LittleJake at 10:09:42
