@@ -4,10 +4,10 @@ Today is 02/12/2021.
 
 ### Hitokoto
 
-> 请不要跟我搭话。我讨厌你！
+> 历史虽然会一再重演，但人类却无法回到过去。
 > 
-> ——八九寺真宵
+> ——海贼王
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 18:09:48
+Autogen by LittleJake at 20:09:04
