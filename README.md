@@ -4,10 +4,10 @@ Today is 02/13/2021.
 
 ### Hitokoto
 
-> 那些坚定决心的人们，会展现出好脸色。
+> 今后我们来度过满是愉快之事的人生吧
 > 
-> ——闪电十一人
+> ——Charlotte
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 14:08:52
+Autogen by LittleJake at 16:13:30
