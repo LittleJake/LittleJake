@@ -4,10 +4,10 @@ Today is 02/13/2021.
 
 ### Hitokoto
 
-> 我只对现实世界绝望过，却未对自己绝望过！
+> 邂逅本身，就是一种奇迹啊。
 > 
-> ——只有神知道的世界
+> ——游魂
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 02:13:49
+Autogen by LittleJake at 04:10:43
