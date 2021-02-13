@@ -4,10 +4,10 @@ Today is 02/13/2021.
 
 ### Hitokoto
 
-> 追逐梦想的人比抓住梦想的人更能发挥实力。
+> 下一次重逢，将是何年何月？天空必将见证。
 > 
-> ——银魂
+> ——SOLA
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 20:08:44
+Autogen by LittleJake at 22:09:34
