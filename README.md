@@ -4,10 +4,10 @@ Today is 02/13/2021.
 
 ### Hitokoto
 
-> 为了爱，与梦想！
+> 应该可以了吧，我已经很努力了，应该可以抵达终点了……
 > 
-> ——眼大人
+> ——AIR
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 08:10:33
+Autogen by LittleJake at 10:09:38
