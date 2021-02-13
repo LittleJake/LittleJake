@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 02/13/2021.
 
 ### Hitokoto
 
-> 邂逅本身，就是一种奇迹啊。
+> JOJO，我不想再做人了！！
 > 
-> ——游魂
+> ——JOJO的奇妙冒险
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 04:10:43
+Autogen by LittleJake at 06:09:42
