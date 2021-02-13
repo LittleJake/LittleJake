@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 02/12/2021.
+Today is 02/13/2021.
 
 ### Hitokoto
 
-> “像你这样的白痴是怎么活过来的？”“因为我很自信。“
+> 即使你忘记了我，我也不会遗忘你。
 > 
-> ——海贼王
+> ——Re：从零开始的异世界生活
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 22:09:23
+Autogen by LittleJake at 00:26:30
