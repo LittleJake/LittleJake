@@ -4,10 +4,10 @@ Today is 02/14/2021.
 
 ### Hitokoto
 
-> 哭过喊过便会停止哭泣
+> 就是因为抱有不现实的理想，所以才总是做出如此极端的事情！
 > 
-> ——从零开始的异世界生活
+> ——逆袭的夏亚
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 12:11:46
+Autogen by LittleJake at 14:08:48
