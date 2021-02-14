@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 02/14/2021.
 
 ### Hitokoto
 
-> 相信十年后的八月，我们还会相遇。
+> 我不努力，就见不到你了啊。
 > 
-> ——未闻花名
+> ——昨日之歌
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 16:13:54
+Autogen by LittleJake at 18:09:26
