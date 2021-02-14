@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 02/14/2021.
 
 ### Hitokoto
 
-> 做不到的事没必要勉强去做，不也挺好吗？
+> 哭过喊过便会停止哭泣
 > 
-> ——青春猪头少年不会梦到兔女郎学姐
+> ——从零开始的异世界生活
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 10:09:50
+Autogen by LittleJake at 12:11:46
