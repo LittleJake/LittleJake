@@ -4,10 +4,10 @@ Today is 02/14/2021.
 
 ### Hitokoto
 
-> 我不努力，就见不到你了啊。
+> 绝对要一起去吃拉面喵~
 > 
-> ——昨日之歌
+> ——星空凛
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 18:09:26
+Autogen by LittleJake at 20:08:42
