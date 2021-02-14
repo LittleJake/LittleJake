@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 02/14/2021.
 
 ### Hitokoto
 
-> 尽情的依靠我吧，因为总有一天我也会依靠你的。
+> 不要哀求，学会争取；若是如此，终有所获。
 > 
-> ——妖精的尾巴
+> ——交响诗篇
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 04:10:50
+Autogen by LittleJake at 06:09:52
