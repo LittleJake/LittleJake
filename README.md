@@ -4,10 +4,10 @@ Today is 02/14/2021.
 
 ### Hitokoto
 
-> 绝对要一起去吃拉面喵~
+> 我的腿让我停下，可是心却不允许我那么做。
 > 
-> ——星空凛
+> ——钢之炼金术师
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 20:08:42
+Autogen by LittleJake at 22:09:33
