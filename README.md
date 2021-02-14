@@ -4,10 +4,10 @@ Today is 02/14/2021.
 
 ### Hitokoto
 
-> 并非喜欢、也不是爱。而是更加深刻而沉重的——
+> 尽情的依靠我吧，因为总有一天我也会依靠你的。
 > 
-> ——SWEET POOL
+> ——妖精的尾巴
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 02:14:49
+Autogen by LittleJake at 04:10:50
