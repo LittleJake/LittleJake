@@ -4,10 +4,10 @@ Today is 02/15/2021.
 
 ### Hitokoto
 
-> 失去的东西虽然拿不回来，但是，忘记的事情是可以想起来的。
+> 最有名的莫过于想死一次吗。
 > 
-> ——TOUCH
+> ——阎魔爱
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 20:08:49
+Autogen by LittleJake at 22:09:50
