@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 02/15/2021.
 
 ### Hitokoto
 
-> 今天你最后遇见的那个人有在微笑吗？
+> 失礼。噛みました
 > 
-> ——幸运星
+> ——化物语(上)
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 16:14:24
+Autogen by LittleJake at 18:10:01
