@@ -4,10 +4,10 @@ Today is 02/15/2021.
 
 ### Hitokoto
 
-> 失礼。噛みました
+> 失去的东西虽然拿不回来，但是，忘记的事情是可以想起来的。
 > 
-> ——化物语(上)
+> ——TOUCH
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 18:10:01
+Autogen by LittleJake at 20:08:49
