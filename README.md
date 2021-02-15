@@ -4,10 +4,10 @@ Today is 02/15/2021.
 
 ### Hitokoto
 
-> 或许只需一滴露水，便能守护这绽放的花朵。
+> 笑是对身边的事物感到一瞬间的幸福而表现出来的东西。
 > 
-> ——反叛的鲁鲁修
+> ——CLANNAD
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 02:15:06
+Autogen by LittleJake at 04:10:55
