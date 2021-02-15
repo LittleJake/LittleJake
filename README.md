@@ -4,10 +4,10 @@ Today is 02/15/2021.
 
 ### Hitokoto
 
-> 苹果是给那些为了爱选择死亡的人的奖励
+> 或许只需一滴露水，便能守护这绽放的花朵。
 > 
-> ——回转企鹅罐
+> ——反叛的鲁鲁修
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 00:22:04
+Autogen by LittleJake at 02:15:06
