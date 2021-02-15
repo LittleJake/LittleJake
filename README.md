@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 02/14/2021.
+Today is 02/15/2021.
 
 ### Hitokoto
 
-> 我的腿让我停下，可是心却不允许我那么做。
+> 苹果是给那些为了爱选择死亡的人的奖励
 > 
-> ——钢之炼金术师
+> ——回转企鹅罐
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 22:09:33
+Autogen by LittleJake at 00:22:04
