@@ -4,10 +4,10 @@ Today is 02/15/2021.
 
 ### Hitokoto
 
-> 大部分人并不想长大 只是没办法继续当一个小孩子。
+> 从现在开始，我将追寻你的名字。
 > 
-> ——小林家的龙女仆
+> ——你的名字
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 06:09:56
+Autogen by LittleJake at 08:11:06
