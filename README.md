@@ -4,10 +4,10 @@ Today is 02/15/2021.
 
 ### Hitokoto
 
-> 从现在开始，我将追寻你的名字。
+> (」・ω・)」うー！(／・ω・)／にゃー！
 > 
-> ——你的名字
+> ——潜行吧奈亚子
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 08:11:06
+Autogen by LittleJake at 10:10:05
