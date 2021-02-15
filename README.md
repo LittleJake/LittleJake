@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 02/15/2021.
 
 ### Hitokoto
 
-> 笑是对身边的事物感到一瞬间的幸福而表现出来的东西。
+> 大部分人并不想长大 只是没办法继续当一个小孩子。
 > 
-> ——CLANNAD
+> ——小林家的龙女仆
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 04:10:55
+Autogen by LittleJake at 06:09:56
