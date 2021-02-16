@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 02/16/2021.
 
 ### Hitokoto
 
-> 君子无争，含光无形，坐忘无心。
+> 就连一直都无容身之地的我……也不是可以任意舍弃的生命。
 > 
-> ——秦时明月
+> ——夏目友人帐
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 04:10:42
+Autogen by LittleJake at 06:09:38
