@@ -4,10 +4,10 @@ Today is 02/16/2021.
 
 ### Hitokoto
 
-> 只要是活着的东西，就算是神我也会杀给你看。
+> 即使我变弱了，也不代表你变强了。
 > 
-> ——空之境界
+> ——魔法禁书目录
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 18:09:48
+Autogen by LittleJake at 20:08:51
