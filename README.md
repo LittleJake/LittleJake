@@ -4,10 +4,10 @@ Today is 02/16/2021.
 
 ### Hitokoto
 
-> 能哭的地方只有厕所和爸爸的怀里。
+> 那些坚定决心的人们，会展现出好脸色。
 > 
-> ——Clannad
+> ——闪电十一人
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 12:11:47
+Autogen by LittleJake at 14:09:03
