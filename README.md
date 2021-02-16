@@ -4,10 +4,10 @@ Today is 02/16/2021.
 
 ### Hitokoto
 
-> 即使我变弱了，也不代表你变强了。
+> 烈焰中舞动的火花，将赐予邪恶异性交往以天罚。
 > 
-> ——魔法禁书目录
+> ——潜行吧！奈亚子W
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 20:08:51
+Autogen by LittleJake at 22:09:38
