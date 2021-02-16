@@ -4,10 +4,10 @@ Today is 02/16/2021.
 
 ### Hitokoto
 
-> 翠星石最喜欢苍星石的说,所以到死也要在一起的说...
+> 真正让我难受的，大概是因为让你看到如此狼狈的自己。
 > 
-> ——Rozen Maiden
+> ——元气少女缘结神
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 08:10:20
+Autogen by LittleJake at 10:09:43
