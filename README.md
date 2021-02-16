@@ -4,10 +4,10 @@ Today is 02/16/2021.
 
 ### Hitokoto
 
-> 我不会让任何人看到我软弱的一面。
+> 君子无争，含光无形，坐忘无心。
 > 
-> ——桔梗
+> ——秦时明月
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 02:14:49
+Autogen by LittleJake at 04:10:42
