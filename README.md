@@ -4,10 +4,10 @@ Today is 02/16/2021.
 
 ### Hitokoto
 
-> 就连一直都无容身之地的我……也不是可以任意舍弃的生命。
+> 翠星石最喜欢苍星石的说,所以到死也要在一起的说...
 > 
-> ——夏目友人帐
+> ——Rozen Maiden
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 06:09:38
+Autogen by LittleJake at 08:10:20
