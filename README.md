@@ -4,10 +4,10 @@ Today is 02/16/2021.
 
 ### Hitokoto
 
-> 那些坚定决心的人们，会展现出好脸色。
+> 那么，开始实验吧！
 > 
-> ——闪电十一人
+> ——假面骑士Build
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 14:09:03
+Autogen by LittleJake at 16:14:05
