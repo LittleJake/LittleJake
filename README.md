@@ -4,10 +4,10 @@ Today is 02/17/2021.
 
 ### Hitokoto
 
-> 将愿望倾入不愿忘却的回忆中……
+> 背后即是祖国，我们无路可退。
 > 
-> ——ef-a tale of memories
+> ——那年那兔那些事
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 06:08:18
+Autogen by LittleJake at 08:10:42
