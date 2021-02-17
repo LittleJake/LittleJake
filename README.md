@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 02/17/2021.
 
 ### Hitokoto
 
-> 一个人觉得寂寞，和另一个人相互依偎又有什么错
+> 我一直注视着你，似近，似远。但你永远，看不见我……
 > 
-> ——人渣的本愿
+> ——来自风平浪静的明天
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 10:09:54
+Autogen by LittleJake at 12:11:35
