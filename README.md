@@ -4,10 +4,10 @@ Today is 02/17/2021.
 
 ### Hitokoto
 
-> 燃烧吧，我的小宇宙！
+> 嗯，明白。我们是天人的Gundam Meister
 > 
-> ——圣斗士星矢
+> ——机动战士高达00
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 00:21:49
+Autogen by LittleJake at 02:12:48
