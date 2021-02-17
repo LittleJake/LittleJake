@@ -4,10 +4,10 @@ Today is 02/17/2021.
 
 ### Hitokoto
 
-> 能够轻易就放弃的梦想，有存在的价值么？
+> 不服从命令的人是人渣，抛弃同伴的人连人渣都不如。
 > 
-> ——守护甜心
+> ——火影忍者
 
 ![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 14:08:55
+Autogen by LittleJake at 16:24:43
