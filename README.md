@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 02/16/2021.
+Today is 02/17/2021.
 
 ### Hitokoto
 
-> 烈焰中舞动的火花，将赐予邪恶异性交往以天罚。
+> 燃烧吧，我的小宇宙！
 > 
-> ——潜行吧！奈亚子W
+> ——圣斗士星矢
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 22:09:38
+Autogen by LittleJake at 00:21:49
