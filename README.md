@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 02/18/2021.
 
 ### Hitokoto
 
-> 如果你是魔女，我只要化身魔王就可以了。
+> 应该可以了吧，我已经很努力了，应该可以抵达终点了…
 > 
-> ——反叛的鲁鲁修
+> ——AIR
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 10:11:58
+Autogen by LittleJake at 12:11:42
