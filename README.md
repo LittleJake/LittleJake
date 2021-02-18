@@ -4,10 +4,10 @@ Today is 02/18/2021.
 
 ### Hitokoto
 
-> 求求你，不要对我这么温柔！
+> 男人变态有什么错！
 > 
-> ——秒速五厘米
+> ——寒蝉鸣泣之时
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 00:22:23
+Autogen by LittleJake at 02:14:43
