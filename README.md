@@ -4,10 +4,10 @@ Today is 02/18/2021.
 
 ### Hitokoto
 
-> 男人变态有什么错！
+> 时间可以治愈？如果时间也病了怎么办
 > 
-> ——寒蝉鸣泣之时
+> ——寒蝉明泣之时
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 02:14:43
+Autogen by LittleJake at 04:11:00
