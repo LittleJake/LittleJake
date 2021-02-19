@@ -4,10 +4,10 @@ Today is 02/19/2021.
 
 ### Hitokoto
 
-> 一日为灵，终生为影，灵气共生，魂命无分，阴阳调和，万物皆宁。
+> 愿你有一天，能和你最重要的人重逢。
 > 
-> ——灵契
+> ——可塑性记忆
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 08:10:33
+Autogen by LittleJake at 10:09:58
