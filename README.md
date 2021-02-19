@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 02/19/2021.
 
 ### Hitokoto
 
-> 痴情的妖怪啊,请再等一世吧。
+> 我并不羡慕别人的人生，这就是所谓幸福。
 > 
-> ——狐妖小红娘
+> ——幸运星
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 04:10:49
+Autogen by LittleJake at 06:09:48
