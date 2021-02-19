@@ -4,10 +4,10 @@ Today is 02/19/2021.
 
 ### Hitokoto
 
-> 我们不是大人，而是同学吧。
+> 乘上与平时相反的列车，为了去见从未见过的风景。
 > 
-> ——恋如雨止
+> ——比宇宙更远的地方
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 14:09:08
+Autogen by LittleJake at 16:14:30
