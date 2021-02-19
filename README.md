@@ -4,10 +4,10 @@ Today is 02/19/2021.
 
 ### Hitokoto
 
-> 我并不羡慕别人的人生，这就是所谓幸福。
+> 一日为灵，终生为影，灵气共生，魂命无分，阴阳调和，万物皆宁。
 > 
-> ——幸运星
+> ——灵契
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 06:09:48
+Autogen by LittleJake at 08:10:33
