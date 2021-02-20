@@ -4,10 +4,10 @@ Today is 02/20/2021.
 
 ### Hitokoto
 
-> 这个世界上没有完美的人类，所以，人无法自己一个人活著。
+> 世界上没有一个人能代替另一个人。
 > 
-> ——不可思议游戏
+> ——人型电脑天使心
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 06:09:54
+Autogen by LittleJake at 08:10:26
