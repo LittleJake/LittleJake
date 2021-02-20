@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 02/20/2021.
 
 ### Hitokoto
 
-> 木叶飞舞之处，火亦生生不息。
+> 世界は恋に落ちている。
 > 
-> ——火影忍者
+> ——青春之旅OP（我的世界已坠入爱河）
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 10:10:04
+Autogen by LittleJake at 12:11:35
