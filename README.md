@@ -4,10 +4,10 @@ Today is 02/20/2021.
 
 ### Hitokoto
 
-> 命运的红线一旦断了，就再也接不上了。
+> 要改变别人的心真是件很难办的事，不过改变自己要容易一点。
 > 
-> ——犬夜叉
+> ——XXXHolic
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 02:14:31
+Autogen by LittleJake at 04:10:56
