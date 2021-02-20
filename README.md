@@ -4,10 +4,10 @@ Today is 02/20/2021.
 
 ### Hitokoto
 
-> 只要学不死，就往死里学。
+> 魔装少女就是本少爷！
 > 
-> ——网络热语
+> ——这是僵尸吗？
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 18:09:49
+Autogen by LittleJake at 20:09:02
