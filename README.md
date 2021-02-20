@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 02/20/2021.
 
 ### Hitokoto
 
-> 要改变别人的心真是件很难办的事，不过改变自己要容易一点。
+> 这个世界上没有完美的人类，所以，人无法自己一个人活著。
 > 
-> ——XXXHolic
+> ——不可思议游戏
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 04:10:56
+Autogen by LittleJake at 06:09:54
