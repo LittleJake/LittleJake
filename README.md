@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 02/19/2021.
+Today is 02/20/2021.
 
 ### Hitokoto
 
-> 无可取代的东西要到失去后才知道珍惜呢。
+> 人总有一天都会死的，但正因为生命是有限的，才能够欢喜和悲伤。
 > 
-> ——干物妹小埋
+> ——通灵王
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 22:09:30
+Autogen by LittleJake at 00:21:43
