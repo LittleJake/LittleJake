@@ -4,10 +4,10 @@ Today is 02/20/2021.
 
 ### Hitokoto
 
-> 魔装少女就是本少爷！
+> 彼方为谁，无我有问 ；九月露湿，待君之前
 > 
-> ——这是僵尸吗？
+> ——你的名字
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 20:09:02
+Autogen by LittleJake at 22:09:40
