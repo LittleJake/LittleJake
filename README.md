@@ -4,10 +4,10 @@ Today is 02/20/2021.
 
 ### Hitokoto
 
-> 世界は恋に落ちている。
+> 知识是很美的，它们可以让你不出家门就了解这世上的许多事。
 > 
-> ——青春之旅OP（我的世界已坠入爱河）
+> ——妖精的尾巴
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 12:11:35
+Autogen by LittleJake at 14:09:02
