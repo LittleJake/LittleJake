@@ -4,10 +4,10 @@ Today is 02/21/2021.
 
 ### Hitokoto
 
-> 不拼尽全力去试一下，又怎么会知道啊
+> 人啊...想要保护重要东西的时候，就真的能变得很坚强。
 > 
-> ——刺客伍六七
+> ——火影忍者
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 18:09:40
+Autogen by LittleJake at 20:08:53
