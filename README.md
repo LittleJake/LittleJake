@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 02/21/2021.
 
 ### Hitokoto
 
-> 如果因为害怕失败，而不去努力，那就不会有能够成功的人。
+> 我们开始一起攀登，这长长的，长长的坡道。
 > 
-> ——樱花庄的宠物女孩
+> ——Clannad
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 10:09:39
+Autogen by LittleJake at 12:11:35
