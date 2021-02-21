@@ -4,10 +4,10 @@ Today is 02/21/2021.
 
 ### Hitokoto
 
-> 就是因为抱有不现实的理想，所以才总是做出如此极端的事情！
+> 此身为剑所天成，身如钢铁，心似琉璃。
 > 
-> ——逆袭的夏亚
+> ——Fate
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 02:16:32
+Autogen by LittleJake at 04:10:45
