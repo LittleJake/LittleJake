@@ -4,10 +4,10 @@ Today is 02/21/2021.
 
 ### Hitokoto
 
-> 人啊...想要保护重要东西的时候，就真的能变得很坚强。
+> 隐约雷鸣阴霾天空即使风无雨我亦留此地
 > 
-> ——火影忍者
+> ——言叶之庭
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 20:08:53
+Autogen by LittleJake at 22:09:34
