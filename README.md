@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 02/20/2021.
+Today is 02/21/2021.
 
 ### Hitokoto
 
-> 彼方为谁，无我有问 ；九月露湿，待君之前
+> 我对Darling啊，最喜欢了。我们从今以后，都要在一起哦。
 > 
-> ——你的名字
+> ——Darling in the FRANXX
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 22:09:40
+Autogen by LittleJake at 00:23:20
