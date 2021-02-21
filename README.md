@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 02/21/2021.
 
 ### Hitokoto
 
-> 与绝望~和睦相处。
+> 不拼尽全力去试一下，又怎么会知道啊
 > 
-> ——少女终末旅行
+> ——刺客伍六七
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 16:14:18
+Autogen by LittleJake at 18:09:40
