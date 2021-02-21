@@ -4,10 +4,10 @@ Today is 02/21/2021.
 
 ### Hitokoto
 
-> 你的那双手呢，是为了紧紧抓住什么而存在的哦。
+> 如果因为害怕失败，而不去努力，那就不会有能够成功的人。
 > 
-> ——仰望半月的夜空
+> ——樱花庄的宠物女孩
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 08:10:15
+Autogen by LittleJake at 10:09:39
