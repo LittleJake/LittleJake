@@ -4,10 +4,10 @@ Today is 02/22/2021.
 
 ### Hitokoto
 
-> 明天的事，交给明天的我。
+> 龙儿是我的！谁都不准碰！
 > 
-> ——一拳超人
+> ——逢坂大河
 
 ![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 14:08:54
+Autogen by LittleJake at 16:14:34
