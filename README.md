@@ -4,10 +4,10 @@ Today is 02/22/2021.
 
 ### Hitokoto
 
-> 我愿意呀，五十年前就愿意了。
+> “像你这样的白痴是怎么活过来的？”“因为我很自信。
 > 
-> ——狐妖小红娘
+> ——海贼王
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 08:09:08
+Autogen by LittleJake at 10:08:34
