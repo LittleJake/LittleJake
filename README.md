@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 02/21/2021.
+Today is 02/22/2021.
 
 ### Hitokoto
 
-> 隐约雷鸣阴霾天空即使风无雨我亦留此地
+> 有时语言就像把利刃，使用不当，就会成为凶器。
 > 
-> ——言叶之庭
+> ——名侦探柯南
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 22:09:34
+Autogen by LittleJake at 00:22:32
