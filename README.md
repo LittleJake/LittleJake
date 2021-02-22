@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 02/22/2021.
 
 ### Hitokoto
 
-> “像你这样的白痴是怎么活过来的？”“因为我很自信。
+> 只要微笑就可以了。
 > 
-> ——海贼王
+> ——EVA
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 10:08:34
+Autogen by LittleJake at 12:09:55
