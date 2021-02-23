@@ -4,10 +4,10 @@ Today is 02/23/2021.
 
 ### Hitokoto
 
-> 喜欢的人喜欢别人不是很正常吗。
+> 己所欲者，杀而夺之，亦同天赐
 > 
-> ——四月是你的谎言
+> ——游戏人生
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 00:22:13
+Autogen by LittleJake at 02:16:25
