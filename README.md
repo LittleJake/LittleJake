@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 02/23/2021.
 
 ### Hitokoto
 
-> 时间可以治愈？如果时间也病了怎么办
+> 不能逃避，不能逃避，不能逃避，不能逃避……
 > 
-> ——寒蝉明泣之时
+> ——EVA
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 10:10:08
+Autogen by LittleJake at 12:11:43
