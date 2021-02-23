@@ -4,10 +4,10 @@ Today is 02/23/2021.
 
 ### Hitokoto
 
-> 今天我就要带她走，我看谁敢拦我
+> 你的那双手呢，是为了紧紧抓住什么而存在的哦。
 > 
-> ——刺客伍六七
+> ——仰望半月的夜空
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 18:11:04
+Autogen by LittleJake at 20:09:16
