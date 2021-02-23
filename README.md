@@ -4,10 +4,10 @@ Today is 02/23/2021.
 
 ### Hitokoto
 
-> 即使天无雨，我亦留此地。
+> 如果你不能击败你的敌人，那么就加入他们。
 > 
-> ——言叶之庭
+> ——加菲猫
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 14:10:05
+Autogen by LittleJake at 16:14:25
