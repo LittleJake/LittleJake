@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 02/23/2021.
+Today is 02/24/2021.
 
 ### Hitokoto
 
-> 我的金子，只给千寻。
+> 生命可以随心所欲，但不能随波逐流
 > 
-> ——千与千寻
+> ——猫的报恩
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 22:09:19
+Autogen by LittleJake at 00:22:20
