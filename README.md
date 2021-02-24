@@ -4,10 +4,10 @@ Today is 02/24/2021.
 
 ### Hitokoto
 
-> 已经无法回到过去了。也不知道将来会是什么模样。
+> 不拼尽全力去试一下，又怎么会知道啊
 > 
-> ——文学少女
+> ——刺客伍六七
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 20:09:20
+Autogen by LittleJake at 22:09:32
