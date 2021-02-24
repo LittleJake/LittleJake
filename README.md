@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 02/24/2021.
 
 ### Hitokoto
 
-> 你就赌我会死吧，因为你逢赌必输。
+> 契约者不会做梦。
 > 
-> ——火影忍者
+> ——黑之契约者
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 04:09:14
+Autogen by LittleJake at 06:09:55
