@@ -4,10 +4,10 @@ Today is 02/24/2021.
 
 ### Hitokoto
 
-> 憧憬是距离理解最遥远的一种感情。
+> 我不做人了！
 > 
-> ——死神
+> ——JOJO的奇妙冒险
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 12:16:59
+Autogen by LittleJake at 14:14:30
