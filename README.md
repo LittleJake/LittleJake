@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 02/25/2021.
 
 ### Hitokoto
 
-> 人生最糟糕的事，一个是饿肚子，一个是孤独。
+> 愿有朝一日与你见面还能释放温暖拥你入怀。
 > 
-> ——夏日大作战
+> ——境界的彼方
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 04:10:56
+Autogen by LittleJake at 06:10:16
