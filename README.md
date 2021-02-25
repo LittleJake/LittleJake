@@ -4,10 +4,10 @@ Today is 02/25/2021.
 
 ### Hitokoto
 
-> 我想你们的努力一定会有回报的
+> 重要的是无论我们选择哪条路，都要担负起选择的责任。
 > 
-> ——龙与虎
+> ——蜂蜜与四叶草
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 00:22:38
+Autogen by LittleJake at 02:16:46
