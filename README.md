@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 02/25/2021.
 
 ### Hitokoto
 
-> さあ、始めようか。(那么，游戏开始吧。)
+> 用你的笑容去改变这个世界，别让这个世界改变了你的笑容。
 > 
-> ——No Game No Life
+> ——网络
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 16:14:23
+Autogen by LittleJake at 18:09:43
