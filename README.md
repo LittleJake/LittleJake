@@ -4,10 +4,10 @@ Today is 02/25/2021.
 
 ### Hitokoto
 
-> 用你的笑容去改变这个世界，别让这个世界改变了你的笑容。
+> 规则是用来被打破的。
 > 
-> ——网络
+> ——机械公敌
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 18:09:43
+Autogen by LittleJake at 20:09:21
