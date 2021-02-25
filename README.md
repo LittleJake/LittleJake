@@ -4,10 +4,10 @@ Today is 02/25/2021.
 
 ### Hitokoto
 
-> 如果结果不如你所愿，就在尘埃落定前奋力一搏。
+> さあ、始めようか。(那么，游戏开始吧。)
 > 
-> ——夏目友人帐
+> ——No Game No Life
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 14:13:32
+Autogen by LittleJake at 16:14:23
