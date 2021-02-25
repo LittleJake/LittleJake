@@ -4,10 +4,10 @@ Today is 02/25/2021.
 
 ### Hitokoto
 
-> 重要的是无论我们选择哪条路，都要担负起选择的责任。
+> 人生最糟糕的事，一个是饿肚子，一个是孤独。
 > 
-> ——蜂蜜与四叶草
+> ——夏日大作战
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 02:16:46
+Autogen by LittleJake at 04:10:56
