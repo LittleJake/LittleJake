@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 02/26/2021.
 
 ### Hitokoto
 
-> 烈焰中舞动的火花，将赐予邪恶异性交往以天罚。
+> 我只是个兴趣使然的英雄。
 > 
-> ——潜行吧！奈亚子W
+> ——一拳超人
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 10:15:19
+Autogen by LittleJake at 12:15:58
