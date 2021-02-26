@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 02/26/2021.
 
 ### Hitokoto
 
-> 我必须要变强，但是孤独居然这么痛苦。
+> 为了你,如果是为了你,即使我被困在永远的迷宫中,也没关系.
 > 
-> ——黑色五叶草
+> ——魔法少女小圆
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 16:14:37
+Autogen by LittleJake at 18:09:43
