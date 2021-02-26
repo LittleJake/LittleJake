@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 02/25/2021.
+Today is 02/26/2021.
 
 ### Hitokoto
 
-> 给，一辈子朋友劵。
+> 我对Darling啊，最喜欢了。我们从今以后，都要在一起哦。
 > 
-> ——日常
+> ——Darling in the FRANXX
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 22:09:20
+Autogen by LittleJake at 00:27:19
