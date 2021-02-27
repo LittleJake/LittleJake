@@ -4,10 +4,10 @@ Today is 02/27/2021.
 
 ### Hitokoto
 
-> 即使你忘却了我，我也不会遗忘你。
+> 我不会让任何人看到我软弱的一面。
 > 
-> ——菜月昂
+> ——桔梗
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 06:10:08
+Autogen by LittleJake at 08:10:57
