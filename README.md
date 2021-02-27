@@ -4,10 +4,10 @@ Today is 02/27/2021.
 
 ### Hitokoto
 
-> 还能再见面吗? 一定能见面的
+> 不相信人咬不到肚脐的，咬破肚脐去死如何？
 > 
-> ——Fantastic Children
+> ——海猫鸣泣之时
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 20:09:27
+Autogen by LittleJake at 22:09:26
