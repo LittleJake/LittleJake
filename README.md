@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 02/27/2021.
 
 ### Hitokoto
 
-> 给，一辈子朋友劵。
+> 即使你忘却了我，我也不会遗忘你。
 > 
-> ——日常
+> ——菜月昂
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 04:11:17
+Autogen by LittleJake at 06:10:08
