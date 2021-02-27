@@ -4,10 +4,10 @@ Today is 02/27/2021.
 
 ### Hitokoto
 
-> 如果因为害怕失败，而不去努力，那就不会有能够成功的人。
+> 给，一辈子朋友劵。
 > 
-> ——樱花庄的宠物女孩
+> ——日常
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 02:17:18
+Autogen by LittleJake at 04:11:17
