@@ -4,10 +4,10 @@ Today is 02/28/2021.
 
 ### Hitokoto
 
-> 既然没有终点，那在何处又何妨呢。
+> 如果你都不知道自己想去哪里，那去哪里都是一样的。
 > 
-> ——异度侵入
+> ——柴郡猫
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 18:09:48
+Autogen by LittleJake at 20:09:04
