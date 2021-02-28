@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 02/28/2021.
 
 ### Hitokoto
 
-> 与众不同的生活方式很累人呢，因为找不到借口。
+> 当朋友是不需要什么资格的。
 > 
-> ——幸运星
+> ——全职猎人
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 04:11:08
+Autogen by LittleJake at 06:10:30
