@@ -4,10 +4,10 @@ Today is 02/28/2021.
 
 ### Hitokoto
 
-> 如果你都不知道自己想去哪里，那去哪里都是一样的。
+> 从现在开始，我将追寻你的名字。
 > 
-> ——柴郡猫
+> ——你的名字
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 20:09:04
+Autogen by LittleJake at 22:09:44
