@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 02/28/2021.
 
 ### Hitokoto
 
-> 比起悲伤来说，无法分享快乐这件事，要更加的寂寞吧。
+> 既然没有终点，那在何处又何妨呢。
 > 
-> ——AIR
+> ——异度侵入
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 16:14:37
+Autogen by LittleJake at 18:09:48
