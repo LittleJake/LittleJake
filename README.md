@@ -4,10 +4,10 @@ Today is 02/28/2021.
 
 ### Hitokoto
 
-> 当朋友是不需要什么资格的。
+> 成功率不到2%，那剩下的用勇气来补足吧！
 > 
-> ——全职猎人
+> ——勇者王
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 06:10:30
+Autogen by LittleJake at 08:10:40
