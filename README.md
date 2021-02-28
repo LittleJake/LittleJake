@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 02/28/2021.
 
 ### Hitokoto
 
-> 就算只有六十亿分之一的机会，我们还是会邂逅。
+> 真可悲，你什么都不知道，在这个世界上没有什么是不重要的！
 > 
-> ——Angel Beats!
+> ——最终幻想
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 10:10:06
+Autogen by LittleJake at 12:11:48
