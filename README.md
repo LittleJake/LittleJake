@@ -4,10 +4,10 @@ Today is 02/28/2021.
 
 ### Hitokoto
 
-> 成功率不到2%，那剩下的用勇气来补足吧！
+> 就算只有六十亿分之一的机会，我们还是会邂逅。
 > 
-> ——勇者王
+> ——Angel Beats!
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 08:10:40
+Autogen by LittleJake at 10:10:06
