@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 03/01/2021.
 
 ### Hitokoto
 
-> 我的出生就是为了用鲜花将你淹没。
+> 一个人觉得寂寞，和另一个人相互依偎又有什么错
 > 
-> ——怪物Monster
+> ——人渣的本愿
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 04:11:33
+Autogen by LittleJake at 06:10:25
