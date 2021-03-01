@@ -4,10 +4,10 @@ Today is 03/01/2021.
 
 ### Hitokoto
 
-> 当敌人变成战友多半是为了生存，而战友变成敌人多半是为了金钱。
+> 理解何为孤单，努力想得到爱的你，内心的悲伤是否稍微宣泄了呢？
 > 
-> ——端脑
+> ——夏目友人帐
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 00:25:52
+Autogen by LittleJake at 02:21:56
