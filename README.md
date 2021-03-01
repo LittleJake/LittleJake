@@ -4,10 +4,10 @@ Today is 03/01/2021.
 
 ### Hitokoto
 
-> 理解何为孤单，努力想得到爱的你，内心的悲伤是否稍微宣泄了呢？
+> 我的出生就是为了用鲜花将你淹没。
 > 
-> ——夏目友人帐
+> ——怪物Monster
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 02:21:56
+Autogen by LittleJake at 04:11:33
