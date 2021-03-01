@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 03/01/2021.
 
 ### Hitokoto
 
-> 此身为剑所天成，身如钢铁，心似琉璃。
+> 我觉得，不改变也很好。
 > 
-> ——Fate
+> ——来自风平浪静的明天
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 10:43:02
+Autogen by LittleJake at 12:12:09
