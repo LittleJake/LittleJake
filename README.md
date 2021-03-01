@@ -4,10 +4,10 @@ Today is 03/01/2021.
 
 ### Hitokoto
 
-> 一个人觉得寂寞，和另一个人相互依偎又有什么错
+> 活着本身就是一种价值，因为还有明天。
 > 
-> ——人渣的本愿
+> ——高达
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 06:10:25
+Autogen by LittleJake at 08:11:31
