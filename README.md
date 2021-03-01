@@ -4,10 +4,10 @@ Today is 03/01/2021.
 
 ### Hitokoto
 
-> 就连一直都无容身之地的我…也不是可以任意舍弃的生命。
+> 古往传奇多少别离，我 只是不经意 遇到了你
 > 
-> ——夏目友人帐
+> ——狐妖小红娘
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 18:12:05
+Autogen by LittleJake at 20:12:47
