@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 03/01/2021.
 
 ### Hitokoto
 
-> 没有一封信是不必被送达的。
+> 就连一直都无容身之地的我…也不是可以任意舍弃的生命。
 > 
-> ——紫罗兰永恒花园
+> ——夏目友人帐
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 16:14:39
+Autogen by LittleJake at 18:12:05
