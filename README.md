@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 02/28/2021.
+Today is 03/01/2021.
 
 ### Hitokoto
 
-> 从现在开始，我将追寻你的名字。
+> 当敌人变成战友多半是为了生存，而战友变成敌人多半是为了金钱。
 > 
-> ——你的名字
+> ——端脑
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 22:09:44
+Autogen by LittleJake at 00:25:52
