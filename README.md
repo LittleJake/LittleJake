@@ -4,10 +4,10 @@ Today is 03/02/2021.
 
 ### Hitokoto
 
-> 我不会让任何人看到我软弱的一面。
+> 你愿意陪我走到地狱的底端吗？
 > 
-> ——桔梗
+> ——魔法禁书目录
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 00:20:54
+Autogen by LittleJake at 02:10:21
