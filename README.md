@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 03/01/2021.
+Today is 03/02/2021.
 
 ### Hitokoto
 
-> 悲伤教会了我喜悦。
+> 我不会让任何人看到我软弱的一面。
 > 
-> ——秋之回忆
+> ——桔梗
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 22:17:26
+Autogen by LittleJake at 00:20:54
