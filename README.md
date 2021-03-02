@@ -4,10 +4,10 @@ Today is 03/02/2021.
 
 ### Hitokoto
 
-> 你愿意陪我走到地狱的底端吗？
+> 我的愿望是—幸福地活着，幸福地死去。
 > 
-> ——魔法禁书目录
+> ——神不在的星期天
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 02:10:21
+Autogen by LittleJake at 04:11:19
