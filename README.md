@@ -4,10 +4,10 @@ Today is 03/02/2021.
 
 ### Hitokoto
 
-> 木叶飞舞之处，火亦生生不息。
+> 记忆是不会消失的，只是一时想不起来了而已。
 > 
-> ——火影忍者
+> ——千与千寻
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 20:09:39
+Autogen by LittleJake at 22:09:54
