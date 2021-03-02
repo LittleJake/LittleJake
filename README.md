@@ -4,10 +4,10 @@ Today is 03/02/2021.
 
 ### Hitokoto
 
-> 不拼尽全力去试一下，又怎么会知道啊
+> 鸣神の　少しとよみて　さし昙り　雨も降らんか　君を留めん
 > 
-> ——刺客伍六七
+> ——言叶之庭
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 06:10:15
+Autogen by LittleJake at 08:10:59
