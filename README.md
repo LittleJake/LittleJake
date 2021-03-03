@@ -4,10 +4,10 @@ Today is 03/03/2021.
 
 ### Hitokoto
 
-> 在弱者眼里可能是这样，不过，我的确很强。
+> 我怕失去了你，我的世界就没有了光明
 > 
-> ——蔷薇少女
+> ——凸变英雄
 
 ![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 08:11:10
+Autogen by LittleJake at 10:13:32
