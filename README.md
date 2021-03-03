@@ -4,10 +4,10 @@ Today is 03/03/2021.
 
 ### Hitokoto
 
-> 愿有朝一日与你见面还能释放温暖拥你入怀。
+> 即使你忘却了我，我也不会遗忘你。
 > 
-> ——境界的彼方
+> ——菜月昂
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 20:09:42
+Autogen by LittleJake at 22:09:53
