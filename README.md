@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 03/03/2021.
 
 ### Hitokoto
 
-> 当朋友是不需要什么资格的。
+> 今日的余晖和你最后那天给我的拥抱，同一个温度
 > 
-> ——全职猎人
+> ——Myself
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 16:20:14
+Autogen by LittleJake at 18:16:20
