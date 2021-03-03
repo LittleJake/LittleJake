@@ -4,10 +4,10 @@ Today is 03/03/2021.
 
 ### Hitokoto
 
-> 对于虚伪而言，真实的光明或许过于耀眼了
+> 能够用自己喜欢的工作维持生活是件很幸福的事情
 > 
-> ——蔷薇少女
+> ——白箱
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 02:19:35
+Autogen by LittleJake at 04:09:47
