@@ -4,10 +4,10 @@ Today is 03/03/2021.
 
 ### Hitokoto
 
-> 今日的余晖和你最后那天给我的拥抱，同一个温度
+> 愿有朝一日与你见面还能释放温暖拥你入怀。
 > 
-> ——Myself
+> ——境界的彼方
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 18:16:20
+Autogen by LittleJake at 20:09:42
