@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 03/02/2021.
+Today is 03/03/2021.
 
 ### Hitokoto
 
-> 记忆是不会消失的，只是一时想不起来了而已。
+> 千山万水，因你不过毫厘
 > 
-> ——千与千寻
+> ——狐妖小红娘
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 22:09:54
+Autogen by LittleJake at 00:22:41
