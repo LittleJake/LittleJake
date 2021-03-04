@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 03/04/2021.
 
 ### Hitokoto
 
-> 温柔正确的人总是难以生存，因为这世界既不温柔，也不正确。
+> 这个世界上没有完美的人类，所以，人无法自己一个人活著。
 > 
-> ——我的青春恋爱物语果然有问题
+> ——不可思议游戏
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 10:15:19
+Autogen by LittleJake at 12:16:59
