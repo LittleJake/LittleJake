@@ -4,10 +4,10 @@ Today is 03/04/2021.
 
 ### Hitokoto
 
-> 梦想是一个天真的词，实现梦想是一个残酷的词
+> 男人从小的时候就是无药可救的。
 > 
-> ——哆啦A梦
+> ——秋之回忆
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 06:09:26
+Autogen by LittleJake at 08:10:55
