@@ -4,10 +4,10 @@ Today is 03/04/2021.
 
 ### Hitokoto
 
-> 因为我...我希望不做任何的努力，让对方喜欢上最真实的我。
+> 我不相信人类......但是，我相信人类的“可能性”
 > 
-> ——女高中生的无所事事
+> ——游戏人生
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 14:09:49
+Autogen by LittleJake at 16:19:31
