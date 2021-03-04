@@ -4,10 +4,10 @@ Today is 03/04/2021.
 
 ### Hitokoto
 
-> Time waits for no one.
+> 如果你执意追寻着我的幻影，总有一天会被真正的我打败。
 > 
-> ——穿越时空的少女
+> ——棋魂
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 02:20:35
+Autogen by LittleJake at 04:11:17
