@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 03/04/2021.
 
 ### Hitokoto
 
-> 我不相信人类......但是，我相信人类的“可能性”
+> 有些事情我不看透，不是我太笨，只是我太善良。
 > 
-> ——游戏人生
+> ——樱桃小丸子
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 16:19:31
+Autogen by LittleJake at 18:09:46
