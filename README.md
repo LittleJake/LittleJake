@@ -4,10 +4,10 @@ Today is 03/04/2021.
 
 ### Hitokoto
 
-> 不可结缘，徒留寂寞……
+> Time waits for no one.
 > 
-> ——夏目友人帐
+> ——穿越时空的少女
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 00:22:40
+Autogen by LittleJake at 02:20:35
