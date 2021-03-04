@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 03/04/2021.
 
 ### Hitokoto
 
-> 如果你执意追寻着我的幻影，总有一天会被真正的我打败。
+> 梦想是一个天真的词，实现梦想是一个残酷的词
 > 
-> ——棋魂
+> ——哆啦A梦
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 04:11:17
+Autogen by LittleJake at 06:09:26
