@@ -4,10 +4,10 @@ Today is 03/04/2021.
 
 ### Hitokoto
 
-> 这个世界上没有完美的人类，所以，人无法自己一个人活著。
+> 因为我...我希望不做任何的努力，让对方喜欢上最真实的我。
 > 
-> ——不可思议游戏
+> ——女高中生的无所事事
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 12:16:59
+Autogen by LittleJake at 14:09:49
