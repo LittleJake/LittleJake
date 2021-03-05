@@ -4,10 +4,10 @@ Today is 03/05/2021.
 
 ### Hitokoto
 
-> 就连一直都无容身之地的我……也不是可以任意舍弃的生命。
+> 今日已成往昔，明日即将到来，为此理所当然之事，感到无比痛心。
 > 
-> ——夏目友人帐
+> ——寻找失去的未来
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 08:11:35
+Autogen by LittleJake at 10:10:38
