@@ -4,10 +4,10 @@ Today is 03/05/2021.
 
 ### Hitokoto
 
-> 我动身踏上旅程，是为了与你道别。
+> 我的生命是属于你的，亚丝娜，我将为你而活。
 > 
-> ——追逐繁星的孩子
+> ——刀剑神域
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 20:09:37
+Autogen by LittleJake at 22:09:57
