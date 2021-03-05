@@ -4,10 +4,10 @@ Today is 03/05/2021.
 
 ### Hitokoto
 
-> 光就是羁绊之力，它会再度被某人继承，散发出耀眼的光。
+> 我动身踏上旅程，是为了与你道别。
 > 
-> ——奈克瑟斯奥特曼
+> ——追逐繁星的孩子
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 18:10:33
+Autogen by LittleJake at 20:09:37
