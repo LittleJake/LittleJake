@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 03/05/2021.
 
 ### Hitokoto
 
-> 今日已成往昔，明日即将到来，为此理所当然之事，感到无比痛心。
+> 没有偶然的必然，只有必然的偶然
 > 
-> ——寻找失去的未来
+> ——魔卡少女樱
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 10:10:38
+Autogen by LittleJake at 12:12:19
