@@ -4,10 +4,10 @@ Today is 03/05/2021.
 
 ### Hitokoto
 
-> 十代目的意志就是我们的意志！
+> 我的愿望是—幸福地活着，幸福地死去。
 > 
-> ——家庭教师
+> ——神不在的星期天
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 02:21:36
+Autogen by LittleJake at 04:11:29
