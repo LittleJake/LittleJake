@@ -4,10 +4,10 @@ Today is 03/05/2021.
 
 ### Hitokoto
 
-> 人难免伤害别人,也难免受伤,不过,人是不会轻易讨厌别人的.
+> 十代目的意志就是我们的意志！
 > 
-> ——火影忍者
+> ——家庭教师
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 00:23:08
+Autogen by LittleJake at 02:21:36
