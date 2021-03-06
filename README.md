@@ -4,10 +4,10 @@ Today is 03/06/2021.
 
 ### Hitokoto
 
-> 从开始的第一天起，就回不去了。
+> 曾经发生过的事情不可能忘记，只不过是想不起而已。
 > 
-> ——流浪地球
+> ——千与千寻
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 02:21:05
+Autogen by LittleJake at 04:11:36
