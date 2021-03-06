@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 03/06/2021.
 
 ### Hitokoto
 
-> 曾经发生过的事情不可能忘记，只不过是想不起而已。
+> 我的腿让我停下，可是心却不允许我那么做。
 > 
-> ——千与千寻
+> ——钢之炼金术师
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 04:11:36
+Autogen by LittleJake at 06:10:18
