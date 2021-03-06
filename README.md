@@ -4,10 +4,10 @@ Today is 03/06/2021.
 
 ### Hitokoto
 
-> 只要是正义的一方，无论手段多么卑鄙都可以被原谅
+> 回首前尘，尽是可耻的过往
 > 
-> ——东京喰种
+> ——月色真美
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 20:09:38
+Autogen by LittleJake at 22:09:46
