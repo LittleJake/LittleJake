@@ -4,10 +4,10 @@ Today is 03/06/2021.
 
 ### Hitokoto
 
-> 我的腿让我停下，可是心却不允许我那么做。
+> 扎古不论怎么化妆都不可能变成高达的。
 > 
-> ——钢之炼金术师
+> ——银魂
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 06:10:18
+Autogen by LittleJake at 08:10:50
