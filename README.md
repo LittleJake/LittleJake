@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 03/06/2021.
 
 ### Hitokoto
 
-> 重要的人，不能忘记的人，不想忘记的人。 你，是谁？
+> 天才的字典里，没有不可能这三个字。
 > 
-> ——你的名字
+> ——灌篮高手
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 16:14:40
+Autogen by LittleJake at 18:09:48
