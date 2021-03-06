@@ -4,10 +4,10 @@ Today is 03/06/2021.
 
 ### Hitokoto
 
-> 只要万事俱备，就能一直保持冷静，无论发生什么事，都不会害怕。
+> 从开始的第一天起，就回不去了。
 > 
-> ——银魂
+> ——流浪地球
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 00:22:49
+Autogen by LittleJake at 02:21:05
