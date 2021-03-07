@@ -4,10 +4,10 @@ Today is 03/07/2021.
 
 ### Hitokoto
 
-> 要相信同伴，拯救同伴。
+> 让我们开始我们的约会（战争）吧
 > 
-> ——绯弹的亚里亚
+> ——约会大作战
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 00:24:29
+Autogen by LittleJake at 02:23:38
