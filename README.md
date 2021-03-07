@@ -4,10 +4,10 @@ Today is 03/07/2021.
 
 ### Hitokoto
 
-> 叫做妈妈的人，是不会哭的。
+> 生活坏到一定程度就会好起来，因为它无法更坏。
 > 
-> ——朝花夕誓
+> ——龙猫
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 06:10:11
+Autogen by LittleJake at 08:10:47
