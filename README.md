@@ -4,10 +4,10 @@ Today is 03/07/2021.
 
 ### Hitokoto
 
-> 知识是很美的，它们可以让你不出家门就了解这世上的许多事。
+> 有伤害人的人存在的话，也会有能抚慰伤痕的人
 > 
-> ——妖精的尾巴
+> ——水果篮子
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 12:12:08
+Autogen by LittleJake at 14:09:09
