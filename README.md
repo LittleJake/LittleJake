@@ -4,10 +4,10 @@ Today is 03/07/2021.
 
 ### Hitokoto
 
-> 生活坏到一定程度就会好起来，因为它无法更坏。
+> 我跟喜欢成人游戏一样喜欢你
 > 
-> ——龙猫
+> ——高坂桐乃
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 08:10:47
+Autogen by LittleJake at 10:10:28
