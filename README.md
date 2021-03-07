@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 03/07/2021.
 
 ### Hitokoto
 
-> 应该可以了吧，我已经很努力了，应该可以抵达终点了……
+> 叫做妈妈的人，是不会哭的。
 > 
-> ——AIR
+> ——朝花夕誓
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 04:11:35
+Autogen by LittleJake at 06:10:11
