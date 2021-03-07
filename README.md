@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 03/06/2021.
+Today is 03/07/2021.
 
 ### Hitokoto
 
-> 回首前尘，尽是可耻的过往
+> 要相信同伴，拯救同伴。
 > 
-> ——月色真美
+> ——绯弹的亚里亚
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 22:09:46
+Autogen by LittleJake at 00:24:29
