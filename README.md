@@ -4,10 +4,10 @@ Today is 03/08/2021.
 
 ### Hitokoto
 
-> 女人的武器不是眼泪，而是微笑。
+> 正因为不会发生，人们才称它为”奇迹“
 > 
-> ——凉宫春日的忧郁
+> ——KANON
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 18:11:34
+Autogen by LittleJake at 20:09:46
