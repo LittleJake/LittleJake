@@ -4,10 +4,10 @@ Today is 03/08/2021.
 
 ### Hitokoto
 
-> 我会化作人间的风雨陪在你的身边
+> 痴情的妖怪啊,请再等一世吧。
 > 
-> ——大鱼海棠
+> ——狐妖小红娘
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 08:13:16
+Autogen by LittleJake at 10:11:52
