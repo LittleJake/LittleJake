@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 03/08/2021.
 
 ### Hitokoto
 
-> (눈_눈)
+> 女人的武器不是眼泪，而是微笑。
 > 
-> ——进击的巨人
+> ——凉宫春日的忧郁
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 16:19:20
+Autogen by LittleJake at 18:11:34
