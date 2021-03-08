@@ -4,10 +4,10 @@ Today is 03/08/2021.
 
 ### Hitokoto
 
-> 正因为不会发生，人们才称它为”奇迹“
+> 为了你,如果是为了你,即使我被困在永远的迷宫中,也没关系.
 > 
-> ——KANON
+> ——魔法少女小圆
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 20:09:46
+Autogen by LittleJake at 22:09:50
