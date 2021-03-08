@@ -4,10 +4,10 @@ Today is 03/08/2021.
 
 ### Hitokoto
 
-> 喜欢喜欢轻飘飘喜欢喜欢轻飘飘让我们一起来！
+> (눈_눈)
 > 
-> ——Printemps
+> ——进击的巨人
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 14:09:39
+Autogen by LittleJake at 16:19:20
