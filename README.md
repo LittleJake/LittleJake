@@ -4,10 +4,10 @@ Today is 03/08/2021.
 
 ### Hitokoto
 
-> Ex - ploooosion !
+> 喜欢喜欢轻飘飘喜欢喜欢轻飘飘让我们一起来！
 > 
-> ——为美好的世界献上祝福
+> ——Printemps
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 12:12:28
+Autogen by LittleJake at 14:09:39
