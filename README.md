@@ -4,10 +4,10 @@ Today is 03/08/2021.
 
 ### Hitokoto
 
-> 打架这玩意，不就是为了守护什么东西吗？
+> 我会化作人间的风雨陪在你的身边
 > 
-> ——银魂
+> ——大鱼海棠
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 06:10:25
+Autogen by LittleJake at 08:13:16
