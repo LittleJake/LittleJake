@@ -4,10 +4,10 @@ Today is 03/08/2021.
 
 ### Hitokoto
 
-> 因为无法再见面，所以要笑着说再见。
+> 死亡只要在人生的终点尝试一次就够了~
 > 
-> ——AIR
+> ——Re：从零开始的异世界生活
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 02:24:02
+Autogen by LittleJake at 04:11:36
