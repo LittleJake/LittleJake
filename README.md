@@ -4,10 +4,10 @@ Today is 03/09/2021.
 
 ### Hitokoto
 
-> 喜欢喜欢轻飘飘喜欢喜欢轻飘飘让我们一起来！
+> 有型的东西终究会消逝，不过……终于，这份回忆还是永远不朽的…
 > 
-> ——Printemps
+> ——火影忍者
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 06:10:14
+Autogen by LittleJake at 08:11:17
