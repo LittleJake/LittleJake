@@ -4,10 +4,10 @@ Today is 03/09/2021.
 
 ### Hitokoto
 
-> 不管你在世界的哪个地方，我一定会，再次去见你的。
+> 即使再也没有晴天也没有关系.
 > 
-> ——你的名字
+> ——天气之子
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 12:12:28
+Autogen by LittleJake at 14:14:21
