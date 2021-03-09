@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 03/09/2021.
 
 ### Hitokoto
 
-> 重要的不是你做了多少事，而是你放了多少心思进去。
+> 不管你在世界的哪个地方，我一定会，再次去见你的。
 > 
-> ——凉宫春日的忧郁
+> ——你的名字
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 10:15:39
+Autogen by LittleJake at 12:12:28
