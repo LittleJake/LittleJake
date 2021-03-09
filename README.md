@@ -4,10 +4,10 @@ Today is 03/09/2021.
 
 ### Hitokoto
 
-> 我连宇宙尽头在哪里都不知道，怎么会知道这个。
+> 相比昨日明日，今天更适合开始。
 > 
-> ——JOJO的奇妙冒险
+> ——Comic Girls
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 02:23:16
+Autogen by LittleJake at 04:11:47
