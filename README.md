@@ -4,10 +4,10 @@ Today is 03/09/2021.
 
 ### Hitokoto
 
-> 牙白得斯内！
+> 翠星石最喜欢苍星石的说,所以到死也要在一起的说...
 > 
-> ——公主连结Re:Dive
+> ——Rozen Maiden
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 18:23:21
+Autogen by LittleJake at 20:09:56
