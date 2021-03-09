@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 03/09/2021.
 
 ### Hitokoto
 
-> 只要努力活下去，总有一天会笑着回忆。
+> 牙白得斯内！
 > 
-> ——不可思议游戏
+> ——公主连结Re:Dive
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 16:14:53
+Autogen by LittleJake at 18:23:21
