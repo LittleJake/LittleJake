@@ -4,10 +4,10 @@ Today is 03/09/2021.
 
 ### Hitokoto
 
-> 即使再也没有晴天也没有关系.
+> 只要努力活下去，总有一天会笑着回忆。
 > 
-> ——天气之子
+> ——不可思议游戏
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 14:14:21
+Autogen by LittleJake at 16:14:53
