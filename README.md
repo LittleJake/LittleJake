@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 03/10/2021.
 
 ### Hitokoto
 
-> 嗯，明白。我们是天人的Gundam Meister
+> やり遂げたよ、最後まで。
 > 
-> ——机动战士高达00
+> ——ラブライブ
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 10:10:34
+Autogen by LittleJake at 12:12:40
