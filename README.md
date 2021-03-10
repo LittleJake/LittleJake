@@ -4,10 +4,10 @@ Today is 03/10/2021.
 
 ### Hitokoto
 
-> 人生中有些事你不竭尽所能去做，你永远不知道自己有多出色！
+> 燃烧吧，我的小宇宙！
 > 
-> ——海贼王
+> ——圣斗士星矢
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 18:11:39
+Autogen by LittleJake at 20:09:56
