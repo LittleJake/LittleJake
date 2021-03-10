@@ -4,10 +4,10 @@ Today is 03/10/2021.
 
 ### Hitokoto
 
-> 只要是正义的一方，无论手段多么卑鄙都可以被原谅
+> 时间带着明显的恶意，缓缓在我的头顶流逝。
 > 
-> ——东京喰种
+> ——秒速五厘米
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 06:10:25
+Autogen by LittleJake at 08:11:07
