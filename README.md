@@ -4,10 +4,10 @@ Today is 03/10/2021.
 
 ### Hitokoto
 
-> 问灵十三载，等一不归人。
+> 世界上的人都变成废柴，这个世界就没有废柴了。
 > 
-> ——魔道祖师
+> ——春物
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 00:23:11
+Autogen by LittleJake at 02:24:19
