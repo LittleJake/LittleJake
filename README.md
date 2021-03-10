@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 03/10/2021.
 
 ### Hitokoto
 
-> 世界上的人都变成废柴，这个世界就没有废柴了。
+> 人生中有些事你不竭尽所能去做，你永远不知道自己有多出色！
 > 
-> ——春物
+> ——海贼王
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 16:14:59
+Autogen by LittleJake at 18:11:39
