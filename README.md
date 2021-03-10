@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 03/10/2021.
 
 ### Hitokoto
 
-> 悲痛的事，温柔以对；难过的事，坚强以对。
+> 只要是正义的一方，无论手段多么卑鄙都可以被原谅
 > 
-> ——朝花夕誓
+> ——东京喰种
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 04:10:07
+Autogen by LittleJake at 06:10:25
