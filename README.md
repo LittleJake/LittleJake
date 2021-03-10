@@ -4,10 +4,10 @@ Today is 03/10/2021.
 
 ### Hitokoto
 
-> 世界上的人都变成废柴，这个世界就没有废柴了。
+> 悲痛的事，温柔以对；难过的事，坚强以对。
 > 
-> ——春物
+> ——朝花夕誓
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 02:24:19
+Autogen by LittleJake at 04:10:07
