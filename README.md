@@ -4,10 +4,10 @@ Today is 03/11/2021.
 
 ### Hitokoto
 
-> 我今天就要带她走，我看谁敢拦我！
+> 或许只需一滴露水，便能守护这绽放的花朵。
 > 
-> ——刺客伍六七
+> ——反叛的鲁鲁修
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 14:09:27
+Autogen by LittleJake at 16:15:12
