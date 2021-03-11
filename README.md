@@ -4,10 +4,10 @@ Today is 03/11/2021.
 
 ### Hitokoto
 
-> 你以为我是谁？这是我埋下的因，我要亲手解决这一切。
+> 深藏不露是一种卓越的才能
 > 
-> ——某科学的超电磁炮
+> ——欢迎来到实力至上主义的教室
 
 ![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 08:11:06
+Autogen by LittleJake at 10:10:23
