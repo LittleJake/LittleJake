@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 03/10/2021.
+Today is 03/11/2021.
 
 ### Hitokoto
 
-> 正因为生来什么都没有，因此我们能拥有一切。
+> 我一点也不走运。
 > 
-> ——游戏人生
+> ——Fairy gone
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 22:09:54
+Autogen by LittleJake at 00:23:06
