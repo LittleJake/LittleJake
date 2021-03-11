@@ -4,10 +4,10 @@ Today is 03/11/2021.
 
 ### Hitokoto
 
-> 花无凋零之时，爱无传达之期，爱情亘古不变，紫罗兰永世长存。
+> 也许我的灵魂彷徨了几万年，不过就是为了与你相遇。
 > 
-> ——紫罗兰永恒花园
+> ——JOJO的奇妙冒险·战斗潮流
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 02:23:19
+Autogen by LittleJake at 04:11:50
