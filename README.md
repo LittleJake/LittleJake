@@ -4,10 +4,10 @@ Today is 03/11/2021.
 
 ### Hitokoto
 
-> 游荡的孤高灵魂不需要羁绊之处。
+> 我今天就要带她走，我看谁敢拦我！
 > 
-> ——我的青春恋爱物语果然有问题
+> ——刺客伍六七
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 12:12:34
+Autogen by LittleJake at 14:09:27
