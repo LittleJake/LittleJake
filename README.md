@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 03/11/2021.
 
 ### Hitokoto
 
-> 也许我的灵魂彷徨了几万年，不过就是为了与你相遇。
+> 有时语言就像把利刃，使用不当，就会成为凶器。
 > 
-> ——JOJO的奇妙冒险·战斗潮流
+> ——名侦探柯南
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 04:11:50
+Autogen by LittleJake at 06:10:31
