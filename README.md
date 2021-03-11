@@ -4,10 +4,10 @@ Today is 03/11/2021.
 
 ### Hitokoto
 
-> 窃人者，自失其宝。
+> 所谓的人类，可是连短短的十分钟也等不起的。
 > 
-> ——假面骑士kabuto
+> ——Angel Beats!
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 20:09:57
+Autogen by LittleJake at 22:10:22
