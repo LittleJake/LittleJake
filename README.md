@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 03/11/2021.
 
 ### Hitokoto
 
-> 深藏不露是一种卓越的才能
+> 游荡的孤高灵魂不需要羁绊之处。
 > 
-> ——欢迎来到实力至上主义的教室
+> ——我的青春恋爱物语果然有问题
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 10:10:23
+Autogen by LittleJake at 12:12:34
