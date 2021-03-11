@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 03/11/2021.
 
 ### Hitokoto
 
-> 或许只需一滴露水，便能守护这绽放的花朵。
+> 我没有任何理由为了那些人让自己的人生付之一炬！
 > 
-> ——反叛的鲁鲁修
+> ——三月的狮子
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 16:15:12
+Autogen by LittleJake at 18:12:51
