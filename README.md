@@ -4,10 +4,10 @@ Today is 03/12/2021.
 
 ### Hitokoto
 
-> 要是太勉强自己的话，总有一天会受伤的
+> 就是因为你不好，才要留在你身边，给你幸福。
 > 
-> ——吸血鬼骑士
+> ——哈尔的移动城堡
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 06:10:51
+Autogen by LittleJake at 08:11:55
