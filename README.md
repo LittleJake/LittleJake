@@ -4,10 +4,10 @@ Today is 03/12/2021.
 
 ### Hitokoto
 
-> 我的回合，抽卡！
+> 伤害别人的人，就要有被伤害的觉悟！
 > 
-> ——游戏王
+> ——罪恶王冠
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 20:10:04
+Autogen by LittleJake at 22:10:14
