@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 03/11/2021.
+Today is 03/12/2021.
 
 ### Hitokoto
 
-> 所谓的人类，可是连短短的十分钟也等不起的。
+> 雁过拔毛，兽走留皮。涂山，我罩的，懂？
 > 
-> ——Angel Beats!
+> ——狐妖小红娘
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 22:10:22
+Autogen by LittleJake at 00:23:36
