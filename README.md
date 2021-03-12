@@ -4,10 +4,10 @@ Today is 03/12/2021.
 
 ### Hitokoto
 
-> 你一直相信的事，也让我相信吧。活着，是件美好的事。
+> 我的回合，抽卡！
 > 
-> ——Angle Beats
+> ——游戏王
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 18:12:04
+Autogen by LittleJake at 20:10:04
