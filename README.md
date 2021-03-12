@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 03/12/2021.
 
 ### Hitokoto
 
-> 只要呼唤你的名字，我们的牵绊就永远不会消逝。
+> 在自称善意的之时，即存恶意。
 > 
-> ——紫罗兰永恒花园外传：永远与自动手记人偶
+> ——罪恶王冠
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 10:10:45
+Autogen by LittleJake at 12:12:36
