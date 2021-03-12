@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 03/12/2021.
 
 ### Hitokoto
 
-> 我必须要变强，但是孤独居然这么痛苦。
+> 要是太勉强自己的话，总有一天会受伤的
 > 
-> ——黑色五叶草
+> ——吸血鬼骑士
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 04:11:45
+Autogen by LittleJake at 06:10:51
