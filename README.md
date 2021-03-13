@@ -4,10 +4,10 @@ Today is 03/13/2021.
 
 ### Hitokoto
 
-> 败者死于绝望，胜者死于渴望。
+> 步伐虽小，密而不停
 > 
-> ——戏言系列
+> ——实验品家庭
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 02:24:54
+Autogen by LittleJake at 04:11:41
