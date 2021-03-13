@@ -4,10 +4,10 @@ Today is 03/13/2021.
 
 ### Hitokoto
 
-> 去做你喜欢做的事吧 这就是所谓的那啥...青春嘛
+> 因为无法再见面，所以要笑着说再见。
 > 
-> ——月色真美
+> ——AIR
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 12:12:27
+Autogen by LittleJake at 14:09:27
