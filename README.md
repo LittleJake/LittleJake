@@ -4,10 +4,10 @@ Today is 03/13/2021.
 
 ### Hitokoto
 
-> 什么都无法舍弃的人，什么都无法改变 。
+> 回家后我得好好找你人生咨询一下！
 > 
-> ——进击的巨人
+> ——高坂桐乃
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 06:10:27
+Autogen by LittleJake at 08:10:44
