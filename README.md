@@ -4,10 +4,10 @@ Today is 03/13/2021.
 
 ### Hitokoto
 
-> 回家后我得好好找你人生咨询一下！
+> 求求你，不要对我这么温柔！
 > 
-> ——高坂桐乃
+> ——秒速五厘米
 
 ![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 08:10:44
+Autogen by LittleJake at 10:10:33
