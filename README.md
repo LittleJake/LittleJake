@@ -4,10 +4,10 @@ Today is 03/13/2021.
 
 ### Hitokoto
 
-> 因为无法再见面，所以要笑着说再见。
+> 邪王真眼是最强的
 > 
-> ——AIR
+> ——中二病也要谈恋爱
 
 ![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 14:09:27
+Autogen by LittleJake at 16:14:47
