@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 03/14/2021.
 
 ### Hitokoto
 
-> 喜欢上你，爱上你，真是太好了，谢谢。
+> 我愿意呀，五十年前就愿意了。
 > 
-> ——龙虎斗
+> ——狐妖小红娘
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 04:11:42
+Autogen by LittleJake at 06:10:11
