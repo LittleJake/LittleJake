@@ -4,10 +4,10 @@ Today is 03/14/2021.
 
 ### Hitokoto
 
-> 梦总是有会醒来的时候，不会醒的梦总有一天会变成悲伤。
+> 世界上一切不利状况，都是因为当事人的能力不足。
 > 
-> ——AIR
+> ——东京食尸鬼
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 14:09:39
+Autogen by LittleJake at 16:14:59
