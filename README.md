@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 03/14/2021.
 
 ### Hitokoto
 
-> 世界上一切不利状况，都是因为当事人的能力不足。
+> 深藏不露是一种卓越的才能
 > 
-> ——东京食尸鬼
+> ——欢迎来到实力至上主义的教室
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 16:14:59
+Autogen by LittleJake at 18:10:04
