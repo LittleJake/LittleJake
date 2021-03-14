@@ -4,10 +4,10 @@ Today is 03/14/2021.
 
 ### Hitokoto
 
-> 一直保持微笑是有诀窍的，那就是，在想哭的时候放声大哭。
+> 梦总是有会醒来的时候，不会醒的梦总有一天会变成悲伤。
 > 
-> ——天使领域
+> ——AIR
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 12:12:26
+Autogen by LittleJake at 14:09:39
