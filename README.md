@@ -4,10 +4,10 @@ Today is 03/14/2021.
 
 ### Hitokoto
 
-> 深藏不露是一种卓越的才能
+> 孩子，我愿意为你而前行。
 > 
-> ——欢迎来到实力至上主义的教室
+> ——灵笼
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 18:10:04
+Autogen by LittleJake at 20:09:40
