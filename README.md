@@ -4,10 +4,10 @@ Today is 03/14/2021.
 
 ### Hitokoto
 
-> 雨，何时停？
+> 喜欢上你，爱上你，真是太好了，谢谢。
 > 
-> ——秋之回忆
+> ——龙虎斗
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 02:25:10
+Autogen by LittleJake at 04:11:42
