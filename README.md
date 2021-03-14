@@ -4,10 +4,10 @@ Today is 03/14/2021.
 
 ### Hitokoto
 
-> 我愿意呀，五十年前就愿意了。
+> 天才的字典里，没有不可能这三个字。
 > 
-> ——狐妖小红娘
+> ——灌篮高手
 
 ![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 06:10:11
+Autogen by LittleJake at 08:11:02
