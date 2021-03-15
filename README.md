@@ -4,10 +4,10 @@ Today is 03/15/2021.
 
 ### Hitokoto
 
-> 我必须要变强，但是孤独居然这么痛苦。
+> “像你这样的白痴是怎么活过来的？”“因为我很自信。
 > 
-> ——黑色五叶草
+> ——海贼王
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 21:25:36
+Autogen by LittleJake at 22:41:15
