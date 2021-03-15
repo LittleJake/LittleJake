@@ -4,10 +4,10 @@ Today is 03/15/2021.
 
 ### Hitokoto
 
-> 自古以来，天空上就是另一个世界。
+> 喜欢你，因为我喜欢你，比地球上任何人都，喜欢你...
 > 
-> ——天气之子
+> ——名侦探柯南
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 02:25:38
+Autogen by LittleJake at 04:11:51
