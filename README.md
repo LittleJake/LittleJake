@@ -4,10 +4,10 @@ Today is 03/15/2021.
 
 ### Hitokoto
 
-> 人，只有在放弃战斗的时候才算输，只要坚持战斗，就还没输！
+> 你再怎么称赞我，我也不会高兴的，你这个混蛋~
 > 
-> ——进击的巨人
+> ——海贼王
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 08:11:31
+Autogen by LittleJake at 10:10:42
