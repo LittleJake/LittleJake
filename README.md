@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 03/14/2021.
+Today is 03/15/2021.
 
 ### Hitokoto
 
-> 知识是很美的，它们可以让你不出家门就了解这世上的许多事。
+> 青春是谎言，是邪恶。
 > 
-> ——妖精的尾巴
+> ——春物
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 22:09:54
+Autogen by LittleJake at 00:23:52
