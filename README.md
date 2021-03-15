@@ -4,10 +4,10 @@ Today is 03/15/2021.
 
 ### Hitokoto
 
-> 青春是谎言，是邪恶。
+> 自古以来，天空上就是另一个世界。
 > 
-> ——春物
+> ——天气之子
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 00:23:52
+Autogen by LittleJake at 02:25:38
