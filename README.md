@@ -4,10 +4,10 @@ Today is 03/16/2021.
 
 ### Hitokoto
 
-> 人生，一半是现实，一半是梦想。一念花开，一念花落。
+> 像平常的你一样引发奇迹吧-
 > 
-> ——火影忍者
+> ——魔法少女小圆
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 14:14:34
+Autogen by LittleJake at 16:15:44
