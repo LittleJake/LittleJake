@@ -4,10 +4,10 @@ Today is 03/16/2021.
 
 ### Hitokoto
 
-> 用决斗......给大家......带来笑容......
+> 你的败因只有一个，就是与我为敌。 ­
 > 
-> ——游戏王<A-RCV>
+> ——家庭教师
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 00:23:04
+Autogen by LittleJake at 02:24:54
