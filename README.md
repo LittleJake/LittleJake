@@ -4,10 +4,10 @@ Today is 03/16/2021.
 
 ### Hitokoto
 
-> 心，可是很重的。
+> 雁过拔毛，兽走留皮。涂山，我罩的，懂？
 > 
-> ——哈尔的移动城堡
+> ——狐妖小红娘
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 06:10:23
+Autogen by LittleJake at 08:10:57
