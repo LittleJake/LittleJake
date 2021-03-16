@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 03/16/2021.
 
 ### Hitokoto
 
-> 或许只需一滴露水，便能守护这绽放的花朵。
+> 心，可是很重的。
 > 
-> ——反叛的鲁鲁修
+> ——哈尔的移动城堡
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 04:11:42
+Autogen by LittleJake at 06:10:23
