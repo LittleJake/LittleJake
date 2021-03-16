@@ -4,10 +4,10 @@ Today is 03/16/2021.
 
 ### Hitokoto
 
-> 相信十年后的八月，我们还会相遇。
+> 一个人吃饭，太寂寞了。
 > 
-> ——未闻花名
+> ——无头骑士异闻录
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 18:11:52
+Autogen by LittleJake at 20:09:56
