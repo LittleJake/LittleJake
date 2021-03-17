@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 03/17/2021.
 
 ### Hitokoto
 
-> 除了爱你，我什么都可以。
+> 不能逃避，不能逃避，不能逃避。
 > 
-> ——命运守护夜
+> ——EVA
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 10:10:29
+Autogen by LittleJake at 12:12:31
