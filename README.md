@@ -4,10 +4,10 @@ Today is 03/17/2021.
 
 ### Hitokoto
 
-> 你们这些天才止步不前的时候，我会走得更远。
+> 世界不完美 所以才显得美丽
 > 
-> ——如果有个妹妹就好了
+> ——钢之炼金术士
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 20:10:21
+Autogen by LittleJake at 22:10:14
