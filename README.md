@@ -4,10 +4,10 @@ Today is 03/17/2021.
 
 ### Hitokoto
 
-> 即使从梦中醒来，还会有回忆留下。
+> 真正重要的东西，永远都是非常简单的。
 > 
-> ——AIR
+> ——Clannad
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 00:23:51
+Autogen by LittleJake at 02:26:37
