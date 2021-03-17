@@ -4,10 +4,10 @@ Today is 03/17/2021.
 
 ### Hitokoto
 
-> (눈_눈)
+> 除了爱你，我什么都可以。
 > 
-> ——进击的巨人
+> ——命运守护夜
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 08:11:02
+Autogen by LittleJake at 10:10:29
