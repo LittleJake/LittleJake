@@ -4,10 +4,10 @@ Today is 03/18/2021.
 
 ### Hitokoto
 
-> 世界上的人都变成废柴，这个世界就没有废柴了。
+> 代你见证世界的终结，来世再续梦之伊甸
 > 
-> ——春物
+> ——Eden*/b站弹幕
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 06:10:47
+Autogen by LittleJake at 08:11:17
