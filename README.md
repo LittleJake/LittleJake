@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 03/18/2021.
 
 ### Hitokoto
 
-> 我喜欢的人…也能喜欢上自己，我认为这就是奇迹。
+> 世界上的人都变成废柴，这个世界就没有废柴了。
 > 
-> ——月色真美
+> ——春物
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 04:11:47
+Autogen by LittleJake at 06:10:47
