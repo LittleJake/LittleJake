@@ -4,10 +4,10 @@ Today is 03/18/2021.
 
 ### Hitokoto
 
-> 不管是怎样的回忆，都是我们活过的人生。
+> 花早晚会凋谢，记忆最终也会消散。
 > 
-> ——angel beats
+> ——镇魂街
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 18:12:10
+Autogen by LittleJake at 20:10:26
