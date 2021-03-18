@@ -4,10 +4,10 @@ Today is 03/18/2021.
 
 ### Hitokoto
 
-> (」・ω・)」うー！(／・ω・)／にゃー！
+> 能力越大,责任越大
 > 
-> ——潜行吧奈亚子
+> ——蜘蛛侠
 
 ![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 12:12:45
+Autogen by LittleJake at 14:09:39
