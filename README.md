@@ -4,10 +4,10 @@ Today is 03/18/2021.
 
 ### Hitokoto
 
-> 如果把那一端的敌人全部杀掉的话，我们就能自由了吗？
+> 我喜欢的人…也能喜欢上自己，我认为这就是奇迹。
 > 
-> ——进击的巨人
+> ——月色真美
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 02:26:09
+Autogen by LittleJake at 04:11:47
