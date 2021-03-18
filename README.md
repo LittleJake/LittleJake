@@ -4,10 +4,10 @@ Today is 03/18/2021.
 
 ### Hitokoto
 
-> 花早晚会凋谢，记忆最终也会消散。
+> 人经历风浪是会变得更强，可是船不同，日积月累的只有伤痛。
 > 
-> ——镇魂街
+> ——海贼王
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 20:10:26
+Autogen by LittleJake at 22:10:14
