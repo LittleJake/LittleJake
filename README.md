@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 03/17/2021.
+Today is 03/18/2021.
 
 ### Hitokoto
 
-> 世界不完美 所以才显得美丽
+> 男人许下的诺言就一定要遵守。
 > 
-> ——钢之炼金术士
+> ——海贼王
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 22:10:14
+Autogen by LittleJake at 00:23:38
