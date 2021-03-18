@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 03/18/2021.
 
 ### Hitokoto
 
-> 在末日中，人们总想寻找希望，但要真有希望的话，那还叫希望吗？
+> 不管是怎样的回忆，都是我们活过的人生。
 > 
-> ——灵笼
+> ——angel beats
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 16:15:23
+Autogen by LittleJake at 18:12:10
