@@ -4,10 +4,10 @@ Today is 03/19/2021.
 
 ### Hitokoto
 
-> 不要为自己的努力道歉，这样太对不起自己了！
+> 你已经不是我的狗了。
 > 
-> ——火影忍者
+> ——龙与虎
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 12:12:48
+Autogen by LittleJake at 14:09:30
