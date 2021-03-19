@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 03/18/2021.
+Today is 03/19/2021.
 
 ### Hitokoto
 
-> 人经历风浪是会变得更强，可是船不同，日积月累的只有伤痛。
+> 离别并不痛苦，因为我们都微笑着。
 > 
-> ——海贼王
+> ——青之驱魔师
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 22:10:14
+Autogen by LittleJake at 00:24:18
