@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 03/19/2021.
 
 ### Hitokoto
 
-> 在东京的天空上，我们决定性的改变了世界的模样。
+> 当敌人变成战友多半是为了生存，而战友变成敌人多半是为了金钱。
 > 
-> ——天气之子
+> ——端脑
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 16:15:39
+Autogen by LittleJake at 18:13:10
