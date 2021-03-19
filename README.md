@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 03/19/2021.
 
 ### Hitokoto
 
-> 将所有人类当成玩偶的神,本身居然也是个小丑啊。
+> 不要为自己的努力道歉，这样太对不起自己了！
 > 
-> ——Fate/Zero
+> ——火影忍者
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 10:10:33
+Autogen by LittleJake at 12:12:48
