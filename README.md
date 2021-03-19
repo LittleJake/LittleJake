@@ -4,10 +4,10 @@ Today is 03/19/2021.
 
 ### Hitokoto
 
-> 离别并不痛苦，因为我们都微笑着。
+> 我爱你，与你何干？
 > 
-> ——青之驱魔师
+> ——歌德
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 00:24:18
+Autogen by LittleJake at 02:27:27
