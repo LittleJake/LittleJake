@@ -4,10 +4,10 @@ Today is 03/19/2021.
 
 ### Hitokoto
 
-> 我爱你，与你何干？
+> 要相信同伴，拯救同伴。
 > 
-> ——歌德
+> ——绯弹的亚里亚
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 02:27:27
+Autogen by LittleJake at 04:11:52
