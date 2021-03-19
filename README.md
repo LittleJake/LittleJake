@@ -4,10 +4,10 @@ Today is 03/19/2021.
 
 ### Hitokoto
 
-> 你已经不是我的狗了。
+> 在东京的天空上，我们决定性的改变了世界的模样。
 > 
-> ——龙与虎
+> ——天气之子
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 14:09:30
+Autogen by LittleJake at 16:15:39
