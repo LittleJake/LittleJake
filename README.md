@@ -4,10 +4,10 @@ Today is 03/20/2021.
 
 ### Hitokoto
 
-> 男人就应该保持冷静，沸腾的水只会被蒸发掉。
+> 女人的武器不是眼泪，而是微笑。
 > 
-> ——假面骑士kabuto
+> ——凉宫春日的忧郁
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 12:12:47
+Autogen by LittleJake at 14:09:37
