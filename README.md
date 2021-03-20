@@ -4,10 +4,10 @@ Today is 03/20/2021.
 
 ### Hitokoto
 
-> 不要为自己的努力道歉，这样太对不起自己了！
+> 有伤害人的人存在的话，也会有能抚慰伤痕的人
 > 
-> ——火影忍者
+> ——水果篮子
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 20:10:19
+Autogen by LittleJake at 22:10:32
