@@ -4,10 +4,10 @@ Today is 03/20/2021.
 
 ### Hitokoto
 
-> 烦恼这东西，是只有活着的人，才有的特权哦。
+> 在排练的休息时间里要好好补充水分和盐分哦！
 > 
-> ——我们的存在
+> ——三森铃子致海未
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 00:23:40
+Autogen by LittleJake at 02:27:10
