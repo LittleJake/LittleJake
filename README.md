@@ -4,10 +4,10 @@ Today is 03/20/2021.
 
 ### Hitokoto
 
-> 梦是现实的延续，现实是梦的终结。
+> 最有名的莫过于想死一次吗。
 > 
-> ——Eva
+> ——阎魔爱
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 08:11:02
+Autogen by LittleJake at 10:10:46
