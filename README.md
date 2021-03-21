@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 03/21/2021.
 
 ### Hitokoto
 
-> 孩子，我愿意为你而前行。
+> 我在未来等你。
 > 
-> ——灵笼
+> ——穿越时空的少女
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 10:10:39
+Autogen by LittleJake at 12:17:29
