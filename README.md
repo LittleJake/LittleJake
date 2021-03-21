@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 03/21/2021.
 
 ### Hitokoto
 
-> 只要学不死，就往死里学。
+> 我动身踏上旅程，是为了与你道别。
 > 
-> ——网络热语
+> ——追逐繁星的孩子
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 16:20:28
+Autogen by LittleJake at 18:18:25
