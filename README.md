@@ -4,10 +4,10 @@ Today is 03/21/2021.
 
 ### Hitokoto
 
-> 生活坏到一定程度就会好起来，因为它无法更坏。
+> 我一直注视着你，似近，似远。但你永远，看不见我……
 > 
-> ——龙猫
+> ——来自风平浪静的明天
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 00:25:06
+Autogen by LittleJake at 02:26:27
