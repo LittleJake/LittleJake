@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 03/21/2021.
 
 ### Hitokoto
 
-> 呐，我们好像是，被宇宙和地球拆散的恋人似的。
+> 大家即将各自展开旅程，挥别这个没落的城镇。
 > 
-> ——星之声
+> ——仰望半月的夜空
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 04:11:57
+Autogen by LittleJake at 06:10:24
