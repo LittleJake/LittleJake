@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 03/20/2021.
+Today is 03/21/2021.
 
 ### Hitokoto
 
-> 有伤害人的人存在的话，也会有能抚慰伤痕的人
+> 生活坏到一定程度就会好起来，因为它无法更坏。
 > 
-> ——水果篮子
+> ——龙猫
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 22:10:32
+Autogen by LittleJake at 00:25:06
