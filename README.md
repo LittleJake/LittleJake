@@ -4,10 +4,10 @@ Today is 03/21/2021.
 
 ### Hitokoto
 
-> 大家即将各自展开旅程，挥别这个没落的城镇。
+> 世界上没有偶然，有的只是必然。
 > 
-> ——仰望半月的夜空
+> ——XXXHolic
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 06:10:24
+Autogen by LittleJake at 08:11:11
