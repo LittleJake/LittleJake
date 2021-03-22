@@ -4,10 +4,10 @@ Today is 03/22/2021.
 
 ### Hitokoto
 
-> 明天，不是你想要就能有的。
+> 所谓的奇迹就是要发生之后才会有价值存在的吧
 > 
-> ——未闻花名
+> ——EVA
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 18:14:32
+Autogen by LittleJake at 20:10:31
