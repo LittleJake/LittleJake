@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 03/21/2021.
+Today is 03/22/2021.
 
 ### Hitokoto
 
-> 时间是伟大的作家，总会写下完美的结局。
+> 我一直注视着你，似近，似远。但你永远，看不见我……
 > 
-> ——秋之回忆
+> ——来自风平浪静的明天
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 22:10:38
+Autogen by LittleJake at 00:24:17
