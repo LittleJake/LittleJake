@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 03/22/2021.
 
 ### Hitokoto
 
-> 无法逃避的是自我，而无法挽回的是过去。
+> 少年少女 向前走吧。
 > 
-> ——机动战士高达
+> ——阳炎PROJECT
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 04:16:19
+Autogen by LittleJake at 06:15:25
