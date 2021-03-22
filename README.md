@@ -4,10 +4,10 @@ Today is 03/22/2021.
 
 ### Hitokoto
 
-> 就算是自私…我也希望那些人能够永远都有笑容…
+> 历史虽然会一再重演，但人类却无法回到过去。
 > 
-> ——夏目友人帐
+> ——海贼王
 
 ![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 14:09:43
+Autogen by LittleJake at 16:16:12
