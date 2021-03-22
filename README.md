@@ -4,10 +4,10 @@ Today is 03/22/2021.
 
 ### Hitokoto
 
-> 我一直注视着你，似近，似远。但你永远，看不见我……
+> 当朋友是不需要什么资格的。
 > 
-> ——来自风平浪静的明天
+> ——全职猎人
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 00:24:17
+Autogen by LittleJake at 02:34:24
