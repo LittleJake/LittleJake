@@ -4,10 +4,10 @@ Today is 03/23/2021.
 
 ### Hitokoto
 
-> 过分的神圣，往往比恶魔更加恶质。
+> 喜欢的人喜欢别人不是很正常吗。
 > 
-> ——黑执事
+> ——四月是你的谎言
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 06:10:39
+Autogen by LittleJake at 08:11:54
