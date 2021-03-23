@@ -4,10 +4,10 @@ Today is 03/23/2021.
 
 ### Hitokoto
 
-> 喜欢的人喜欢别人不是很正常吗。
+> 有的鱼是永远关不住的，因为他们属于天空。
 > 
-> ——四月是你的谎言
+> ——大鱼海棠
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 08:11:54
+Autogen by LittleJake at 10:10:42
