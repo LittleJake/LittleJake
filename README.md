@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 03/22/2021.
+Today is 03/23/2021.
 
 ### Hitokoto
 
-> 超频链接
+> 重要的感情总是非常单纯 自然脱口而出的
 > 
-> ——加速世界
+> ——GAMERS电玩咖！
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 22:10:56
+Autogen by LittleJake at 00:24:01
