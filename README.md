@@ -4,10 +4,10 @@ Today is 03/23/2021.
 
 ### Hitokoto
 
-> 哥哥也可以喜欢上我之外的女孩子，但只有音梦是不可以的！
+> 每当心情郁闷的时候，用手托腮就好，手臂会因为帮上忙而开心的。
 > 
-> ——芳乃樱对朝仓纯
+> ——四月是你的谎言
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 18:13:37
+Autogen by LittleJake at 20:10:53
