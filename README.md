@@ -4,10 +4,10 @@ Today is 03/23/2021.
 
 ### Hitokoto
 
-> 每当心情郁闷的时候，用手托腮就好，手臂会因为帮上忙而开心的。
+> 世界は恋に落ちている。
 > 
-> ——四月是你的谎言
+> ——青春之旅OP（我的世界已坠入爱河）
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 20:10:53
+Autogen by LittleJake at 22:11:01
