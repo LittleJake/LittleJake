@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 03/23/2021.
 
 ### Hitokoto
 
-> 过分的神圣，往往比恶魔更加恶质。
+> 哥哥也可以喜欢上我之外的女孩子，但只有音梦是不可以的！
 > 
-> ——黑执事
+> ——芳乃樱对朝仓纯
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 16:14:59
+Autogen by LittleJake at 18:13:37
