@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 03/24/2021.
 
 ### Hitokoto
 
-> 我本身得不到答案。所以，我希望有能够答出来之物的诞生。
+> 受虐狂的娇小美少年……真想带回家去养一段时间啊。
 > 
-> ——Fate/Stay Night
+> ——赤井林檎
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 10:08:31
+Autogen by LittleJake at 12:08:39
