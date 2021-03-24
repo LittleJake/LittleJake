@@ -4,10 +4,10 @@ Today is 03/24/2021.
 
 ### Hitokoto
 
-> 无论世界如何改变，我们都将永不分离。
+> 我本身得不到答案。所以，我希望有能够答出来之物的诞生。
 > 
-> ——GOSICK
+> ——Fate/Stay Night
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 08:03:36
+Autogen by LittleJake at 10:08:31
