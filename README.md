@@ -4,10 +4,10 @@ Today is 03/24/2021.
 
 ### Hitokoto
 
-> 不相信人咬不到肚脐的，咬破肚脐去死如何？
+> 能够轻易就放弃的梦想，有存在的价值么？
 > 
-> ——海猫鸣泣之时
+> ——守护甜心
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 02:29:54
+Autogen by LittleJake at 04:03:33
