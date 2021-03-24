@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 03/24/2021.
 
 ### Hitokoto
 
-> 能够轻易就放弃的梦想，有存在的价值么？
+> 如果当时我们说了再见，后来是不是就可以再见
 > 
-> ——守护甜心
+> ——昨日青空
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 04:03:33
+Autogen by LittleJake at 06:03:28
