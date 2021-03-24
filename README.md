@@ -4,10 +4,10 @@ Today is 03/24/2021.
 
 ### Hitokoto
 
-> 如果当时我们说了再见，后来是不是就可以再见
+> 无论世界如何改变，我们都将永不分离。
 > 
-> ——昨日青空
+> ——GOSICK
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 06:03:28
+Autogen by LittleJake at 08:03:36
