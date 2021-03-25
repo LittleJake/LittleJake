@@ -4,10 +4,10 @@ Today is 03/25/2021.
 
 ### Hitokoto
 
-> 我是为了与你相见才诞生于世的。
+> 好红，每当想起你，枫叶就会被染红。
 > 
-> ——EVA
+> ——银仙
 
 ![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 06:03:42
+Autogen by LittleJake at 08:03:12
