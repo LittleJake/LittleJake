@@ -4,10 +4,10 @@ Today is 03/25/2021.
 
 ### Hitokoto
 
-> 所谓的「改变自己，世界就会随之改变」这种事，是不可能的。
+> 悲痛的事，温柔以对；难过的事，坚强以对。
 > 
-> ——我的青春恋爱物语果然有问题
+> ——朝花夕誓
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 00:11:36
+Autogen by LittleJake at 02:09:03
