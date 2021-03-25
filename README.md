@@ -4,10 +4,10 @@ Today is 03/25/2021.
 
 ### Hitokoto
 
-> 悲痛的事，温柔以对；难过的事，坚强以对。
+> さあ，Games始めましょうか
 > 
-> ——朝花夕誓
+> ——游戏人生
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 02:09:03
+Autogen by LittleJake at 04:05:13
