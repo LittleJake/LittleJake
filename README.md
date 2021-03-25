@@ -4,10 +4,10 @@ Today is 03/25/2021.
 
 ### Hitokoto
 
-> 好红，每当想起你，枫叶就会被染红。
+> 败者死于绝望，胜者死于渴望。
 > 
-> ——银仙
+> ——戏言系列
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 08:03:12
+Autogen by LittleJake at 10:03:09
