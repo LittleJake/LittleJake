@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 03/24/2021.
+Today is 03/25/2021.
 
 ### Hitokoto
 
-> 你相信时间会抚平一切，可时过境迁，你已不复醒
+> 所谓的「改变自己，世界就会随之改变」这种事，是不可能的。
 > 
-> ——动画
+> ——我的青春恋爱物语果然有问题
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 22:02:53
+Autogen by LittleJake at 00:11:36
