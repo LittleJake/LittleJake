@@ -4,10 +4,10 @@ Today is 03/26/2021.
 
 ### Hitokoto
 
-> 那些坚定决心的人们，会展现出好脸色。
+> 其实，恋爱这种东西，当你看上人家的那一刹那就已经失败了。
 > 
-> ——闪电十一人
+> ——秋之回忆
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 20:03:00
+Autogen by LittleJake at 22:02:54
