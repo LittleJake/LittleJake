@@ -4,10 +4,10 @@ Today is 03/26/2021.
 
 ### Hitokoto
 
-> 烈焰中舞动的火花，将赐予邪恶异性交往以天罚。
+> 苹果是给那些为了爱选择死亡的人的奖励
 > 
-> ——潜行吧！奈亚子W
+> ——回转企鹅罐
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 08:03:12
+Autogen by LittleJake at 10:03:22
