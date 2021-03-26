@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 03/26/2021.
 
 ### Hitokoto
 
-> 苹果是给那些为了爱选择死亡的人的奖励
+> 做不到的事没必要勉强去做，不也挺好吗？
 > 
-> ——回转企鹅罐
+> ——青春猪头少年不会梦到兔女郎学姐
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 10:03:22
+Autogen by LittleJake at 12:03:50
