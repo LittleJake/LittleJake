@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 03/26/2021.
 
 ### Hitokoto
 
-> 我的愿望是—幸福地活着，幸福地死去。
+> 窃人者，自失其宝。
 > 
-> ——神不在的星期天
+> ——假面骑士kabuto
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 16:04:32
+Autogen by LittleJake at 18:11:53
