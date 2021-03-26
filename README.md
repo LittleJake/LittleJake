@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 03/26/2021.
 
 ### Hitokoto
 
-> 因为我...我希望不做任何的努力，让对方喜欢上最真实的我。
+> 在這手心之中的，就是“心”啊。
 > 
-> ——女高中生的无所事事
+> ——死神
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 04:08:44
+Autogen by LittleJake at 06:03:49
