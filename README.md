@@ -4,10 +4,10 @@ Today is 03/26/2021.
 
 ### Hitokoto
 
-> 失去的东西虽然拿不回来，但是，忘记的事情是可以想起来的。
+> 我的愿望是—幸福地活着，幸福地死去。
 > 
-> ——TOUCH
+> ——神不在的星期天
 
 ![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 14:03:06
+Autogen by LittleJake at 16:04:32
