@@ -4,10 +4,10 @@ Today is 03/26/2021.
 
 ### Hitokoto
 
-> 窃人者，自失其宝。
+> 那些坚定决心的人们，会展现出好脸色。
 > 
-> ——假面骑士kabuto
+> ——闪电十一人
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 18:11:53
+Autogen by LittleJake at 20:03:00
