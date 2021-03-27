@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 03/27/2021.
 
 ### Hitokoto
 
-> 我们的哀伤和年龄是没有关系的。
+> “把剑放下，成为本王的妻子吧。”
 > 
-> ——樱桃小丸子
+> ——fate/zero
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 04:03:54
+Autogen by LittleJake at 06:03:20
