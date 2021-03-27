@@ -4,10 +4,10 @@ Today is 03/27/2021.
 
 ### Hitokoto
 
-> 龙儿是我的！谁都不准碰！
+> 我们的哀伤和年龄是没有关系的。
 > 
-> ——逢坂大河
+> ——樱桃小丸子
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 02:20:41
+Autogen by LittleJake at 04:03:54
