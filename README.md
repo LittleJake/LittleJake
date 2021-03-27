@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 03/26/2021.
+Today is 03/27/2021.
 
 ### Hitokoto
 
-> 其实，恋爱这种东西，当你看上人家的那一刹那就已经失败了。
+> 比自己,比梦想更重要的东西永远都存在着...
 > 
-> ——秋之回忆
+> ——钢之炼金术师
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 22:02:54
+Autogen by LittleJake at 00:09:07
