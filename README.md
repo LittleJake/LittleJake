@@ -4,10 +4,10 @@ Today is 03/28/2021.
 
 ### Hitokoto
 
-> 王有王的才能，厨师有厨师的才能，替身之间是没有强弱之分的
+> 煩い！煩い！煩い！
 > 
-> ——JOJO的奇妙冒险
+> ——灼眼的夏娜
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 18:12:16
+Autogen by LittleJake at 20:03:00
