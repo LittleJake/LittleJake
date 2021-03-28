@@ -4,10 +4,10 @@ Today is 03/28/2021.
 
 ### Hitokoto
 
-> 卧龙低伏，入我阵来。
+> 代表月亮消灭你！
 > 
-> ——一人之下
+> ——美少女战士
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 12:04:00
+Autogen by LittleJake at 14:03:01
