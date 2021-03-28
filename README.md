@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 03/27/2021.
+Today is 03/28/2021.
 
 ### Hitokoto
 
-> 共道人间惆怅事，不知今夕是何年。
+> 我是一个经常笑的人，可我不是经常开心的人。
 > 
-> ——周秦行纪
+> ——未闻花名
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 22:02:56
+Autogen by LittleJake at 00:09:29
