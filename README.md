@@ -4,10 +4,10 @@ Today is 03/28/2021.
 
 ### Hitokoto
 
-> 我是一个经常笑的人，可我不是经常开心的人。
+> 美丽的不是这个世界，而是接受了这个世界的你的眼睛。
 > 
-> ——未闻花名
+> ——吸血鬼骑士
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 00:09:29
+Autogen by LittleJake at 02:19:41
