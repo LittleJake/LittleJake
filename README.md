@@ -4,10 +4,10 @@ Today is 03/29/2021.
 
 ### Hitokoto
 
-> 我从未让你们骄傲，你们却待我如宝。
+> 我的金子，只给千寻。
 > 
-> ——Az殇芯的chx
+> ——千与千寻
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 06:03:29
+Autogen by LittleJake at 08:14:34
