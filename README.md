@@ -4,10 +4,10 @@ Today is 03/29/2021.
 
 ### Hitokoto
 
-> 我的腿让我停下，可是心却不允许我那么做。
+> 我从未让你们骄傲，你们却待我如宝。
 > 
-> ——钢之炼金术师
+> ——Az殇芯的chx
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 18:11:19
+Autogen by LittleJake at 20:03:47
