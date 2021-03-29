@@ -4,10 +4,10 @@ Today is 03/29/2021.
 
 ### Hitokoto
 
-> 女人的武器不是眼泪，而是微笑。
+> 你们这些天才止步不前的时候，我会走得更远。
 > 
-> ——凉宫春日的忧郁
+> ——如果有个妹妹就好了
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 02:22:10
+Autogen by LittleJake at 04:05:19
