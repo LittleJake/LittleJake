@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 03/28/2021.
+Today is 03/29/2021.
 
 ### Hitokoto
 
-> 一个人决定寂寞，和另一个人相互依偎又有什么错
+> 人，只有在放弃战斗的时候才算输，只要坚持战斗，就还没输！
 > 
-> ——人渣的本愿
+> ——进击的巨人
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 22:03:04
+Autogen by LittleJake at 00:09:35
