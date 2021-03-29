@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 03/29/2021.
 
 ### Hitokoto
 
-> 你们这些天才止步不前的时候，我会走得更远。
+> 我从未让你们骄傲，你们却待我如宝。
 > 
-> ——如果有个妹妹就好了
+> ——Az殇芯的chx
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 04:05:19
+Autogen by LittleJake at 06:03:29
