@@ -4,10 +4,10 @@ Today is 03/29/2021.
 
 ### Hitokoto
 
-> 我从未让你们骄傲，你们却待我如宝。
+> 记忆是不会消失的，只是一时想不起来了而已。
 > 
-> ——Az殇芯的chx
+> ——千与千寻
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 20:03:47
+Autogen by LittleJake at 22:03:11
