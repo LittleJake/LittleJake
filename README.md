@@ -4,10 +4,10 @@ Today is 03/29/2021.
 
 ### Hitokoto
 
-> 哦~
+> 即使如此，我也有我想保护的世界！
 > 
-> ——袴田日向
+> ——高达seed
 
 ![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 12:03:47
+Autogen by LittleJake at 14:02:57
