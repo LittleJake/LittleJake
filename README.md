@@ -4,10 +4,10 @@ Today is 03/29/2021.
 
 ### Hitokoto
 
-> 我的金子，只给千寻。
+> 正因为有忘也忘不了的回忆，才会变得坚强，这就是所谓的成长吧！
 > 
-> ——千与千寻
+> ——火影忍者
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 08:14:34
+Autogen by LittleJake at 10:04:01
