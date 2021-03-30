@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 03/30/2021.
 
 ### Hitokoto
 
-> 不愿意的时候，逃跑也没有关系！
+> 我的回合，抽卡！
 > 
-> ——灵能百分百
+> ——游戏王
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 04:03:31
+Autogen by LittleJake at 06:03:20
