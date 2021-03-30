@@ -4,10 +4,10 @@ Today is 03/30/2021.
 
 ### Hitokoto
 
-> 努力是不会背叛自己的，虽然梦想有时会背叛自己。
+> 人总有一天都会死的，但正因为生命是有限的，才能够欢喜和悲伤。
 > 
-> ——我的青春恋爱物语果然有问题
+> ——通灵王
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 00:08:59
+Autogen by LittleJake at 02:21:10
