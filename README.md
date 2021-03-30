@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 03/30/2021.
 
 ### Hitokoto
 
-> 我的生命是属于你的，亚丝娜，我将为你而活。
+> 我并不羡慕别人的人生，这就是所谓幸福。
 > 
-> ——刀剑神域
+> ——幸运星
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 16:04:27
+Autogen by LittleJake at 18:13:07
