@@ -4,10 +4,10 @@ Today is 03/30/2021.
 
 ### Hitokoto
 
-> 只要有你想要保护的东西，那就拔剑好了。
+> 连我爸都没打过我
 > 
-> ——银魂
+> ——高达0079
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 20:02:57
+Autogen by LittleJake at 22:03:05
