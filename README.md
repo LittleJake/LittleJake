@@ -4,10 +4,10 @@ Today is 03/31/2021.
 
 ### Hitokoto
 
-> 人没有回忆是无法活下去的哟
+> 将愿望倾入不愿忘却的回忆中⋯⋯
 > 
-> ——AIR
+> ——ef-a tale of memories
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 12:04:04
+Autogen by LittleJake at 14:03:37
