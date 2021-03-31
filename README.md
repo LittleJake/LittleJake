@@ -4,10 +4,10 @@ Today is 03/31/2021.
 
 ### Hitokoto
 
-> 将愿望倾入不愿忘却的回忆中⋯⋯
+> リア充死ね！
 > 
-> ——ef-a tale of memories
+> ——我的朋友很少
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 14:03:37
+Autogen by LittleJake at 16:04:22
