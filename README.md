@@ -4,10 +4,10 @@ Today is 03/31/2021.
 
 ### Hitokoto
 
-> 春天是胖次的季节。
+> 人就是要以自卑为跳板才能跳得更高。
 > 
-> ——电器街漫画店
+> ——银魂
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 08:03:18
+Autogen by LittleJake at 10:02:49
