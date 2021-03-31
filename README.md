@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 03/31/2021.
 
 ### Hitokoto
 
-> リア充死ね！
+> 今天的我，凌驾于阿修罗之上！
 > 
-> ——我的朋友很少
+> ——机动战士高达00
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 16:04:22
+Autogen by LittleJake at 18:12:42
