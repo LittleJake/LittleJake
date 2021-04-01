@@ -4,10 +4,10 @@ Today is 04/01/2021.
 
 ### Hitokoto
 
-> 在东京的天空上，我们决定性的改变了世界的模样。
+> 一举一动，都是承诺，会被另一个人看在眼里，记在心上的。
 > 
-> ——天气之子
+> ——悬崖上的金鱼姬
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 06:03:29
+Autogen by LittleJake at 08:03:24
