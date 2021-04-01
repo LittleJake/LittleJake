@@ -4,10 +4,10 @@ Today is 04/01/2021.
 
 ### Hitokoto
 
-> 因为无法再见面，所以要笑着说再见。
+> 我一点也不走运。
 > 
-> ——AIR
+> ——Fairy gone
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 14:02:51
+Autogen by LittleJake at 16:04:39
