@@ -4,10 +4,10 @@ Today is 04/01/2021.
 
 ### Hitokoto
 
-> 一举一动，都是承诺，会被另一个人看在眼里，记在心上的。
+> 不要伤害自己，别人总会这样做。
 > 
-> ——悬崖上的金鱼姬
+> ——天国王朝
 
 ![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 08:03:24
+Autogen by LittleJake at 10:02:56
