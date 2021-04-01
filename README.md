@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 04/01/2021.
 
 ### Hitokoto
 
-> 不要伤害自己，别人总会这样做。
+> 知识是很美的，它们可以让你不出家门就了解这世上的许多事。
 > 
-> ——天国王朝
+> ——妖精的尾巴
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 10:02:56
+Autogen by LittleJake at 12:03:44
