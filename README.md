@@ -4,10 +4,10 @@ Today is 04/01/2021.
 
 ### Hitokoto
 
-> 知识是很美的，它们可以让你不出家门就了解这世上的许多事。
+> 因为无法再见面，所以要笑着说再见。
 > 
-> ——妖精的尾巴
+> ——AIR
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 12:03:44
+Autogen by LittleJake at 14:02:51
