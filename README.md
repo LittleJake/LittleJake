@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 03/31/2021.
+Today is 04/01/2021.
 
 ### Hitokoto
 
-> 男人从小的时候就是无药可救的。
+> 我无法抗拒泡面这种没营养又廉价的口感。
 > 
-> ——秋之回忆
+> ——银仙
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 22:02:57
+Autogen by LittleJake at 00:09:58
