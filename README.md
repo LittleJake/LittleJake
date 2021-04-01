@@ -4,10 +4,10 @@ Today is 04/01/2021.
 
 ### Hitokoto
 
-> 我的愿望是—幸福地活着，幸福地死去。
+> 心，可是很重的。
 > 
-> ——神不在的星期天
+> ——哈尔的移动城堡
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 18:13:20
+Autogen by LittleJake at 20:03:12
