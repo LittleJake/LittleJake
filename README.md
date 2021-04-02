@@ -4,10 +4,10 @@ Today is 04/02/2021.
 
 ### Hitokoto
 
-> 因为我...我希望不做任何的努力，让对方喜欢上最真实的我。
+> 到底是，为什么呢？
 > 
-> ——女高中生的无所事事
+> ——金木研
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 20:03:03
+Autogen by LittleJake at 22:03:03
