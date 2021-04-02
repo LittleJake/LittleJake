@@ -4,10 +4,10 @@ Today is 04/02/2021.
 
 ### Hitokoto
 
-> 人生不如意十有八九！
+> 因为我...我希望不做任何的努力，让对方喜欢上最真实的我。
 > 
-> ——龙与虎
+> ——女高中生的无所事事
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 18:12:52
+Autogen by LittleJake at 20:03:03
