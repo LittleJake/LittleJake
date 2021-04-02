@@ -4,10 +4,10 @@ Today is 04/02/2021.
 
 ### Hitokoto
 
-> 千军万马滚滚来，不知何人留情怀！
+> 时间带着明显的恶意，缓缓在我的头顶流逝。
 > 
-> ——Other
+> ——秒速五厘米
 
 ![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 08:03:19
+Autogen by LittleJake at 10:02:59
