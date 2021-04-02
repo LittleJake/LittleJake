@@ -4,10 +4,10 @@ Today is 04/02/2021.
 
 ### Hitokoto
 
-> 不逆 不耻 不憾
+> 我们的心就像那天空一样，永不分离。
 > 
-> ——舰队Collection
+> ——缘之空
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 00:15:52
+Autogen by LittleJake at 02:26:26
