@@ -4,10 +4,10 @@ Today is 04/02/2021.
 
 ### Hitokoto
 
-> 能哭的地方只有厕所和爸爸的怀里。
+> 时间带着明显的恶意，缓缓在我的头顶流逝。
 > 
-> ——Clannad
+> ——秒速五厘米
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 14:02:51
+Autogen by LittleJake at 16:04:22
