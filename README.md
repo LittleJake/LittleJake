@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 04/02/2021.
 
 ### Hitokoto
 
-> 时间带着明显的恶意，缓缓在我的头顶流逝。
+> 人生不如意十有八九！
 > 
-> ——秒速五厘米
+> ——龙与虎
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 16:04:22
+Autogen by LittleJake at 18:12:52
