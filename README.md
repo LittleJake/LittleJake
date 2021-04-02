@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 04/02/2021.
 
 ### Hitokoto
 
-> 你会哭着笑，笑着哭，是因为你的心，早已超越了自己啊。
+> 虚伪的眼泪，会伤害别人，虚伪的笑容，会伤害自己。
 > 
-> ——你的名字
+> ——反叛的鲁鲁修
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 04:06:08
+Autogen by LittleJake at 06:03:23
