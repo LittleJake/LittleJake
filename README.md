@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 04/02/2021.
+Today is 04/03/2021.
 
 ### Hitokoto
 
-> 到底是，为什么呢？
+> 比自己,比梦想更重要的东西永远都存在着...
 > 
-> ——金木研
+> ——钢之炼金术师
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 22:03:03
+Autogen by LittleJake at 00:09:28
