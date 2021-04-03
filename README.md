@@ -4,10 +4,10 @@ Today is 04/03/2021.
 
 ### Hitokoto
 
-> 我想要握紧的并不是匕首或是什么，只不过是他的掌心而已。
+> 因为喜欢你，所以想继续相信下去。
 > 
 > ——空之境界
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 02:21:17
+Autogen by LittleJake at 04:04:04
