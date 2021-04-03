@@ -4,10 +4,10 @@ Today is 04/03/2021.
 
 ### Hitokoto
 
-> 所谓的奇迹就是要发生之后才会有价值存在的吧
+> 君の名を 今追いかけるよ
 > 
-> ——EVA
+> ——君の名は。
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 18:12:04
+Autogen by LittleJake at 20:03:05
