@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 04/03/2021.
 
 ### Hitokoto
 
-> 因为喜欢你，所以想继续相信下去。
+> 两个囚犯从监狱的窗户往外看，一个看到了泥地，一个看到了星星。
 > 
-> ——空之境界
+> ——JOJO的奇妙冒险
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 04:04:04
+Autogen by LittleJake at 06:03:18
