@@ -4,10 +4,10 @@ Today is 04/03/2021.
 
 ### Hitokoto
 
-> 虚伪的眼泪，会伤害别人，虚伪的笑容，会伤害自己。
+> 你是否会等待着我？我会变得更加完美！
 > 
-> ——叛逆的鲁鲁修
+> ——Aqours
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 14:02:58
+Autogen by LittleJake at 16:03:57
