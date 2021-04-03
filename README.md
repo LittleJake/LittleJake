@@ -4,10 +4,10 @@ Today is 04/03/2021.
 
 ### Hitokoto
 
-> 比自己,比梦想更重要的东西永远都存在着...
+> 我想要握紧的并不是匕首或是什么，只不过是他的掌心而已。
 > 
-> ——钢之炼金术师
+> ——空之境界
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 00:09:28
+Autogen by LittleJake at 02:21:17
