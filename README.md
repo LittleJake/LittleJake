@@ -4,10 +4,10 @@ Today is 04/04/2021.
 
 ### Hitokoto
 
-> 此身为剑所天成，身如钢铁，心似琉璃。
+> 你以为我是谁？这是我埋下的因，我要亲手解决这一切。
 > 
-> ——Fate
+> ——某科学的超电磁炮
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 12:03:45
+Autogen by LittleJake at 14:02:55
