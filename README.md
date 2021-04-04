@@ -4,10 +4,10 @@ Today is 04/04/2021.
 
 ### Hitokoto
 
-> 既然没有终点，那在何处又何妨呢。
+> 从你站在桥上看我的 那一刻起你就是我的世界。
 > 
-> ——异度侵入
+> ——火影忍者
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 08:03:10
+Autogen by LittleJake at 10:02:49
