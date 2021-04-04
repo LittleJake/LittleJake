@@ -4,10 +4,10 @@ Today is 04/04/2021.
 
 ### Hitokoto
 
-> 不要为自己的努力道歉，这样太对不起自己了！
+> 你那无聊的幻想，就由我来打破！
 > 
-> ——火影忍者
+> ——魔法禁书目录
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 02:23:30
+Autogen by LittleJake at 04:04:38
