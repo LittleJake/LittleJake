@@ -4,10 +4,10 @@ Today is 04/04/2021.
 
 ### Hitokoto
 
-> 一个人决定寂寞，和另一个人相互依偎又有什么错
+> 我不是萝莉控，是妹控啊！
 > 
-> ——人渣的本愿
+> ——我的妹妹不可能那么可爱第二季
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 20:03:02
+Autogen by LittleJake at 22:02:52
