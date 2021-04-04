@@ -4,10 +4,10 @@ Today is 04/04/2021.
 
 ### Hitokoto
 
-> 从现在开始，我将追寻你的名字。
+> 一个人决定寂寞，和另一个人相互依偎又有什么错
 > 
-> ——你的名字
+> ——人渣的本愿
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 18:12:06
+Autogen by LittleJake at 20:03:02
