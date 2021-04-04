@@ -4,10 +4,10 @@ Today is 04/04/2021.
 
 ### Hitokoto
 
-> 只有用心才能看到本质，最重要的东西眼睛是无法看到的。
+> 既然没有终点，那在何处又何妨呢。
 > 
-> ——LE
+> ——异度侵入
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 06:03:27
+Autogen by LittleJake at 08:03:10
