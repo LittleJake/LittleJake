@@ -4,10 +4,10 @@ Today is 04/04/2021.
 
 ### Hitokoto
 
-> 你将不再是道具，而是人如其名的人。
+> 不要为自己的努力道歉，这样太对不起自己了！
 > 
-> ——紫罗兰永恒的花园
+> ——火影忍者
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 00:10:12
+Autogen by LittleJake at 02:23:30
