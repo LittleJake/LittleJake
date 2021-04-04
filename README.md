@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 04/04/2021.
 
 ### Hitokoto
 
-> 哭泣并不能改变任何事情。
+> 从现在开始，我将追寻你的名字。
 > 
-> ——推理之绊
+> ——你的名字
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 16:04:04
+Autogen by LittleJake at 18:12:06
