@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 04/05/2021.
 
 ### Hitokoto
 
-> 错误可不是为了别人才改的过来的，要为了自己才能改正。
+> 活下去的意志是最强的力量！
 > 
-> ——XXXHolic
+> ——浪客剑心
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 16:04:36
+Autogen by LittleJake at 18:12:57
