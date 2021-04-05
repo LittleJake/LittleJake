@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 04/04/2021.
+Today is 04/05/2021.
 
 ### Hitokoto
 
-> 我不是萝莉控，是妹控啊！
+> 用决斗......给大家......带来笑容......
 > 
-> ——我的妹妹不可能那么可爱第二季
+> ——游戏王<A-RCV>
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 22:02:52
+Autogen by LittleJake at 00:10:37
