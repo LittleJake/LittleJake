@@ -4,10 +4,10 @@ Today is 04/05/2021.
 
 ### Hitokoto
 
-> 大部分人并不想长大，只是没办法继续当一个小孩子
+> 所谓爱情，是对对自己最重要的人，以慈悲的心保护他的想法。
 > 
-> ——小林家的龙女仆
+> ——火影忍者
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 02:22:23
+Autogen by LittleJake at 04:04:38
