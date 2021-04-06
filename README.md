@@ -4,10 +4,10 @@ Today is 04/06/2021.
 
 ### Hitokoto
 
-> 再相见，会是怎样的世界？
+> 有时语言就像把利刃，使用不当，就会成为凶器。
 > 
-> ——升起的烟花，从下面看？还是从侧面看?
+> ——名侦探柯南
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 02:23:46
+Autogen by LittleJake at 04:04:31
