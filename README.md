@@ -4,10 +4,10 @@ Today is 04/06/2021.
 
 ### Hitokoto
 
-> 一天最大任务莫过于，好好睡觉，好好醒来。
+> 男人就应该保持冷静，沸腾的水只会被蒸发掉。
 > 
-> ——火影忍者
+> ——假面骑士kabuto
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 08:03:09
+Autogen by LittleJake at 10:02:53
