@@ -4,10 +4,10 @@ Today is 04/06/2021.
 
 ### Hitokoto
 
-> All for one, one for all.
+> 我们的心就像那天空一样，永不分离。
 > 
-> ——海贼王
+> ——缘之空
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 14:03:05
+Autogen by LittleJake at 16:05:08
