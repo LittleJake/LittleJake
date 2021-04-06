@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 04/05/2021.
+Today is 04/06/2021.
 
 ### Hitokoto
 
-> 只有用心才能看到本质，最重要的东西眼睛是无法看到的。
+> 今日已成往昔，明日即将到来，为此理所当然之事，感到无比痛心。
 > 
-> ——LE
+> ——寻找失去的未来
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 22:03:01
+Autogen by LittleJake at 00:10:09
