@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 04/06/2021.
 
 ### Hitokoto
 
-> 我们的心就像那天空一样，永不分离。
+> 樱花满地集于我心，楪舞纷飞祈愿相随
 > 
-> ——缘之空
+> ——罪恶王冠
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 16:05:08
+Autogen by LittleJake at 18:13:33
