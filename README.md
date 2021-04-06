@@ -4,10 +4,10 @@ Today is 04/06/2021.
 
 ### Hitokoto
 
-> 今日已成往昔，明日即将到来，为此理所当然之事，感到无比痛心。
+> 再相见，会是怎样的世界？
 > 
-> ——寻找失去的未来
+> ——升起的烟花，从下面看？还是从侧面看?
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 00:10:09
+Autogen by LittleJake at 02:23:46
