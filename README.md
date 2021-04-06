@@ -4,10 +4,10 @@ Today is 04/06/2021.
 
 ### Hitokoto
 
-> 樱花满地集于我心，楪舞纷飞祈愿相随
+> 天才的字典里，没有不可能这三个字。
 > 
-> ——罪恶王冠
+> ——灌篮高手
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 18:13:33
+Autogen by LittleJake at 20:02:57
