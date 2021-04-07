@@ -4,10 +4,10 @@ Today is 04/07/2021.
 
 ### Hitokoto
 
-> 是个男人就要对自己的人生负责
+> 美好的人眼里映出的世界也是美好的。
 > 
-> ——麻辣教师
+> ——ARIA
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 14:02:56
+Autogen by LittleJake at 16:05:06
