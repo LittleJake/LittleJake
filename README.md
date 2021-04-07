@@ -4,10 +4,10 @@ Today is 04/07/2021.
 
 ### Hitokoto
 
-> 我跟喜欢成人游戏一样喜欢你
+> 是个男人就要对自己的人生负责
 > 
-> ——高坂桐乃
+> ——麻辣教师
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 12:03:48
+Autogen by LittleJake at 14:02:56
