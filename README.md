@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 04/07/2021.
 
 ### Hitokoto
 
-> 我的金子，只给千寻。
+> 我跟喜欢成人游戏一样喜欢你
 > 
-> ——千与千寻
+> ——高坂桐乃
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 10:02:51
+Autogen by LittleJake at 12:03:48
