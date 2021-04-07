@@ -4,10 +4,10 @@ Today is 04/07/2021.
 
 ### Hitokoto
 
-> 连我爸都没打过我
+> 我的金子，只给千寻。
 > 
-> ——高达0079
+> ——千与千寻
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 08:03:14
+Autogen by LittleJake at 10:02:51
