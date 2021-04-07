@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 04/07/2021.
 
 ### Hitokoto
 
-> 美好的人眼里映出的世界也是美好的。
+> 朝着下一道光芒横渡大海吧！
 > 
-> ——ARIA
+> ——Aqours
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 16:05:06
+Autogen by LittleJake at 18:13:01
