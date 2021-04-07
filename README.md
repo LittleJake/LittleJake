@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 04/06/2021.
+Today is 04/07/2021.
 
 ### Hitokoto
 
-> 即使我变弱了，也不代表你变强了。
+> 即使想放弃，也没法放弃最想要的东西，这就是人
 > 
-> ——魔法禁书目录
+> ——悠久之翼
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 22:03:05
+Autogen by LittleJake at 00:09:39
