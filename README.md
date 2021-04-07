@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 04/07/2021.
 
 ### Hitokoto
 
-> 努力可是要默默藏起来的。
+> 今天的我，凌驾于阿修罗之上！
 > 
-> ——Re：从零开始的异世界生活
+> ——机动战士高达00
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 04:05:30
+Autogen by LittleJake at 06:03:36
