@@ -4,10 +4,10 @@ Today is 04/08/2021.
 
 ### Hitokoto
 
-> 即便我弱了，也并不代表你强了。
+> Ko no Dio da!
 > 
-> ——魔法禁书目录
+> ——JOJO的奇妙冒险
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 14:02:58
+Autogen by LittleJake at 16:04:39
