@@ -4,10 +4,10 @@ Today is 04/08/2021.
 
 ### Hitokoto
 
-> 重要的不是你做了多少事，而是你放了多少心思进去。
+> 大部分人并不想长大，只是没办法继续当一个小孩子
 > 
-> ——凉宫春日的忧郁
+> ——小林家的龙女仆
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 02:24:24
+Autogen by LittleJake at 04:05:36
