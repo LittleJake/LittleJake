@@ -4,10 +4,10 @@ Today is 04/08/2021.
 
 ### Hitokoto
 
-> 我只是想要得到「我没有逃避」的记忆吧。
+> 哭过喊过便会停止哭泣
 > 
-> ——三月的狮子
+> ——从零开始的异世界生活
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 20:03:14
+Autogen by LittleJake at 22:02:56
