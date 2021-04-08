@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 04/08/2021.
 
 ### Hitokoto
 
-> 对于虚伪而言，真实的光明或许过于耀眼了
+> 雨滴降落的速度是每秒十米，我该用怎么样的速度，才能将你挽留？
 > 
-> ——蔷薇少女
+> ——言叶之庭
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 10:03:00
+Autogen by LittleJake at 12:03:46
