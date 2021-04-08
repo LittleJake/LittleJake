@@ -4,10 +4,10 @@ Today is 04/08/2021.
 
 ### Hitokoto
 
-> 谢谢你至今为止都容忍我的任性，我是你的妹妹真的太好了。
+> 我只是想要得到「我没有逃避」的记忆吧。
 > 
-> ——俺妹
+> ——三月的狮子
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 18:12:15
+Autogen by LittleJake at 20:03:14
