@@ -4,10 +4,10 @@ Today is 04/08/2021.
 
 ### Hitokoto
 
-> 真正的危机不是机器人像人一样思考，而是人像机器一样思考。
+> 对于虚伪而言，真实的光明或许过于耀眼了
 > 
-> ——凉宫春日的忧郁
+> ——蔷薇少女
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 08:03:16
+Autogen by LittleJake at 10:03:00
