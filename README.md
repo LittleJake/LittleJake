@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 04/09/2021.
 
 ### Hitokoto
 
-> 曾经发生过的事情不可能忘记，只不过是想不起而已。
+> 最有名的莫过于想死一次吗。
 > 
-> ——千与千寻
+> ——阎魔爱
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 04:03:06
+Autogen by LittleJake at 06:03:34
