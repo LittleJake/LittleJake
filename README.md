@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 04/09/2021.
 
 ### Hitokoto
 
-> 一代锤子一代皇，代代锤子教做人！
+> 男人变态有什么错！
 > 
-> ——斗罗大陆
+> ——寒蝉鸣泣之时
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 16:03:35
+Autogen by LittleJake at 18:05:22
