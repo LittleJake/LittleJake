@@ -4,10 +4,10 @@ Today is 04/09/2021.
 
 ### Hitokoto
 
-> 人只会看到自己想看到的、听到自己想听到的，我也并不例外。
+> 告诉我，神会流血吗？——神不会，但你会。
 > 
-> ——我的青春恋爱物语果然有问题
+> ——烦人的村民
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 08:03:27
+Autogen by LittleJake at 10:03:04
