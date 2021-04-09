@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 04/08/2021.
+Today is 04/09/2021.
 
 ### Hitokoto
 
-> 哭过喊过便会停止哭泣
+> 凡人、笨蛋！
 > 
-> ——从零开始的异世界生活
+> ——维多利加·德·布洛瓦
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 22:02:56
+Autogen by LittleJake at 00:10:02
