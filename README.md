@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 04/09/2021.
 
 ### Hitokoto
 
-> 告诉我，神会流血吗？——神不会，但你会。
+> 都是时辰的错！
 > 
-> ——烦人的村民
+> ——Fate/Zero
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 10:03:04
+Autogen by LittleJake at 12:03:48
