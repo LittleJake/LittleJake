@@ -4,10 +4,10 @@ Today is 04/09/2021.
 
 ### Hitokoto
 
-> 凡人、笨蛋！
+> 我的生命是属于你的，亚丝娜，我将为你而活。
 > 
-> ——维多利加·德·布洛瓦
+> ——刀剑神域
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 00:10:02
+Autogen by LittleJake at 02:21:03
