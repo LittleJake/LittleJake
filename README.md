@@ -4,10 +4,10 @@ Today is 04/09/2021.
 
 ### Hitokoto
 
-> 我的生命是属于你的，亚丝娜，我将为你而活。
+> 曾经发生过的事情不可能忘记，只不过是想不起而已。
 > 
-> ——刀剑神域
+> ——千与千寻
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 02:21:03
+Autogen by LittleJake at 04:03:06
