@@ -4,10 +4,10 @@ Today is 04/10/2021.
 
 ### Hitokoto
 
-> 不相信自己的人，连努力的价值都没有。
+> 梦想是什么，梦想是现实的延续；现实是什么，现实是梦想的终结。
 > 
-> ——火影忍者
+> ——EVA
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 06:03:33
+Autogen by LittleJake at 08:03:05
