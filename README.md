@@ -4,10 +4,10 @@ Today is 04/10/2021.
 
 ### Hitokoto
 
-> 我会继续等着你，就算是一万二千年。
+> 其实，恋爱这种东西，当你看上人家的那一刹那就已经失败了。
 > 
-> ——创圣的大天使EVOL
+> ——秋之回忆
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 20:03:04
+Autogen by LittleJake at 22:02:53
