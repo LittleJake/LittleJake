@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 04/10/2021.
 
 ### Hitokoto
 
-> 有话直说就是我的忍道！
+> 即使如此，我也有我想保护的世界！
 > 
-> ——火影忍者
+> ——高达seed
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 10:02:59
+Autogen by LittleJake at 14:02:55
