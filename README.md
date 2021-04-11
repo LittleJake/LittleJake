@@ -4,10 +4,10 @@ Today is 04/11/2021.
 
 ### Hitokoto
 
-> 所谓的奇迹就是要发生之后才会有价值存在的吧
+> 人的好意是沉重的。
 > 
-> ——EVA
+> ——黑神
 
 ![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 12:03:41
+Autogen by LittleJake at 14:02:59
