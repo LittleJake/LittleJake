@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 04/11/2021.
 
 ### Hitokoto
 
-> 人的好意是沉重的。
+> 乘上与平时相反的列车，为了去见从未见过的风景。
 > 
-> ——黑神
+> ——比宇宙更远的地方
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 14:02:59
+Autogen by LittleJake at 18:10:36
