@@ -4,10 +4,10 @@ Today is 04/11/2021.
 
 ### Hitokoto
 
-> 哦~
+> 今天不想做，所以才要做
 > 
-> ——袴田日向
+> ——春上村树
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 06:03:20
+Autogen by LittleJake at 08:03:12
