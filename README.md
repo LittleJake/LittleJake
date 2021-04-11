@@ -4,10 +4,10 @@ Today is 04/11/2021.
 
 ### Hitokoto
 
-> 为了做一名真正的绅士，即使明知必输无疑，也要有勇气接受挑战！
+> 比自己,比梦想更重要的东西永远都存在着...
 > 
-> ——JOJO的奇妙冒险
+> ——钢之炼金术师
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 02:22:11
+Autogen by LittleJake at 04:04:30
