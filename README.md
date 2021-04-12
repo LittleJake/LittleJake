@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 04/12/2021.
 
 ### Hitokoto
 
-> 今天不想做，所以才要做
+> 我没有梦想，但是我能保护！
 > 
-> ——春上村树
+> ——假面骑士555
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 10:03:03
+Autogen by LittleJake at 12:04:04
