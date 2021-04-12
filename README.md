@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 04/11/2021.
+Today is 04/12/2021.
 
 ### Hitokoto
 
-> 哪怕是打断你的手脚，也要把你带回去。
+> 孤高的游荡灵魂不需要羁绊之地
 > 
-> ——火影忍者
+> ——春物
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 22:02:55
+Autogen by LittleJake at 00:10:43
