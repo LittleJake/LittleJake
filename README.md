@@ -4,10 +4,10 @@ Today is 04/12/2021.
 
 ### Hitokoto
 
-> 我没有梦想，但是我能保护！
+> 爱，其实很简单，困难的是去接受它。
 > 
-> ——假面骑士555
+> ——通灵王
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 12:04:04
+Autogen by LittleJake at 14:02:53
