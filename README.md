@@ -4,10 +4,10 @@ Today is 04/12/2021.
 
 ### Hitokoto
 
-> 我跟喜欢成人游戏一样喜欢你
+> 这里有你,他现在只有我了。
 > 
-> ——高坂桐乃
+> ——罗小黑战记
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 20:03:00
+Autogen by LittleJake at 22:03:06
