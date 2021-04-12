@@ -4,10 +4,10 @@ Today is 04/12/2021.
 
 ### Hitokoto
 
-> 每一个兔子都有一个大国梦
+> 我是否住进了某人的心房呢？
 > 
-> ——那年那兔那些事
+> ——四月是你的谎言
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 02:22:40
+Autogen by LittleJake at 04:05:28
