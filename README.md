@@ -4,10 +4,10 @@ Today is 04/12/2021.
 
 ### Hitokoto
 
-> 爱，其实很简单，困难的是去接受它。
+> 因为我...我希望不做任何的努力，让对方喜欢上最真实的我。
 > 
-> ——通灵王
+> ——女高中生的无所事事
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 14:02:53
+Autogen by LittleJake at 16:04:13
