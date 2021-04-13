@@ -4,10 +4,10 @@ Today is 04/13/2021.
 
 ### Hitokoto
 
-> 愿你有一天，能和你最重要的人重逢。
+> 有伤害人的人存在的话，也会有能抚慰伤痕的人
 > 
-> ——可塑性记忆
+> ——水果篮子
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 12:03:58
+Autogen by LittleJake at 14:02:50
