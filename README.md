@@ -4,10 +4,10 @@ Today is 04/13/2021.
 
 ### Hitokoto
 
-> 有伤害人的人存在的话，也会有能抚慰伤痕的人
+> 烈焰中舞动的火花，将赐予邪恶异性交往以天罚。
 > 
-> ——水果篮子
+> ——潜行吧！奈亚子W
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 14:02:50
+Autogen by LittleJake at 16:05:01
