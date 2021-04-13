@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 04/13/2021.
 
 ### Hitokoto
 
-> 现世为梦，夜梦为真。
+> 愿你有一天，能和你最重要的人重逢。
 > 
-> ——《xxxholic》
+> ——可塑性记忆
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 10:03:09
+Autogen by LittleJake at 12:03:58
