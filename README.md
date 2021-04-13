@@ -4,10 +4,10 @@ Today is 04/13/2021.
 
 ### Hitokoto
 
-> 如果当时我们说了再见，后来是不是就可以再见
+> 这东西是越嚼越有味哦~
 > 
-> ——昨日青空
+> ——BanG Dream! 2nd Season
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 18:12:10
+Autogen by LittleJake at 20:03:16
