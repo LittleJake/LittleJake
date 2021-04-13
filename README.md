@@ -4,10 +4,10 @@ Today is 04/13/2021.
 
 ### Hitokoto
 
-> 要是因为烦恼很痛苦，就选择了轻松的选项，将来一定会后悔。
+> 只要引导着二人的两把命运之剑还在身边，我们就绝不会失败。
 > 
-> ——樱花庄的宠物女孩
+> ——刀剑神域
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 02:21:48
+Autogen by LittleJake at 04:05:50
