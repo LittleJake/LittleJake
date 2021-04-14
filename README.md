@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 04/14/2021.
 
 ### Hitokoto
 
-> 求你，保护那孩子，消除灾厄，抹除祸事。哪怕⋯⋯那是我自己……
+> 经为流逝的日月。纬为人们的生业。
 > 
-> ——食灵
+> ——朝花夕誓
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 04:02:58
+Autogen by LittleJake at 06:03:31
