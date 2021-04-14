@@ -4,10 +4,10 @@ Today is 04/14/2021.
 
 ### Hitokoto
 
-> 人生没有彩排，只有现场直播，所以做最好的自己。
+> 求你，保护那孩子，消除灾厄，抹除祸事。哪怕⋯⋯那是我自己……
 > 
-> ——Internet
+> ——食灵
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 02:19:20
+Autogen by LittleJake at 04:02:58
