@@ -4,10 +4,10 @@ Today is 04/14/2021.
 
 ### Hitokoto
 
-> 你知道雪为什么是白色的吗？因为她忘记了本来的颜色。
+> 我不努力，就见不到你了啊。
 > 
-> ——反叛的鲁路修
+> ——昨日之歌
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 08:03:18
+Autogen by LittleJake at 10:02:45
