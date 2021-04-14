@@ -4,10 +4,10 @@ Today is 04/14/2021.
 
 ### Hitokoto
 
-> 就是因为抱有不现实的理想，所以才总是做出如此极端的事情！
+> 人生没有彩排，只有现场直播，所以做最好的自己。
 > 
-> ——逆袭的夏亚
+> ——Internet
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 00:08:46
+Autogen by LittleJake at 02:19:20
