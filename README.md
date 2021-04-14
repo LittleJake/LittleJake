@@ -4,10 +4,10 @@ Today is 04/14/2021.
 
 ### Hitokoto
 
-> 与其想着怎么美丽地牺牲,倒不如想着怎么漂亮地活到最后一刻。
+> 应该可以了吧，我已经很努力了，应该可以抵达终点了…
 > 
-> ——银魂
+> ——AIR
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 12:03:43
+Autogen by LittleJake at 14:02:53
