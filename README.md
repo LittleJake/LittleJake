@@ -4,10 +4,10 @@ Today is 04/14/2021.
 
 ### Hitokoto
 
-> 既然没有终点，那在何处又何妨呢。
+> 无限接近于零，却又不等于零的可能性。
 > 
-> ——异度侵入
+> ——游戏人生
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 20:02:57
+Autogen by LittleJake at 22:02:52
