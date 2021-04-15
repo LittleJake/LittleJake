@@ -4,10 +4,10 @@ Today is 04/15/2021.
 
 ### Hitokoto
 
-> 失去的东西虽然拿不回来，但是，忘记的事情是可以想起来的。
+> 不管是怎样的回忆，都是我们活过的人生。
 > 
-> ——TOUCH
+> ——angel beats
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 18:11:30
+Autogen by LittleJake at 20:02:53
