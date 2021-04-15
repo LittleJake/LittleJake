@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 04/15/2021.
 
 ### Hitokoto
 
-> 在走廊上跌倒会流鼻血，在人生中跌倒会流眼泪。
+> 失去的东西虽然拿不回来，但是，忘记的事情是可以想起来的。
 > 
-> ——龙虎斗
+> ——TOUCH
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 16:05:02
+Autogen by LittleJake at 18:11:30
