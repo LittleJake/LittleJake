@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 04/14/2021.
+Today is 04/15/2021.
 
 ### Hitokoto
 
-> 无限接近于零，却又不等于零的可能性。
+> 干燥的冷气，尘埃的味道，我在其中……踏上旅途。
 > 
-> ——游戏人生
+> ——四月是你的谎言
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 22:02:52
+Autogen by LittleJake at 00:09:39
