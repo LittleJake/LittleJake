@@ -4,10 +4,10 @@ Today is 04/15/2021.
 
 ### Hitokoto
 
-> 干燥的冷气，尘埃的味道，我在其中……踏上旅途。
+> 不能输，笑吧！
 > 
-> ——四月是你的谎言
+> ——约定的梦幻岛
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 00:09:39
+Autogen by LittleJake at 02:18:16
