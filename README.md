@@ -4,10 +4,10 @@ Today is 04/15/2021.
 
 ### Hitokoto
 
-> 不能输，笑吧！
+> 贫乳是社会地位的象征。是具有稀有价值的！
 > 
-> ——约定的梦幻岛
+> ——幸运星
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 02:18:16
+Autogen by LittleJake at 04:03:13
