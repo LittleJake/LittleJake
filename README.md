@@ -4,10 +4,10 @@ Today is 04/16/2021.
 
 ### Hitokoto
 
-> 你指尖跃动的电光，是我此生不变的信仰，唯我超电磁炮永世长存。
+> 无论最终的结果是什么，只要这是自己选择的道路。
 > 
-> ——某科学的超电磁炮
+> ——龙与虎
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 14:02:55
+Autogen by LittleJake at 16:04:22
