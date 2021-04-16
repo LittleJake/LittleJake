@@ -4,10 +4,10 @@ Today is 04/16/2021.
 
 ### Hitokoto
 
-> 绝对要一起去吃拉面喵~
+> 代表月亮消灭你！
 > 
-> ——星空凛
+> ——美少女战士
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 08:03:15
+Autogen by LittleJake at 10:02:49
