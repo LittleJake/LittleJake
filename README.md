@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 04/15/2021.
+Today is 04/16/2021.
 
 ### Hitokoto
 
-> 我只是想要得到「我没有逃避」的记忆吧。
+> 重要的不是你做了多少事，而是你放了多少心思进去。
 > 
-> ——三月的狮子
+> ——凉宫春日的忧郁
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 22:02:56
+Autogen by LittleJake at 00:08:39
