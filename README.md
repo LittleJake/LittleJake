@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 04/16/2021.
 
 ### Hitokoto
 
-> 无论最终的结果是什么，只要这是自己选择的道路。
+> 我在未来等你。
 > 
-> ——龙与虎
+> ——穿越时空的少女
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 16:04:22
+Autogen by LittleJake at 18:11:18
