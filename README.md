@@ -4,10 +4,10 @@ Today is 04/16/2021.
 
 ### Hitokoto
 
-> 火焰啊，燃烧吧，燃烧吧！照亮……那孩子的未来。
+> 绝对要一起去吃拉面喵~
 > 
-> ——GOSICK
+> ——星空凛
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 06:03:30
+Autogen by LittleJake at 08:03:15
