@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 04/16/2021.
 
 ### Hitokoto
 
-> 没有一个世界会比活在这个世界痛苦
+> 火焰啊，燃烧吧，燃烧吧！照亮……那孩子的未来。
 > 
-> ——黑岩射手
+> ——GOSICK
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 04:04:58
+Autogen by LittleJake at 06:03:30
