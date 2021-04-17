@@ -4,10 +4,10 @@ Today is 04/17/2021.
 
 ### Hitokoto
 
-> 我们所度过的每个平凡的日常，也许就是连续发生的奇迹
+> 在灾难面前，如果连英雄都逃跑了，那还有谁能站出来？
 > 
-> ——日常
+> ——一拳超人
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 00:09:21
+Autogen by LittleJake at 02:18:19
