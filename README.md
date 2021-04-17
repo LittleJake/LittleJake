@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 04/17/2021.
 
 ### Hitokoto
 
-> 正因生来一无所有，因此我们能拥有一切。
+> 我一直都在你身边 ，一直都在。
 > 
-> ——游戏人生
+> ——CLANNAD
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 04:03:22
+Autogen by LittleJake at 06:03:23
