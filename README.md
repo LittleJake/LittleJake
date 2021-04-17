@@ -4,10 +4,10 @@ Today is 04/17/2021.
 
 ### Hitokoto
 
-> 我知道的，面码……自己已经死掉这点事，还是知道的……
+> 只要引导着二人的两把命运之剑还在身边，我们就绝不会失败。
 > 
-> ——我们仍未知道那天所看见的花的名字
+> ——刀剑神域
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 18:08:49
+Autogen by LittleJake at 20:02:54
