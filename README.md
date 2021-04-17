@@ -4,10 +4,10 @@ Today is 04/17/2021.
 
 ### Hitokoto
 
-> 只要能努力，就应当去努力；只要还能前进，就要向前走去。
+> 虚伪的眼泪，会伤害别人，虚伪的笑容，会伤害自己。
 > 
-> ——CLANNAD
+> ——叛逆的鲁鲁修
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 12:03:43
+Autogen by LittleJake at 14:02:44
