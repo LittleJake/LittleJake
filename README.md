@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 04/17/2021.
 
 ### Hitokoto
 
-> 失礼。噛みました
+> 只要能努力，就应当去努力；只要还能前进，就要向前走去。
 > 
-> ——化物语(上)
+> ——CLANNAD
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 10:02:53
+Autogen by LittleJake at 12:03:43
