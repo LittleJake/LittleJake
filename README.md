@@ -4,10 +4,10 @@ Today is 04/17/2021.
 
 ### Hitokoto
 
-> 我一直都在你身边 ，一直都在。
+> 喂？FFF团团长须川亮吗？这有一个要入团的！
 > 
-> ——CLANNAD
+> ——五更琉璃
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 06:03:23
+Autogen by LittleJake at 08:03:14
