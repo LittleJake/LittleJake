@@ -4,10 +4,10 @@ Today is 04/17/2021.
 
 ### Hitokoto
 
-> 只要引导着二人的两把命运之剑还在身边，我们就绝不会失败。
+> 正因生来一无所有，因此我们能拥有一切。
 > 
-> ——刀剑神域
+> ——游戏人生
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 20:02:54
+Autogen by LittleJake at 22:02:51
