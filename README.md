@@ -4,10 +4,10 @@ Today is 04/17/2021.
 
 ### Hitokoto
 
-> 在灾难面前，如果连英雄都逃跑了，那还有谁能站出来？
+> 正因生来一无所有，因此我们能拥有一切。
 > 
-> ——一拳超人
+> ——游戏人生
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 02:18:19
+Autogen by LittleJake at 04:03:22
