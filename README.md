@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 04/17/2021.
 
 ### Hitokoto
 
-> 我不是萝莉控，是妹控啊！
+> 我知道的，面码……自己已经死掉这点事，还是知道的……
 > 
-> ——我的妹妹不可能那么可爱第二季
+> ——我们仍未知道那天所看见的花的名字
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 16:04:02
+Autogen by LittleJake at 18:08:49
