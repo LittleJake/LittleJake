@@ -4,10 +4,10 @@ Today is 04/18/2021.
 
 ### Hitokoto
 
-> 只顾着追求新事物，却不回顾历史，怎么会有未来。
+> 死亡只要在人生的终点尝试一次就够了~
 > 
-> ——虞美人盛开的山坡
+> ——Re：从零开始的异世界生活
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 00:09:32
+Autogen by LittleJake at 02:21:44
