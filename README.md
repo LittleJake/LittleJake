@@ -4,10 +4,10 @@ Today is 04/18/2021.
 
 ### Hitokoto
 
-> 夕阳真是耀眼无比啊。
+> 你还是...笑起来...最棒了
 > 
-> ——女高中生的虚度日常
+> ——最终幻想XIV
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 18:08:50
+Autogen by LittleJake at 20:03:04
