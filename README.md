@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 04/18/2021.
 
 ### Hitokoto
 
-> 即使如此，我也有我想保护的世界！
+> 看似美好的东西，往往藏着陷阱。
 > 
-> ——高达seed
+> ——只有神知道的世界
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 04:04:02
+Autogen by LittleJake at 06:03:20
