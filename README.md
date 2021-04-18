@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 04/18/2021.
 
 ### Hitokoto
 
-> 以智者之名，为愚者代辩。
+> 夕阳真是耀眼无比啊。
 > 
-> ——Gosick
+> ——女高中生的虚度日常
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 16:04:00
+Autogen by LittleJake at 18:08:50
