@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 04/18/2021.
 
 ### Hitokoto
 
-> 我除了投三分，就什么都没有了…
+> 朝着下一道光芒横渡大海吧！
 > 
-> ——灌篮高手
+> ——Aqours
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 10:03:00
+Autogen by LittleJake at 12:03:35
