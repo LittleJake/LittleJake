@@ -4,10 +4,10 @@ Today is 04/18/2021.
 
 ### Hitokoto
 
-> 朝着下一道光芒横渡大海吧！
+> 哪怕是打断你的手脚，也要把你带回去。
 > 
-> ——Aqours
+> ——火影忍者
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 12:03:35
+Autogen by LittleJake at 14:03:02
