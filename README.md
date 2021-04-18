@@ -4,10 +4,10 @@ Today is 04/18/2021.
 
 ### Hitokoto
 
-> 死亡只要在人生的终点尝试一次就够了~
+> 即使如此，我也有我想保护的世界！
 > 
-> ——Re：从零开始的异世界生活
+> ——高达seed
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 02:21:44
+Autogen by LittleJake at 04:04:02
