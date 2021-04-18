@@ -4,10 +4,10 @@ Today is 04/18/2021.
 
 ### Hitokoto
 
-> 哪怕是打断你的手脚，也要把你带回去。
+> 以智者之名，为愚者代辩。
 > 
-> ——火影忍者
+> ——Gosick
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 14:03:02
+Autogen by LittleJake at 16:04:00
