@@ -4,10 +4,10 @@ Today is 04/18/2021.
 
 ### Hitokoto
 
-> 你还是...笑起来...最棒了
+> 笨蛋,蠢货
 > 
-> ——最终幻想XIV
+> ——南千秋
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 20:03:04
+Autogen by LittleJake at 22:02:59
