@@ -4,10 +4,10 @@ Today is 04/19/2021.
 
 ### Hitokoto
 
-> 花早晚会凋谢，记忆最终也会消散。
+> 两个囚犯从监狱的窗户往外看，一个看到了泥地，一个看到了星星。
 > 
-> ——镇魂街
+> ——JOJO的奇妙冒险
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 06:03:39
+Autogen by LittleJake at 08:03:13
