@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 04/19/2021.
 
 ### Hitokoto
 
-> 你只见树，未见森林
+> 花早晚会凋谢，记忆最终也会消散。
 > 
-> ——火影忍者
+> ——镇魂街
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 04:04:51
+Autogen by LittleJake at 06:03:39
