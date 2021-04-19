@@ -4,10 +4,10 @@ Today is 04/19/2021.
 
 ### Hitokoto
 
-> 大家都是伪善者，世间充斥着不真实。
+> 邂逅本身，就是一种奇迹啊。
 > 
-> ——无头骑士异闻录
+> ——游魂
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 18:09:52
+Autogen by LittleJake at 20:02:51
