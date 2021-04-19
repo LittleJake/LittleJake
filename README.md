@@ -4,10 +4,10 @@ Today is 04/19/2021.
 
 ### Hitokoto
 
-> 你以为我是谁？这是我埋下的因，我要亲手解决这一切。
+> 你只见树，未见森林
 > 
-> ——某科学的超电磁炮
+> ——火影忍者
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 02:21:27
+Autogen by LittleJake at 04:04:51
