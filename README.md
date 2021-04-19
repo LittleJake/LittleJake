@@ -4,10 +4,10 @@ Today is 04/19/2021.
 
 ### Hitokoto
 
-> 不管是怎样的回忆，都是我们活过的人生。
+> “像你这样的白痴是怎么活过来的？”“因为我很自信。“
 > 
-> ——Angel Beats!
+> ——海贼王
 
 ![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 14:03:09
+Autogen by LittleJake at 16:04:44
