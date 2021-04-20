@@ -4,10 +4,10 @@ Today is 04/20/2021.
 
 ### Hitokoto
 
-> 从进入厨房的瞬间开始，你们就肩负着烹饪美食的责任。
+> 受虐狂的娇小美少年……真想带回家去养一段时间啊。
 > 
-> ——食戟之灵
+> ——赤井林檎
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 06:03:45
+Autogen by LittleJake at 08:03:18
