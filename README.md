@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 04/20/2021.
 
 ### Hitokoto
 
-> Exia，驱逐目标！
+> 知道活着的痛苦处的人就能对人温柔，这和软弱是不一样的。
 > 
-> ——机动战士高达00
+> ——eva
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 10:02:53
+Autogen by LittleJake at 12:04:10
