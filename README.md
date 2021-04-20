@@ -4,10 +4,10 @@ Today is 04/20/2021.
 
 ### Hitokoto
 
-> 知道活着的痛苦处的人就能对人温柔，这和软弱是不一样的。
+> 就连一直都无容身之地的我……也不是可以任意舍弃的生命。
 > 
-> ——eva
+> ——夏目友人帐
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 12:04:10
+Autogen by LittleJake at 14:03:10
