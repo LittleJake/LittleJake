@@ -4,10 +4,10 @@ Today is 04/21/2021.
 
 ### Hitokoto
 
-> 我知道的，面码……自己已经死掉这点事，还是知道的……
+> 有些事情我不看透，不是我太笨，只是我太善良。
 > 
-> ——我们仍未知道那天所看见的花的名字
+> ——樱桃小丸子
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 00:09:34
+Autogen by LittleJake at 02:21:08
