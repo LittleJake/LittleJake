@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 04/21/2021.
 
 ### Hitokoto
 
-> 我看到这个世界的恶意，我们正在接受考验。
+> 失礼、噛みました
 > 
-> ——机动战士高达00
+> ——化物语
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 10:02:53
+Autogen by LittleJake at 12:03:54
