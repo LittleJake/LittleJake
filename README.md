@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 04/21/2021.
 
 ### Hitokoto
 
-> 有些事情我不看透，不是我太笨，只是我太善良。
+> “像你这样的白痴是怎么活过来的？”“因为我很自信。
 > 
-> ——樱桃小丸子
+> ——海贼王
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 02:21:08
+Autogen by LittleJake at 06:04:01
