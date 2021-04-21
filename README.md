@@ -4,10 +4,10 @@ Today is 04/21/2021.
 
 ### Hitokoto
 
-> 失礼、噛みました
+> 真正的危机不是机器人像人一样思考，而是人像机器一样思考。
 > 
-> ——化物语
+> ——凉宫春日的忧郁
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 12:03:54
+Autogen by LittleJake at 14:02:59
