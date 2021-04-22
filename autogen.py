@@ -8,7 +8,7 @@ IMGS = ['20201026111223.png', '20201026130220.png', '20201026130227.png', '20201
         '20201026130233.png', '20201026130159.png', '20201026130212.png']
 
 def get_hitokoto():
-    q = requests.get("https://international.v1.hitokoto.cn/?c=a")
+    q = requests.get("https://v1.hitokoto.cn/?c=a")
     return q.json()
 
 
