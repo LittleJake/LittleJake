@@ -4,10 +4,10 @@ Today is 04/22/2021.
 
 ### Hitokoto
 
-> 从你站在桥上看我的 那一刻起你就是我的世界。
+> 追寻只是因为无法抓获，想要触碰，只是因为知道自己触碰不到。
 > 
-> ——火影忍者
+> ——FLCL Progressive
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 20:02:53
+Autogen by LittleJake at 22:03:01
