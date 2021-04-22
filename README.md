@@ -4,10 +4,10 @@ Today is 04/22/2021.
 
 ### Hitokoto
 
-> 大家互相帮助，一起成功，一起幸福什么的，不过是种理想。
+> 你那无聊的幻想，就由我来打破！
 > 
-> ——我的青春恋爱物语果然有问题
+> ——魔法禁书目录
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 14:03:05
+Autogen by LittleJake at 16:05:14
