@@ -4,10 +4,10 @@ Today is 04/23/2021.
 
 ### Hitokoto
 
-> 什么都无法舍弃的人，什么都无法改变 。
+> 若隐若现才是艺术！
 > 
-> ——进击的巨人
+> ——问题儿童来自异世界
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 20:02:59
+Autogen by LittleJake at 22:02:58
