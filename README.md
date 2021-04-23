@@ -4,10 +4,10 @@ Today is 04/23/2021.
 
 ### Hitokoto
 
-> 与其被自己的本性牵着走而痛苦，倒不如试着改变自己。
+> 不要，我现在暂时留在他身边，直到那转瞬即逝的日子到来。
 > 
-> ——银魂
+> ——夏目友人帐
 
 ![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 14:02:55
+Autogen by LittleJake at 16:05:16
