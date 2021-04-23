@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 04/22/2021.
+Today is 04/23/2021.
 
 ### Hitokoto
 
-> 追寻只是因为无法抓获，想要触碰，只是因为知道自己触碰不到。
+> 古往传奇多少别离，我 只是不经意 遇到了你
 > 
-> ——FLCL Progressive
+> ——狐妖小红娘
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 22:03:01
+Autogen by LittleJake at 00:09:24
