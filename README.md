@@ -4,10 +4,10 @@ Today is 04/23/2021.
 
 ### Hitokoto
 
-> 古往传奇多少别离，我 只是不经意 遇到了你
+> 我不甘心，明明你为我做了那么多，我却什么都不能为你做。
 > 
-> ——狐妖小红娘
+> ——四月是你的谎言
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 00:09:24
+Autogen by LittleJake at 02:25:20
