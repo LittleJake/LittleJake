@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 04/23/2021.
 
 ### Hitokoto
 
-> 死亡只要在人生的终点尝试一次就够了~
+> 我知道的，面码……自己已经死掉这点事，还是知道的……
 > 
-> ——Re：从零开始的异世界生活
+> ——我们仍未知道那天所看见的花的名字
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 10:02:53
+Autogen by LittleJake at 12:03:59
