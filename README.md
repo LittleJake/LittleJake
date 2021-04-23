@@ -4,10 +4,10 @@ Today is 04/23/2021.
 
 ### Hitokoto
 
-> 我不甘心，明明你为我做了那么多，我却什么都不能为你做。
+> 就算是自私…我也希望那些人能够永远都有笑容…
 > 
-> ——四月是你的谎言
+> ——夏目友人帐
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 02:25:20
+Autogen by LittleJake at 04:04:37
