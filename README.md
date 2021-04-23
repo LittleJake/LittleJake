@@ -4,10 +4,10 @@ Today is 04/23/2021.
 
 ### Hitokoto
 
-> 回家后我得好好找你人生咨询一下！
+> 我的梦想实现了，也留下了美好的回忆，我已经没有任何遗憾了。
 > 
-> ——高坂桐乃
+> ——末日时在做什么?有没有空?可以来拯救吗?
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 06:03:25
+Autogen by LittleJake at 08:03:22
