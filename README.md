@@ -4,10 +4,10 @@ Today is 04/24/2021.
 
 ### Hitokoto
 
-> 爱，其实很简单，困难的是去接受它。
+> 求你，保护那孩子，消除灾厄，抹除祸事。哪怕…那是我自己…
 > 
-> ——通灵王
+> ——食灵
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 02:22:38
+Autogen by LittleJake at 04:04:16
