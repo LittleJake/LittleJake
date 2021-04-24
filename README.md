@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 04/24/2021.
 
 ### Hitokoto
 
-> 既然没有终点，那在何处又何妨呢。
+> 你愿意陪我走到地狱的底端吗？
 > 
-> ——异度侵入
+> ——魔法禁书目录
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 16:04:59
+Autogen by LittleJake at 18:11:42
