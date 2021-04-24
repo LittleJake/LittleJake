@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 04/24/2021.
 
 ### Hitokoto
 
-> 我的终点，与幸福同在。
+> 我的回合，抽卡！
 > 
-> ——AIR
+> ——游戏王
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 10:02:43
+Autogen by LittleJake at 12:03:54
