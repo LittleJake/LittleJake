@@ -4,10 +4,10 @@ Today is 04/24/2021.
 
 ### Hitokoto
 
-> 每个人能走到现在，都是自己选择的结果。
+> 拿着刀并且可以让人们变得幸福的只有料理人。
 > 
-> ——我想吃掉你的胰脏
+> ——假面骑士kabuto
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 06:03:33
+Autogen by LittleJake at 08:03:09
