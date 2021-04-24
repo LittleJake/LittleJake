@@ -4,10 +4,10 @@ Today is 04/24/2021.
 
 ### Hitokoto
 
-> 曾经发生过的事情不可能忘记，只不过是想不起而已。
+> 既然没有终点，那在何处又何妨呢。
 > 
-> ——千与千寻
+> ——异度侵入
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 14:02:45
+Autogen by LittleJake at 16:04:59
