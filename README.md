@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 04/24/2021.
+Today is 04/25/2021.
 
 ### Hitokoto
 
-> 不管是怎样的回忆，都是我们活过的人生。
+> 哥哥也可以喜欢上我之外的女孩子，但只有音梦是不可以的！
 > 
-> ——angel beats
+> ——芳乃樱对朝仓纯
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 22:02:52
+Autogen by LittleJake at 00:10:03
