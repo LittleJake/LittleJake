@@ -4,10 +4,10 @@ Today is 04/25/2021.
 
 ### Hitokoto
 
-> 历史虽然会一再重演，但人类却无法回到过去。
+> 雨，何时停？
 > 
-> ——海贼王
+> ——秋之回忆
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 14:02:47
+Autogen by LittleJake at 16:04:43
