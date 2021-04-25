@@ -4,10 +4,10 @@ Today is 04/25/2021.
 
 ### Hitokoto
 
-> 男人就应该保持冷静，沸腾的水只会被蒸发掉。
+> 人难免伤害别人,也难免受伤,不过,人是不会轻易讨厌别人的.
 > 
-> ——假面骑士kabuto
+> ——火影忍者
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 06:03:16
+Autogen by LittleJake at 08:03:02
