@@ -4,10 +4,10 @@ Today is 04/25/2021.
 
 ### Hitokoto
 
-> 舞台上演员不能无视剧本随便演，华丽地退场才是完成使命。
+> 龙儿是我的，谁都不许碰。
 > 
-> ——绝园的暴风雨
+> ——龙与虎
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 20:03:03
+Autogen by LittleJake at 22:03:02
