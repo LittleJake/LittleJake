@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 04/25/2021.
 
 ### Hitokoto
 
-> 雨，何时停？
+> 以为大哭大闹一场就有人来安慰的家伙真是幸福呢。
 > 
-> ——秋之回忆
+> ——龙与虎
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 16:04:43
+Autogen by LittleJake at 18:12:22
