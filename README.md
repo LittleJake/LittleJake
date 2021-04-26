@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 04/26/2021.
 
 ### Hitokoto
 
-> 我爱你，与你何干？
+> 被一个自己不感兴趣的人示好，你不觉得没有比这更恶心的事吗
 > 
-> ——歌德
+> ——人渣的本愿
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 04:05:57
+Autogen by LittleJake at 06:03:30
