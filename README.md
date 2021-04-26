@@ -4,10 +4,10 @@ Today is 04/26/2021.
 
 ### Hitokoto
 
-> 只要微笑就可以了。
+> 相信奇迹的人，本身就和奇迹一样了不起。
 > 
-> ——EVA
+> ——星游记
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 18:12:25
+Autogen by LittleJake at 20:03:00
