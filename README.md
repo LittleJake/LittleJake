@@ -4,10 +4,10 @@ Today is 04/26/2021.
 
 ### Hitokoto
 
-> 我在时光斑驳深处，聆听到花开的声音。
+> 我不喜欢这世界，我只喜欢你
 > 
-> ——未闻花名
+> ——乔一
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 08:03:28
+Autogen by LittleJake at 10:02:47
