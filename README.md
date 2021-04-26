@@ -4,10 +4,10 @@ Today is 04/26/2021.
 
 ### Hitokoto
 
-> 相信奇迹的人，本身就和奇迹一样了不起。
+> 用决斗......给大家......带来笑容......
 > 
-> ——星游记
+> ——游戏王<A-RCV>
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 20:03:00
+Autogen by LittleJake at 22:03:01
