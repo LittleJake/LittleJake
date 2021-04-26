@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 04/26/2021.
 
 ### Hitokoto
 
-> 无论世界如何改变，我们都将永不分离。
+> 只要微笑就可以了。
 > 
-> ——GOSICK
+> ——EVA
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 16:04:58
+Autogen by LittleJake at 18:12:25
