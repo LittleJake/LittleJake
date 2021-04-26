@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 04/26/2021.
 
 ### Hitokoto
 
-> 我不喜欢这世界，我只喜欢你
+> 我们终会相遇相知，在那悠远的苍穹。
 > 
-> ——乔一
+> ——缘之空
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 10:02:47
+Autogen by LittleJake at 12:03:58
