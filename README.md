@@ -4,10 +4,10 @@ Today is 04/27/2021.
 
 ### Hitokoto
 
-> 假如我们相遇，肯定一眼就能认出彼此
+> 只要一天活著,难过的事总有一天会让你笑著说出来。
 > 
-> ——你的名字
+> ——天空之城
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 08:03:28
+Autogen by LittleJake at 10:02:49
