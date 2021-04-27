@@ -4,10 +4,10 @@ Today is 04/27/2021.
 
 ### Hitokoto
 
-> 一个人觉得寂寞，和另一个人相互依偎又有什么错
+> 幸福感就如沉积在悲哀之河底下 隐隐发光的金砂
 > 
-> ——人渣的本愿
+> ——月色真美
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 18:12:13
+Autogen by LittleJake at 20:02:52
