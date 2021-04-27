@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 04/26/2021.
+Today is 04/27/2021.
 
 ### Hitokoto
 
-> 用决斗......给大家......带来笑容......
+> 人生中有些事你不竭尽所能去做，你永远不知道自己有多出色！
 > 
-> ——游戏王<A-RCV>
+> ——海贼王
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 22:03:01
+Autogen by LittleJake at 00:09:14
