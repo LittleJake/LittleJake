@@ -4,10 +4,10 @@ Today is 04/27/2021.
 
 ### Hitokoto
 
-> 是个男人就要对自己的人生负责
+> 被一个自己不感兴趣的人示好，你不觉得没有比这更恶心的事吗
 > 
-> ——麻辣教师
+> ——人渣的本愿
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 14:02:59
+Autogen by LittleJake at 16:05:04
