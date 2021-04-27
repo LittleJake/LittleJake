@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 04/27/2021.
 
 ### Hitokoto
 
-> 当敌人变成战友多半是为了生存，而战友变成敌人多半是为了金钱。
+> 在末日中，人们总想寻找希望，但要真有希望的话，那还叫末日吗？
 > 
-> ——端脑
+> ——灵笼
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 04:03:27
+Autogen by LittleJake at 06:03:36
