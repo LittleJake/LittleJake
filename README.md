@@ -4,10 +4,10 @@ Today is 04/27/2021.
 
 ### Hitokoto
 
-> 幸福感就如沉积在悲哀之河底下 隐隐发光的金砂
+> 翠星石最喜欢苍星石的说,所以到死也要在一起的说...
 > 
-> ——月色真美
+> ——Rozen Maiden
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 20:02:52
+Autogen by LittleJake at 22:03:01
