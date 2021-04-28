@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 04/27/2021.
+Today is 04/28/2021.
 
 ### Hitokoto
 
-> 翠星石最喜欢苍星石的说,所以到死也要在一起的说...
+> 世界上所有的不利情况都是因为当事者的能力不足造成的
 > 
-> ——Rozen Maiden
+> ——东京喰种
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 22:03:01
+Autogen by LittleJake at 00:09:26
