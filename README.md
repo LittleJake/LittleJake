@@ -4,10 +4,10 @@ Today is 04/28/2021.
 
 ### Hitokoto
 
-> 只要引导着二人的两把命运之剑还在身边，我们就绝不会失败。
+> 我下定决心要当海贼王，就算因此而战死，那也无所谓。
 > 
-> ——刀剑神域
+> ——海贼王
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 20:03:09
+Autogen by LittleJake at 22:02:56
