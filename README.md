@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 04/28/2021.
 
 ### Hitokoto
 
-> 失去的东西虽然拿不回来，但是，忘记的事情是可以想起来的。
+> 求你，保护那孩子，消除灾厄，抹除祸事。哪怕⋯⋯那是我自己……
 > 
-> ——TOUCH
+> ——食灵
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 16:05:22
+Autogen by LittleJake at 18:12:18
