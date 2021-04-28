@@ -4,10 +4,10 @@ Today is 04/28/2021.
 
 ### Hitokoto
 
-> 回家后我得好好找你人生咨询一下！
+> 隐约雷鸣阴霾天空即使风无雨我亦留此地
 > 
-> ——高坂桐乃
+> ——言叶之庭
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 02:23:14
+Autogen by LittleJake at 04:04:36
