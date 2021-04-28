@@ -4,10 +4,10 @@ Today is 04/28/2021.
 
 ### Hitokoto
 
-> 我会化作人间的风雨陪在你的身边
+> 失去的东西虽然拿不回来，但是，忘记的事情是可以想起来的。
 > 
-> ——大鱼海棠
+> ——TOUCH
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 14:03:05
+Autogen by LittleJake at 16:05:22
