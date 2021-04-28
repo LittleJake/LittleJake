@@ -4,10 +4,10 @@ Today is 04/28/2021.
 
 ### Hitokoto
 
-> 这里有你,他现在只有我了。
+> 你是否会等待着我?我还想变的更加完美...
 > 
-> ——罗小黑战记
+> ——LoveLive!Sunshine!
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 08:03:12
+Autogen by LittleJake at 10:03:05
