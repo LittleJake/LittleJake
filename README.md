@@ -4,10 +4,10 @@ Today is 04/28/2021.
 
 ### Hitokoto
 
-> 求你，保护那孩子，消除灾厄，抹除祸事。哪怕⋯⋯那是我自己……
+> 只要引导着二人的两把命运之剑还在身边，我们就绝不会失败。
 > 
-> ——食灵
+> ——刀剑神域
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 18:12:18
+Autogen by LittleJake at 20:03:09
