@@ -4,10 +4,10 @@ Today is 04/29/2021.
 
 ### Hitokoto
 
-> 要是太勉强自己的话，总有一天会受伤的
+> 燃烧吧，我的小宇宙！
 > 
-> ——吸血鬼骑士
+> ——圣斗士星矢
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 08:13:52
+Autogen by LittleJake at 10:12:33
