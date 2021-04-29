@@ -4,10 +4,10 @@ Today is 04/29/2021.
 
 ### Hitokoto
 
-> 龙儿是我的，谁都不许碰。
+> 要是太勉强自己的话，总有一天会受伤的
 > 
-> ——龙与虎
+> ——吸血鬼骑士
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 06:14:29
+Autogen by LittleJake at 08:13:52
