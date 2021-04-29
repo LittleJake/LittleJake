@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 04/28/2021.
+Today is 04/29/2021.
 
 ### Hitokoto
 
-> 我下定决心要当海贼王，就算因此而战死，那也无所谓。
+> 生命可以随心所欲，但不能随波逐流
 > 
-> ——海贼王
+> ——猫的报恩
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 22:02:56
+Autogen by LittleJake at 00:09:28
