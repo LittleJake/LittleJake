@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 04/29/2021.
 
 ### Hitokoto
 
-> 燃烧吧，我的小宇宙！
+> 当一个胖纸没有什么不好，最起码可以温暖其他的人。
 > 
-> ——圣斗士星矢
+> ——龙猫
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 10:12:33
+Autogen by LittleJake at 12:16:59
