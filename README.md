@@ -4,10 +4,10 @@ Today is 04/29/2021.
 
 ### Hitokoto
 
-> 如果我不会飞，那我就只是一只普通的猪。
+> 我的船上没有手下，只有伙伴。
 > 
-> ——红猪
+> ——海贼王
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 18:22:12
+Autogen by LittleJake at 20:12:35
