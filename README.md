@@ -4,10 +4,10 @@ Today is 04/29/2021.
 
 ### Hitokoto
 
-> 当一个胖纸没有什么不好，最起码可以温暖其他的人。
+> 如果我们能活着出去，千山万水，你愿意陪我一起看吗？
 > 
-> ——龙猫
+> ——狐妖小红娘
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 12:16:59
+Autogen by LittleJake at 14:12:04
