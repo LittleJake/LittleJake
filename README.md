@@ -4,10 +4,10 @@ Today is 04/29/2021.
 
 ### Hitokoto
 
-> 生命可以随心所欲，但不能随波逐流
+> 只要一天活著,难过的事总有一天会让你笑著说出来。
 > 
-> ——猫的报恩
+> ——天空之城
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 00:09:28
+Autogen by LittleJake at 02:21:38
