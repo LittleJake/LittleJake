@@ -4,10 +4,10 @@ Today is 04/30/2021.
 
 ### Hitokoto
 
-> 要是因为烦恼很痛苦，就选择了轻松的选项，将来一定会后悔。
+> 共道人间惆怅事，不知今夕是何年。
 > 
-> ——樱花庄的宠物女孩
+> ——周秦行纪
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 18:20:24
+Autogen by LittleJake at 20:12:20
