@@ -4,10 +4,10 @@ Today is 04/30/2021.
 
 ### Hitokoto
 
-> 共道人间惆怅事，不知今夕是何年。
+> 我想要握紧的并不是匕首或是什么，只不过是他的掌心而已。
 > 
-> ——周秦行纪
+> ——空之境界
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 20:12:20
+Autogen by LittleJake at 22:13:56
