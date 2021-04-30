@@ -4,10 +4,10 @@ Today is 04/30/2021.
 
 ### Hitokoto
 
-> 男生送的礼物要方便拿来换钱才好吧！
+> 痛苦着痛苦着，满脑子只能想我的事。
 > 
-> ——来栖加奈子
+> ——四月是你的谎言
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 12:16:35
+Autogen by LittleJake at 14:11:54
