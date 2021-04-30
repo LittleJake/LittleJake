@@ -4,10 +4,10 @@ Today is 04/30/2021.
 
 ### Hitokoto
 
-> 因为我...我希望不做任何的努力，让对方喜欢上最真实的我。
+> 世界上哪有不会输的英雄啊
 > 
-> ——女高中生的无所事事
+> ——凸变英雄
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 06:14:29
+Autogen by LittleJake at 08:14:45
