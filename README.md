@@ -4,10 +4,10 @@ Today is 04/30/2021.
 
 ### Hitokoto
 
-> 正因为生来什么都没有，因此我们能拥有一切。
+> 只要呼唤你的名字，我们的牵绊就永远不会消逝。
 > 
-> ——游戏人生
+> ——紫罗兰永恒花园外传：永远与自动手记人偶
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 00:35:19
+Autogen by LittleJake at 02:37:15
