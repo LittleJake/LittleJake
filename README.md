@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 05/01/2021.
 
 ### Hitokoto
 
-> 两个囚犯从监狱的窗户往外看，一个看到了泥地，一个看到了星星。
+> 以智者之名，为愚者代辩。
 > 
-> ——JOJO的奇妙冒险
+> ——Gosick
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 10:12:13
+Autogen by LittleJake at 12:16:05
