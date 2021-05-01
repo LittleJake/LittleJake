@@ -4,10 +4,10 @@ Today is 05/01/2021.
 
 ### Hitokoto
 
-> 你已经不是我的狗了。
+> 为了你,如果是为了你,即使我被困在永远的迷宫中,也没关系.
 > 
-> ——龙与虎
+> ——魔法少女小圆
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 00:37:14
+Autogen by LittleJake at 02:39:25
