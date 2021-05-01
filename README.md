@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/01/2021.
 
 ### Hitokoto
 
-> 最有名的莫过于想死一次吗。
+> 我们一直在一起，所以最后也想在你身旁。
 > 
-> ——阎魔爱
+> ——火影忍者
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 16:19:47
+Autogen by LittleJake at 18:20:31
