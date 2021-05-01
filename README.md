@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 04/30/2021.
+Today is 05/01/2021.
 
 ### Hitokoto
 
-> 我想要握紧的并不是匕首或是什么，只不过是他的掌心而已。
+> 你已经不是我的狗了。
 > 
-> ——空之境界
+> ——龙与虎
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 22:13:56
+Autogen by LittleJake at 00:37:14
