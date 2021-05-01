@@ -4,10 +4,10 @@ Today is 05/01/2021.
 
 ### Hitokoto
 
-> 为了你,如果是为了你,即使我被困在永远的迷宫中,也没关系.
+> さあ，Games始めましょうか
 > 
-> ——魔法少女小圆
+> ——游戏人生
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 02:39:25
+Autogen by LittleJake at 04:14:51
