@@ -4,10 +4,10 @@ Today is 05/01/2021.
 
 ### Hitokoto
 
-> 重要的不是你做了多少事，而是你放了多少心思进去。
+> 最有名的莫过于想死一次吗。
 > 
-> ——凉宫春日的忧郁
+> ——阎魔爱
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 14:11:06
+Autogen by LittleJake at 16:19:47
