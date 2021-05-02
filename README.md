@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/02/2021.
 
 ### Hitokoto
 
-> 我们不是狼，我们只是长着獠牙的羊......
+> 总有一天，我要撕碎这片虚伪的星空。
 > 
-> ——羊之歌
+> ——黑之契约者
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 16:20:21
+Autogen by LittleJake at 18:18:28
