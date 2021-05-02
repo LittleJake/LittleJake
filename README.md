@@ -4,10 +4,10 @@ Today is 05/02/2021.
 
 ### Hitokoto
 
-> 干燥的冷气，尘埃的味道，我在其中……踏上旅途。
+> 命运的红线一旦断了，就再也接不上了。
 > 
-> ——四月是你的谎言
+> ——犬夜叉
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 08:13:06
+Autogen by LittleJake at 10:12:06
