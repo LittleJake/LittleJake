@@ -4,10 +4,10 @@ Today is 05/02/2021.
 
 ### Hitokoto
 
-> 少罗嗦，你还不如虫子呢！
+> 干燥的冷气，尘埃的味道，我在其中……踏上旅途。
 > 
-> ——迷糊餐厅
+> ——四月是你的谎言
 
 ![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 06:14:07
+Autogen by LittleJake at 08:13:06
