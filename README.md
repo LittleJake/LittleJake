@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 05/01/2021.
+Today is 05/02/2021.
 
 ### Hitokoto
 
-> 这个世上没有无用的齿轮，也只有齿轮本身能决定自己的用途。
+> 世界上一切不利状况，都是因为当事人的能力不足。
 > 
-> ——嫌疑人x的献身
+> ——东京食尸鬼
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 22:13:51
+Autogen by LittleJake at 00:40:59
