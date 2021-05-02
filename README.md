@@ -4,10 +4,10 @@ Today is 05/02/2021.
 
 ### Hitokoto
 
-> 世界上一切不利状况，都是因为当事人的能力不足。
+> 就连一直都无容身之地的我…也不是可以任意舍弃的生命。
 > 
-> ——东京食尸鬼
+> ——夏目友人帐
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 00:40:59
+Autogen by LittleJake at 02:42:50
