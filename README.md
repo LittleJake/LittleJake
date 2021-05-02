@@ -4,10 +4,10 @@ Today is 05/02/2021.
 
 ### Hitokoto
 
-> 时间是伟大的作家，总会写下完美的结局。
+> 我们不是狼，我们只是长着獠牙的羊......
 > 
-> ——秋之回忆
+> ——羊之歌
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 14:10:57
+Autogen by LittleJake at 16:20:21
