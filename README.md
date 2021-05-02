@@ -4,10 +4,10 @@ Today is 05/02/2021.
 
 ### Hitokoto
 
-> 总有一天，我要撕碎这片虚伪的星空。
+> 邪王真眼是最强的
 > 
-> ——黑之契约者
+> ——中二病也要谈恋爱
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 18:18:28
+Autogen by LittleJake at 20:11:50
