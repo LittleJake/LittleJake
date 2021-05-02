@@ -4,10 +4,10 @@ Today is 05/02/2021.
 
 ### Hitokoto
 
-> 邪王真眼是最强的
+> 想和你重新认识一次 从你叫什么名字说起。
 > 
-> ——中二病也要谈恋爱
+> ——你的名字
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 20:11:50
+Autogen by LittleJake at 22:13:31
