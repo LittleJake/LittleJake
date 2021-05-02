@@ -4,10 +4,10 @@ Today is 05/02/2021.
 
 ### Hitokoto
 
-> 人找不到某种东西沉迷就活不下来。人都是某种东西的奴隶。
+> 时间是伟大的作家，总会写下完美的结局。
 > 
-> ——进击的巨人
+> ——秋之回忆
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 12:16:08
+Autogen by LittleJake at 14:10:57
