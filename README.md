@@ -4,10 +4,10 @@ Today is 05/03/2021.
 
 ### Hitokoto
 
-> 能哭的地方只有厕所和爸爸的怀里。
+> 我的腿让我停下，可是心却不允许我那么做。
 > 
-> ——CLANNAD
+> ——钢之炼金术师
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 20:11:24
+Autogen by LittleJake at 22:12:22
