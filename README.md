@@ -4,10 +4,10 @@ Today is 05/03/2021.
 
 ### Hitokoto
 
-> 或许只需一滴露水，便能守护这绽放的花朵。
+> 我在人生的道路上迷失了。
 > 
-> ——反叛的鲁鲁修
+> ——火影忍者
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 12:17:03
+Autogen by LittleJake at 14:11:55
