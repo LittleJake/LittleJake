@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 05/03/2021.
 
 ### Hitokoto
 
-> 去做你喜欢做的事吧 这就是所谓的那啥...青春嘛
+> 或许只需一滴露水，便能守护这绽放的花朵。
 > 
-> ——月色真美
+> ——反叛的鲁鲁修
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 10:12:28
+Autogen by LittleJake at 12:17:03
