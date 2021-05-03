@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 05/03/2021.
 
 ### Hitokoto
 
-> 这个世上没有无用的齿轮，也只有齿轮本身能决定自己的用途。
+> 我一点也不走运。
 > 
-> ——嫌疑人x的献身
+> ——Fairy gone
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 04:15:41
+Autogen by LittleJake at 06:14:43
