@@ -4,10 +4,10 @@ Today is 05/04/2021.
 
 ### Hitokoto
 
-> 无论乌云有多浓厚，星星也一定还在，只是暂时看不到了而已。
+> 不是我，都是社会的错
 > 
-> ——电波女与青春男
+> ——我的青春恋爱物语果然有问题
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 20:10:23
+Autogen by LittleJake at 22:12:00
