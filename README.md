@@ -4,10 +4,10 @@ Today is 05/04/2021.
 
 ### Hitokoto
 
-> 时间是伟大的作家，总会写下完美的结局。
+> 孤独的人不会伤害别人，只会不断地伤害自己罢了。
 > 
-> ——秋之回忆
+> ——我的青春恋爱物语果然有问题
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 14:09:38
+Autogen by LittleJake at 16:15:29
