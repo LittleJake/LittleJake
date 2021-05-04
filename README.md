@@ -4,10 +4,10 @@ Today is 05/04/2021.
 
 ### Hitokoto
 
-> 世界上的人都变成废柴，这个世界就没有废柴了。
+> 恋ではなく、爱でもなく、もっとずっと 深く重い。
 > 
-> ——春物
+> ——sweet   pool
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 02:37:14
+Autogen by LittleJake at 04:12:21
