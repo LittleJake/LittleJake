@@ -4,10 +4,10 @@ Today is 05/04/2021.
 
 ### Hitokoto
 
-> 人的好意是沉重的。
+> 世界上的人都变成废柴，这个世界就没有废柴了。
 > 
-> ——黑神
+> ——春物
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 00:32:14
+Autogen by LittleJake at 02:37:14
