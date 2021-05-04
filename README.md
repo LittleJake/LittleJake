@@ -4,10 +4,10 @@ Today is 05/04/2021.
 
 ### Hitokoto
 
-> 我不会让任何人看到我软弱的一面。
+> 无论乌云有多浓厚，星星也一定还在，只是暂时看不到了而已。
 > 
-> ——桔梗
+> ——电波女与青春男
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 18:14:07
+Autogen by LittleJake at 20:10:23
