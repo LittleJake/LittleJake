@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/04/2021.
 
 ### Hitokoto
 
-> 孤独的人不会伤害别人，只会不断地伤害自己罢了。
+> 我不会让任何人看到我软弱的一面。
 > 
-> ——我的青春恋爱物语果然有问题
+> ——桔梗
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 16:15:29
+Autogen by LittleJake at 18:14:07
