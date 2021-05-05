@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 05/04/2021.
+Today is 05/05/2021.
 
 ### Hitokoto
 
-> 不是我，都是社会的错
+> 命运的红线一旦断了，就再也接不上了。
 > 
-> ——我的青春恋爱物语果然有问题
+> ——犬夜叉
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 22:12:00
+Autogen by LittleJake at 00:27:23
