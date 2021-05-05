@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/05/2021.
 
 ### Hitokoto
 
-> 青春是谎言，是邪恶。
+> 夕阳真是耀眼无比啊。
 > 
-> ——春物
+> ——女高中生的虚度日常
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 16:16:36
+Autogen by LittleJake at 18:17:27
