@@ -4,10 +4,10 @@ Today is 05/05/2021.
 
 ### Hitokoto
 
-> 只要一天活著,难过的事总有一天会让你笑著说出来。
+> 我相信十年后的八月，我们还能再相遇。
 > 
-> ——天空之城
+> ——secret base ～君がくれたもの～
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 20:10:07
+Autogen by LittleJake at 22:12:08
