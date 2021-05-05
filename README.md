@@ -4,10 +4,10 @@ Today is 05/05/2021.
 
 ### Hitokoto
 
-> 命运的红线一旦断了，就再也接不上了。
+> 我本身得不到答案。所以，我希望有能够答出来之物的诞生。
 > 
-> ——犬夜叉
+> ——Fate/Stay Night
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 00:27:23
+Autogen by LittleJake at 02:35:38
