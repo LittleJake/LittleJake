@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 05/05/2021.
 
 ### Hitokoto
 
-> 我在时光斑驳深处，聆听到花开的声音。
+> 一代锤子一代皇，代代锤子教做人！
 > 
-> ——未闻花名
+> ——斗罗大陆
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 10:10:15
+Autogen by LittleJake at 12:14:06
