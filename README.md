@@ -4,10 +4,10 @@ Today is 05/05/2021.
 
 ### Hitokoto
 
-> 哭过喊过便会停止哭泣
+> 青春是谎言，是邪恶。
 > 
-> ——从零开始的异世界生活
+> ——春物
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 14:10:10
+Autogen by LittleJake at 16:16:36
