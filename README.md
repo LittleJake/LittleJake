@@ -4,10 +4,10 @@ Today is 05/05/2021.
 
 ### Hitokoto
 
-> 你是否会等待着我?我还想变的更加完美...
+> 我在时光斑驳深处，聆听到花开的声音。
 > 
-> ——LoveLive!Sunshine!
+> ——未闻花名
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 08:11:00
+Autogen by LittleJake at 10:10:15
