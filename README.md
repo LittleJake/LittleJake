@@ -4,10 +4,10 @@ Today is 05/06/2021.
 
 ### Hitokoto
 
-> 人只会看到自己想看到的、听到自己想听到的，我也并不例外。
+> 据说啊 叹气会让幸福溜走的
 > 
-> ——我的青春恋爱物语果然有问题
+> ——再见了 我们的幼儿园
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 20:10:17
+Autogen by LittleJake at 22:12:21
