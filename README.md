@@ -4,10 +4,10 @@ Today is 05/06/2021.
 
 ### Hitokoto
 
-> 我再也不要看见她哭的样子了，就算我从此从她心目中消失。
+> 吾于冥河沉浮,受尽命运捉弄，纵然汝将忘吾，吾亦伴汝身旁。
 > 
-> ——名侦探柯南
+> ——Re：从零开始的异世界生活
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 02:35:57
+Autogen by LittleJake at 04:11:48
