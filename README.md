@@ -4,10 +4,10 @@ Today is 05/06/2021.
 
 ### Hitokoto
 
-> 还能再见面吗? 一定能见面的
+> 我再也不要看见她哭的样子了，就算我从此从她心目中消失。
 > 
-> ——Fantastic Children
+> ——名侦探柯南
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 00:26:42
+Autogen by LittleJake at 02:35:57
