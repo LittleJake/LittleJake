@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 05/06/2021.
 
 ### Hitokoto
 
-> 吾于冥河沉浮,受尽命运捉弄，纵然汝将忘吾，吾亦伴汝身旁。
+> 长大了，才能体会什么是责任！
 > 
-> ——Re：从零开始的异世界生活
+> ——家庭
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 04:11:48
+Autogen by LittleJake at 06:11:50
