@@ -4,10 +4,10 @@ Today is 05/06/2021.
 
 ### Hitokoto
 
-> 愿你有一天，能与你最重要的人重逢
+> 无论你在哪里，就算我看不见你，我也会一直注视着你。
 > 
-> ——可塑性记忆
+> ——妖精的尾巴
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 14:09:54
+Autogen by LittleJake at 16:18:53
