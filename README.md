@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 05/05/2021.
+Today is 05/06/2021.
 
 ### Hitokoto
 
-> 我相信十年后的八月，我们还能再相遇。
+> 还能再见面吗? 一定能见面的
 > 
-> ——secret base ～君がくれたもの～
+> ——Fantastic Children
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 22:12:08
+Autogen by LittleJake at 00:26:42
