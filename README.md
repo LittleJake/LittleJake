@@ -4,10 +4,10 @@ Today is 05/07/2021.
 
 ### Hitokoto
 
-> 我是否住进了某人的心房呢？
+> 光就是羁绊之力，它会再度被某人继承，散发出耀眼的光。
 > 
-> ——四月是你的谎言
+> ——奈克瑟斯奥特曼
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 14:09:43
+Autogen by LittleJake at 16:18:59
