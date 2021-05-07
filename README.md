@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 05/07/2021.
 
 ### Hitokoto
 
-> 我绝对会成为火影。我从来都是有话直说，这就是我的忍道！
+> 没有一封信是不必被送达的。
 > 
-> ——漩涡鸣人
+> ——紫罗兰永恒花园
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 04:15:49
+Autogen by LittleJake at 06:11:49
