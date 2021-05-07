@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/07/2021.
 
 ### Hitokoto
 
-> 光就是羁绊之力，它会再度被某人继承，散发出耀眼的光。
+> 相比昨日明日，今天更适合开始。
 > 
-> ——奈克瑟斯奥特曼
+> ——Comic Girls
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 16:18:59
+Autogen by LittleJake at 18:17:46
