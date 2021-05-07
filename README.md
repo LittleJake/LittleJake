@@ -4,10 +4,10 @@ Today is 05/07/2021.
 
 ### Hitokoto
 
-> 哭也不会改变什么，这个世界从来不会对任何人温柔。
+> 死亡不是终点，被遗忘才是。
 > 
-> ——黑执事
+> ——寻梦环游记
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 08:12:12
+Autogen by LittleJake at 10:10:44
