@@ -4,10 +4,10 @@ Today is 05/07/2021.
 
 ### Hitokoto
 
-> 想和你重新认识一次 从你叫什么名字说起。
+> 我连宇宙尽头在哪里都不知道，怎么会知道这个。
 > 
-> ——你的名字
+> ——JOJO的奇妙冒险
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 20:10:16
+Autogen by LittleJake at 22:13:12
