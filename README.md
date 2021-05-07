@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 05/07/2021.
 
 ### Hitokoto
 
-> 死亡不是终点，被遗忘才是。
+> 世界不完美 所以才显得美丽
 > 
-> ——寻梦环游记
+> ——钢之炼金术士
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 10:10:44
+Autogen by LittleJake at 12:13:35
