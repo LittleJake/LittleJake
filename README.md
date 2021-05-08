@@ -4,10 +4,10 @@ Today is 05/08/2021.
 
 ### Hitokoto
 
-> 想和你重新认识一次 从你叫什么名字说起。
+> 要是眼睁睁的看着重要的同伴死去，就算是死，我也不能瞑目。
 > 
-> ——你的名字
+> ——家庭教师
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 18:15:54
+Autogen by LittleJake at 20:10:08
