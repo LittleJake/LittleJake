@@ -4,10 +4,10 @@ Today is 05/08/2021.
 
 ### Hitokoto
 
-> 要是眼睁睁的看着重要的同伴死去，就算是死，我也不能瞑目。
+> 深藏不露是一种卓越的才能
 > 
-> ——家庭教师
+> ——欢迎来到实力至上主义的教室
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 20:10:08
+Autogen by LittleJake at 22:12:02
