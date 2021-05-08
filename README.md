@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 05/08/2021.
 
 ### Hitokoto
 
-> 每个人能走到现在，都是自己选择的结果。
+> 失礼、噛みました
 > 
-> ——我想吃掉你的胰脏
+> ——化物语
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 04:12:50
+Autogen by LittleJake at 06:11:50
