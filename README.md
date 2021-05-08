@@ -4,10 +4,10 @@ Today is 05/08/2021.
 
 ### Hitokoto
 
-> 失礼、噛みました
+> 相信奇迹的人，本身就和奇迹一样了不起。
 > 
-> ——化物语
+> ——星游记
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 06:11:50
+Autogen by LittleJake at 08:11:08
