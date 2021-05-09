@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/09/2021.
 
 ### Hitokoto
 
-> 你会哭着笑，笑着哭，是因为你的心，早已超越了自己啊。
+> 用决斗......给大家......带来笑容......
 > 
-> ——你的名字
+> ——游戏王<A-RCV>
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 16:18:40
+Autogen by LittleJake at 18:16:06
