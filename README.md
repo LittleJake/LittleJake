@@ -4,10 +4,10 @@ Today is 05/09/2021.
 
 ### Hitokoto
 
-> 用决斗......给大家......带来笑容......
+> 脱！！巨乳！
 > 
-> ——游戏王<A-RCV>
+> ——暗杀教室
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 18:16:06
+Autogen by LittleJake at 20:10:13
