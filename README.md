@@ -4,10 +4,10 @@ Today is 05/09/2021.
 
 ### Hitokoto
 
-> 把同班的可爱女同学娶回家就是我最大的梦想
+> 一代锤子一代皇，代代锤子教做人！
 > 
-> ——月色真美
+> ——斗罗大陆
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 08:11:00
+Autogen by LittleJake at 10:10:20
