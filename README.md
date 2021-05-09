@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 05/09/2021.
 
 ### Hitokoto
 
-> 一代锤子一代皇，代代锤子教做人！
+> 我下定决心要当海贼王，就算因此而战死，那也无所谓。
 > 
-> ——斗罗大陆
+> ——海贼王
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 10:10:20
+Autogen by LittleJake at 12:13:32
