@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 05/08/2021.
+Today is 05/09/2021.
 
 ### Hitokoto
 
-> 深藏不露是一种卓越的才能
+> 我跟喜欢成人游戏一样喜欢你
 > 
-> ——欢迎来到实力至上主义的教室
+> ——高坂桐乃
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 22:12:02
+Autogen by LittleJake at 00:30:51
