@@ -4,10 +4,10 @@ Today is 05/10/2021.
 
 ### Hitokoto
 
-> 愿你有一天，能和你最重要的人重逢。
+> 世界上没有一个人能代替另一个人。
 > 
-> ——可塑性记忆
+> ——人型电脑天使心
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 02:42:20
+Autogen by LittleJake at 04:15:00
