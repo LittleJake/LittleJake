@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/10/2021.
 
 ### Hitokoto
 
-> 有伤害人的人存在的话，也会有能抚慰伤痕的人
+> 干燥的冷气，尘埃的味道，我在其中……踏上旅途。
 > 
-> ——水果篮子
+> ——四月是你的谎言
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 16:18:44
+Autogen by LittleJake at 18:21:55
