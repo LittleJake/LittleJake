@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 05/10/2021.
 
 ### Hitokoto
 
-> 星星只有在夜里才璀璨夺目啊。
+> 有你在的日子才是我的日常。
 > 
-> ——四月是你的谎言
+> ——琴浦小姐
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 10:10:31
+Autogen by LittleJake at 12:13:53
