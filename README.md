@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 05/10/2021.
 
 ### Hitokoto
 
-> 世界上没有一个人能代替另一个人。
+> 没问题，绝对没问题
 > 
-> ——人型电脑天使心
+> ——木之本樱（无敌咒语）
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 04:15:00
+Autogen by LittleJake at 06:11:51
