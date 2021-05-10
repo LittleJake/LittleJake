@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 05/09/2021.
+Today is 05/10/2021.
 
 ### Hitokoto
 
-> 夜晚还远远没有结束!
+> 即便我弱了，也并不代表你强了。
 > 
-> ——春宵苦短，少女前进吧！
+> ——魔法禁书目录
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 22:12:20
+Autogen by LittleJake at 00:29:45
