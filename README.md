@@ -4,10 +4,10 @@ Today is 05/10/2021.
 
 ### Hitokoto
 
-> 即便我弱了，也并不代表你强了。
+> 愿你有一天，能和你最重要的人重逢。
 > 
-> ——魔法禁书目录
+> ——可塑性记忆
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 00:29:45
+Autogen by LittleJake at 02:42:20
