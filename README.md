@@ -4,10 +4,10 @@ Today is 05/10/2021.
 
 ### Hitokoto
 
-> 有你在的日子才是我的日常。
+> 我只是做了我能做的事，没有时间想将来。
 > 
-> ——琴浦小姐
+> ——秒速五厘米
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 12:13:53
+Autogen by LittleJake at 14:10:01
