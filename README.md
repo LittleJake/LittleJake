@@ -4,10 +4,10 @@ Today is 05/10/2021.
 
 ### Hitokoto
 
-> 干燥的冷气，尘埃的味道，我在其中……踏上旅途。
+> 活着本身就是一种价值，因为还有明天。
 > 
-> ——四月是你的谎言
+> ——高达
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 18:21:55
+Autogen by LittleJake at 20:10:30
