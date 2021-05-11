@@ -4,10 +4,10 @@ Today is 05/11/2021.
 
 ### Hitokoto
 
-> 这里有你,他现在只有我了。
+> 有些事情我不看透，不是我笨，只是我太善良。
 > 
-> ——罗小黑战记
+> ——樱桃小丸子
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 18:21:30
+Autogen by LittleJake at 20:10:57
