@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/11/2021.
 
 ### Hitokoto
 
-> 就算是自私⋯⋯我也希望那些人能够永远都有笑容⋯⋯
+> 这里有你,他现在只有我了。
 > 
-> ——夏目友人帐
+> ——罗小黑战记
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 16:20:20
+Autogen by LittleJake at 18:21:30
