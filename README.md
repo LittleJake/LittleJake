@@ -4,10 +4,10 @@ Today is 05/11/2021.
 
 ### Hitokoto
 
-> 只会比大小真是没品
+> 就算是自私⋯⋯我也希望那些人能够永远都有笑容⋯⋯
 > 
-> ——某科学的超电磁炮S
+> ——夏目友人帐
 
 ![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 14:09:47
+Autogen by LittleJake at 16:20:20
