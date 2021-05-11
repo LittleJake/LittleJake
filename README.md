@@ -4,10 +4,10 @@ Today is 05/11/2021.
 
 ### Hitokoto
 
-> 当我拔出第二把剑时，就是为了我所爱之人
+> 拿着刀并且可以让人们变得幸福的只有料理人。
 > 
-> ——刀剑神域
+> ——假面骑士kabuto
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 06:11:59
+Autogen by LittleJake at 08:11:40
