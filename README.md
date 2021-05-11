@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 05/11/2021.
 
 ### Hitokoto
 
-> 烦恼这东西，是只有活着的人，才有的特权哦。
+> 当我拔出第二把剑时，就是为了我所爱之人
 > 
-> ——我们的存在
+> ——刀剑神域
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 04:13:46
+Autogen by LittleJake at 06:11:59
