@@ -4,10 +4,10 @@ Today is 05/11/2021.
 
 ### Hitokoto
 
-> 拿着刀并且可以让人们变得幸福的只有料理人。
+> 经为流逝的日月。纬为人们的生业。
 > 
-> ——假面骑士kabuto
+> ——朝花夕誓
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 08:11:40
+Autogen by LittleJake at 10:10:39
