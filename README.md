@@ -4,10 +4,10 @@ Today is 05/12/2021.
 
 ### Hitokoto
 
-> ご無事で何よりです。
+> 时间并不存在，存在的只有此刻。
 > 
-> ——妖狐X僕ss
+> ——魔女猎人
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 00:30:01
+Autogen by LittleJake at 02:42:08
