@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/12/2021.
 
 ### Hitokoto
 
-> 做不到的事没必要勉强去做，不也挺好吗？
+> 只要一天活著,难过的事总有一天会让你笑著说出来。
 > 
-> ——青春猪头少年不会梦到兔女郎学姐
+> ——天空之城
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 16:25:07
+Autogen by LittleJake at 18:25:38
