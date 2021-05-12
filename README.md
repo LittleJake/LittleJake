@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 05/12/2021.
 
 ### Hitokoto
 
-> 一代锤子一代皇，代代锤子教做人！
+> 经为流逝的日月。纬为人们的生业。
 > 
-> ——斗罗大陆
+> ——朝花夕誓
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 04:18:13
+Autogen by LittleJake at 06:13:30
