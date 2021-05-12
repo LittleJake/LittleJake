@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 05/11/2021.
+Today is 05/12/2021.
 
 ### Hitokoto
 
-> 少罗嗦，你还不如虫子呢！
+> ご無事で何よりです。
 > 
-> ——迷糊餐厅
+> ——妖狐X僕ss
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 22:12:25
+Autogen by LittleJake at 00:30:01
