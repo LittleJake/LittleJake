@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/13/2021.
 
 ### Hitokoto
 
-> 我在时光斑驳深处，聆听到花开的声音。
+> 世上所以不公平之事是由于当事人能力不足所致。
 > 
-> ——未闻花名
+> ——金木研
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 16:23:37
+Autogen by LittleJake at 18:25:38
