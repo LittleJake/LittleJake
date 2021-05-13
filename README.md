@@ -4,10 +4,10 @@ Today is 05/13/2021.
 
 ### Hitokoto
 
-> 年华无多时，恋爱吧男子！
+> 从进入厨房的瞬间开始，你们就肩负着烹饪美食的责任。
 > 
-> ——源君物语
+> ——食戟之灵
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 20:12:47
+Autogen by LittleJake at 22:14:11
