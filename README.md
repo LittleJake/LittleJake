@@ -4,10 +4,10 @@ Today is 05/13/2021.
 
 ### Hitokoto
 
-> 在东京的天空上，我们决定性的改变了世界的模样。
+> 知道和感觉到是两码事。
 > 
-> ——天气之子
+> ——《看见》
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 12:16:46
+Autogen by LittleJake at 14:11:43
