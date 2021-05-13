@@ -4,10 +4,10 @@ Today is 05/13/2021.
 
 ### Hitokoto
 
-> 不要伤害自己，别人总会这样做。
+> 就算没有意义，偶尔也会有好事发生。
 > 
-> ——天国王朝
+> ——终末少女旅行
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 06:14:14
+Autogen by LittleJake at 08:13:22
