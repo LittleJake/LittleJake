@@ -4,10 +4,10 @@ Today is 05/13/2021.
 
 ### Hitokoto
 
-> 不论是过去还是未来，我都会保护你！
+> 契约者不会做梦。
 > 
-> ——旋风管家
+> ——黑之契约者
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 00:39:08
+Autogen by LittleJake at 02:44:32
