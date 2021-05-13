@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 05/13/2021.
 
 ### Hitokoto
 
-> 比自己，比梦想更重要的东西永远都存在着...
+> 不要伤害自己，别人总会这样做。
 > 
-> ——钢之炼金术师
+> ——天国王朝
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 04:19:49
+Autogen by LittleJake at 06:14:14
