@@ -4,10 +4,10 @@ Today is 05/14/2021.
 
 ### Hitokoto
 
-> 两个囚犯从监狱的窗户往外看，一个看到了泥地，一个看到了星星。
+> 我手里拿着刀，没法抱你，我放下刀，没法保护你！
 > 
-> ——JOJO的奇妙冒险
+> ——死神
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 20:12:39
+Autogen by LittleJake at 22:13:53
