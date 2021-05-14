@@ -4,10 +4,10 @@ Today is 05/14/2021.
 
 ### Hitokoto
 
-> 今天不想做，所以才要做
+> 老是低着头，幸福可是会离你而去的喔。
 > 
-> ——春上村树
+> ——我们的仙境
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 14:11:49
+Autogen by LittleJake at 16:24:50
