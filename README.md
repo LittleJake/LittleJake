@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/14/2021.
 
 ### Hitokoto
 
-> 老是低着头，幸福可是会离你而去的喔。
+> 面对就好，去经历就好。
 > 
-> ——我们的仙境
+> ——花伞菌
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 16:24:50
+Autogen by LittleJake at 18:27:06
