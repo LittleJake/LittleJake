@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 05/14/2021.
 
 ### Hitokoto
 
-> 有你在的日子才是我的日常。
+> 代表月亮消灭你！
 > 
-> ——琴浦小姐
+> ——美少女战士
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 04:20:50
+Autogen by LittleJake at 06:14:25
