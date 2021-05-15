@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 05/14/2021.
+Today is 05/15/2021.
 
 ### Hitokoto
 
-> 我手里拿着刀，没法抱你，我放下刀，没法保护你！
+> 在虚构现实里寻求现实感的人才有问题
 > 
-> ——死神
+> ——凉宫春日的忧郁
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 22:13:53
+Autogen by LittleJake at 00:37:17
