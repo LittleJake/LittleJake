@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/15/2021.
 
 ### Hitokoto
 
-> 嗯，一个人也要加油，我是坚强的孩子。
+> 梦想是一个天真的词，实现梦想是一个残酷的词
 > 
-> ——AIR
+> ——哆啦A梦
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 16:23:21
+Autogen by LittleJake at 18:23:55
