@@ -4,10 +4,10 @@ Today is 05/15/2021.
 
 ### Hitokoto
 
-> 将愿望倾入不愿忘却的回忆中…
+> 就是因为你不好，才要留在你身边，给你幸福。
 > 
-> ——ef-a tale of memories
+> ——哈尔的移动城堡
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 20:12:16
+Autogen by LittleJake at 22:13:38
