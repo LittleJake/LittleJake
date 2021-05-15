@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 05/15/2021.
 
 ### Hitokoto
 
-> 你还是...笑起来...最棒了
+> 你的败因只有一个，就是与我为敌。 ­
 > 
-> ——最终幻想XIV
+> ——家庭教师
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 04:19:00
+Autogen by LittleJake at 06:13:57
