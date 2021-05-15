@@ -4,10 +4,10 @@ Today is 05/15/2021.
 
 ### Hitokoto
 
-> 梦想是一个天真的词，实现梦想是一个残酷的词
+> 将愿望倾入不愿忘却的回忆中…
 > 
-> ——哆啦A梦
+> ——ef-a tale of memories
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 18:23:55
+Autogen by LittleJake at 20:12:16
