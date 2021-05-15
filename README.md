@@ -4,10 +4,10 @@ Today is 05/15/2021.
 
 ### Hitokoto
 
-> 哭过喊过便会停止哭泣
+> 人生没有彩排，只有现场直播，所以做最好的自己。
 > 
-> ——从零开始的异世界生活
+> ——Internet
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 12:16:04
+Autogen by LittleJake at 14:11:07
