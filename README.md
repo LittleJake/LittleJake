@@ -4,10 +4,10 @@ Today is 05/15/2021.
 
 ### Hitokoto
 
-> 你的败因只有一个，就是与我为敌。 ­
+> 每一个兔子都有一个大国梦
 > 
-> ——家庭教师
+> ——那年那兔那些事
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 06:13:57
+Autogen by LittleJake at 08:13:14
