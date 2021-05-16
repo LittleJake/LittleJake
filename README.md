@@ -4,10 +4,10 @@ Today is 05/16/2021.
 
 ### Hitokoto
 
-> 当你想做一件事，却无能为力的时候，是最痛苦的。
+> 我的生命是属于你的，亚丝娜，我将为你而活。
 > 
-> ——高达SEED
+> ——刀剑神域
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 02:50:13
+Autogen by LittleJake at 04:23:05
