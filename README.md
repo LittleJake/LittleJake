@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/16/2021.
 
 ### Hitokoto
 
-> 算了，和你说话感觉就像是大姨妈来了。
+> 努力不会背叛自己，虽然有时会背叛梦想
 > 
-> ——龙虎斗
+> ——我的青春恋爱物语果然有问题
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 14:20:47
+Autogen by LittleJake at 18:26:00
