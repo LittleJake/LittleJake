@@ -4,10 +4,10 @@ Today is 05/16/2021.
 
 ### Hitokoto
 
-> 努力不会背叛自己，虽然有时会背叛梦想
+> 只要有你，我便无所不能。
 > 
-> ——我的青春恋爱物语果然有问题
+> ——进击的巨人
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 18:26:00
+Autogen by LittleJake at 20:12:26
