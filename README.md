@@ -4,10 +4,10 @@ Today is 05/16/2021.
 
 ### Hitokoto
 
-> 或许只需一滴露水，便能守护这绽放的花朵。
+> 当你想做一件事，却无能为力的时候，是最痛苦的。
 > 
-> ——反叛的鲁鲁修
+> ——高达SEED
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 00:41:35
+Autogen by LittleJake at 02:50:13
