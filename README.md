@@ -4,10 +4,10 @@ Today is 05/16/2021.
 
 ### Hitokoto
 
-> 只要有你，我便无所不能。
+> 人间不温柔
 > 
-> ——进击的巨人
+> ——李诞
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 20:12:26
+Autogen by LittleJake at 22:13:40
