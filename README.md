@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 05/16/2021.
 
 ### Hitokoto
 
-> 正因为听不见和看不到，所以风子才会做这样的事情。
+> 算了，和你说话感觉就像是大姨妈来了。
 > 
-> ——Clannad
+> ——龙虎斗
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 10:13:18
+Autogen by LittleJake at 14:20:47
