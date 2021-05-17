@@ -4,10 +4,10 @@ Today is 05/17/2021.
 
 ### Hitokoto
 
-> 你的败因只有一个，就是与我为敌。 ­
+> 无论世界如何改变，我们都将永不分离。
 > 
-> ——家庭教师
+> ——GOSICK
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 12:17:12
+Autogen by LittleJake at 14:11:06
