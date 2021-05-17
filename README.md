@@ -4,10 +4,10 @@ Today is 05/17/2021.
 
 ### Hitokoto
 
-> 既然今天是昨天，那么睡到明天就好。
+> 以后继续来一起练习打篮球
 > 
-> ——青春猪头少年不会梦到兔女郎学姐
+> ——湊智花
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 00:37:24
+Autogen by LittleJake at 02:45:55
