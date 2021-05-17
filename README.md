@@ -4,10 +4,10 @@ Today is 05/17/2021.
 
 ### Hitokoto
 
-> 以后继续来一起练习打篮球
+> 我要拼，装上假牙也要拼！
 > 
-> ——湊智花
+> ——灌篮高手
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 02:45:55
+Autogen by LittleJake at 04:20:51
