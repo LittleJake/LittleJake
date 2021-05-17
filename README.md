@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/17/2021.
 
 ### Hitokoto
 
-> 在东京的天空上，我们决定性的改变了世界的模样。
+> 如果可以，愿来生你不要忘记我，我也不要忘记你那熟悉的温柔。
 > 
-> ——天气之子
+> ——狐妖小红娘
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 16:25:05
+Autogen by LittleJake at 18:26:27
