@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 05/16/2021.
+Today is 05/17/2021.
 
 ### Hitokoto
 
-> 人间不温柔
+> 既然今天是昨天，那么睡到明天就好。
 > 
-> ——李诞
+> ——青春猪头少年不会梦到兔女郎学姐
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 22:13:40
+Autogen by LittleJake at 00:37:24
