@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 05/17/2021.
 
 ### Hitokoto
 
-> 没问题，绝对没问题
+> 你的败因只有一个，就是与我为敌。 ­
 > 
-> ——木之本樱（无敌咒语）
+> ——家庭教师
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 10:13:45
+Autogen by LittleJake at 12:17:12
