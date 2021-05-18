@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/18/2021.
 
 ### Hitokoto
 
-> 美丽的不是这个世界，而是接受了这个世界的你的眼睛。
+> 我手里拿着刀，没法抱你，我放下刀，没法保护你！
 > 
-> ——吸血鬼骑士
+> ——死神
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 16:23:34
+Autogen by LittleJake at 18:29:16
