@@ -4,10 +4,10 @@ Today is 05/18/2021.
 
 ### Hitokoto
 
-> 什么都无法舍弃的人，什么都无法改变 。
+> 即使如此，我也有我想保护的世界！
 > 
-> ——进击的巨人
+> ——高达seed
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 00:41:41
+Autogen by LittleJake at 02:46:22
