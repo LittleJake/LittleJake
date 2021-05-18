@@ -4,10 +4,10 @@ Today is 05/18/2021.
 
 ### Hitokoto
 
-> 即使如此，我也有我想保护的世界！
+> 只要人活在这世上就一定是有意义的，怎么活是自己选的。
 > 
-> ——高达seed
+> ——我想吃掉你的胰脏
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 02:46:22
+Autogen by LittleJake at 04:21:45
