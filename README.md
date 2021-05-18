@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 05/17/2021.
+Today is 05/18/2021.
 
 ### Hitokoto
 
-> Time waits for no one.
+> 什么都无法舍弃的人，什么都无法改变 。
 > 
-> ——穿越时空的少女
+> ——进击的巨人
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 22:14:08
+Autogen by LittleJake at 00:41:41
