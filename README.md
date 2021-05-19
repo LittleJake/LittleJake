@@ -4,10 +4,10 @@ Today is 05/19/2021.
 
 ### Hitokoto
 
-> 悲痛的事，温柔以对；难过的事，坚强以对。
+> 我是要成为海贼王的男人！
 > 
-> ——朝花夕誓
+> ——海贼王
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 06:14:23
+Autogen by LittleJake at 08:13:25
