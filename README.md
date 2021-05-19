@@ -4,10 +4,10 @@ Today is 05/19/2021.
 
 ### Hitokoto
 
-> 我是要成为海贼王的男人！
+> 人类的赞歌就是勇气的赞歌。
 > 
-> ——海贼王
+> ——JOJO的奇妙冒险
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 08:13:25
+Autogen by LittleJake at 10:12:07
