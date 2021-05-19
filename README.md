@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/19/2021.
 
 ### Hitokoto
 
-> 与其因为不信任而后悔，不如因为相信而后悔。
+> 你已经不是我的狗了。
 > 
-> ——刀剑神域
+> ——龙与虎
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 16:24:04
+Autogen by LittleJake at 18:27:35
