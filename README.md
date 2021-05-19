@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 05/19/2021.
 
 ### Hitokoto
 
-> 我是一个经常笑的人，可我不是经常开心的人。
+> 悲痛的事，温柔以对；难过的事，坚强以对。
 > 
-> ——未闻花名
+> ——朝花夕誓
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 04:18:13
+Autogen by LittleJake at 06:14:23
