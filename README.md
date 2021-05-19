@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 05/18/2021.
+Today is 05/19/2021.
 
 ### Hitokoto
 
-> 把同班的可爱女同学娶回家就是我最大的梦想
+> 被一个自己不感兴趣的人示好，你不觉得没有比这更恶心的事吗
 > 
-> ——月色真美
+> ——人渣的本愿
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 22:14:00
+Autogen by LittleJake at 00:38:01
