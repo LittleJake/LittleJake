@@ -4,10 +4,10 @@ Today is 05/19/2021.
 
 ### Hitokoto
 
-> 你已经不是我的狗了。
+> 吵死了吵死了!
 > 
-> ——龙与虎
+> ——逢坂大河
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 18:27:35
+Autogen by LittleJake at 20:12:24
