@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 05/19/2021.
 
 ### Hitokoto
 
-> 人类的赞歌就是勇气的赞歌。
+> さあ，Games始めましょうか
 > 
-> ——JOJO的奇妙冒险
+> ——游戏人生
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 10:12:07
+Autogen by LittleJake at 12:17:06
