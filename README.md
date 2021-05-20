@@ -4,10 +4,10 @@ Today is 05/20/2021.
 
 ### Hitokoto
 
-> 你是笨蛋吗？
+> 在自称善意的之时，即存恶意。
 > 
-> ——小桐桐（きりりん）
+> ——罪恶王冠
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 02:43:03
+Autogen by LittleJake at 04:19:43
