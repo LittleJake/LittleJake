@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 05/19/2021.
+Today is 05/20/2021.
 
 ### Hitokoto
 
-> 我没有任何理由为了那些人让自己的人生付之一炬！
+> 而我不知不觉把自己遗忘，只想为你完成那个梦想。
 > 
-> ——三月的狮子
+> ——狐妖小红娘
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 22:13:34
+Autogen by LittleJake at 00:35:43
