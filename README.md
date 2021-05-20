@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 05/20/2021.
 
 ### Hitokoto
 
-> 在自称善意的之时，即存恶意。
+> 雁过拔毛，兽走留皮。涂山，我罩的，懂？
 > 
-> ——罪恶王冠
+> ——狐妖小红娘
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 04:19:43
+Autogen by LittleJake at 06:14:29
