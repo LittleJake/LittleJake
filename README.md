@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/20/2021.
 
 ### Hitokoto
 
-> 我不会让任何人看到我软弱的一面。
+> 男人只要去行动就好，做得到或做不到，女孩子会来告诉你的。
 > 
-> ——桔梗
+> ——四月是你的谎言
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 16:25:30
+Autogen by LittleJake at 18:29:14
