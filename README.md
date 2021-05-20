@@ -4,10 +4,10 @@ Today is 05/20/2021.
 
 ### Hitokoto
 
-> 男人只要去行动就好，做得到或做不到，女孩子会来告诉你的。
+> 我想让自己强大起来，因为至少我已经有幸和想要保护的人相遇了。
 > 
-> ——四月是你的谎言
+> ——夏目友人帐
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 18:29:14
+Autogen by LittleJake at 20:10:39
