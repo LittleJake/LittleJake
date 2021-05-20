@@ -4,10 +4,10 @@ Today is 05/20/2021.
 
 ### Hitokoto
 
-> 花开花落，再灿烂的星光也会消失。
+> 而我不知不觉把自己遗忘，只想为你完成那个梦想。
 > 
-> ——圣斗士星矢
+> ——狐妖小红娘
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 12:17:29
+Autogen by LittleJake at 14:10:34
