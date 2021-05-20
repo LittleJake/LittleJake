@@ -4,10 +4,10 @@ Today is 05/20/2021.
 
 ### Hitokoto
 
-> 雁过拔毛，兽走留皮。涂山，我罩的，懂？
+> 如果因为害怕失败，而不去努力，那就不会有能够成功的人。
 > 
-> ——狐妖小红娘
+> ——樱花庄的宠物女孩
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 06:14:29
+Autogen by LittleJake at 08:13:45
