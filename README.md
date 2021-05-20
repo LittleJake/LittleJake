@@ -4,10 +4,10 @@ Today is 05/20/2021.
 
 ### Hitokoto
 
-> 我想让自己强大起来，因为至少我已经有幸和想要保护的人相遇了。
+> 这样叹气的话，幸福会像四处逃散的小蜘蛛一样溜走的。
 > 
-> ——夏目友人帐
+> ——辉夜大小姐想让我告白
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 20:10:39
+Autogen by LittleJake at 22:13:30
