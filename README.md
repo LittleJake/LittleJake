@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 05/21/2021.
 
 ### Hitokoto
 
-> 只要人活在这世上就一定是有意义的，怎么活是自己选的。
+> 重要的不是你做了多少事，而是你放了多少心思进去。
 > 
-> ——我想吃掉你的胰脏
+> ——凉宫春日的忧郁
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 10:13:23
+Autogen by LittleJake at 12:17:38
