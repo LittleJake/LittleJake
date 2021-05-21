@@ -4,10 +4,10 @@ Today is 05/21/2021.
 
 ### Hitokoto
 
-> 红茶的温度和女人心在任何时代都是难以琢磨呢。
+> 男人许下的诺言就一定要遵守。
 > 
-> ——海猫鸣泣之时
+> ——海贼王
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 14:11:58
+Autogen by LittleJake at 16:25:08
