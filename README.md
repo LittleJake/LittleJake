@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 05/21/2021.
 
 ### Hitokoto
 
-> 为了爱，与梦想！
+> 时间可以治愈？如果时间也病了怎么办？
 > 
-> ——眼大人
+> ——寒蝉鸣泣之时
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 04:21:23
+Autogen by LittleJake at 06:14:10
