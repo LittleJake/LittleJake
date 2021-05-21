@@ -4,10 +4,10 @@ Today is 05/21/2021.
 
 ### Hitokoto
 
-> 时间可以治愈？如果时间也病了怎么办？
+> 无论你在哪里，就算我看不见你，我也会一直注视着你。
 > 
-> ——寒蝉鸣泣之时
+> ——妖精的尾巴
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 06:14:10
+Autogen by LittleJake at 08:14:05
