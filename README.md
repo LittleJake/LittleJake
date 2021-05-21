@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/21/2021.
 
 ### Hitokoto
 
-> 男人许下的诺言就一定要遵守。
+> 恋爱不是谈出来的，而是陷进去的。
 > 
-> ——海贼王
+> ——GAMER电玩咖！
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 16:25:08
+Autogen by LittleJake at 18:31:01
