@@ -4,10 +4,10 @@ Today is 05/22/2021.
 
 ### Hitokoto
 
-> 只要努力活下去，总有一天会笑着回忆。
+> 其实我对混合咖啡还是很有自信的
 > 
-> ——不可思议游戏
+> ——珈百璃的堕落
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 12:16:26
+Autogen by LittleJake at 14:09:49
