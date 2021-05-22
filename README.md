@@ -4,10 +4,10 @@ Today is 05/22/2021.
 
 ### Hitokoto
 
-> 我们的心就像那天空一样，永不分离。
+> 世界并不完美，却因此而美丽。
 > 
-> ——缘之空
+> ——奇诺之旅
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 08:13:30
+Autogen by LittleJake at 10:13:21
