@@ -4,10 +4,10 @@ Today is 05/22/2021.
 
 ### Hitokoto
 
-> 梦总是有会醒来的时候，不会醒的梦总有一天会变成悲伤。
+> 我们的心就像那天空一样，永不分离。
 > 
-> ——AIR
+> ——缘之空
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 06:13:59
+Autogen by LittleJake at 08:13:30
