@@ -4,10 +4,10 @@ Today is 05/22/2021.
 
 ### Hitokoto
 
-> 其实我对混合咖啡还是很有自信的
+> 不得了不得了
 > 
-> ——珈百璃的堕落
+> ——小林家的龙女仆
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 14:09:49
+Autogen by LittleJake at 16:23:42
