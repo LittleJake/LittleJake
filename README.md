@@ -4,10 +4,10 @@ Today is 05/22/2021.
 
 ### Hitokoto
 
-> 真可悲，你什么都不知道，在这个世界上没有什么是不重要的！
+> 伤害别人的人，就要有被伤害的觉悟！
 > 
-> ——最终幻想
+> ——罪恶王冠
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 20:12:19
+Autogen by LittleJake at 22:11:27
