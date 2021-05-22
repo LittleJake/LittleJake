@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 05/21/2021.
+Today is 05/22/2021.
 
 ### Hitokoto
 
-> 燃烧吧，我的小宇宙！
+> 有些事情我不看透，不是我笨，只是我太善良。
 > 
-> ——圣斗士星矢
+> ——樱桃小丸子
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 22:11:57
+Autogen by LittleJake at 00:38:44
