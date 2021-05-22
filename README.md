@@ -1,13 +1,13 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 05/22/2021.
 
 ### Hitokoto
 
-> 世界并不完美，却因此而美丽。
+> 只要努力活下去，总有一天会笑着回忆。
 > 
-> ——奇诺之旅
+> ——不可思议游戏
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 10:13:21
+Autogen by LittleJake at 12:16:26
