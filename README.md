@@ -4,10 +4,10 @@ Today is 05/23/2021.
 
 ### Hitokoto
 
-> 有的鱼是永远关不住的，因为他们属于天空。
+> 那里还有——医生的房间啊！
 > 
-> ——大鱼海棠
+> ——Fate / Grand Order
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 06:14:42
+Autogen by LittleJake at 08:13:31
