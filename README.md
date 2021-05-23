@@ -4,10 +4,10 @@ Today is 05/23/2021.
 
 ### Hitokoto
 
-> 那里还有——医生的房间啊！
+> 你将不再是道具，而是人如其名的人。
 > 
-> ——Fate / Grand Order
+> ——紫罗兰永恒的花园
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 08:13:31
+Autogen by LittleJake at 10:12:18
