@@ -4,10 +4,10 @@ Today is 05/23/2021.
 
 ### Hitokoto
 
-> 人生海海，敢死不叫勇气，活着才需要勇气。
+> 真正让我难受的，大概是因为让你看到如此狼狈的自己。
 > 
-> ——麦家-人生海海
+> ——元气少女缘结神
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 02:52:27
+Autogen by LittleJake at 04:27:30
