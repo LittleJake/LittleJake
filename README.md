@@ -4,10 +4,10 @@ Today is 05/23/2021.
 
 ### Hitokoto
 
-> 世界上所有的不利状况都是因为当事者的能力不足
+> 美好的人眼里映出的世界也是美好的。
 > 
-> ——东京喰种
+> ——ARIA
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 12:16:51
+Autogen by LittleJake at 14:10:33
