@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/23/2021.
 
 ### Hitokoto
 
-> 梦总是有会醒来的时候，不会醒的梦总有一天会变成悲伤。
+> 我的梦想实现了，也留下了美好的回忆，我已经没有任何遗憾了。
 > 
-> ——AIR
+> ——末日时在做什么?有没有空?可以来拯救吗?
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 16:23:51
+Autogen by LittleJake at 18:26:52
