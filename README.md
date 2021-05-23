@@ -4,10 +4,10 @@ Today is 05/23/2021.
 
 ### Hitokoto
 
-> 我只是个兴趣使然的英雄。
+> 人生海海，敢死不叫勇气，活着才需要勇气。
 > 
-> ——一拳超人
+> ——麦家-人生海海
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 00:44:10
+Autogen by LittleJake at 02:52:27
