@@ -4,10 +4,10 @@ Today is 05/23/2021.
 
 ### Hitokoto
 
-> 美好的人眼里映出的世界也是美好的。
+> 梦总是有会醒来的时候，不会醒的梦总有一天会变成悲伤。
 > 
-> ——ARIA
+> ——AIR
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 14:10:33
+Autogen by LittleJake at 16:23:51
