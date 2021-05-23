@@ -4,10 +4,10 @@ Today is 05/23/2021.
 
 ### Hitokoto
 
-> 我的梦想实现了，也留下了美好的回忆，我已经没有任何遗憾了。
+> 不相信自己的人，连努力的价值都没有。
 > 
-> ——末日时在做什么?有没有空?可以来拯救吗?
+> ——火影忍者
 
 ![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 18:26:52
+Autogen by LittleJake at 20:12:10
