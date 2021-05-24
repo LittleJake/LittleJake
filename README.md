@@ -4,10 +4,10 @@ Today is 05/24/2021.
 
 ### Hitokoto
 
-> 站起来！站起来啊！你是我的腿吧！站起来啊！
+> 以后继续来一起练习打篮球
 > 
-> ——四月是你的谎言
+> ——湊智花
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 06:16:32
+Autogen by LittleJake at 08:13:54
