@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 05/23/2021.
+Today is 05/24/2021.
 
 ### Hitokoto
 
-> 千载流年一如梦，月落山河一世倾。
+> 用决斗......给大家......带来笑容......
 > 
-> ——灵契
+> ——游戏王<A-RCV>
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 22:11:39
+Autogen by LittleJake at 00:42:02
