@@ -4,10 +4,10 @@ Today is 05/24/2021.
 
 ### Hitokoto
 
-> 以后继续来一起练习打篮球
+> さあ，Games始めましょうか
 > 
-> ——湊智花
+> ——游戏人生
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 08:13:54
+Autogen by LittleJake at 10:16:22
