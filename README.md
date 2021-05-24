@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 05/24/2021.
 
 ### Hitokoto
 
-> 明明只是活着，哀伤却无处不在……
+> 站起来！站起来啊！你是我的腿吧！站起来啊！
 > 
-> ——秒速五厘米
+> ——四月是你的谎言
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 04:26:10
+Autogen by LittleJake at 06:16:32
