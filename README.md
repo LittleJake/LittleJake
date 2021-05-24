@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/24/2021.
 
 ### Hitokoto
 
-> 人は一生、中二病なんだ。
+> 我手里拿着刀，没法抱你，我放下刀，没法保护你！
 > 
-> ——中二病也要谈恋爱
+> ——死神
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 16:30:08
+Autogen by LittleJake at 18:34:31
