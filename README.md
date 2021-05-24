@@ -4,10 +4,10 @@ Today is 05/24/2021.
 
 ### Hitokoto
 
-> 就算是自私…我也希望那些人能够永远都有笑容…
+> 美丽的不是这个世界，而是接受了这个世界的你的眼睛。
 > 
-> ——夏目友人帐
+> ——吸血鬼骑士
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 20:13:29
+Autogen by LittleJake at 22:12:58
