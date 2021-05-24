@@ -4,10 +4,10 @@ Today is 05/24/2021.
 
 ### Hitokoto
 
-> 要是太勉强自己的话，总有一天会受伤的
+> 不敢反抗压迫的心理将伴你一生
 > 
-> ——吸血鬼骑士
+> ——狂赌深渊
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 12:18:32
+Autogen by LittleJake at 14:15:12
