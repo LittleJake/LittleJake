@@ -4,10 +4,10 @@ Today is 05/24/2021.
 
 ### Hitokoto
 
-> 我手里拿着刀，没法抱你，我放下刀，没法保护你！
+> 就算是自私…我也希望那些人能够永远都有笑容…
 > 
-> ——死神
+> ——夏目友人帐
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 18:34:31
+Autogen by LittleJake at 20:13:29
