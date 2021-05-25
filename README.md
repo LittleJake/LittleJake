@@ -4,10 +4,10 @@ Today is 05/25/2021.
 
 ### Hitokoto
 
-> 只要努力活下去，总有一天会笑着回忆。
+> 经为流逝的日月。纬为人们的生业。
 > 
-> ——不可思议游戏
+> ——朝花夕誓
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
-Autogen by LittleJake at 08:18:51
+Autogen by LittleJake at 10:20:28
