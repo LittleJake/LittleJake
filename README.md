@@ -4,10 +4,10 @@ Today is 05/25/2021.
 
 ### Hitokoto
 
-> 十代目的意志就是我们的意志！
+> MAKE OUR DREAMS ALIVE
 > 
-> ——家庭教师
+> ——ラブライブ！
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 00:40:50
+Autogen by LittleJake at 02:58:02
