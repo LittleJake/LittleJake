@@ -4,10 +4,10 @@ Today is 05/25/2021.
 
 ### Hitokoto
 
-> 就算是自私…我也希望那些人能够永远都有笑容…
+> 命运的红线一旦断了，就再也接不上了。
 > 
-> ——夏目友人帐
+> ——犬夜叉
 
 ![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 14:19:05
+Autogen by LittleJake at 16:33:39
