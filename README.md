@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/25/2021.
 
 ### Hitokoto
 
-> 命运的红线一旦断了，就再也接不上了。
+> 世界上所有的不利状况都是因为当事者的能力不足
 > 
-> ——犬夜叉
+> ——东京喰种
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 16:33:39
+Autogen by LittleJake at 18:38:28
