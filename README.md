@@ -4,10 +4,10 @@ Today is 05/25/2021.
 
 ### Hitokoto
 
-> 要相信同伴，拯救同伴。
+> 无论是丢下还是被丢下，这两者都是一样痛苦的。
 > 
-> ——绯弹的亚里亚
+> ——水果篮子
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 20:14:37
+Autogen by LittleJake at 22:14:05
