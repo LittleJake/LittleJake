@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 05/25/2021.
 
 ### Hitokoto
 
-> 正因为生来什么都没有，因此我们能拥有一切。
+> 用你的笑容去改变这个世界，别让这个世界改变了你的笑容。
 > 
-> ——游戏人生
+> ——网络
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 04:33:26
+Autogen by LittleJake at 06:24:49
