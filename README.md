@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 05/24/2021.
+Today is 05/25/2021.
 
 ### Hitokoto
 
-> 美丽的不是这个世界，而是接受了这个世界的你的眼睛。
+> 十代目的意志就是我们的意志！
 > 
-> ——吸血鬼骑士
+> ——家庭教师
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 22:12:58
+Autogen by LittleJake at 00:40:50
