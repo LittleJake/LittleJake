@@ -4,10 +4,10 @@ Today is 05/25/2021.
 
 ### Hitokoto
 
-> 世界上所有的不利状况都是因为当事者的能力不足
+> 要相信同伴，拯救同伴。
 > 
-> ——东京喰种
+> ——绯弹的亚里亚
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 18:38:28
+Autogen by LittleJake at 20:14:37
