@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 05/26/2021.
 
 ### Hitokoto
 
-> 燃烧吧，我的小宇宙！
+> 人经历风浪是会变得更强，可是船不同，日积月累的只有伤痛。
 > 
-> ——圣斗士星矢
+> ——海贼王
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 04:46:04
+Autogen by LittleJake at 06:32:42
