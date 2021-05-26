@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 05/25/2021.
+Today is 05/26/2021.
 
 ### Hitokoto
 
-> 无论是丢下还是被丢下，这两者都是一样痛苦的。
+> 红茶的温度和女人心在任何时代都是难以琢磨呢。
 > 
-> ——水果篮子
+> ——海猫鸣泣之时
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 22:14:05
+Autogen by LittleJake at 00:49:22
