@@ -4,10 +4,10 @@ Today is 05/26/2021.
 
 ### Hitokoto
 
-> 如果说现在的日子过得很穷困，那我就去喜欢上穷困。
+> 我不努力，就见不到你了啊。
 > 
-> ——隐瞒之事
+> ——昨日之歌
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 14:26:28
+Autogen by LittleJake at 16:38:43
