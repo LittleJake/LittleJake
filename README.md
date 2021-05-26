@@ -4,10 +4,10 @@ Today is 05/26/2021.
 
 ### Hitokoto
 
-> 我们都很执着,而且思念的越深,越是绝望。
+> 忘记本身就是一件不可能的事。
 > 
-> ——人渣的本愿
+> ——我们的存在
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 20:26:25
+Autogen by LittleJake at 22:17:35
