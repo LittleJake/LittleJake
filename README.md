@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/27/2021.
 
 ### Hitokoto
 
-> 为了传达不到的思念而苦恼，只会感到痛不欲生。
+> 人类，在决战之时难道会选择自己不擅长的武器来战斗吗？
 > 
-> ——WHITE FIRST LOVE
+> ——只有神知道的世界
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 16:50:42
+Autogen by LittleJake at 18:54:31
