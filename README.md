@@ -4,10 +4,10 @@ Today is 05/27/2021.
 
 ### Hitokoto
 
-> 人类，在决战之时难道会选择自己不擅长的武器来战斗吗？
+> 除了爱你，我什么都可以。
 > 
-> ——只有神知道的世界
+> ——命运守护夜
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
-Autogen by LittleJake at 18:54:31
+Autogen by LittleJake at 20:22:58
