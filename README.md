@@ -1,13 +1,13 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/28/2021.
 
 ### Hitokoto
 
-> 相信十年后的八月，我们还会相遇。
+> 我们开始一起攀登，这长长的，长长的坡道。
 > 
-> ——未闻花名
+> ——Clannad
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
-Autogen by LittleJake at 14:32:06
+Autogen by LittleJake at 19:04:34
