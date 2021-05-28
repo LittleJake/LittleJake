@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 05/27/2021.
+Today is 05/28/2021.
 
 ### Hitokoto
 
-> 去死两次！
+> 站起来！站起来啊！你是我的腿吧！站起来啊！
 > 
-> ——迷途猫
+> ——四月是你的谎言
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 22:19:22
+Autogen by LittleJake at 00:58:36
