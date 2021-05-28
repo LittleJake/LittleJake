@@ -1,13 +1,13 @@
-Good evening work time!
+Good morning work time!
 
 Today is 05/28/2021.
 
 ### Hitokoto
 
-> 我动身踏上旅程，是为了与你道别。
+> 世界上 ，没有一拳解决不了的事，如果有，那就两拳。
 > 
-> ——追逐繁星的孩子
+> ——一拳超人
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
-Autogen by LittleJake at 04:04:54
+Autogen by LittleJake at 07:01:00
