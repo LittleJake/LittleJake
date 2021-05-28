@@ -4,10 +4,10 @@ Today is 05/28/2021.
 
 ### Hitokoto
 
-> 我们开始一起攀登，这长长的，长长的坡道。
+> 就算是自私⋯⋯我也希望那些人能够永远都有笑容⋯⋯
 > 
-> ——Clannad
+> ——夏目友人帐
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 19:04:34
+Autogen by LittleJake at 20:34:06
