@@ -4,10 +4,10 @@ Today is 05/28/2021.
 
 ### Hitokoto
 
-> 当我拔出第二把剑时，就是为了我所爱之人
+> 我的金子，只给千寻。
 > 
-> ——刀剑神域
+> ——千与千寻
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 08:40:25
+Autogen by LittleJake at 10:38:59
