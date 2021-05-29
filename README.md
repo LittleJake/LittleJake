@@ -4,10 +4,10 @@ Today is 05/29/2021.
 
 ### Hitokoto
 
-> 我只是做了我能做的事，没有时间想将来。
+> 成功率不到2%，那剩下的用勇气来补足吧！
 > 
-> ——秒速五厘米
+> ——勇者王
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
-Autogen by LittleJake at 07:25:10
+Autogen by LittleJake at 08:54:51
