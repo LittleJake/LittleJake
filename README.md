@@ -4,10 +4,12 @@ Today is 05/29/2021.
 
 ### Hitokoto
 
-> 成功率不到2%，那剩下的用勇气来补足吧！
+> 要是眼睁睁的看着重要的同伴死去，就算是死，我也不能瞑目。
 > 
-> ——勇者王
+> ——家庭教师
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
-Autogen by LittleJake at 08:54:51
+![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
+
+Autogen by LittleJake at 11:15:20
