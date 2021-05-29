@@ -1,13 +1,13 @@
 Good evening work time!
 
-Today is 05/28/2021.
+Today is 05/29/2021.
 
 ### Hitokoto
 
-> 努力不会背叛自己，虽然有时会背叛梦想
+> 这么温暖的世界里有我，要感谢神明了。
 > 
-> ——我的青春恋爱物语果然有问题
+> ——Comic Girls
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
-Autogen by LittleJake at 22:22:10
+Autogen by LittleJake at 04:34:51
