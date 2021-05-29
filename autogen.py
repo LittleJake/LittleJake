@@ -24,7 +24,7 @@ def generate_readme(hitokoto):
         fp.write("{}!\n\nToday is {}.\n\n".format(welcome, time.strftime("%m/%d/%Y")))
         fp.write("### Hitokoto\n\n> {}\n> \n> ——{}\n\n".format(hitokoto['hitokoto'],hitokoto['from']))
         fp.write("![{}]({}{})\n\n".format(welcome, URL, choice(IMGS)))
-        fp.write("[Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)\n\n")
+        fp.write("![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)\n\n")
         fp.write("Autogen by LittleJake at {}".format(time.strftime("%H:%M:%S")))
     return
 
