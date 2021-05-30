@@ -4,12 +4,12 @@ Today is 05/30/2021.
 
 ### Hitokoto
 
-> 最初的一步，泪水之后再一次，雕刻的风景线，消逝在黄昏中的风，直到梦的最后。
+> 为了做一名真正的绅士，即使明知必输无疑，也要有勇气接受挑战！
 > 
-> ——Clannad
+> ——JOJO的奇妙冒险
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 12:38:33
+Autogen by LittleJake at 14:35:14
