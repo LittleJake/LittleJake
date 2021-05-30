@@ -4,12 +4,12 @@ Today is 05/30/2021.
 
 ### Hitokoto
 
-> 为了做一名真正的绅士，即使明知必输无疑，也要有勇气接受挑战！
+> 光就是羁绊之力，它会再度被某人继承，散发出耀眼的光。
 > 
-> ——JOJO的奇妙冒险
+> ——奈克瑟斯奥特曼
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 14:35:14
+Autogen by LittleJake at 16:53:25
