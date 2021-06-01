@@ -1,15 +1,15 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 06/01/2021.
 
 ### Hitokoto
 
-> This is your dream! Anything you can do in your dreams, you can do now!
+> 大部分人并不想长大，只是没办法继续当一个小孩子
 > 
-> ——My Little Pony: Friendship is Magic
+> ——小林家的龙女仆
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 17:33:22
+Autogen by LittleJake at 20:21:48
