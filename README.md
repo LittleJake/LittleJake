@@ -4,12 +4,12 @@ Today is 06/01/2021.
 
 ### Hitokoto
 
-> 可爱即是正义。
+> This is your dream! Anything you can do in your dreams, you can do now!
 > 
-> ——游戏人生
+> ——My Little Pony: Friendship is Magic
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 14:41:32
+Autogen by LittleJake at 17:33:22
