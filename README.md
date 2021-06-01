@@ -1,15 +1,15 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 06/01/2021.
 
 ### Hitokoto
 
-> 人经历风浪是会变得更强，可是船不同，日积月累的只有伤痛。
+> 我愿意呀，五十年前就愿意了。
 > 
-> ——海贼王
+> ——狐妖小红娘
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 10:53:22
+Autogen by LittleJake at 12:54:19
