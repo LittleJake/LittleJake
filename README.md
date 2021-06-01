@@ -1,15 +1,15 @@
-Good evening work time!
+Good morning work time!
 
 Today is 06/01/2021.
 
 ### Hitokoto
 
-> 正因为有忘也忘不了的回忆，才会变得坚强，这就是所谓的成长吧！
+> 步伐虽小，密而不停
 > 
-> ——火影忍者
+> ——实验品家庭
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 05:20:01
+Autogen by LittleJake at 07:42:05
