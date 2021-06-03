@@ -4,12 +4,12 @@ Today is 06/03/2021.
 
 ### Hitokoto
 
-> 羁绊是那不可切断的深切联系。即使分离，心与心也紧紧的连在一起。
+> 向天空拼命伸出的双手，发射那么巨大的东西，只是为了寻找超出想象的彼岸所存在的东西。
 > 
-> ——假面骑士kabuto
+> ——秒速五厘米
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 21:10:09
+Autogen by LittleJake at 22:44:11
