@@ -4,12 +4,12 @@ Today is 06/03/2021.
 
 ### Hitokoto
 
-> 在末日中，人们总想寻找希望，但要真有希望的话，那还叫希望吗？
+> 遇到事情不能坐以待毙！
 > 
-> ——灵笼
+> ——捷德奥特曼
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 14:34:32
+Autogen by LittleJake at 17:17:09
