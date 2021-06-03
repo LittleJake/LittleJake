@@ -4,12 +4,12 @@ Today is 06/03/2021.
 
 ### Hitokoto
 
-> 向天空拼命伸出的双手，发射那么巨大的东西，只是为了寻找超出想象的彼岸所存在的东西。
+> 想象力是武器，没有想象力的人会先死。
 > 
-> ——秒速五厘米
+> ——哥布林杀手
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 07:19:40
+Autogen by LittleJake at 08:56:31
