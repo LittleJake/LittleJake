@@ -1,15 +1,15 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 06/04/2021.
 
 ### Hitokoto
 
-> 起风了,唯有努力生存。
+> 每个人能走到现在，都是自己选择的结果。
 > 
-> ——起风了
+> ——我想吃掉你的胰脏
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 17:20:54
+Autogen by LittleJake at 19:31:46
