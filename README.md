@@ -4,12 +4,12 @@ Today is 06/05/2021.
 
 ### Hitokoto
 
-> 就连一直都无容身之地的我……也不是可以任意舍弃的生命。
+> 温柔与美丽，偶尔也是残忍的。
 > 
-> ——夏目友人帐
+> ——魔女之旅
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 08:38:14
+Autogen by LittleJake at 10:41:13
