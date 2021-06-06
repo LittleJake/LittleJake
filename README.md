@@ -4,12 +4,12 @@ Today is 06/06/2021.
 
 ### Hitokoto
 
-> 或许前路永夜，即便如此我也要前进，因为星光即使微弱也会为我照亮前途。
+> 别低下头  排球是一门积极向上的运动！
 > 
-> ——四月是你的谎言
+> ——排球少年
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 06:40:18
+Autogen by LittleJake at 08:41:34
