@@ -4,12 +4,12 @@ Today is 06/06/2021.
 
 ### Hitokoto
 
-> 无可取代的东西要到失去后才知道珍惜呢。
+> 我不会去统治这片大海，在这片大海上，最自由的人就是海贼王！
 > 
-> ——干物妹小埋
+> ——海贼王
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 18:53:11
+Autogen by LittleJake at 20:25:58
