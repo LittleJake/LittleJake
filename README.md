@@ -4,12 +4,12 @@ Today is 06/07/2021.
 
 ### Hitokoto
 
-> 你以为我是谁？这是我埋下的因，我要亲手解决这一切。
+> 或许前路永夜，即便如此我也要前进，因为星光即使微弱也会为我照亮前途。
 > 
-> ——某科学的超电磁炮
+> ——四月是你的谎言
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 09:13:17
+Autogen by LittleJake at 10:58:05
