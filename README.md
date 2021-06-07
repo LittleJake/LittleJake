@@ -4,12 +4,12 @@ Today is 06/07/2021.
 
 ### Hitokoto
 
-> 空太是笨蛋！
+> 这短短的一生，我们最终都会失去。你不妨大胆一些，爱一个人，攀一座山，追一个梦。
 > 
-> ——樱花庄的宠物女孩
+> ——大鱼海棠
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 03:43:54
+Autogen by LittleJake at 05:28:53
