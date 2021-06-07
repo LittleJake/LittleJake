@@ -4,12 +4,12 @@ Today is 06/07/2021.
 
 ### Hitokoto
 
-> 我的回合，抽卡！
+> 空太是笨蛋！
 > 
-> ——游戏王
+> ——樱花庄的宠物女孩
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 00:55:22
+Autogen by LittleJake at 03:43:54
