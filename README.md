@@ -4,12 +4,12 @@ Today is 06/08/2021.
 
 ### Hitokoto
 
-> 'Cause rainbow won't light up the sky unless you let it rain.
+> 就算是自私……我也希望那些人能够永远都有笑容……
 > 
-> ——My Little Pony: Friendship is Magic
+> ——夏目友人帐
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 18:36:29
+Autogen by LittleJake at 20:16:20
