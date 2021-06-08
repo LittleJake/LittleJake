@@ -1,15 +1,15 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 06/08/2021.
 
 ### Hitokoto
 
-> 将愿望倾入不愿忘却的回忆中……
+> 'Cause rainbow won't light up the sky unless you let it rain.
 > 
-> ——ef-a tale of memories
+> ——My Little Pony: Friendship is Magic
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 16:30:09
+Autogen by LittleJake at 18:36:29
