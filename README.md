@@ -1,15 +1,15 @@
 Good evening work time!
 
-Today is 06/07/2021.
+Today is 06/08/2021.
 
 ### Hitokoto
 
-> 所谓爱情，是对对自己最重要的人，以慈悲的心保护他的想法。
+> 我们都在命运之湖上荡舟划桨，波浪起伏着而我们无法逃脱孤航。但是假使我们迷失了方向，波浪将指引我们穿越另一天的曙光。
 > 
-> ——火影忍者
+> ——死神
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 22:35:36
+Autogen by LittleJake at 00:54:48
