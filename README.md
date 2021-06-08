@@ -4,12 +4,12 @@ Today is 06/08/2021.
 
 ### Hitokoto
 
-> 我们都在命运之湖上荡舟划桨，波浪起伏着而我们无法逃脱孤航。但是假使我们迷失了方向，波浪将指引我们穿越另一天的曙光。
+> 有些景色必须前进才能看到，那么只有勇往直前。
 > 
-> ——死神
+> ——如果有个妹妹就好了
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 06:25:46
+Autogen by LittleJake at 08:15:39
