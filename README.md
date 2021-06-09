@@ -1,15 +1,15 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 06/09/2021.
 
 ### Hitokoto
 
-> 你就赌我会死吧，因为你逢赌必输。
+> 鸣神の　少しとよみて　さし昙り　雨も降らんか　君を留めん
 > 
-> ——火影忍者
+> ——言叶之庭
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 16:23:40
+Autogen by LittleJake at 18:29:33
