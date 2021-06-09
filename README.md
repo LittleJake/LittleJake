@@ -4,12 +4,12 @@ Today is 06/09/2021.
 
 ### Hitokoto
 
-> 隐约雷鸣，阴霾天空，即使天无雨，我亦留此地。
+> 重要的不是你做了多少事，而是你放了多少心思进去。
 > 
-> ——言叶之庭
+> ——凉宫春日的忧郁
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 02:47:32
+Autogen by LittleJake at 04:32:29
