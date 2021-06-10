@@ -1,15 +1,15 @@
 Good evening work time!
 
-Today is 06/09/2021.
+Today is 06/10/2021.
 
 ### Hitokoto
 
-> 要把所有的夜归还给星河，把所有的春光归还给疏疏篱落，把所有的慵慵沉迷与不前，归还给过去的我。
+> 若隐若现才是艺术！
 > 
-> ——德卡先生的信箱
+> ——问题儿童来自异世界
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 22:10:43
+Autogen by LittleJake at 00:35:30
