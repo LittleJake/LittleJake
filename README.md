@@ -4,12 +4,12 @@ Today is 06/10/2021.
 
 ### Hitokoto
 
-> 伤害别人的人，要有被别人伤害的觉悟。
+> 你再怎么称赞我，我也不会高兴的，你这个混蛋~
 > 
-> ——罪恶王冠
+> ——海贼王
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 18:28:18
+Autogen by LittleJake at 20:09:57
