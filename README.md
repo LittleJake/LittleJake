@@ -1,15 +1,15 @@
-Good evening work time!
+Good morning work time!
 
 Today is 06/10/2021.
 
 ### Hitokoto
 
-> 只要是人都是依靠自己的知识与认知并且被之束缚生活着的，那就叫做现实。但是知识与认知是模糊不清的东西，现实也许只是镜花水月，人都是活在自己的执念中的。
+> 听说，樱花花瓣飘落的速度，是每秒5厘米，思念的距离到底有多远。如果樱花下落时是有声音的，你会不会听到我对你的思念
 > 
-> ——火影忍者
+> ——秒速五厘米
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 04:26:39
+Autogen by LittleJake at 06:17:17
