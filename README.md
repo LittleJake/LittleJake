@@ -4,12 +4,12 @@ Today is 06/11/2021.
 
 ### Hitokoto
 
-> 窃人者，自失其宝。
+> 哥哥也可以喜欢上我之外的女孩子，但只有音梦是不可以的！
 > 
-> ——假面骑士kabuto
+> ——芳乃樱对朝仓纯
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 06:11:53
+Autogen by LittleJake at 08:11:03
