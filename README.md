@@ -1,15 +1,15 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 06/13/2021.
 
 ### Hitokoto
 
-> 寂寞的时候，就呼唤我的名字吧。
+> 也许正义并非太阳，而是如同星星一般的东西，天空中有无数的星星，彼此不断抵消着其他星星的光芒。
 > 
-> ——紫罗兰永恒花园外传
+> ——亚尔斯兰战纪
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 10:10:50
+Autogen by LittleJake at 12:13:55
