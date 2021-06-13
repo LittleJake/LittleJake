@@ -4,12 +4,12 @@ Today is 06/13/2021.
 
 ### Hitokoto
 
-> 喜欢的人喜欢别人不是很正常吗。
+> 当真心想要做成一件事的时候，人总是孤独的，必须孤身一人，相互依赖上就完了。
 > 
-> ——四月是你的谎言
+> ——魔女之旅
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 18:11:08
+Autogen by LittleJake at 20:09:34
