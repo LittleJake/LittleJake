@@ -4,12 +4,12 @@ Today is 06/14/2021.
 
 ### Hitokoto
 
-> Oh,please don't let me die. Waiting for your touch.
+> 花无凋零之时，爱无传达之期，爱情亘古不变，紫罗兰永世长存。
 > 
-> ——Re：从零开始的异世界生活
+> ——紫罗兰永恒花园
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 06:12:04
+Autogen by LittleJake at 08:11:07
