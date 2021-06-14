@@ -1,15 +1,15 @@
-Good afternoon work time!
+Good evening work time!
 
 Today is 06/14/2021.
 
 ### Hitokoto
 
-> 只要抗争下去就能带来奇迹，这是恐怖分子的教诲，你给我记清楚了。
+> 想象力足以改变一切。
 > 
-> ——未来日记
+> ——来自新世界
 
-![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 16:18:31
+Autogen by LittleJake at 18:11:49
