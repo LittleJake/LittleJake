@@ -4,12 +4,12 @@ Today is 06/15/2021.
 
 ### Hitokoto
 
-> 如果你一个人把什么都做完了，那我做什么？
+> 拿着刀并且可以让人们变得幸福的只有料理人。
 > 
-> ——元气少女缘结神
+> ——假面骑士kabuto
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 18:14:21
+Autogen by LittleJake at 20:09:49
