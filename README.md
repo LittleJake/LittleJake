@@ -4,12 +4,12 @@ Today is 06/17/2021.
 
 ### Hitokoto
 
-> 不管看到什么样的过去，都请不要迷失自己，不管你变成什么样子，我都是你的同伴。
+> 如果我们能活着出去，千山万水，你愿意陪我一起看吗？
 > 
-> ——angel beats
+> ——狐妖小红娘
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 02:30:44
+Autogen by LittleJake at 04:12:28
