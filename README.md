@@ -1,15 +1,15 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 06/17/2021.
 
 ### Hitokoto
 
-> 我们不是大人，而是同学吧。
+> 只要一天活著,难过的事总有一天会让你笑著说出来。
 > 
-> ——恋如雨止
+> ——天空之城
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 10:11:14
+Autogen by LittleJake at 12:14:41
