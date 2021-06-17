@@ -4,12 +4,12 @@ Today is 06/17/2021.
 
 ### Hitokoto
 
-> 你还是...笑起来...最棒了
+> 不管看到什么样的过去，都请不要迷失自己，不管你变成什么样子，我都是你的同伴。
 > 
-> ——最终幻想XIV
+> ——angel beats
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 00:31:30
+Autogen by LittleJake at 02:30:44
