@@ -1,15 +1,15 @@
-Good evening work time!
+Good morning work time!
 
 Today is 06/18/2021.
 
 ### Hitokoto
 
-> 清算，终将到来。
+> 万水千山，你愿意和我一起看吗？
 > 
-> ——Stellaris
+> ——狐妖小红娘
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 04:12:23
+Autogen by LittleJake at 06:11:59
