@@ -4,12 +4,12 @@ Today is 06/18/2021.
 
 ### Hitokoto
 
-> 孤独的人不会伤害别人，只会不断地伤害自己罢了。
+> 挡着在我们面前的是巨大庞然的人生，阻隔在我们中间的是广阔无际的时间，对于他们，我们无能为力……
 > 
-> ——我的青春恋爱物语果然有问题
+> ——秒速五厘米
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 08:11:21
+Autogen by LittleJake at 10:11:12
