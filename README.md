@@ -1,15 +1,15 @@
-Good morning work time!
+Good afternoon work time!
 
 Today is 06/18/2021.
 
 ### Hitokoto
 
-> 挡着在我们面前的是巨大庞然的人生，阻隔在我们中间的是广阔无际的时间，对于他们，我们无能为力……
+> 人就是要以自卑为跳板才能跳得更高。
 > 
-> ——秒速五厘米
+> ——银魂
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good afternoon work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 10:11:12
+Autogen by LittleJake at 12:14:21
