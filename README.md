@@ -4,12 +4,12 @@ Today is 06/19/2021.
 
 ### Hitokoto
 
-> 死亡不是终点，被遗忘才是。
+> 聚拢，成形，捻转，回绕，时而返回，暂歇，再联结。这就是组纽。这就是时间。这就是，联结
 > 
-> ——寻梦环游记
+> ——你的名字
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 18:10:43
+Autogen by LittleJake at 20:09:46
