@@ -1,15 +1,15 @@
 Good evening work time!
 
-Today is 06/18/2021.
+Today is 06/19/2021.
 
 ### Hitokoto
 
-> 那么难受，那么痛苦，可是 世界这么美丽...让我如何能够忘记！
+> Oh,please don't let me die. Waiting for your touch.
 > 
-> ——朝花夕誓
+> ——Re：从零开始的异世界生活
 
-![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png)
+![Good evening work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 22:10:02
+Autogen by LittleJake at 00:31:58
