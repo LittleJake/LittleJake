@@ -4,12 +4,12 @@ Today is 06/20/2021.
 
 ### Hitokoto
 
-> 美丽的不是这个世界，而是接受了这个世界的你的眼睛。
+> 今日的余晖和你最后那天给我的拥抱，同一个温度
 > 
-> ——吸血鬼骑士
+> ——Myself
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 08:10:29
+Autogen by LittleJake at 10:10:50
