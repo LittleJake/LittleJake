@@ -4,12 +4,12 @@ Today is 06/20/2021.
 
 ### Hitokoto
 
-> 我不相信人类......但是，我相信人类的“可能性”
+> 美丽的不是这个世界，而是接受了这个世界的你的眼睛。
 > 
-> ——游戏人生
+> ——吸血鬼骑士
 
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png)
+![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 06:11:40
+Autogen by LittleJake at 08:10:29
