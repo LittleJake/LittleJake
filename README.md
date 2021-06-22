@@ -1,15 +1,15 @@
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+
 Good morning work time!
 
 Today is 06/22/2021.
 
 ### Hitokoto
 
-> 我不是天生的王者 但我骨子里流动着不让我低头的血液
+> 真真需要记住的不是立华奏，而是天使身体里跳动的那颗永不结弦之心。
 > 
-> ——海贼王
-
-![Good morning work time](https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png)
+> ——天使的心跳
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 06:12:15
+Autogen by LittleJake at 08:11:15
