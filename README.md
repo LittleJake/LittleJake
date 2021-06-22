@@ -6,10 +6,10 @@ Today is 06/22/2021.
 
 ### Hitokoto
 
-> 爱迪生说过：“要把BOSS打倒就要准备足够的等级。”
+> 人只会看到自己想看到的、听到自己想听到的，我也并不例外。
 > 
-> ——学生会的一己之见
+> ——我的青春恋爱物语果然有问题
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 20:10:05
+Autogen by LittleJake at 22:10:28
