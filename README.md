@@ -6,10 +6,10 @@ Today is 06/23/2021.
 
 ### Hitokoto
 
-> 奇迹不是免费的，如果你祈求了希望，也会散播出同等的绝望。
+> 活下去的意志是最强的力量！
 > 
-> ——魔法少女小圆
+> ——浪客剑心
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 18:10:43
+Autogen by LittleJake at 20:09:21
