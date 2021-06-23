@@ -1,15 +1,15 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 06/22/2021.
+Today is 06/23/2021.
 
 ### Hitokoto
 
-> 人只会看到自己想看到的、听到自己想听到的，我也并不例外。
+> 这虽然这是游戏，但可不是闹着玩的。
 > 
-> ——我的青春恋爱物语果然有问题
+> ——刀剑神域
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 22:10:28
+Autogen by LittleJake at 00:30:49
