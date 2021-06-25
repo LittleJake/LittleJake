@@ -2,14 +2,14 @@
 
 Good evening work time!
 
-Today is 06/24/2021.
+Today is 06/25/2021.
 
 ### Hitokoto
 
-> 我会跟她结婚，并不是因为她是计算机，而是因为她就是她。同样的，我会喜欢你，也是因为你就是你。
+> 我除了投三分，就什么都没有了…
 > 
-> ——人型电脑天使心
+> ——灌篮高手
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 22:09:57
+Autogen by LittleJake at 00:35:31
