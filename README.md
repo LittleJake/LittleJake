@@ -6,10 +6,10 @@ Today is 06/26/2021.
 
 ### Hitokoto
 
-> 真相只有一个！
+> 我们走过风走过雨，就是没能走进彼此的内心。
 > 
-> ——柯南
+> ——自分
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 14:08:22
+Autogen by LittleJake at 16:13:57
