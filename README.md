@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,10 +6,10 @@ Today is 06/26/2021.
 
 ### Hitokoto
 
-> 波，高低起伏的东西；波，产生后开始扩散；波，自己无法抵抗的东西。
+> 真相只有一个！
 > 
-> ——四月一日灵异事件薄
+> ——柯南
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 12:13:57
+Autogen by LittleJake at 14:08:22
