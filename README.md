@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,10 +6,10 @@ Today is 06/26/2021.
 
 ### Hitokoto
 
-> 大家即将各自展开旅程，挥别这个没落的城镇。
+> 我想成为一个温柔的人,因为曾被温柔的人那样对待,深深了解那种被温柔相待的感觉。
 > 
-> ——仰望半月的夜空
+> ——夏目友人帐
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 00:31:06
+Autogen by LittleJake at 02:21:46
