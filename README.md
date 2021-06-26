@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,10 +6,10 @@ Today is 06/26/2021.
 
 ### Hitokoto
 
-> 我想成为一个温柔的人,因为曾被温柔的人那样对待,深深了解那种被温柔相待的感觉。
+> 其实我对混合咖啡还是很有自信的
 > 
-> ——夏目友人帐
+> ——珈百璃的堕落
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 02:21:46
+Autogen by LittleJake at 04:12:26
