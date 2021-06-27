@@ -1,15 +1,15 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 06/27/2021.
 
 ### Hitokoto
 
-> 没有什么背叛，只不过是忠诚过期了而已。
+> 有些事情我不看透，不是我笨，只是我太善良。
 > 
-> ——凹凸世界
+> ——樱桃小丸子
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 16:13:59
+Autogen by LittleJake at 18:11:23
