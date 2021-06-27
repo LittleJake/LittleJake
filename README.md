@@ -6,10 +6,10 @@ Today is 06/27/2021.
 
 ### Hitokoto
 
-> 有些事情我不看透，不是我笨，只是我太善良。
+> 为了传达不到的思念而苦恼，只会感到痛不欲生。
 > 
-> ——樱桃小丸子
+> ——WHITE FIRST LOVE
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 18:11:23
+Autogen by LittleJake at 20:09:23
