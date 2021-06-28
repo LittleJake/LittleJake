@@ -6,10 +6,10 @@ Today is 06/28/2021.
 
 ### Hitokoto
 
-> 我的眼睛，就是为了寻找你而存在的。
+> 人们只是用好人来称呼对自己有用的人而以，不存在对所有人都有用的人
 > 
-> ——H2O
+> ——进击的巨人
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 18:21:32
+Autogen by LittleJake at 20:09:43
