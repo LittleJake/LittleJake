@@ -1,15 +1,15 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 06/28/2021.
 
 ### Hitokoto
 
-> 当敌人变成战友多半是为了生存，而战友变成敌人多半是为了金钱。
+> 我的眼睛，就是为了寻找你而存在的。
 > 
-> ——端脑
+> ——H2O
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 16:18:06
+Autogen by LittleJake at 18:21:32
