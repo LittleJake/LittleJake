@@ -6,10 +6,10 @@ Today is 06/29/2021.
 
 ### Hitokoto
 
-> 今天的风儿有些喧嚣啊。
+> 哪怕是打断你的手脚，也要把你带回去。
 > 
-> ——男子高中生的日常
+> ——火影忍者
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 00:32:08
+Autogen by LittleJake at 02:24:10
