@@ -6,10 +6,10 @@ Today is 06/29/2021.
 
 ### Hitokoto
 
-> 有的只是很简单的唯一的思想…只此一个！“胜利然后支配”！仅此而已...这才是我唯一的满足感！…至于过程和方法之类…并不重要！
+> 正义不是行使武力的理由，而是正相反——为了将动武的理由正当化，人们才会高喊正义。
 > 
-> ——JOJO的奇妙冒险
+> ——末日时在做什么？有没有空？可以来拯救吗？
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 06:12:39
+Autogen by LittleJake at 08:11:17
