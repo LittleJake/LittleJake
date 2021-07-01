@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,10 +6,10 @@ Today is 07/01/2021.
 
 ### Hitokoto
 
-> 等着我，有马，不对，别回头，向前进，你要一直向前，我一定会追上来的。
+> 人生最糟糕的事，一个是饿肚子，一个是孤独。
 > 
-> ——四月是你的谎言
+> ——夏日大作战
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 00:34:19
+Autogen by LittleJake at 02:24:18
