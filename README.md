@@ -6,10 +6,10 @@ Today is 07/01/2021.
 
 ### Hitokoto
 
-> 如果真是这样， 就由我来把彭格列毁灭！
+> 我，将某个人，唯一的某个人，试图锁定。我，
 > 
-> ——家庭教师
+> ——你的名字
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 12:15:50
+Autogen by LittleJake at 14:08:45
