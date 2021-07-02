@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,10 +6,10 @@ Today is 07/02/2021.
 
 ### Hitokoto
 
-> “如果我不在了，你会怎样？” “我会去找你” “如果找不见呢？” “我会一直，一直，一直找下去”
+> 坐上与学校相反方向的电车，展开没有目标的旅行，去往那从未见过的地方
 > 
-> ——人鱼森林
+> ——比宇宙更远的地方
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 18:10:27
+Autogen by LittleJake at 20:10:21
