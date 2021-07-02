@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,10 +6,10 @@ Today is 07/02/2021.
 
 ### Hitokoto
 
-> 你的败因只有一个，就是与我为敌。 ­
+> 大国战争之后还会繁荣富强，而只有小国涂炭遭殃，让世界感受痛苦吧。
 > 
-> ——家庭教师
+> ——火影忍者
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 06:10:25
+Autogen by LittleJake at 08:11:27
