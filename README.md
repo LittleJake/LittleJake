@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,10 +6,10 @@ Today is 07/02/2021.
 
 ### Hitokoto
 
-> 取少量学生放入试管，加入过量作业，生成学霸溶液和不溶于水的学渣。过滤，在学渣中加入过量浓试卷，学渣迅速溶解且产生气泡，学霸则无明显现象。
+> 有的只是很简单的唯一的思想…只此一个！“胜利然后支配”！仅此而已...这才是我唯一的满足感！…至于过程和方法之类…并不重要！
 > 
-> ——网络
+> ——JOJO的奇妙冒险
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 14:08:51
+Autogen by LittleJake at 16:16:26
