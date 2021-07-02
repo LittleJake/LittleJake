@@ -6,10 +6,10 @@ Today is 07/02/2021.
 
 ### Hitokoto
 
-> 於此漆黑世界之中，直至光明遍地之时！All Hail Lelouch！
+> 只要能和大家一起唱歌，大概就算毕业以后我们分开了，只要听见这首歌就能回想起现在。
 > 
-> ——反叛的鲁路修
+> ——TARI TARI
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 00:31:49
+Autogen by LittleJake at 02:22:54
