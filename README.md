@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,10 +6,10 @@ Today is 07/03/2021.
 
 ### Hitokoto
 
-> 成一事者，是失之不渝的愚者；毁一事者，是停滞不前的贤者。
+> 一个人吃饭，太寂寞了。
 > 
-> ——不正经的魔法讲师
+> ——无头骑士异闻录
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 14:08:14
+Autogen by LittleJake at 16:13:54
