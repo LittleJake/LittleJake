@@ -6,10 +6,10 @@ Today is 07/03/2021.
 
 ### Hitokoto
 
-> 喜欢上一个人就是变得束手无策。
+> 'Cause rainbow won't light up the sky unless you let it rain.
 > 
-> ——悠久之翼2
+> ——My Little Pony: Friendship is Magic
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 06:11:57
+Autogen by LittleJake at 08:10:39
