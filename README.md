@@ -6,10 +6,10 @@ Today is 07/04/2021.
 
 ### Hitokoto
 
-> 喜欢上你，爱上你，真是太好了，谢谢。
+> 正因生来一无所有，因此我们能拥有一切。
 > 
-> ——龙虎斗
+> ——游戏人生
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 18:11:05
+Autogen by LittleJake at 20:09:33
