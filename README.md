@@ -6,10 +6,10 @@ Today is 07/04/2021.
 
 ### Hitokoto
 
-> 一个人觉得寂寞，和另一个人相互依偎又有什么错
+> 这个世界对温柔的你可一点也不温柔呀。
 > 
-> ——人渣的本愿
+> ——军火女王
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 02:20:09
+Autogen by LittleJake at 04:12:31
