@@ -6,10 +6,10 @@ Today is 07/05/2021.
 
 ### Hitokoto
 
-> 我不相信人类......但是，我相信人类的“可能性”
+> 这也算是一条路啊，或许这样会更加幸福一些。
 > 
-> ——游戏人生
+> ——半妖的夜叉姬
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 08:11:35
+Autogen by LittleJake at 10:10:46
