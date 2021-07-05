@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,10 +6,10 @@ Today is 07/05/2021.
 
 ### Hitokoto
 
-> 如果你愿意的话，让我带您去吧，这座小镇，愿望实现的地方……
+> 就连一直都无容身之地的我……也不是可以任意舍弃的生命。
 > 
-> ——CLANNAD
+> ——夏目友人帐
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 12:15:12
+Autogen by LittleJake at 14:08:58
