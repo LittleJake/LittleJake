@@ -6,10 +6,10 @@ Today is 07/07/2021.
 
 ### Hitokoto
 
-> 和我定下契约，成为魔法少女吧！
+> 不能输，笑吧！
 > 
-> ——魔法少女小圆
+> ——约定的梦幻岛
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 20:10:06
+Autogen by LittleJake at 22:09:34
