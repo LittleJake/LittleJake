@@ -6,10 +6,10 @@ Today is 07/07/2021.
 
 ### Hitokoto
 
-> El Psy Congroo..
+> Oh,please don't let me die. Waiting for your touch.
 > 
-> ——命运石之门
+> ——Re：从零开始的异世界生活
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 08:11:26
+Autogen by LittleJake at 10:11:14
