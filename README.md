@@ -6,10 +6,10 @@ Today is 07/07/2021.
 
 ### Hitokoto
 
-> 笨蛋吉娃娃（バカチワワ）
+> 我们都很执着,而且思念的越深,越是绝望。
 > 
-> ——逢坂大河
+> ——人渣的本愿
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 12:15:00
+Autogen by LittleJake at 14:09:59
