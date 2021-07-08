@@ -6,10 +6,10 @@ Today is 07/08/2021.
 
 ### Hitokoto
 
-> 爸爸，妈妈，对不起，我，要去了！
+> 失礼、噛みました
 > 
-> ——机动战士高达独角兽
+> ——化物语
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 02:23:26
+Autogen by LittleJake at 04:12:17
