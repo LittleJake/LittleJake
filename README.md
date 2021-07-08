@@ -6,10 +6,10 @@ Today is 07/08/2021.
 
 ### Hitokoto
 
-> 梦想是什么，梦想是现实的延续；现实是什么，现实是梦想的终结。
+> 旅行唯有出发前最愉快，狗儿唯有叫声最吓人，女人唯有背影最美丽。
 > 
-> ——EVA
+> ——狼与香辛料
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 08:11:12
+Autogen by LittleJake at 10:10:54
