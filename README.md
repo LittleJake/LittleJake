@@ -6,10 +6,10 @@ Today is 07/08/2021.
 
 ### Hitokoto
 
-> 神啊，求求你。已经足够了。已经没事了。我们都会熬过去的。
+> 爸爸，妈妈，对不起，我，要去了！
 > 
-> ——天气之子
+> ——机动战士高达独角兽
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 00:31:04
+Autogen by LittleJake at 02:23:26
