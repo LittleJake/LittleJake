@@ -6,10 +6,10 @@ Today is 07/08/2021.
 
 ### Hitokoto
 
-> 经为流逝的日月。纬为人们的生业。
+> 没有期盼就不会出现奇迹。
 > 
-> ——朝花夕誓
+> ——古城荆棘王
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 18:11:50
+Autogen by LittleJake at 20:10:05
