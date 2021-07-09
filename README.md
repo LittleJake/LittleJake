@@ -6,10 +6,10 @@ Today is 07/09/2021.
 
 ### Hitokoto
 
-> 为什么要称赞他人？那是为了把对方捧到更高的地方更容易绊他的脚，为了把他从高处摔下来。这就叫做称赞杀人法。
+> 整个社会对我都很苛刻。所以至少让我自己宽容一下我自己吧。如果大家都对自己更宽容一点的话。大家都变成废柴就没有废柴了。
 > 
-> ——我的青春恋爱物语果然有问题
+> ——果然我的青春恋爱喜剧搞错了
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 08:11:12
+Autogen by LittleJake at 10:10:39
