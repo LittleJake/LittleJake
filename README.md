@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,10 +6,10 @@ Today is 07/11/2021.
 
 ### Hitokoto
 
-> 喂，前面可是地狱啊！おい、この先は地狱だぜ！
+> 你的败因只有一个，就是与我为敌。 ­
 > 
-> ——Fate/stay night
+> ——家庭教师
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 08:10:48
+Autogen by LittleJake at 10:10:12
