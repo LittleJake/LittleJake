@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,10 +6,10 @@ Today is 07/12/2021.
 
 ### Hitokoto
 
-> 没有偶然的必然，只有必然的偶然
+> 隐约雷鸣，阴霾天空，即使天无雨，我亦留此地。
 > 
-> ——魔卡少女樱
+> ——言叶之庭
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 06:12:52
+Autogen by LittleJake at 08:11:26
