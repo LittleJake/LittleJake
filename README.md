@@ -6,10 +6,10 @@ Today is 07/12/2021.
 
 ### Hitokoto
 
-> 笨蛋吉娃娃（バカチワワ）
+> 最初的一步，泪水之后再一次，雕刻的风景线，消逝在黄昏中的风，直到梦的最后。
 > 
-> ——逢坂大河
+> ——Clannad
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 02:20:47
+Autogen by LittleJake at 04:12:44
