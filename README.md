@@ -6,10 +6,10 @@ Today is 07/13/2021.
 
 ### Hitokoto
 
-> 千山万水，因你不过毫厘
+> 今后我们来度过满是愉快之事的人生吧
 > 
-> ——狐妖小红娘
+> ——Charlotte
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 12:16:22
+Autogen by LittleJake at 14:08:50
