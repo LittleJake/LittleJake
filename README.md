@@ -6,10 +6,10 @@ Today is 07/14/2021.
 
 ### Hitokoto
 
-> 你就赌我会死吧，因为你逢赌必输。
+> 无论发生什么都不要停下。无论到什么时候都要继续前进。 要一直走下去，直到生命终止的那一刻。
 > 
-> ——火影忍者
+> ——驱魔少年
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 20:09:57
+Autogen by LittleJake at 22:09:31
