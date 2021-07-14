@@ -6,10 +6,10 @@ Today is 07/14/2021.
 
 ### Hitokoto
 
-> 真正重要的东西，永远都是非常简单的。
+> 世界上没有一成不变的事物，所以只要以其他方式找到自己的快乐就行了。
 > 
-> ——Clannad
+> ——CLANNAD
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 12:15:21
+Autogen by LittleJake at 14:08:48
