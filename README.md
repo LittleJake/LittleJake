@@ -6,10 +6,10 @@ Today is 07/14/2021.
 
 ### Hitokoto
 
-> 忘记本身就是一件不可能的事。
+> 没有什么背叛，只不过是忠诚过期了而已。
 > 
-> ——我们的存在
+> ——凹凸世界
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 02:20:33
+Autogen by LittleJake at 04:12:28
