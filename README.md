@@ -1,15 +1,15 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 07/14/2021.
 
 ### Hitokoto
 
-> 我这个人呀，能过着这样平凡普通的日子就很开心了。
+> 真正重要的东西，永远都是非常简单的。
 > 
-> ——我想吃掉你的胰脏
+> ——Clannad
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 10:10:49
+Autogen by LittleJake at 12:15:21
