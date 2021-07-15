@@ -6,10 +6,10 @@ Today is 07/15/2021.
 
 ### Hitokoto
 
-> 好红，每当想起你，枫叶就会被染红。
+> 一定要保护自己的梦想，即使牺牲一切。
 > 
-> ——银仙
+> ——NANA
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 20:10:09
+Autogen by LittleJake at 22:09:31
