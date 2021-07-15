@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,10 +6,10 @@ Today is 07/15/2021.
 
 ### Hitokoto
 
-> 只要怀着理想而行动，就算结果不尽如人意也没有关系。但是如果失去了理想，那就真的一无所有了，连自己珍视的人都保护不了。
+> 我活在我的时间里，她活在她的时间里，因此，我们时间交错的瞬间，对我而言比任何事物都宝贵。
 > 
-> ——境界的彼方
+> ——她与她的猫
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 00:32:27
+Autogen by LittleJake at 02:23:06
