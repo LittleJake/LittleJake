@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,10 +6,10 @@ Today is 07/15/2021.
 
 ### Hitokoto
 
-> 人，只有在放弃战斗的时候才算输，只要坚持战斗，就还没输！
+> 向天空拼命伸出的双手，发射那么巨大的东西，只是为了寻找超出想象的彼岸所存在的东西。
 > 
-> ——进击的巨人
+> ——秒速五厘米
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 08:11:16
+Autogen by LittleJake at 10:11:14
