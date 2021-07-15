@@ -6,10 +6,10 @@ Today is 07/15/2021.
 
 ### Hitokoto
 
-> 悲痛的事，温柔以对；难过的事，坚强以对。
+> 人，只有在放弃战斗的时候才算输，只要坚持战斗，就还没输！
 > 
-> ——朝花夕誓
+> ——进击的巨人
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 06:12:26
+Autogen by LittleJake at 08:11:16
