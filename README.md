@@ -6,10 +6,10 @@ Today is 07/16/2021.
 
 ### Hitokoto
 
-> 不可结缘
+> 共道人间惆怅事，不知今夕是何年。
 > 
-> ——夏目友人帐
+> ——周秦行纪
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 14:08:56
+Autogen by LittleJake at 16:15:02
