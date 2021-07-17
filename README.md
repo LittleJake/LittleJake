@@ -6,10 +6,10 @@ Today is 07/17/2021.
 
 ### Hitokoto
 
-> 人的一生会遭遇各种各样的事，其中有令人难以置信的事，也有不讲道理的事，但这就是生活。
+> 爱迪生说过：“要把BOSS打倒就要准备足够的等级。”
 > 
-> ——地狱少女
+> ——学生会的一己之见
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 14:08:30
+Autogen by LittleJake at 16:14:14
