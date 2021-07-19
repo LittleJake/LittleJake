@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,10 +6,10 @@ Today is 07/19/2021.
 
 ### Hitokoto
 
-> 喜欢和不讨厌之间可是有着数亿光年的距离的。
+> 追寻只是因为无法抓获，想要触碰，只是因为知道自己触碰不到。
 > 
-> ——四月是你的谎言
+> ——FLCL Progressive
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 20:09:56
+Autogen by LittleJake at 22:09:33
