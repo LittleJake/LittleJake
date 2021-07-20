@@ -6,10 +6,10 @@ Today is 07/20/2021.
 
 ### Hitokoto
 
-> 这个世界啊，很美丽的，很广大的，很辽阔的！
+> 一旦失去的东西，就再也拿不回来了。
 > 
-> ——Darling in the FRANXX
+> ——黑执事
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 12:15:13
+Autogen by LittleJake at 14:08:45
