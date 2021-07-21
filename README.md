@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,10 +6,10 @@ Today is 07/21/2021.
 
 ### Hitokoto
 
-> 端木熙，别忘了，你是我的祭司，谁也别来跟我争，他神龙章轩不可以，神也不行。
+> 不管是怎样的回忆，都是我们活过的人生。
 > 
-> ——灵契
+> ——Angel Beats!
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 18:11:35
+Autogen by LittleJake at 20:11:11
