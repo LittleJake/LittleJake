@@ -6,10 +6,10 @@ Today is 07/23/2021.
 
 ### Hitokoto
 
-> 你在那么美丽的地方，纯属奇迹般的偶然。
+> 坐上与学校相反方向的电车，展开没有目标的旅行，去往那从未见过的地方
 > 
-> ——理科生坠入情网故尝试证明
+> ——比宇宙更远的地方
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 02:24:11
+Autogen by LittleJake at 04:14:09
