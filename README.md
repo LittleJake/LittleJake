@@ -6,10 +6,10 @@ Today is 07/23/2021.
 
 ### Hitokoto
 
-> 明天，不是你想要就能有的。
+> 正因为这样，我才决定任何时候都要尽全力享受人生，这样的话，无论什么时候死去，都是最幸福的一生了吧
 > 
-> ——未闻花名
+> ——恋爱随意链接
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 06:12:41
+Autogen by LittleJake at 08:11:35
