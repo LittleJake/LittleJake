@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,10 +6,10 @@ Today is 07/25/2021.
 
 ### Hitokoto
 
-> 被一个自己不感兴趣的人示好，你不觉得没有比这更恶心的事吗
+> MAKE OUR DREAMS ALIVE
 > 
-> ——人渣的本愿
+> ——ラブライブ！
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 08:10:55
+Autogen by LittleJake at 10:10:31
