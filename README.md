@@ -6,10 +6,10 @@ Today is 07/25/2021.
 
 ### Hitokoto
 
-> 未来的事无人知晓，所以它才如同这重逢一般，拥有着无限的可能性。
+> 什么叫忍者？学会忍耐的人就叫忍者。
 > 
-> ——命运石之门
+> ——哔哩哔哩
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 00:32:50
+Autogen by LittleJake at 02:22:30
