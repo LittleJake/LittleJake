@@ -6,10 +6,10 @@ Today is 07/30/2021.
 
 ### Hitokoto
 
-> 所谓爱情，是对对自己最重要的人，以慈悲的心保护他的想法。
+> 人在直面恐惧的时候，自身的灵魂将会受到考验。降生于这世界，究竟有何所求，要成何事，其本性会暴露无遗。
 > 
-> ——火影忍者
+> ——PSYCHO-PASS
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 20:10:00
+Autogen by LittleJake at 22:09:36
