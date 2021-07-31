@@ -6,10 +6,10 @@ Today is 07/31/2021.
 
 ### Hitokoto
 
-> 正因为不会发生，人们才称它为”奇迹“
+> 看似美好的东西，往往藏着陷阱。
 > 
-> ——KANON
+> ——只有神知道的世界
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 06:11:55
+Autogen by LittleJake at 08:10:51
