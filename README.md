@@ -6,10 +6,10 @@ Today is 08/01/2021.
 
 ### Hitokoto
 
-> 在末日中，人们总想寻找希望，但要真有希望的话，那还叫末日吗？
+> 哭泣并不能改变任何事情。
 > 
-> ——灵笼
+> ——推理之绊
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 06:12:07
+Autogen by LittleJake at 08:10:56
