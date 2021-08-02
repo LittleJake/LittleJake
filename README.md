@@ -6,10 +6,10 @@ Today is 08/02/2021.
 
 ### Hitokoto
 
-> 忍者的才能不在于所掌握忍术的多少，而在于永不放弃的毅力.笔直向前绝不违背自己的誓言，还有不管何时都不放弃.
+> 润滑油是用来防止磨损的东西。在心中有着润滑油也会活得更加轻松吧。
 > 
-> ——火影忍者
+> ——果然我的青春恋爱喜剧搞错了
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 08:11:37
+Autogen by LittleJake at 10:10:50
