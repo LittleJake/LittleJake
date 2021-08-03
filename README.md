@@ -6,10 +6,10 @@ Today is 08/03/2021.
 
 ### Hitokoto
 
-> 就是因为你不好，才要留在你身边，给你幸福。
+> 笨蛋、笨蛋！
 > 
-> ——哈尔的移动城堡
+> ——星野琉璃
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 18:11:45
+Autogen by LittleJake at 20:11:59
