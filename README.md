@@ -6,10 +6,10 @@ Today is 08/03/2021.
 
 ### Hitokoto
 
-> 就算世界终结，也无所谓
+> 相信十年后的八月，我们还会相遇。
 > 
-> ——少女终末旅行
+> ——未闻花名
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 02:27:30
+Autogen by LittleJake at 04:12:47
