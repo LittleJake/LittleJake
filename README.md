@@ -6,10 +6,10 @@ Today is 08/04/2021.
 
 ### Hitokoto
 
-> 有时语言就像把利刃，使用不当，就会成为凶器。
+> 而我不知不觉把自己遗忘，只想为你完成那个梦想。
 > 
-> ——名侦探柯南
+> ——狐妖小红娘
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 00:32:12
+Autogen by LittleJake at 02:24:38
