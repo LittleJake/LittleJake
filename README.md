@@ -1,15 +1,15 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 08/05/2021.
 
 ### Hitokoto
 
-> 我会欺骗你，欺骗世界，欺骗自己。
+> 我们即使发了一千次短信，心与心之间大概也只能靠近1厘米。
 > 
-> ——Princess Principle
+> ——秒速五厘米
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 10:10:56
+Autogen by LittleJake at 12:15:44
