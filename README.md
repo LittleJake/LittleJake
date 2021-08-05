@@ -6,10 +6,10 @@ Today is 08/05/2021.
 
 ### Hitokoto
 
-> 人不能一个人活下去，不需要任何人的孤独和需要人但得不到的孤独是不一样的。
+> 为了传达不到的思念而苦恼，只会感到痛不欲生。
 > 
-> ——邻座的怪同学
+> ——WHITE FIRST LOVE
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 14:30:42
+Autogen by LittleJake at 16:15:09
