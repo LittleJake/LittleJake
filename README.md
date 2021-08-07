@@ -1,15 +1,15 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 08/07/2021.
 
 ### Hitokoto
 
-> 大家都是伪善者，世间充斥着不真实。
+> 死亡只要在人生的终点尝试一次就够了~
 > 
-> ——无头骑士异闻录
+> ——Re：从零开始的异世界生活
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 04:12:28
+Autogen by LittleJake at 06:11:57
