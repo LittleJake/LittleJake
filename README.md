@@ -6,10 +6,10 @@ Today is 08/08/2021.
 
 ### Hitokoto
 
-> 喜欢的人喜欢别人不是很正常吗。
+> 死亡的尽头，没有神
 > 
-> ——四月是你的谎言
+> ——机动战士高达00:先驱者的觉醒
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 20:10:00
+Autogen by LittleJake at 22:09:08
