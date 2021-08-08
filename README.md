@@ -6,10 +6,10 @@ Today is 08/08/2021.
 
 ### Hitokoto
 
-> 美丽的不是这个世界，而是看世界的你的眼神。
+> 旅行唯有出发前最愉快，狗儿唯有叫声最吓人，女人唯有背影最美丽。
 > 
-> ——吸血鬼骑士
+> ——狼与香辛料
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 00:33:43
+Autogen by LittleJake at 02:20:17
