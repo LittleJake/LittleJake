@@ -1,15 +1,15 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 08/08/2021.
+Today is 08/09/2021.
 
 ### Hitokoto
 
-> 死亡的尽头，没有神
+> 不能逃避，不能逃避，不能逃避，不能逃避…
 > 
-> ——机动战士高达00:先驱者的觉醒
+> ——EVA
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 22:09:08
+Autogen by LittleJake at 00:35:35
