@@ -6,10 +6,10 @@ Today is 08/09/2021.
 
 ### Hitokoto
 
-> 和我定下契约，成为魔法少女吧！
+> 可是就算我们通一千次短信，我们各自的心，大概也只会相互靠近一厘米吧。
 > 
-> ——魔法少女小圆
+> ——秒速5厘米
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 14:09:08
+Autogen by LittleJake at 16:15:10
