@@ -6,10 +6,10 @@ Today is 08/09/2021.
 
 ### Hitokoto
 
-> 因为等待的越久，重逢时就越幸福啊。
+> 遇到事情不能坐以待毙。
 > 
-> ——名侦探柯南
+> ——捷德奥特曼
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 06:12:29
+Autogen by LittleJake at 08:11:35
