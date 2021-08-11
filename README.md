@@ -1,15 +1,15 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 08/10/2021.
+Today is 08/11/2021.
 
 ### Hitokoto
 
-> 错的不是我，错的是这个世界。
+> 这个地方的人们，就是我战斗的理由。
 > 
-> ——东京食尸鬼
+> ——战翼的希格德莉法
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 22:43:57
+Autogen by LittleJake at 00:37:54
