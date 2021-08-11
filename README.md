@@ -6,10 +6,10 @@ Today is 08/11/2021.
 
 ### Hitokoto
 
-> 将愿望倾入不愿忘却的回忆中…
+> 没有一个世界会比活在这个世界痛苦
 > 
-> ——ef-a tale of memories
+> ——黑岩射手
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 08:11:28
+Autogen by LittleJake at 10:11:56
