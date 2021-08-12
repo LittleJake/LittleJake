@@ -6,10 +6,10 @@ Today is 08/12/2021.
 
 ### Hitokoto
 
-> 人类的赞歌就是勇气的赞歌！
+> 世界は恋に落ちている。
 > 
-> ——JOJO的奇妙冒险
+> ——青春之旅OP（我的世界已坠入爱河）
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 12:15:46
+Autogen by LittleJake at 14:09:27
