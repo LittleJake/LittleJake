@@ -6,10 +6,10 @@ Today is 08/13/2021.
 
 ### Hitokoto
 
-> 无法飞翔的翅膀也是有意义的，因为它是曾经翱翔于天空所留下的珍贵回忆。
+> 无论最终的结果是什么，只要这是自己选择的道路。
 > 
-> ——AIR
+> ——龙与虎
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 18:11:35
+Autogen by LittleJake at 20:10:31
