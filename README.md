@@ -2,14 +2,14 @@
 
 Good evening work time!
 
-Today is 08/12/2021.
+Today is 08/13/2021.
 
 ### Hitokoto
 
-> 无可替代的存在什么的不是很可怕吗？一旦失去就再也无法取回；绝对不能容忍失败；无法再一次得到。
+> 我也许能再一次找到活着的目的，也许能再一次找到活着的意义，为了那些人，奉献出我的人生的话……
 > 
-> ——果然我的青春恋爱喜剧搞错了
+> ——Angelbeats
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 22:09:48
+Autogen by LittleJake at 00:35:39
