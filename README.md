@@ -6,10 +6,10 @@ Today is 08/14/2021.
 
 ### Hitokoto
 
-> 你一直相信的事，也让我相信吧。活着，是件美好的事。
+> 我喜欢你，比世界上任何人都喜欢你。
 > 
-> ——Angle Beats
+> ——名侦探柯南
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 20:09:52
+Autogen by LittleJake at 22:09:34
