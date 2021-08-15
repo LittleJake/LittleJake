@@ -1,15 +1,15 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 08/15/2021.
 
 ### Hitokoto
 
-> 我连宇宙尽头在哪里都不知道，怎么会知道这个。
+> 一个人决定寂寞，和另一个人相互依偎又有什么错
 > 
-> ——JOJO的奇妙冒险
+> ——人渣的本愿
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 10:10:23
+Autogen by LittleJake at 12:14:38
