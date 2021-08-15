@@ -6,10 +6,10 @@ Today is 08/15/2021.
 
 ### Hitokoto
 
-> 胜而不灭，霸而不辱，这才是真正的征服。
+> 我连宇宙尽头在哪里都不知道，怎么会知道这个。
 > 
-> ——fate zero
+> ——JOJO的奇妙冒险
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 08:11:16
+Autogen by LittleJake at 10:10:23
