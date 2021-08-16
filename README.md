@@ -6,10 +6,10 @@ Today is 08/16/2021.
 
 ### Hitokoto
 
-> 我手里拿着刀，没法抱你，我放下刀，没法保护你！
+> 即使你已经习惯了受伤害，也有人看了会心疼的。
 > 
-> ——死神
+> ——我的恋爱物语果然有问题
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 14:22:07
+Autogen by LittleJake at 16:16:16
