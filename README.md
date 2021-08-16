@@ -1,15 +1,15 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 08/16/2021.
 
 ### Hitokoto
 
-> 一直保持微笑是有诀窍的，那就是，在想哭的时候放声大哭。
+> 关于自己的生活，我和你都不是读者，而是作者。至少结局，还是能自己说了算的。
 > 
-> ——天使领域
+> ——银魂
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 10:11:15
+Autogen by LittleJake at 12:19:15
