@@ -6,10 +6,10 @@ Today is 08/16/2021.
 
 ### Hitokoto
 
-> 关于自己的生活，我和你都不是读者，而是作者。至少结局，还是能自己说了算的。
+> 我手里拿着刀，没法抱你，我放下刀，没法保护你！
 > 
-> ——银魂
+> ——死神
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 12:19:15
+Autogen by LittleJake at 14:22:07
