@@ -6,10 +6,10 @@ Today is 08/17/2021.
 
 ### Hitokoto
 
-> 即便我弱了，也并不代表你强了。
+> 只要努力活下去，总有一天会笑着回忆。
 > 
-> ——魔法禁书目录
+> ——不可思议游戏
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 06:12:23
+Autogen by LittleJake at 08:11:44
