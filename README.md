@@ -6,10 +6,10 @@ Today is 08/17/2021.
 
 ### Hitokoto
 
-> 那里还有——医生的房间啊！
+> 她有心，她的心在我这里。
 > 
-> ——Fate / Grand Order
+> ——人形电脑天使心
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 20:10:49
+Autogen by LittleJake at 22:10:07
