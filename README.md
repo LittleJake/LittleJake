@@ -6,10 +6,10 @@ Today is 08/19/2021.
 
 ### Hitokoto
 
-> 有些景色必须前进才能看到，那么只有勇往直前。
+> 都是时辰的错！
 > 
-> ——如果有个妹妹就好了
+> ——Fate/Zero
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 02:18:50
+Autogen by LittleJake at 04:12:48
