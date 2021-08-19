@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,10 +6,10 @@ Today is 08/19/2021.
 
 ### Hitokoto
 
-> 我不知道离别的滋味是这样凄凉，我不知道说声再见要这么坚强。
+> 明明只是活着，哀伤却无处不在……
 > 
-> ——千与千寻
+> ——秒速五厘米
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 14:09:22
+Autogen by LittleJake at 16:14:52
