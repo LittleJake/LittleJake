@@ -6,10 +6,10 @@ Today is 08/19/2021.
 
 ### Hitokoto
 
-> 只要怀着理想而行动，就算结果不尽如人意也没有关系。但是如果失去了理想，那就真的一无所有了，连自己珍视的人都保护不了。
+> 有些景色必须前进才能看到，那么只有勇往直前。
 > 
-> ——境界的彼方
+> ——如果有个妹妹就好了
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 00:28:57
+Autogen by LittleJake at 02:18:50
