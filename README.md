@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,10 +6,10 @@ Today is 08/19/2021.
 
 ### Hitokoto
 
-> 即便我弱了，也并不代表你强了。
+> 你知道雪为什么是白色的吗？因为她忘记了本来的颜色。
 > 
-> ——魔法禁书目录
+> ——反叛的鲁路修
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 08:11:45
+Autogen by LittleJake at 10:11:18
