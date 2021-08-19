@@ -6,10 +6,10 @@ Today is 08/19/2021.
 
 ### Hitokoto
 
-> 我们只是历史的过客，目标渺茫，无地自容。我们没有世界大战可以经历，也没有经济大萧条可以恐慌。我们的战争充其量不过是内心之战，我们最大的恐慌就是自己的生活。
+> 露珠落去花留着，花萎露珠未消去。奈何露已随风去，花间寻觅不见珠。
 > 
-> ——搏击俱乐部
+> ——学园孤岛
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 20:10:23
+Autogen by LittleJake at 22:08:19
