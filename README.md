@@ -6,10 +6,10 @@ Today is 08/20/2021.
 
 ### Hitokoto
 
-> 忘记本身就是一件不可能的事。
+> 无限接近于零，却又不等于零的可能性。
 > 
-> ——我们的存在
+> ——游戏人生
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 00:32:50
+Autogen by LittleJake at 02:20:03
