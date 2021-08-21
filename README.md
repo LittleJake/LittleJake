@@ -6,10 +6,10 @@ Today is 08/21/2021.
 
 ### Hitokoto
 
-> 这是你所不能理解的，人类感情的极致，比希望更热烈，比绝望更深邃——爱！
+> 花开得太好，所以摇摇欲坠；这一切的事情，老得这样快；世间一直熙攘着。
 > 
-> ——魔法少女小圆新篇 叛逆的物语
+> ——素年锦时
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 08:11:16
+Autogen by LittleJake at 10:10:29
