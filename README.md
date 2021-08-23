@@ -6,10 +6,10 @@ Today is 08/23/2021.
 
 ### Hitokoto
 
-> 人类的伟大就是勇气的伟大！人类的赞歌就是勇气的赞歌！
+> 魔装少女就是本少爷！
 > 
-> ——jojo的奇妙冒险
+> ——这是僵尸吗？
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 00:30:55
+Autogen by LittleJake at 02:19:30
