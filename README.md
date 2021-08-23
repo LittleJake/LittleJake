@@ -6,10 +6,10 @@ Today is 08/23/2021.
 
 ### Hitokoto
 
-> 深藏不露是一种卓越的才能
+> 我在这里只学会一件事，那就是不到最后绝不轻言放弃。如果回到了现实世界，我一定会再度和桐人你相遇，然后重新喜欢上你。
 > 
-> ——欢迎来到实力至上主义的教室
+> ——刀剑神域
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 20:10:14
+Autogen by LittleJake at 22:10:22
