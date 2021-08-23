@@ -1,15 +1,15 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 08/23/2021.
 
 ### Hitokoto
 
-> 电助！凉子，看到了吗！
+> 大国战争之后还会繁荣富强，而只有小国涂炭遭殃，让世界感受痛苦吧。
 > 
-> ——电脑线圈
+> ——火影忍者
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 16:15:12
+Autogen by LittleJake at 18:13:17
