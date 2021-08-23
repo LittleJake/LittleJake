@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,10 +6,10 @@ Today is 08/23/2021.
 
 ### Hitokoto
 
-> 大国战争之后还会繁荣富强，而只有小国涂炭遭殃，让世界感受痛苦吧。
+> 深藏不露是一种卓越的才能
 > 
-> ——火影忍者
+> ——欢迎来到实力至上主义的教室
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 18:13:17
+Autogen by LittleJake at 20:10:14
