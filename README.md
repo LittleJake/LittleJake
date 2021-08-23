@@ -1,15 +1,15 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 08/22/2021.
+Today is 08/23/2021.
 
 ### Hitokoto
 
-> 无论是丢下还是被丢下，这两者都是一样痛苦的。
+> 人类的伟大就是勇气的伟大！人类的赞歌就是勇气的赞歌！
 > 
-> ——水果篮子
+> ——jojo的奇妙冒险
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 22:09:28
+Autogen by LittleJake at 00:30:55
