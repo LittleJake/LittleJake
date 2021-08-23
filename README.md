@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,10 +6,10 @@ Today is 08/23/2021.
 
 ### Hitokoto
 
-> 人各有命，上天注定。有人天生为王，有人落草为寇。脚下的路如果不是你自己的选择，那么旅程的终点在哪儿也没人知道，你会走到哪儿，会碰到谁，都不一定。
+> 人生在世何其痛苦，所以咖啡至少该甜一点。
 > 
-> ——镇魂街
+> ——我的青春恋爱物语果然有问题
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 12:15:56
+Autogen by LittleJake at 14:09:29
