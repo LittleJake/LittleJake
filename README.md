@@ -1,15 +1,15 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 08/24/2021.
 
 ### Hitokoto
 
-> 如期待奇迹发生，那唯有不停伸手去抓紧，去把握才行
+> 大家即将各自展开旅程，挥别这个没落的城镇。
 > 
-> ——秒速5厘米
+> ——仰望半月的夜空
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 04:12:47
+Autogen by LittleJake at 06:11:46
