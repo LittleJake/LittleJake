@@ -6,10 +6,10 @@ Today is 08/24/2021.
 
 ### Hitokoto
 
-> 比自己,比梦想更重要的东西永远都存在着...
+> 只要有想见面的人，自己就不再是孤单一人。
 > 
-> ——钢之炼金术师
+> ——夏目友人帐
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 18:11:31
+Autogen by LittleJake at 20:10:26
