@@ -6,10 +6,10 @@ Today is 08/24/2021.
 
 ### Hitokoto
 
-> 只要有想见面的人，自己就不再是孤单一人。
+> 我是否住进了某人的心房呢？
 > 
-> ——夏目友人帐
+> ——四月是你的谎言
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 20:10:26
+Autogen by LittleJake at 22:10:04
