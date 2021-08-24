@@ -6,10 +6,10 @@ Today is 08/24/2021.
 
 ### Hitokoto
 
-> 重要的不是你做了多少事，而是你放了多少心思进去。
+> 不可结缘,徒增寂寞
 > 
-> ——凉宫春日的忧郁
+> ——夏目友人帐
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 12:15:17
+Autogen by LittleJake at 14:09:37
