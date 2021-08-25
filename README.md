@@ -6,10 +6,10 @@ Today is 08/25/2021.
 
 ### Hitokoto
 
-> 为了爱，与梦想！
+> 我不会忘记，一直，都留在我的心间。
 > 
-> ——眼大人
+> ——文学少女
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 00:33:06
+Autogen by LittleJake at 02:20:21
