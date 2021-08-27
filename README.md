@@ -6,10 +6,10 @@ Today is 08/27/2021.
 
 ### Hitokoto
 
-> 蔷薇不管被冠以什么名字，却依旧可以芳香扑鼻。
+> 让我们开始我们的约会（战争）吧
 > 
-> ——我的青春恋爱物语果然有问题
+> ——约会大作战
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 08:11:32
+Autogen by LittleJake at 10:11:01
