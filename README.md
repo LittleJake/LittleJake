@@ -6,10 +6,10 @@ Today is 08/28/2021.
 
 ### Hitokoto
 
-> 至少恋爱不是种机会，我认为它是一种意志。
+> 有型的东西终究会消逝，不过……终于，这份回忆还是永远不朽的…
 > 
-> ——月色真美
+> ——火影忍者
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 18:11:03
+Autogen by LittleJake at 20:09:58
