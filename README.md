@@ -6,10 +6,10 @@ Today is 08/29/2021.
 
 ### Hitokoto
 
-> 还能再见面吗? 一定能见面的
+> 人和人之间就像这风筝一样，拉的太紧就飞不远，放的太松又掉下来，而当它飞的很高很高你还拽着不放，它就有可能会断掉，再也回不来了。
 > 
-> ——Fantastic Children
+> ——灵契
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 20:09:48
+Autogen by LittleJake at 22:09:20
