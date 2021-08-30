@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,10 +6,10 @@ Today is 08/30/2021.
 
 ### Hitokoto
 
-> 代表月亮消灭你！
+> 从认识你，到和你性命相连，我从未后悔过。
 > 
-> ——美少女战士
+> ——大鱼海棠
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 02:20:13
+Autogen by LittleJake at 04:12:47
