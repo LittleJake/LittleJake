@@ -6,10 +6,10 @@ Today is 08/30/2021.
 
 ### Hitokoto
 
-> 梦是现实的延续，现实是梦的终结。
+> 以为大哭大闹一场就有人来安慰的家伙真是幸福呢。
 > 
-> ——Eva
+> ——龙与虎
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 20:10:39
+Autogen by LittleJake at 22:09:57
