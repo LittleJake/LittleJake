@@ -6,10 +6,10 @@ Today is 08/31/2021.
 
 ### Hitokoto
 
-> 乔巴，一个男人，有时候是不能逃避战斗的，尤其是当伙伴的梦想被人嘲笑的时候。
+> 天空是连着的，如果我们也能各自发光的话，无论距离有多远，都能看到彼此努力的身影。
 > 
-> ——海贼王
+> ——龙虎斗
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 00:35:40
+Autogen by LittleJake at 02:20:17
