@@ -6,10 +6,10 @@ Today is 09/01/2021.
 
 ### Hitokoto
 
-> 你是笨蛋吗？
+> 前进吧，星星在你的头上闪耀哦！
 > 
-> ——小桐桐（きりりん）
+> ——四月是你的谎言
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 20:10:51
+Autogen by LittleJake at 22:10:11
