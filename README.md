@@ -6,10 +6,10 @@ Today is 09/02/2021.
 
 ### Hitokoto
 
-> 知道人的眼睛为什么长在前面吗？那是因为如果想看到远处的风景的话，就只能向前前进。
+> Steel is my body, and fire is my blood.
 > 
-> ——天元突破：红莲螺岩
+> ——Fate/stay night
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 00:33:26
+Autogen by LittleJake at 02:20:29
