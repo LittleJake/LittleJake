@@ -2,14 +2,14 @@
 
 Good evening work time!
 
-Today is 09/01/2021.
+Today is 09/02/2021.
 
 ### Hitokoto
 
-> 前进吧，星星在你的头上闪耀哦！
+> 知道人的眼睛为什么长在前面吗？那是因为如果想看到远处的风景的话，就只能向前前进。
 > 
-> ——四月是你的谎言
+> ——天元突破：红莲螺岩
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 22:10:11
+Autogen by LittleJake at 00:33:26
