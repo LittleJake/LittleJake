@@ -6,10 +6,10 @@ Today is 09/02/2021.
 
 ### Hitokoto
 
-> 我一直都在你身边 ，一直都在。
+> 如果把那一端的敌人全部杀掉的话，我们就能自由了吗？
 > 
-> ——CLANNAD
+> ——进击的巨人
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 12:15:48
+Autogen by LittleJake at 14:09:27
