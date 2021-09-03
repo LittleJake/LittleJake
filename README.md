@@ -6,10 +6,10 @@ Today is 09/03/2021.
 
 ### Hitokoto
 
-> 人没有回忆是无法活下去的哟
+> 给，一辈子朋友劵。
 > 
-> ——AIR
+> ——日常
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 08:11:37
+Autogen by LittleJake at 10:11:06
