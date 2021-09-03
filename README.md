@@ -6,10 +6,10 @@ Today is 09/03/2021.
 
 ### Hitokoto
 
-> 王有王的才能，厨师有厨师的才能，替身之间是没有强弱之分的
+> 那似乎是比翼鸟。这种鸟天生单翼，须靠雌雄二鸟相互依偎才能翱翔天际，是种有缺陷的生物。但是，不知为何，我却感受到了这种生活方式的美妙。
 > 
-> ——JOJO的奇妙冒险
+> ——Darling in the FRANXX
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 00:33:12
+Autogen by LittleJake at 02:21:20
