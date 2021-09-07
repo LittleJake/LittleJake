@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,10 +6,10 @@ Today is 09/07/2021.
 
 ### Hitokoto
 
-> 是个男人就要对自己的人生负责
+> 再相见，会是怎样的世界？
 > 
-> ——麻辣教师
+> ——升起的烟花，从下面看？还是从侧面看?
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 08:11:47
+Autogen by LittleJake at 10:11:08
