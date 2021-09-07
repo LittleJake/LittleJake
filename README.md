@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,10 +6,10 @@ Today is 09/07/2021.
 
 ### Hitokoto
 
-> 今日已成往昔，明日即将到来，为此理所当然之事，感到无比痛心。
+> 是个男人就要对自己的人生负责
 > 
-> ——寻找失去的未来
+> ——麻辣教师
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 06:11:56
+Autogen by LittleJake at 08:11:47
