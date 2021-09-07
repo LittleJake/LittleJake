@@ -6,10 +6,10 @@ Today is 09/07/2021.
 
 ### Hitokoto
 
-> 恋爱不是谈出来的，而是陷进去的。
+> JOJO，我不想再做人了！！
 > 
-> ——GAMER电玩咖！
+> ——JOJO的奇妙冒险
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 00:32:32
+Autogen by LittleJake at 02:20:28
