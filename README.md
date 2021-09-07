@@ -6,10 +6,10 @@ Today is 09/07/2021.
 
 ### Hitokoto
 
-> 就连一直都无容身之地的我……也不是可以任意舍弃的生命。
+> 只要你在，我便无所不能。
 > 
-> ——夏目友人帐
+> ——进击的巨人
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 18:11:28
+Autogen by LittleJake at 20:10:28
