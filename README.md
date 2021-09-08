@@ -6,10 +6,10 @@ Today is 09/08/2021.
 
 ### Hitokoto
 
-> 就算没有意义，偶尔也会有好事发生。
+> 没有谁能够永远坚强下去的，每个人都会有疲累的无法站起的时候。世间的故事，就是为了这一刻而存在的哦。
 > 
-> ——终末少女旅行
+> ——文学少女
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 12:15:41
+Autogen by LittleJake at 14:09:21
