@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,10 +6,10 @@ Today is 09/09/2021.
 
 ### Hitokoto
 
-> 自认为为他人好而做的事情，并不一定正确。
+> 在我年轻的时候，不知道什么是恐惧，可偏偏是你的温柔，让我害怕。
 > 
-> ——魔女之旅
+> ——东京爱情故事
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 14:09:18
+Autogen by LittleJake at 16:15:03
