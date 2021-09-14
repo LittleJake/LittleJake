@@ -1,15 +1,15 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 09/14/2021.
 
 ### Hitokoto
 
-> 我觉得在这里干尽坏事的玩家，都是些在现实世界中也烂到骨子里的家伙。
+> 美好的人眼里映出的世界也是美好的。
 > 
-> ——刀剑神域
+> ——ARIA
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 10:11:10
+Autogen by LittleJake at 12:15:40
