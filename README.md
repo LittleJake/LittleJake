@@ -6,10 +6,10 @@ Today is 09/14/2021.
 
 ### Hitokoto
 
-> 我的金子，只给千寻。
+> 我无法抗拒泡面这种没营养又廉价的口感。
 > 
-> ——千与千寻
+> ——银仙
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 00:35:30
+Autogen by LittleJake at 02:22:08
