@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,10 +6,10 @@ Today is 09/15/2021.
 
 ### Hitokoto
 
-> 活下去的意志是最强的力量！
+> 败者死于绝望，胜者死于渴望。
 > 
-> ——浪客剑心
+> ——戏言系列
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 06:11:50
+Autogen by LittleJake at 08:11:43
