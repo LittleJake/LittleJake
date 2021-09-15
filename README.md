@@ -1,15 +1,15 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 09/14/2021.
+Today is 09/15/2021.
 
 ### Hitokoto
 
-> 迎接我们的也许是漆黑一片的夜路，即便如此，也要相信自己，勇往直前。 星空会为我们在这条道路上点缀出淡淡星光。
+> 是鸣人改变了我！是鸣人的笑脸拯救了我！所以，如果是为了保护鸣人，就算死，我也无可畏惧，因为我，最喜欢鸣人了。
 > 
-> ——四月是你的谎言
+> —— 火影忍者
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 22:09:53
+Autogen by LittleJake at 00:34:54
