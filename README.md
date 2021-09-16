@@ -1,15 +1,15 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 09/16/2021.
 
 ### Hitokoto
 
-> 是我，是我先，明明都是我先来的，接吻也好，拥抱也好，还是喜欢上那家伙也好。
+> 我在这里只学会一件事，那就是不到最后绝不轻言放弃。如果回到了现实世界，我一定会再度和桐人你相遇，然后重新喜欢上你。
 > 
-> ——白色相簿2
+> ——刀剑神域
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 10:11:17
+Autogen by LittleJake at 12:16:03
