@@ -6,10 +6,10 @@ Today is 09/18/2021.
 
 ### Hitokoto
 
-> 此身为剑所天成，身如钢铁，心似琉璃。
+> 我们所度过的每个平凡的日常，也许就是连续发生的奇迹。
 > 
-> ——Fate
+> ——日常
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 20:09:54
+Autogen by LittleJake at 22:09:34
