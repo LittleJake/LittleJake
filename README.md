@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,10 +6,10 @@ Today is 09/20/2021.
 
 ### Hitokoto
 
-> 理解何为孤单，努力想得到爱的你，内心的悲伤是否稍微宣泄了呢？
+> 那些坚定决心的人们，会展现出好脸色。
 > 
-> ——夏目友人帐
+> ——闪电十一人
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 08:12:14
+Autogen by LittleJake at 10:11:24
