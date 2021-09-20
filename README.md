@@ -6,10 +6,10 @@ Today is 09/20/2021.
 
 ### Hitokoto
 
-> 只是相谈就会开心起来，沉浸在温柔的眼神当中，竭尽全力的思念，悄悄地奉献。
+> 理解何为孤单，努力想得到爱的你，内心的悲伤是否稍微宣泄了呢？
 > 
-> ——School Days
+> ——夏目友人帐
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 06:12:24
+Autogen by LittleJake at 08:12:14
