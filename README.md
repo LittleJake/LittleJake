@@ -1,15 +1,15 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 09/23/2021.
 
 ### Hitokoto
 
-> 也许我的灵魂彷徨了几万年，不过就是为了与你相遇。
+> 人，只有在放弃战斗的时候才算输，只要坚持战斗，就还没输！
 > 
-> ——JOJO的奇妙冒险·战斗潮流
+> ——进击的巨人
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 10:11:13
+Autogen by LittleJake at 12:17:15
