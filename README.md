@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,10 +6,10 @@ Today is 09/24/2021.
 
 ### Hitokoto
 
-> 不要哀求，学会争取；若是如此，终有所获。
+> 当你想做一件事，却无能为力的时候，是最痛苦的。
 > 
-> ——交响诗篇
+> ——高达SEED
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 02:23:20
+Autogen by LittleJake at 04:12:46
