@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,10 +6,10 @@ Today is 09/24/2021.
 
 ### Hitokoto
 
-> When the dawn is close inside, we never say good-bye and never see again.
+> 我看到这个世界的恶意，我们正在接受考验。
 > 
-> ——末日时在做什么？有没有空？可以来拯救吗？
+> ——机动战士高达00
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 08:12:05
+Autogen by LittleJake at 10:11:09
