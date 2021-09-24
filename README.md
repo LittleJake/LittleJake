@@ -6,10 +6,10 @@ Today is 09/24/2021.
 
 ### Hitokoto
 
-> 如果我不会飞，那我就只是一只普通的猪。
+> 有时语言就像把利刃，使用不当，就会成为凶器。
 > 
-> ——红猪
+> ——名侦探柯南
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 20:10:57
+Autogen by LittleJake at 22:09:42
