@@ -1,15 +1,15 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 09/24/2021.
 
 ### Hitokoto
 
-> 当你想做一件事，却无能为力的时候，是最痛苦的。
+> 越是试着忘记，越是记得深刻。
 > 
-> ——高达SEED
+> ——天空之城
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 04:12:46
+Autogen by LittleJake at 06:12:20
