@@ -6,10 +6,10 @@ Today is 09/24/2021.
 
 ### Hitokoto
 
-> 拿起武器，无论顺从还是逃跑，都无法得到自由，既然如此，我们只能战斗，为了自由，站起来吧。
+> 如果我不会飞，那我就只是一只普通的猪。
 > 
-> ——妖精的尾巴
+> ——红猪
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 18:11:55
+Autogen by LittleJake at 20:10:57
