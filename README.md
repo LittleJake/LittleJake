@@ -1,15 +1,15 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 09/25/2021.
 
 ### Hitokoto
 
-> 从进入厨房的瞬间开始，你们就肩负着烹饪美食的责任。
+> 人在直面恐惧的时候，自身的灵魂将会受到考验。降生于这世界，究竟有何所求，要成何事，其本性会暴露无遗。
 > 
-> ——食戟之灵
+> ——PSYCHO-PASS
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 04:12:45
+Autogen by LittleJake at 06:11:31
