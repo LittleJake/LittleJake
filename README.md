@@ -6,10 +6,10 @@ Today is 09/25/2021.
 
 ### Hitokoto
 
-> 叶え！私たちの夢ー。
+> 努力不会背叛自己，虽然有时会背叛梦想
 > 
-> ——ラブライブ！
+> ——我的青春恋爱物语果然有问题
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 12:14:47
+Autogen by LittleJake at 14:09:03
