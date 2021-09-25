@@ -6,10 +6,10 @@ Today is 09/25/2021.
 
 ### Hitokoto
 
-> 隐藏的是心中的秘密，照耀两人的是star和snow……
+> 我们虽然距离很远很远，非常非常的远，但是思念或许真的可以穿越时间和距离。
 > 
-> ——名侦探柯南
+> ——星之声
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 08:11:27
+Autogen by LittleJake at 10:10:36
