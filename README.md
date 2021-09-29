@@ -1,15 +1,15 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 09/28/2021.
+Today is 09/29/2021.
 
 ### Hitokoto
 
-> 隐约雷鸣，阴霾天空，即使天无雨，我亦留此地。
+> 此身为剑所天成，身如钢铁，心似琉璃。
 > 
-> ——言叶之庭
+> ——Fate
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 22:09:56
+Autogen by LittleJake at 00:34:44
