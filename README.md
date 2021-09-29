@@ -6,10 +6,10 @@ Today is 09/29/2021.
 
 ### Hitokoto
 
-> 为了终止绝望的连锁，希望她能化为照亮正确道路的灯火。
+> 无论人生过得怎么样，都不要失去自己活着的意义，努力的去追逐心中的梦想，留下自己曾经在这个世界活过的痕迹，不要等到一切都失去了才追悔莫及。
 > 
-> ——Re：从零开始的异世界生活
+> ——天使的心跳
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 20:10:36
+Autogen by LittleJake at 22:10:06
