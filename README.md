@@ -6,10 +6,10 @@ Today is 09/30/2021.
 
 ### Hitokoto
 
-> 这里有你,他现在只有我了。
+> 我没能说出口，不管是那句「我走了」，还是那句「对不起」，或者那句「谢谢」...
 > 
-> ——罗小黑战记
+> ——TARI TARI
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 00:39:13
+Autogen by LittleJake at 02:26:39
