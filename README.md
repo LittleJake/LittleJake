@@ -6,10 +6,10 @@ Today is 09/30/2021.
 
 ### Hitokoto
 
-> 我没能说出口，不管是那句「我走了」，还是那句「对不起」，或者那句「谢谢」...
+> 凡人、笨蛋！
 > 
-> ——TARI TARI
+> ——维多利加·德·布洛瓦
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 02:26:39
+Autogen by LittleJake at 04:12:43
