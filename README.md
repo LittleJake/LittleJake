@@ -6,10 +6,10 @@ Today is 10/01/2021.
 
 ### Hitokoto
 
-> 只要呼唤你的名字，我们的牵绊就永远不会消逝。
+> 只要是正义的一方，无论手段多么卑鄙都可以被原谅
 > 
-> ——紫罗兰永恒花园外传：永远与自动手记人偶
+> ——东京喰种
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 12:16:14
+Autogen by LittleJake at 14:09:38
