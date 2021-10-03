@@ -1,15 +1,15 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 10/03/2021.
 
 ### Hitokoto
 
-> 不管看到什么样的过去，都请不要迷失自己，不管你变成什么样子，我都是你的同伴。
+> 无法飞翔的翅膀也是有意义的，因为它是曾经翱翔于天空所留下的珍贵回忆。
 > 
-> ——angel beats
+> ——AIR
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 10:10:54
+Autogen by LittleJake at 12:15:02
