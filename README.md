@@ -6,10 +6,10 @@ Today is 10/05/2021.
 
 ### Hitokoto
 
-> 我们还没年老到，对被注定的未来，欣然接受的年纪。想要去到更高的地方，我们便无所畏惧。
+> 我在这里只学会一件事，那就是不到最后绝不轻言放弃。如果回到了现实世界，我一定会再度和桐人你相遇，然后重新喜欢上你。
 > 
-> ——数码宝贝：最后的进化 絆
+> ——刀剑神域
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 06:12:29
+Autogen by LittleJake at 08:12:47
