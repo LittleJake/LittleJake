@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,10 +6,10 @@ Today is 10/06/2021.
 
 ### Hitokoto
 
-> 我在这里只学会一件事，那就是不到最后绝不轻言放弃。如果回到了现实世界，我一定会再度和桐人你相遇，然后重新喜欢上你。
+> 现在的我，一定是世界上最幸福的女孩子。
 > 
-> ——刀剑神域
+> ——末日时在做什么？有没有空？可以来拯救吗？
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 08:12:21
+Autogen by LittleJake at 10:10:52
