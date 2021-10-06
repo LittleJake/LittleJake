@@ -6,10 +6,10 @@ Today is 10/06/2021.
 
 ### Hitokoto
 
-> 我喜欢你们！超喜欢的！大家和我交往吧！绝对会让你们幸福的！
+> 我的出生就是为了用鲜花将你淹没。
 > 
-> ——学生会的一己之见
+> ——怪物Monster
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 02:24:40
+Autogen by LittleJake at 04:12:42
