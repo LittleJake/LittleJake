@@ -1,15 +1,15 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 10/06/2021.
 
 ### Hitokoto
 
-> 我们总是在注意错过太多，却不注意自己拥有多少。
+> 无可取代的东西要到失去后才知道珍惜呢。
 > 
-> ——我们仍未知道那天所看见的花的名字
+> ——干物妹小埋
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 16:13:15
+Autogen by LittleJake at 18:11:44
