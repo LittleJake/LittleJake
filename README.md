@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,10 +6,10 @@ Today is 10/07/2021.
 
 ### Hitokoto
 
-> 人类的赞歌就是勇气的赞歌！
+> 并非喜欢、也不是爱。而是更加深刻而沉重的——
 > 
-> ——JOJO的奇妙冒险
+> ——SWEET POOL
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 02:27:28
+Autogen by LittleJake at 04:13:31
