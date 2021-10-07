@@ -6,10 +6,10 @@ Today is 10/07/2021.
 
 ### Hitokoto
 
-> 纵使日薄西山。
+> 人类的赞歌就是勇气的赞歌！
 > 
-> ——末日时在做什么
+> ——JOJO的奇妙冒险
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 00:38:26
+Autogen by LittleJake at 02:27:28
