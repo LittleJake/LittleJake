@@ -6,10 +6,10 @@ Today is 10/08/2021.
 
 ### Hitokoto
 
-> 将所有人类当成玩偶的神,本身居然也是个小丑啊。
+> 一个人吃饭，太寂寞了。
 > 
-> ——Fate/Zero
+> ——无头骑士异闻录
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 18:12:08
+Autogen by LittleJake at 20:10:40
