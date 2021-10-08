@@ -6,10 +6,10 @@ Today is 10/08/2021.
 
 ### Hitokoto
 
-> 目标是以科学的力量凌驾于超能力之上，为了伯伦希尔的荣耀。
+> ご無事で何よりです。
 > 
-> ——小绿和小蓝
+> ——妖狐X僕ss
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 08:12:48
+Autogen by LittleJake at 10:11:14
