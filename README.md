@@ -6,10 +6,10 @@ Today is 10/09/2021.
 
 ### Hitokoto
 
-> 你在那么美丽的地方，纯属奇迹般的偶然。
+> 从今往后，你不能斩的人我来斩，你不能伤的人我来杀，既然你要保护这个世界，那我便保护你，这就是我的信念！
 > 
-> ——理科生坠入情网故尝试证明
+> ——灵契
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 08:11:29
+Autogen by LittleJake at 10:10:33
