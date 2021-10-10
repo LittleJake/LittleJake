@@ -1,15 +1,15 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 10/10/2021.
 
 ### Hitokoto
 
-> 舞台上演员不能无视剧本随便演，华丽地退场才是完成使命。
+> Ex - ploooosion !
 > 
-> ——绝园的暴风雨
+> ——为美好的世界献上祝福
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 10:10:48
+Autogen by LittleJake at 12:15:03
