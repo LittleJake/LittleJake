@@ -6,10 +6,10 @@ Today is 10/10/2021.
 
 ### Hitokoto
 
-> 春天 马上就要来了  让我与你相遇的春天 就要来了  再也没有你的春天 就要来了
+> 要是太勉强自己的话，总有一天会受伤的
 > 
-> ——四月是你的谎言
+> ——吸血鬼骑士
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 18:11:22
+Autogen by LittleJake at 20:09:59
