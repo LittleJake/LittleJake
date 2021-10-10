@@ -6,10 +6,10 @@ Today is 10/10/2021.
 
 ### Hitokoto
 
-> Ex - ploooosion !
+> 时间带着明显的恶意，缓缓在我的头顶流逝。
 > 
-> ——为美好的世界献上祝福
+> ——秒速五厘米
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 12:15:03
+Autogen by LittleJake at 14:09:09
