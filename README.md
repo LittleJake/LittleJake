@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,10 +6,10 @@ Today is 10/11/2021.
 
 ### Hitokoto
 
-> 他有一双好眼睛，就是他将我从黑暗的迷途中带了回来。
+> 我们一直在离别中，比如和爱的人，和伤害，甚至和时光。
 > 
-> ——火影忍者
+> ——萤火虫之墓
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 12:16:06
+Autogen by LittleJake at 14:09:46
