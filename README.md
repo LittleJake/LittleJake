@@ -6,10 +6,10 @@ Today is 10/13/2021.
 
 ### Hitokoto
 
-> 欺骗世界，欺骗最初的你。
+> 波，高低起伏的东西；波，产生后开始扩散；波，自己无法抵抗的东西。
 > 
-> ——Steins;Gate
+> ——四月一日灵异事件薄
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 14:12:07
+Autogen by LittleJake at 16:15:18
