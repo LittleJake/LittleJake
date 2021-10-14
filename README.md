@@ -2,14 +2,14 @@
 
 Good evening work time!
 
-Today is 10/13/2021.
+Today is 10/14/2021.
 
 ### Hitokoto
 
-> 大国战争之后还会繁荣富强，而只有小国涂炭遭殃，让世界感受痛苦吧。
+> 背后即是祖国，我们无路可退。
 > 
-> ——火影忍者
+> ——那年那兔那些事
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 22:10:10
+Autogen by LittleJake at 00:34:53
