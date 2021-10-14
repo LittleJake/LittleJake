@@ -1,15 +1,15 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 10/14/2021.
 
 ### Hitokoto
 
-> 有些事情我不看透，不是我太笨，只是我太善良。
+> 他有一双好眼睛，就是他将我从黑暗的迷途中带了回来。
 > 
-> ——樱桃小丸子
+> ——火影忍者
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 04:13:21
+Autogen by LittleJake at 06:12:10
