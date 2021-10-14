@@ -1,15 +1,15 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 10/14/2021.
 
 ### Hitokoto
 
-> 命运的红线一旦断了，就再也接不上了。
+> 如果能够重生的话，我想，我想成为水母。想成为只是在海里自由地摇摇摆摆的水母。
 > 
-> ——犬夜叉
+> ——海月姬
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 16:15:15
+Autogen by LittleJake at 18:11:46
