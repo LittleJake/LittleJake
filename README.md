@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,10 +6,10 @@ Today is 10/15/2021.
 
 ### Hitokoto
 
-> 没有偶然的必然，只有必然的偶然
+> 活在现实中的人是错的，而那些哭泣的人才是正确的，孤独的我们才有人类的样子
 > 
-> ——魔卡少女樱
+> ——angel beats
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 06:12:28
+Autogen by LittleJake at 08:12:33
