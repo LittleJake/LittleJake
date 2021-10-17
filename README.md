@@ -6,10 +6,10 @@ Today is 10/17/2021.
 
 ### Hitokoto
 
-> 好红，每当想起你，枫叶就会被染红。
+> 祈求别人幸福的同时,却不得不去诅咒其他的人,我们魔法少女就是这样的构造吧!
 > 
-> ——银仙
+> ——魔法少女小圆
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 14:09:19
+Autogen by LittleJake at 16:14:35
