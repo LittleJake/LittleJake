@@ -6,10 +6,10 @@ Today is 10/19/2021.
 
 ### Hitokoto
 
-> 就算只有六十亿分之一的机会，我们还是会邂逅。
+> 当你决定了要向前迈进的那一刻, 你就已经踏出前进的一步了。
 > 
-> ——Angel Beats!
+> ——Canvas2 ～七彩的素描～
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 18:11:38
+Autogen by LittleJake at 20:10:49
