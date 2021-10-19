@@ -6,10 +6,10 @@ Today is 10/19/2021.
 
 ### Hitokoto
 
-> 但是，我没有后悔，不能后悔，因为，我所做的事情一定没有错！
+> 她有心，她的心在我这里。
 > 
-> ——三月的狮子
+> ——人形电脑天使心
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 02:26:37
+Autogen by LittleJake at 04:13:26
