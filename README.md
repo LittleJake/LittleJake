@@ -1,15 +1,15 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 10/19/2021.
 
 ### Hitokoto
 
-> 错的不是我，错的是这个世界。
+> 就算只有六十亿分之一的机会，我们还是会邂逅。
 > 
-> ——东京食尸鬼
+> ——Angel Beats!
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 16:15:25
+Autogen by LittleJake at 18:11:38
