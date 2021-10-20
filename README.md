@@ -6,10 +6,10 @@ Today is 10/20/2021.
 
 ### Hitokoto
 
-> 拿着刀并且可以让人们变得幸福的只有料理人。
+> 那是，未满45秒的邂逅。
 > 
-> ——假面骑士kabuto
+> ——EF
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 08:12:41
+Autogen by LittleJake at 10:11:19
