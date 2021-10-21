@@ -6,10 +6,10 @@ Today is 10/21/2021.
 
 ### Hitokoto
 
-> 既然没有终点，那在何处又何妨呢。
+> 真正重要的东西，总是没有的人比拥有的人清楚。
 > 
-> ——异度侵入
+> ——银魂
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 06:12:45
+Autogen by LittleJake at 08:12:26
