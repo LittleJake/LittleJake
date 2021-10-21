@@ -1,15 +1,15 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 10/21/2021.
 
 ### Hitokoto
 
-> 伤害别人的人，就要有被伤害的觉悟！
+> 已经无法回到过去了。也不知道将来会是什么模样。
 > 
-> ——罪恶王冠
+> ——文学少女
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 10:11:24
+Autogen by LittleJake at 12:17:04
