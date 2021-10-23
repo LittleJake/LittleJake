@@ -6,10 +6,10 @@ Today is 10/23/2021.
 
 ### Hitokoto
 
-> 我再也不要看见她哭的样子了，就算我从此从她心目中消失。
+> 只要你在，我便无所不能。
 > 
-> ——名侦探柯南
+> ——进击的巨人
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 02:29:02
+Autogen by LittleJake at 04:13:13
