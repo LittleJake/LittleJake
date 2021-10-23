@@ -6,10 +6,10 @@ Today is 10/23/2021.
 
 ### Hitokoto
 
-> 只要有想见面的人，自己就不再是孤单一人。
+> 当你们试图去寻找死的意义……能找到的……只有痛苦…和不知道归向何方的憎恨……
 > 
-> ——夏目友人帐
+> ——火影忍者
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 20:10:32
+Autogen by LittleJake at 22:09:42
