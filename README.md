@@ -1,15 +1,15 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 10/24/2021.
 
 ### Hitokoto
 
-> 你的心可以属于耶稣，但你的屁股永远属于陆战队！
+> 憧憬是距离理解最遥远的一种感情。
 > 
-> ——魔法少女陆战队
+> ——死神
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 04:13:30
+Autogen by LittleJake at 06:12:09
