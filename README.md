@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,10 +6,10 @@ Today is 10/25/2021.
 
 ### Hitokoto
 
-> 一个人决定寂寞，和另一个人相互依偎又有什么错
+> 吾于冥河沉浮,受尽命运捉弄，纵然汝将忘吾，吾亦伴汝身旁。
 > 
-> ——人渣的本愿
+> ——Re：从零开始的异世界生活
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 14:10:06
+Autogen by LittleJake at 16:15:31
