@@ -1,15 +1,15 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 10/25/2021.
 
 ### Hitokoto
 
-> 青春总是焦虑的，连一勺砂糖溶于杯中的时间都等不及。后悔带来的苦涩，是对过去的见证，终将逐一化为杯中咖啡的味道。
+> 不管看到什么样的过去，都请不要迷失自己，不管你变成什么样子，我都是你的同伴。
 > 
-> ——玉子爱情故事
+> ——angel beats
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 04:13:23
+Autogen by LittleJake at 06:13:08
