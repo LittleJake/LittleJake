@@ -2,14 +2,14 @@
 
 Good evening work time!
 
-Today is 10/26/2021.
+Today is 10/27/2021.
 
 ### Hitokoto
 
-> 不能逃避，不能逃避，不能逃避。
+> 此生无悔入东方，来世愿生幻想乡！
 > 
-> ——EVA
+> ——东方project
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 22:10:44
+Autogen by LittleJake at 00:35:19
