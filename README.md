@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,10 +6,10 @@ Today is 10/27/2021.
 
 ### Hitokoto
 
-> 那似乎是比翼鸟。这种鸟天生单翼，须靠雌雄二鸟相互依偎才能翱翔天际，是种有缺陷的生物。但是，不知为何，我却感受到了这种生活方式的美妙。
+> 人难免伤害别人,也难免受伤,不过,人是不会轻易讨厌别人的.
 > 
-> ——Darling in the FRANXX
+> ——火影忍者
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 08:12:38
+Autogen by LittleJake at 10:11:32
