@@ -1,15 +1,15 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 10/27/2021.
 
 ### Hitokoto
 
-> 选择道路的时候怎么犹豫都没有关系，但决定之后就一定要坚持到底！
+> 看到的感受到的永远都不会消失永远都不会忘记，与各种各样的相遇一同永存。
 > 
-> ——青之驱魔师
+> ——夏目友人帐
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 04:13:41
+Autogen by LittleJake at 06:12:40
