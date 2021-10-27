@@ -6,10 +6,10 @@ Today is 10/27/2021.
 
 ### Hitokoto
 
-> 看到的感受到的永远都不会消失永远都不会忘记，与各种各样的相遇一同永存。
+> 那似乎是比翼鸟。这种鸟天生单翼，须靠雌雄二鸟相互依偎才能翱翔天际，是种有缺陷的生物。但是，不知为何，我却感受到了这种生活方式的美妙。
 > 
-> ——夏目友人帐
+> ——Darling in the FRANXX
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 06:12:40
+Autogen by LittleJake at 08:12:38
