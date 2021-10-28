@@ -6,10 +6,10 @@ Today is 10/28/2021.
 
 ### Hitokoto
 
-> 我的内心就和厕纸一样单纯！
+> 拥有和舍弃都很痛苦，既然无论怎样都会痛苦的话，我宁可选择守护它而痛苦。
 > 
-> ——Little Busters!
+> ——银魂
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 12:16:37
+Autogen by LittleJake at 14:10:19
