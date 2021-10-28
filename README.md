@@ -6,10 +6,10 @@ Today is 10/28/2021.
 
 ### Hitokoto
 
-> 而我不知不觉把自己遗忘，只想为你完成那个梦想。
+> 别低下头  排球是一门积极向上的运动！
 > 
-> ——狐妖小红娘
+> ——排球少年
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 20:11:08
+Autogen by LittleJake at 22:09:20
