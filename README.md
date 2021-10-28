@@ -6,10 +6,10 @@ Today is 10/28/2021.
 
 ### Hitokoto
 
-> 从今往后，你不能斩的人我来斩，你不能伤的人我来杀，既然你要保护这个世界，那我便保护你，这就是我的信念！
+> 今日已成往昔，明日即将到来，为此理所当然之事，感到无比痛心。
 > 
-> ——灵契
+> ——寻找失去的未来
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 08:12:27
+Autogen by LittleJake at 10:11:27
