@@ -6,10 +6,10 @@ Today is 10/29/2021.
 
 ### Hitokoto
 
-> 这个地方的人们，就是我战斗的理由。
+> 人只会看到自己想看到的、听到自己想听到的，我也并不例外。
 > 
-> ——战翼的希格德莉法
+> ——我的青春恋爱物语果然有问题
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 18:12:22
+Autogen by LittleJake at 20:10:55
