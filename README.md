@@ -6,10 +6,10 @@ Today is 10/29/2021.
 
 ### Hitokoto
 
-> 什么叫忍者？学会忍耐的人就叫忍者。
+> 翠星石最喜欢苍星石的说,所以到死也要在一起的说...
 > 
-> ——哔哩哔哩
+> ——Rozen Maiden
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 06:13:04
+Autogen by LittleJake at 08:12:41
