@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,10 +6,10 @@ Today is 10/29/2021.
 
 ### Hitokoto
 
-> 一个人走在路上，形单影只。回首望去，大家都留在远方。回过头来继续前行，这便是所谓坚强。
+> 无论发生什么都不要停下。无论到什么时候都要继续前进。 要一直走下去，直到生命终止的那一刻。
 > 
-> ——AngelBeats
+> ——驱魔少年
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 00:34:11
+Autogen by LittleJake at 02:23:41
