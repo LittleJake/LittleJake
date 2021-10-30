@@ -6,10 +6,10 @@ Today is 10/30/2021.
 
 ### Hitokoto
 
-> 能够原谅女人的，才是男人。
+> 我们所度过的每个平凡的日常，也许就是连续发生的奇迹
 > 
-> ——海贼王
+> ——日常
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 20:10:39
+Autogen by LittleJake at 22:09:49
