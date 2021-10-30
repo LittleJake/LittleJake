@@ -6,10 +6,10 @@ Today is 10/30/2021.
 
 ### Hitokoto
 
-> 想说什么就说，想做什么就做，我们不就是这么一直过来的吗？
+> 你以为我是谁？这是我埋下的因，我要亲手解决这一切。
 > 
-> ——LoveLive!
+> ——某科学的超电磁炮
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 12:15:27
+Autogen by LittleJake at 14:09:19
