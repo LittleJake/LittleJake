@@ -6,10 +6,10 @@ Today is 10/31/2021.
 
 ### Hitokoto
 
-> 哪怕是打断你的手脚，也要把你带回去。
+> 欧拉欧拉欧拉欧拉！
 > 
-> ——火影忍者
+> ——JOJO的奇妙冒险
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 20:10:34
+Autogen by LittleJake at 22:09:47
