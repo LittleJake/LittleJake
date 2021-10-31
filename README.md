@@ -6,10 +6,10 @@ Today is 10/31/2021.
 
 ### Hitokoto
 
-> 如果你都不知道自己想去哪里，那去哪里都是一样的。
+> 哪怕是打断你的手脚，也要把你带回去。
 > 
-> ——柴郡猫
+> ——火影忍者
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 18:11:34
+Autogen by LittleJake at 20:10:34
