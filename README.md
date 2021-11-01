@@ -6,10 +6,10 @@ Today is 11/01/2021.
 
 ### Hitokoto
 
-> 有样东西是其他生物绝对没有，只有人类才有 那就是人有秘密。
+> 遇到事情不能坐以待毙！
 > 
-> ——月色真美
+> ——捷德奥特曼
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 18:12:28
+Autogen by LittleJake at 20:11:36
