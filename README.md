@@ -6,10 +6,10 @@ Today is 11/01/2021.
 
 ### Hitokoto
 
-> 你的那双手呢，是为了紧紧抓住什么而存在的哦。
+> 死者的血泪混入滚滚的流沙之中...将会赐予修罗更强的力量...
 > 
-> ——仰望半月的夜空
+> ——火影忍者
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 08:12:55
+Autogen by LittleJake at 10:11:45
