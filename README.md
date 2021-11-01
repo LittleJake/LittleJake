@@ -6,10 +6,10 @@ Today is 11/01/2021.
 
 ### Hitokoto
 
-> 你的双眼能够看到多远的未来。
+> 忘记本身就是一件不可能的事。
 > 
-> ——火影忍者
+> ——我们的存在
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 12:16:56
+Autogen by LittleJake at 14:10:06
