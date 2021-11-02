@@ -6,10 +6,10 @@ Today is 11/02/2021.
 
 ### Hitokoto
 
-> 我喜欢你们！超喜欢的！大家和我交往吧！绝对会让你们幸福的！
+> 好红，每当想起你，枫叶就会被染红。
 > 
-> ——学生会的一己之见
+> ——银仙
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 12:16:41
+Autogen by LittleJake at 14:10:15
