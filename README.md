@@ -2,14 +2,14 @@
 
 Good evening work time!
 
-Today is 11/02/2021.
+Today is 11/03/2021.
 
 ### Hitokoto
 
-> 想要试着去相互接近，但最后还是无法敞开心扉，结果就是擦肩而过⋯⋯
+> 每一个兔子都有一个大国梦
 > 
-> ——文学少女
+> ——那年那兔那些事
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 22:10:35
+Autogen by LittleJake at 00:35:39
