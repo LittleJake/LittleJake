@@ -6,10 +6,10 @@ Today is 11/05/2021.
 
 ### Hitokoto
 
-> 青春是谎言，是邪恶。
+> 人没有回忆是无法活下去的哟
 > 
-> ——春物
+> ——AIR
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 18:12:07
+Autogen by LittleJake at 20:11:02
