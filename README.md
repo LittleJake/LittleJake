@@ -6,10 +6,10 @@ Today is 11/05/2021.
 
 ### Hitokoto
 
-> 有阳光的地方就会有阴影，所以有阴影的地方也一定会有阳光。绝望的颜色越是浓厚，在哪里也一定会存在耀眼的希望之光。
+> 因为世界并不如你想象的那样坏。
 > 
-> ——银魂
+> ——无头骑士异闻录
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 14:09:49
+Autogen by LittleJake at 16:15:52
