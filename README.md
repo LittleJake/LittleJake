@@ -6,10 +6,10 @@ Today is 11/05/2021.
 
 ### Hitokoto
 
-> 为了爱，与梦想！
+> 这虽然这是游戏，但可不是闹着玩的。
 > 
-> ——眼大人
+> ——刀剑神域
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 06:12:49
+Autogen by LittleJake at 08:12:37
