@@ -6,10 +6,10 @@ Today is 11/06/2021.
 
 ### Hitokoto
 
-> Explotion！
+> 我一直都在你身边 ，一直都在。
 > 
-> ——为美好的世界献上祝福
+> ——CLANNAD
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 20:10:29
+Autogen by LittleJake at 22:10:04
