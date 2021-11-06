@@ -6,10 +6,10 @@ Today is 11/06/2021.
 
 ### Hitokoto
 
-> 想象力是武器，没有想象力的人会先死。
+> 重新再说一次，至今为止，真的谢谢你。 然后，今后也请多指教了。
 > 
-> ——哥布林杀手
+> ——楠田亞衣奈致东条希
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 02:23:59
+Autogen by LittleJake at 04:13:33
