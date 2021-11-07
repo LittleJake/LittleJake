@@ -1,15 +1,15 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 11/07/2021.
 
 ### Hitokoto
 
-> 由变态化身成为变态，也就是真·变态，也就是说，完全变态呢。
+> 将愿望倾入不愿忘却的回忆中…
 > 
-> ——一拳超人
+> ——ef-a tale of memories
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 04:13:12
+Autogen by LittleJake at 06:12:21
