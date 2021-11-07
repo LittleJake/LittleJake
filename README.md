@@ -6,10 +6,10 @@ Today is 11/07/2021.
 
 ### Hitokoto
 
-> 目标是以科学的力量凌驾于超能力之上，为了伯伦希尔的荣耀。
+> 真正让我难受的，大概是因为让你看到如此狼狈的自己。
 > 
-> ——小绿和小蓝
+> ——元气少女缘结神
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 12:15:34
+Autogen by LittleJake at 14:09:11
