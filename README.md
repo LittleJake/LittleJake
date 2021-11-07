@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,10 +6,10 @@ Today is 11/07/2021.
 
 ### Hitokoto
 
-> 真正让我难受的，大概是因为让你看到如此狼狈的自己。
+> 错误可不是为了别人才改的过来的，要为了自己才能改正。
 > 
-> ——元气少女缘结神
+> ——XXXHolic
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 14:09:11
+Autogen by LittleJake at 16:14:46
