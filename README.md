@@ -6,10 +6,10 @@ Today is 11/08/2021.
 
 ### Hitokoto
 
-> “如果我不在了，你会怎样？” “我会去找你” “如果找不见呢？” “我会一直，一直，一直找下去”
+> 你已经不是我的狗了。
 > 
-> ——人鱼森林
+> ——龙与虎
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 20:11:25
+Autogen by LittleJake at 22:10:25
