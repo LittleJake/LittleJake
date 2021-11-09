@@ -6,10 +6,10 @@ Today is 11/09/2021.
 
 ### Hitokoto
 
-> 你将不再是工具，而是人如其名的人。
+> 我不会让任何人看到我软弱的一面。
 > 
-> ——紫罗兰永恒花园
+> ——桔梗
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 20:11:15
+Autogen by LittleJake at 22:10:25
