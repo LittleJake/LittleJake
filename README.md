@@ -6,10 +6,10 @@ Today is 11/09/2021.
 
 ### Hitokoto
 
-> 果然啊，创造一样东西很开心。让别人享受自己创造的东西，是一种幸福呢。
+> 我拼命地挣扎，我对活下去的执著，都是因为你，是你让我，对和你一起度过的那段时光无比留恋。
 > 
-> ——如果有个妹妹就好了
+> ——四月是你的谎言
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 08:13:01
+Autogen by LittleJake at 10:11:43
