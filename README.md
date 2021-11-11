@@ -6,10 +6,10 @@ Today is 11/11/2021.
 
 ### Hitokoto
 
-> 失礼、噛みました
+> 那些坚定决心的人们，会展现出好脸色。
 > 
-> ——化物语
+> ——闪电十一人
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 06:13:03
+Autogen by LittleJake at 08:13:04
