@@ -6,10 +6,10 @@ Today is 11/11/2021.
 
 ### Hitokoto
 
-> 只要学不死，就往死里学。
+> 相信奇迹的人本身就和奇迹一样了不起啊
 > 
-> ——网络热语
+> ——星游记
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 00:36:28
+Autogen by LittleJake at 02:25:24
