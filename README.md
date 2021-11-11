@@ -6,10 +6,10 @@ Today is 11/11/2021.
 
 ### Hitokoto
 
-> 今后我们来度过满是愉快之事的人生吧
+> 给我高高的飞起来啊！
 > 
-> ——Charlotte
+> ——星游记
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 14:10:01
+Autogen by LittleJake at 16:15:58
