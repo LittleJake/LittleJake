@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,10 +6,10 @@ Today is 11/13/2021.
 
 ### Hitokoto
 
-> 做好人需要比恶人更狡猾，他们的名字终将成为传说，而真实沉没于历史的波涛中。
+> 由变态化身成为变态，也就是真·变态，也就是说，完全变态呢。
 > 
-> ——万国志
+> ——一拳超人
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 00:35:10
+Autogen by LittleJake at 02:24:54
