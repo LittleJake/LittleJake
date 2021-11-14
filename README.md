@@ -1,15 +1,15 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 11/13/2021.
+Today is 11/14/2021.
 
 ### Hitokoto
 
-> 我不会忘记，一直，都留在我的心间。
+> Oh,please don't let me die. Waiting for your touch.
 > 
-> ——文学少女
+> ——Re：从零开始的异世界生活
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 22:09:56
+Autogen by LittleJake at 00:37:25
