@@ -6,10 +6,10 @@ Today is 11/14/2021.
 
 ### Hitokoto
 
-> 理解何为孤单，努力想得到爱的你，内心的悲伤是否稍微宣泄了呢？
+> 真真需要记住的不是立华奏，而是天使身体里跳动的那颗永不结弦之心。
 > 
-> ——夏目友人帐
+> ——天使的心跳
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 06:12:24
+Autogen by LittleJake at 08:12:18
