@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,10 +6,10 @@ Today is 11/15/2021.
 
 ### Hitokoto
 
-> 世界上没有一个人能代替另一个人。
+> 人类的伟大就是勇气的伟大！人类的赞歌就是勇气的赞歌！
 > 
-> ——人型电脑天使心
+> ——jojo的奇妙冒险
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 14:10:16
+Autogen by LittleJake at 16:16:05
