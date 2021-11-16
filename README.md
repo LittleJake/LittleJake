@@ -6,10 +6,10 @@ Today is 11/16/2021.
 
 ### Hitokoto
 
-> 重要的不是你做了多少事，而是你放了多少心思进去。
+> 欧拉欧拉欧拉欧拉！
 > 
-> ——凉宫春日的忧郁
+> ——JOJO的奇妙冒险
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 12:16:47
+Autogen by LittleJake at 14:10:10
