@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,10 +6,10 @@ Today is 11/17/2021.
 
 ### Hitokoto
 
-> 不相信人咬不到肚脐的，咬破肚脐去死如何？
+> 重要的不是你做了多少事，而是你放了多少心思进去。
 > 
-> ——海猫鸣泣之时
+> ——凉宫春日的忧郁
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 08:12:50
+Autogen by LittleJake at 10:13:13
