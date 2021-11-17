@@ -2,14 +2,14 @@
 
 Good evening work time!
 
-Today is 11/16/2021.
+Today is 11/17/2021.
 
 ### Hitokoto
 
-> 胜而不灭，霸而不辱，这才是真正的征服。
+> 自己的过去会被当做笑话或者捏他的形式，被他人随随便便的共有化。
 > 
-> ——fate zero
+> ——我的青春恋爱物语果然有问题
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 22:10:38
+Autogen by LittleJake at 00:36:22
