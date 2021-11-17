@@ -8,7 +8,7 @@ IMGS = ['20201026111223.png', '20201026130220.png', '20201026130227.png', '20201
         '20201026130233.png', '20201026130159.png', '20201026130212.png']
 
 def get_hitokoto():
-    q = requests.get("https://cdn.jsdelivr.net/gh/hitokoto-osc/sentences-bundle@1.0.89/sentences/a.json")
+    q = requests.get("https://cdn.jsdelivr.net/gh/hitokoto-osc/sentences-bundle/sentences/a.json")
     return choice(q.json())
 
 
