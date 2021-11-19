@@ -6,10 +6,10 @@ Today is 11/19/2021.
 
 ### Hitokoto
 
-> 君子无争，含光无形，坐忘无心。
+> 嗯，明白。我们是天人的Gundam Meister
 > 
-> ——秦时明月
+> ——机动战士高达00
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 18:12:24
+Autogen by LittleJake at 20:11:20
