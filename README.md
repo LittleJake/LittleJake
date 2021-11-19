@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,10 +6,10 @@ Today is 11/19/2021.
 
 ### Hitokoto
 
-> 爱一定存在于世上 一定存在 无从寻觅的是爱的表现 是它的表达方式
+> I'm bad, and that's good. I will never be good, and that's not bad. There's no one I'd rather be than me.
 > 
-> ——月色真美
+> ——无敌破坏王
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 12:16:58
+Autogen by LittleJake at 14:10:02
