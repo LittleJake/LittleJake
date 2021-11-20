@@ -6,10 +6,10 @@ Today is 11/20/2021.
 
 ### Hitokoto
 
-> 我不相信人类......但是，我相信人类的“可能性”
+> 就一会儿，再在这里待一会儿好吗？我要把你深深地印在脑海里，为了只要闭上眼，就能随时见到花丛中的你。
 > 
-> ——游戏人生
+> ——元气少女缘结神◎ 10集 21:55
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 06:12:32
+Autogen by LittleJake at 08:12:34
