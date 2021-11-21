@@ -6,10 +6,10 @@ Today is 11/21/2021.
 
 ### Hitokoto
 
-> 喜欢你，因为我喜欢你，比地球上任何人都，喜欢你...
+> 魔装少女就是本少爷！
 > 
-> ——名侦探柯南
+> ——这是僵尸吗？
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 14:09:30
+Autogen by LittleJake at 16:15:12
