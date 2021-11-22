@@ -6,10 +6,10 @@ Today is 11/22/2021.
 
 ### Hitokoto
 
-> 我想你们的努力一定会有回报的
+> 痴情的妖怪啊,请再等一世吧。
 > 
-> ——龙与虎
+> ——狐妖小红娘
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 08:13:26
+Autogen by LittleJake at 10:11:48
