@@ -6,10 +6,10 @@ Today is 11/22/2021.
 
 ### Hitokoto
 
-> 正因为生命有限，所以才显得重要，正因为生命有限，所以才更应该努力不懈！
+> 对自己有自信时，不能对别人说「期待」。所谓的「期待」是放弃时的托词，因为别无选择。若缺少这种无奈感，这个词就太虚伪了。
 > 
-> ——名侦探柯南
+> ——冰菓
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 20:11:24
+Autogen by LittleJake at 22:10:56
