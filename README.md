@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,10 +6,10 @@ Today is 11/23/2021.
 
 ### Hitokoto
 
-> “如果我不在了，你会怎样？” “我会去找你” “如果找不见呢？” “我会一直，一直，一直找下去”
+> 得到更多人的认可，带著大家的爱意加油哦！
 > 
-> ——人鱼森林
+> ——内田彩致南小鸟
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 18:11:50
+Autogen by LittleJake at 20:11:34
