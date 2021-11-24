@@ -6,10 +6,10 @@ Today is 11/24/2021.
 
 ### Hitokoto
 
-> 或许前路永夜，即便如此我也要前进，因为星光即使微弱也会为我照亮前路。
+> 男人许下的诺言就一定要遵守。
 > 
-> ——四月是你的谎言
+> ——海贼王
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 18:12:27
+Autogen by LittleJake at 20:11:28
