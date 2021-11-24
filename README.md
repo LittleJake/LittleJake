@@ -6,10 +6,10 @@ Today is 11/24/2021.
 
 ### Hitokoto
 
-> 失望了吗？没错，世上或许有些东西别打开比较好，真正把心打开的人多么麻烦啊！
+> 今宵之月，绝不西沉。只此美梦，不再苏醒。从今往后，生生世世，长相厮守，为你立誓。
 > 
-> ——绝望先生
+> ——银魂
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 14:10:18
+Autogen by LittleJake at 16:16:13
