@@ -6,10 +6,10 @@ Today is 11/24/2021.
 
 ### Hitokoto
 
-> 男人许下的诺言就一定要遵守。
+> 你驻足于春色中，于那独一无二的春色之中。
 > 
-> ——海贼王
+> ——四月是你的谎言
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 20:11:28
+Autogen by LittleJake at 22:10:39
