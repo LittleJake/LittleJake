@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,10 +6,10 @@ Today is 11/24/2021.
 
 ### Hitokoto
 
-> 人和人之间就像这风筝一样，拉的太紧就飞不远，放的太松又掉下来，而当它飞的很高很高你还拽着不放，它就有可能会断掉，再也回不来了。
+> 凡人、笨蛋！
 > 
-> ——灵契
+> ——维多利加·德·布洛瓦
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 00:36:38
+Autogen by LittleJake at 02:25:43
