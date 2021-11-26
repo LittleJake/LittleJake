@@ -1,15 +1,15 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 11/26/2021.
 
 ### Hitokoto
 
-> 只要能和大家一起唱歌，大概就算毕业以后我们分开了，只要听见这首歌就能回想起现在。
+> 人们把自己不能理解的状态称之为疯狂。
 > 
-> ——TARI TARI
+> ——尸者的帝国
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 04:13:57
+Autogen by LittleJake at 06:13:17
