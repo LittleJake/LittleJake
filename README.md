@@ -1,15 +1,15 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 11/27/2021.
 
 ### Hitokoto
 
-> 人经历风浪是会变得更强，可是船不同，日积月累的只有伤痛。
+> 我们终会相遇相知，在那悠远的苍穹。
 > 
-> ——海贼王
+> ——缘之空
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 16:15:21
+Autogen by LittleJake at 18:11:49
