@@ -6,10 +6,10 @@ Today is 11/28/2021.
 
 ### Hitokoto
 
-> 有型的东西终究会消逝，不过……终于，这份回忆还是永远不朽的…
+> 尽情的依靠我吧，因为总有一天我也会依靠你的。
 > 
-> ——火影忍者
+> ——妖精的尾巴
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 20:10:35
+Autogen by LittleJake at 22:10:00
