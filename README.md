@@ -2,14 +2,14 @@
 
 Good evening work time!
 
-Today is 11/27/2021.
+Today is 11/28/2021.
 
 ### Hitokoto
 
-> 我的眼睛，就是为了寻找你而存在的。
+> 我除了投三分，就什么都没有了…
 > 
-> ——H2O
+> ——灌篮高手
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
-Autogen by LittleJake at 23:17:58
+Autogen by LittleJake at 00:38:03
