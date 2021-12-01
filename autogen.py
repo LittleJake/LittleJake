@@ -26,7 +26,7 @@ def generate_readme(hitokoto):
         fp.write("### Hitokoto\n\n> {}\n> \n> ——{}\n\n".format(hitokoto['hitokoto'],hitokoto['from']))
         fp.write("![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)\n\n")
         fp.write("### Donate\n\n")
-        fp.write("<a href='https://www.buymeacoffee.com/littlejake' align='right'><img alt='buymeacoffee' src='https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9pbWcuYnV5bWVhY29mZmVlLmNvbS9hcGkvP25hbWU9TGl0dGxlSmFrZSZzaXplPTMwMCZiZy1pbWFnZT1ibWMmYmFja2dyb3VuZD1CRDVGRkY=&creator=LittleJake&is_creating=creating%20everything&design_code=1&design_color=%23BD5FFF&slug=littlejake' style='max-width:100px;'></a>\n\n")
+        fp.write("<a href='https://www.buymeacoffee.com/littlejake'><img align='right' alt='buymeacoffee' src='https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9pbWcuYnV5bWVhY29mZmVlLmNvbS9hcGkvP25hbWU9TGl0dGxlSmFrZSZzaXplPTMwMCZiZy1pbWFnZT1ibWMmYmFja2dyb3VuZD1CRDVGRkY=&creator=LittleJake&is_creating=creating%20everything&design_code=1&design_color=%23BD5FFF&slug=littlejake' style='max-width:30%;'></a>\n\n")
         fp.write("<a href='https://afdian.net/@LittleJake'>Aifadian</a>\n\n")
         fp.write("Autogen by LittleJake at {}".format(time.strftime("%H:%M:%S")))
     return
