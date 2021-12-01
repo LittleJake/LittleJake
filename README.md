@@ -6,9 +6,9 @@ Today is 12/01/2021.
 
 ### Hitokoto
 
-> 有话直说就是我的忍道！
+> 那只萤火虫在很长很长的时间里都是独自一人生活，甚至忘了自己是只萤火虫。
 > 
-> ——火影忍者
+> ——小鸠
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/01/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 18:13:04
+Autogen by LittleJake at 20:11:40
