@@ -2,13 +2,13 @@
 
 Good evening work time!
 
-Today is 12/01/2021.
+Today is 12/02/2021.
 
 ### Hitokoto
 
-> 有时语言就像把利刃，使用不当，就会成为凶器。
+> 你还是...笑起来...最棒了
 > 
-> ——名侦探柯南
+> ——最终幻想XIV
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/01/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 22:10:48
+Autogen by LittleJake at 00:36:52
