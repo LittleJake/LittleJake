@@ -6,9 +6,9 @@ Today is 12/02/2021.
 
 ### Hitokoto
 
-> 人在直面恐惧的时候，自身的灵魂将会受到考验。降生于这世界，究竟有何所求，要成何事，其本性会暴露无遗。
+> おれは 人の悲しさを 悲しい感じる心があるんなって事を 忘れなくない それを受け止められる人间になりたいです。
 > 
-> ——PSYCHO-PASS
+> ——机动战士高达独角兽
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/02/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 02:27:12
+Autogen by LittleJake at 04:13:47
