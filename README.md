@@ -6,9 +6,9 @@ Today is 12/02/2021.
 
 ### Hitokoto
 
-> 人找不到某种东西沉迷就活不下来。人都是某种东西的奴隶。
+> 只要你们不停下来，那前面就一定有我。所以啊，不要停下来……
 > 
-> ——进击的巨人
+> ——机动战士高达 铁血的奥尔芬斯
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/02/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 12:17:07
+Autogen by LittleJake at 14:10:28
