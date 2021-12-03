@@ -6,9 +6,9 @@ Today is 12/03/2021.
 
 ### Hitokoto
 
-> 就算没有意义，偶尔也会有好事发生。
+> 年华无多时，恋爱吧男子！
 > 
-> ——终末少女旅行
+> ——源君物语
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/03/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 00:37:05
+Autogen by LittleJake at 02:26:52
