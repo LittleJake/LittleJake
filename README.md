@@ -6,9 +6,9 @@ Today is 12/03/2021.
 
 ### Hitokoto
 
-> 我本身得不到答案。所以，我希望有能够答出来之物的诞生。
+> 真正的危机不是机器人像人一样思考，而是人像机器一样思考。
 > 
-> ——Fate/Stay Night
+> ——凉宫春日的忧郁
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/03/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 14:10:35
+Autogen by LittleJake at 16:16:26
