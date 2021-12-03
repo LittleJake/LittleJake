@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 12/03/2021.
 
 ### Hitokoto
 
-> 我们只是历史的过客，目标渺茫，无地自容。我们没有世界大战可以经历，也没有经济大萧条可以恐慌。我们的战争充其量不过是内心之战，我们最大的恐慌就是自己的生活。
+> 愿你有一天，能和你最重要的人重逢。
 > 
-> ——搏击俱乐部
+> ——可塑性记忆
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/03/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 10:11:45
+Autogen by LittleJake at 12:17:11
