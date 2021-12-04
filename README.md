@@ -6,9 +6,9 @@ Today is 12/04/2021.
 
 ### Hitokoto
 
-> 梦想是否无聊并不是别人来决定的，不管是什么样的梦想，自己拼命努力去追寻才是最重要的。
+> 努力可是要默默藏起来的。
 > 
-> ——守护甜心
+> ——Re：从零开始的异世界生活
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/04/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 08:13:03
+Autogen by LittleJake at 10:11:15
