@@ -14,7 +14,7 @@ Today is 12/05/2021.
 
 ### Donate
 
-<a href='https://www.buymeacoffee.com/littlejake'><img align='right' alt='buymeacoffee' src='https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/buymeacoffee.svg' style='max-width:30%;'></a>
+<a href='https://www.buymeacoffee.com/littlejake'><img align='right' alt='buymeacoffee' src='https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/buymeacoffee.svg' width='150'></a>
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
