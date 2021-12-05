@@ -6,9 +6,9 @@ Today is 12/05/2021.
 
 ### Hitokoto
 
-> 鸣神の　少しとよみて　さし昙り　雨も降らんか　君を留めん
+> 我不会让任何人看到我软弱的一面。
 > 
-> ——言叶之庭
+> ——桔梗
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/05/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 02:31:13
+Autogen by LittleJake at 04:14:16
