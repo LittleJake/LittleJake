@@ -26,7 +26,7 @@ def generate_readme(hitokoto):
         fp.write("### Hitokoto\n\n> {}\n> \n> ——{}\n\n".format(hitokoto['hitokoto'],hitokoto['from']))
         fp.write("![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)\n\n")
         fp.write("### Donate\n\n")
-        fp.write("<a href='https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/buymeacoffee.svg'></a>\n\n")
+        fp.write("<a href='https://www.buymeacoffee.com/littlejake'><img alt='buymeacoffee' src='https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/buymeacoffee.svg' width='50'></a>\n\n")
         fp.write("<a href='https://afdian.net/@LittleJake'>Aifadian</a>\n\n")
         fp.write("Autogen by LittleJake at {}".format(time.strftime("%H:%M:%S")))
     return
