@@ -6,9 +6,9 @@ Today is 12/05/2021.
 
 ### Hitokoto
 
-> 女人的武器不是眼泪，而是微笑。
+> 你指尖跳动的电光，是我此生不变的信仰
 > 
-> ——凉宫春日的忧郁
+> ——某科学的超电磁炮
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/05/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 12:16:29
+Autogen by LittleJake at 14:09:40
