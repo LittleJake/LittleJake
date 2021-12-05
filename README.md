@@ -6,9 +6,9 @@ Today is 12/05/2021.
 
 ### Hitokoto
 
-> 别人恋爱不成功，你连暗恋都不成功！
+> 十代目的意志就是我们的意志！
 > 
-> ——灌篮高手
+> ——家庭教师
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/05/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 20:11:22
+Autogen by LittleJake at 22:10:10
