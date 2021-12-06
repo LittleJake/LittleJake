@@ -6,9 +6,9 @@ Today is 12/06/2021.
 
 ### Hitokoto
 
-> 前天是小兔子，昨天是小鹿，今天是你。
+> 孩子，我愿意为你而前行。
 > 
-> ——Clannad
+> ——灵笼
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/06/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 00:39:01
+Autogen by LittleJake at 02:29:05
