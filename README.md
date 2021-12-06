@@ -6,9 +6,9 @@ Today is 12/06/2021.
 
 ### Hitokoto
 
-> 枷锁，自然规律，时光的流逝，名为身体的容器，名为心灵的自我。
+> 这个地方的人们，就是我战斗的理由。
 > 
-> ——四月一日灵异事件薄
+> ——战翼的希格德莉法
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/06/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 08:13:25
+Autogen by LittleJake at 10:12:17
