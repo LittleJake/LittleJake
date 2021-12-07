@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 12/07/2021.
 
 ### Hitokoto
 
-> 所谓长大成人，就是不断聚了散，散了又聚。为了让彼此不会受伤害而保持一个适当的距离。
+> 人类的伟大就是勇气的伟大！人类的赞歌就是勇气的赞歌！
 > 
-> ——新世纪福音战士
+> ——jojo的奇妙冒险
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/07/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 10:12:55
+Autogen by LittleJake at 12:18:42
