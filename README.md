@@ -6,9 +6,9 @@ Today is 12/07/2021.
 
 ### Hitokoto
 
-> 笑是对身边的事物感到一瞬间的幸福而表现出来的东西。
+> 重要的人，不能忘记的人，不想忘记的人。 你，是谁？
 > 
-> ——CLANNAD
+> ——你的名字
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/07/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 20:11:59
+Autogen by LittleJake at 22:10:53
