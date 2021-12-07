@@ -6,9 +6,9 @@ Today is 12/07/2021.
 
 ### Hitokoto
 
-> 我最喜欢三月的风，四月的雨，不落的太阳和最好的你
+> 告白当天就要H什么的，真是没办法的男人呢。
 > 
-> ——闺密
+> ——高坂桐乃
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/07/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 00:39:27
+Autogen by LittleJake at 02:31:42
