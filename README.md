@@ -6,9 +6,9 @@ Today is 12/09/2021.
 
 ### Hitokoto
 
-> 相信朋友是不需要理由的。
+> When the dawn is close inside, we never say good-bye and never see again.
 > 
-> ——从零开始的异世界生活 第二季
+> ——末日时在做什么？有没有空？可以来拯救吗？
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/09/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 00:38:02
+Autogen by LittleJake at 02:29:11
