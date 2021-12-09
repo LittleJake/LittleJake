@@ -6,9 +6,9 @@ Today is 12/09/2021.
 
 ### Hitokoto
 
-> 忘记本身就是一件不可能的事。
+> 人们只是用好人来称呼对自己有用的人而以，不存在对所有人都有用的人
 > 
-> ——我们的存在
+> ——进击的巨人
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/09/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 08:13:18
+Autogen by LittleJake at 10:12:13
