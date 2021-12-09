@@ -6,9 +6,9 @@ Today is 12/09/2021.
 
 ### Hitokoto
 
-> 痛苦着痛苦着，满脑子只能想我的事。
+> 忘记本身就是一件不可能的事。
 > 
-> ——四月是你的谎言
+> ——我们的存在
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/09/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 06:13:22
+Autogen by LittleJake at 08:13:18
