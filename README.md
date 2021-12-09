@@ -2,13 +2,13 @@
 
 Good evening work time!
 
-Today is 12/08/2021.
+Today is 12/09/2021.
 
 ### Hitokoto
 
-> 我看到这个世界的恶意，我们正在接受考验。
+> 相信朋友是不需要理由的。
 > 
-> ——机动战士高达00
+> ——从零开始的异世界生活 第二季
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/08/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 22:11:02
+Autogen by LittleJake at 00:38:02
