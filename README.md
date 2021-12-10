@@ -6,9 +6,9 @@ Today is 12/10/2021.
 
 ### Hitokoto
 
-> 遇到事情不能坐以待毙！
+> 我不是萝莉控，是妹控啊！
 > 
-> ——捷德奥特曼
+> ——我的妹妹不可能那么可爱第二季
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/10/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 02:26:46
+Autogen by LittleJake at 04:13:57
