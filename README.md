@@ -6,9 +6,9 @@ Today is 12/11/2021.
 
 ### Hitokoto
 
-> 好红，每当想起你，枫叶就会被染红。
+> 从你站在桥上看我的 那一刻起你就是我的世界。
 > 
-> ——银仙
+> ——火影忍者
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/11/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 00:36:26
+Autogen by LittleJake at 02:29:48
