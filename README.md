@@ -2,13 +2,13 @@
 
 Good evening work time!
 
-Today is 12/11/2021.
+Today is 12/12/2021.
 
 ### Hitokoto
 
-> 在末日中，人们总想寻找希望，但要真有希望的话，那还叫末日吗？
+> 据说之所以有人出现在梦中，是因为对方想见你的心情穿过身体，飞进了你的梦中。
 > 
-> ——灵笼
+> ——蜂蜜与四叶草
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/11/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 22:10:14
+Autogen by LittleJake at 00:40:22
