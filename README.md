@@ -6,9 +6,9 @@ Today is 12/12/2021.
 
 ### Hitokoto
 
-> 据说之所以有人出现在梦中，是因为对方想见你的心情穿过身体，飞进了你的梦中。
+> 不管是怎样的回忆，都是我们活过的人生。
 > 
-> ——蜂蜜与四叶草
+> ——Angel Beats!
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/12/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 00:40:22
+Autogen by LittleJake at 02:29:06
