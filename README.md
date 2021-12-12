@@ -6,9 +6,9 @@ Today is 12/12/2021.
 
 ### Hitokoto
 
-> 醒来的时候 不知道自己为什么哭 时常会有的事情 做过的梦总是回想不起 只是 一种有什么消失的丧失感
+> 喜欢你，因为我喜欢你，比地球上任何人都，喜欢你...
 > 
-> ——你的名字
+> ——名侦探柯南
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/12/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 12:16:31
+Autogen by LittleJake at 14:09:47
