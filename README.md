@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 12/13/2021.
 
 ### Hitokoto
 
-> 死亡只要在人生的终点尝试一次就够了~
+> 你知道吗？从人眼的高度能看到的地平线，是离自身的距离大约是4公里。
 > 
-> ——Re：从零开始的异世界生活
+> ——青春猪头少年不会梦到兔女郎学姐
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/13/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 06:13:20
+Autogen by LittleJake at 08:13:28
