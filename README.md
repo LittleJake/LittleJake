@@ -6,9 +6,9 @@ Today is 12/14/2021.
 
 ### Hitokoto
 
-> 十年前的你，喜欢过我吗？
+> 假如我们相遇，肯定一眼就能认出彼此
 > 
-> ——路人女主的养成方法
+> ——你的名字
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/14/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 18:12:55
+Autogen by LittleJake at 20:11:46
