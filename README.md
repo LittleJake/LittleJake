@@ -6,9 +6,9 @@ Today is 12/14/2021.
 
 ### Hitokoto
 
-> 不相信人咬不到肚脐的，咬破肚脐去死如何？
+> 人总有一天会孤独一人，然后活在自己的回忆中。为了能笑着于孤独相依为命，我决定战斗下去，决定不会再以泪洗面。
 > 
-> ——海猫鸣泣之时
+> ——天使的心跳
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/14/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 08:14:00
+Autogen by LittleJake at 10:12:02
