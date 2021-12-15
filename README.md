@@ -6,9 +6,9 @@ Today is 12/15/2021.
 
 ### Hitokoto
 
-> 话说回来，现充还真是麻烦啊。
+> 哭也不会改变什么，这个世界从来不会对任何人温柔。
 > 
-> ——我的青春恋爱物语果然有问题
+> ——黑执事
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/15/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 14:10:32
+Autogen by LittleJake at 16:16:16
