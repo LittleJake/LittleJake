@@ -6,9 +6,9 @@ Today is 12/15/2021.
 
 ### Hitokoto
 
-> 我只是做了我能做的事，没有时间想将来。
+> 无限接近于零，却又不等于零的可能性。
 > 
-> ——秒速五厘米
+> ——游戏人生
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/15/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 00:37:47
+Autogen by LittleJake at 02:28:56
