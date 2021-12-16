@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 12/16/2021.
 
 ### Hitokoto
 
-> 就一会儿，再在这里待一会儿好吗？我要把你深深地印在脑海里，为了只要闭上眼，就能随时见到花丛中的你。
+> 不要，我现在暂时留在他身边，直到那转瞬即逝的日子到来。
 > 
-> ——元气少女缘结神◎ 10集 21:55
+> ——夏目友人帐
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/16/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 16:16:57
+Autogen by LittleJake at 18:12:58
