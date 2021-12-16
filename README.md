@@ -6,9 +6,9 @@ Today is 12/16/2021.
 
 ### Hitokoto
 
-> 羁绊是那不可切断的深切联系。即使分离，心与心也紧紧的连在一起。
+> 是我，是我先，明明都是我先来的，接吻也好，拥抱也好，还是喜欢上那家伙也好。
 > 
-> ——假面骑士kabuto
+> ——白色相簿2
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/16/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 20:11:53
+Autogen by LittleJake at 22:10:45
