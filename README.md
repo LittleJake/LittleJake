@@ -6,9 +6,9 @@ Today is 12/17/2021.
 
 ### Hitokoto
 
-> 站起来！站起来啊！你是我的腿吧！站起来啊！
+> 汝真是个烂好人
 > 
-> ——四月是你的谎言
+> ——狼与香辛料
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/17/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 02:30:57
+Autogen by LittleJake at 04:14:07
