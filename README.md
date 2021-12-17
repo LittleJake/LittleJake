@@ -6,9 +6,9 @@ Today is 12/17/2021.
 
 ### Hitokoto
 
-> 梦想是什么，梦想是现实的延续；现实是什么，现实是梦想的终结。
+> 我也许能再一次找到活着的目的，也许能再一次找到活着的意义，为了那些人，奉献出我的人生的话……
 > 
-> ——EVA
+> ——Angelbeats
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/17/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 14:10:28
+Autogen by LittleJake at 16:16:27
