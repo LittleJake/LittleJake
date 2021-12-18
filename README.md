@@ -6,9 +6,9 @@ Today is 12/18/2021.
 
 ### Hitokoto
 
-> 美好的事情，现在才开始呐。
+> 不要哀求，学会争取；若是如此，终有所获。
 > 
-> ——Clannad
+> ——交响诗篇
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/18/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 14:09:37
+Autogen by LittleJake at 16:15:42
