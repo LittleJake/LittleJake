@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 12/18/2021.
 
 ### Hitokoto
 
-> 如果基拉被抓住了，那他就是邪恶，如果基拉统治了世界，那他就是正义。
+> 没有一封信不必要被送达，因为没有一份思念不需要被送达。
 > 
-> ——死亡笔记
+> ——紫罗兰的永恒花园
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/18/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 04:13:59
+Autogen by LittleJake at 06:13:09
