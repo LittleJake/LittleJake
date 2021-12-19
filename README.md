@@ -6,9 +6,9 @@ Today is 12/19/2021.
 
 ### Hitokoto
 
-> 自古以来，天空上就是另一个世界。
+> 人总有一天都会死的，但正因为生命是有限的，才能够欢喜和悲伤。
 > 
-> ——天气之子
+> ——通灵王
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/19/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 20:11:19
+Autogen by LittleJake at 22:10:24
