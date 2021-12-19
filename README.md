@@ -6,9 +6,9 @@ Today is 12/19/2021.
 
 ### Hitokoto
 
-> 祈求别人幸福的同时,却不得不去诅咒其他的人,我们魔法少女就是这样的构造吧!
+> 用我的左手将你那个不可理喻的幻想粉碎掉！
 > 
-> ——魔法少女小圆
+> ——魔法禁书目录
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/19/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 00:41:46
+Autogen by LittleJake at 02:32:38
