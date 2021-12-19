@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 12/19/2021.
 
 ### Hitokoto
 
-> 世间万物，如果一直放着不管的话，便一定会向不好的方向发展。就像即使如何的努力也无法阻止宇宙变冷一样。只是按照‘常理进行’不断积累而构筑出的世界，无论如何也无法脱离物理法则的束缚。
+> 花开得太好，所以摇摇欲坠；这一切的事情，老得这样快；世间一直熙攘着。
 > 
-> ——虚渊玄
+> ——素年锦时
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/19/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 12:17:06
+Autogen by LittleJake at 14:09:57
