@@ -6,9 +6,9 @@ Today is 12/20/2021.
 
 ### Hitokoto
 
-> 真正的危机不是机器人像人一样思考，而是人像机器一样思考。
+> 如果结果不如你所愿，就在尘埃落定前奋力一搏。
 > 
-> ——凉宫春日的忧郁
+> ——夏目友人帐
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/20/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 12:18:54
+Autogen by LittleJake at 14:10:39
