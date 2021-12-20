@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 12/20/2021.
 
 ### Hitokoto
 
-> 我们还没年老到，对被注定的未来，欣然接受的年纪。想要去到更高的地方，我们便无所畏惧。
+> 你从我的手中展翅高飞，我深受打击。在这世上的某处，再次寻找崭新的你的影子，那就是我们之间的美好结局。
 > 
-> ——数码宝贝：最后的进化 絆
+> ——骚动时节的少女们啊
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/20/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 00:40:08
+Autogen by LittleJake at 02:31:59
