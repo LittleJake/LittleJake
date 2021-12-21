@@ -6,9 +6,9 @@ Today is 12/21/2021.
 
 ### Hitokoto
 
-> 独步天下，吾心自洁，无欲无求，如林中之象。
+> 前天是小兔子，昨天是小鹿，今天是你。
 > 
-> ——攻壳机动队Ⅱ无罪
+> ——CLANNAD
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/21/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 06:13:50
+Autogen by LittleJake at 08:13:48
