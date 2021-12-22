@@ -6,9 +6,9 @@ Today is 12/22/2021.
 
 ### Hitokoto
 
-> 我可从来不认为恐惧可以成为舍弃他人的借口，人不能因为恐惧，就连身为人类的品性都丢掉。
+> 受虐狂的娇小美少年……真想带回家去养一段时间啊。
 > 
-> ——铁甲城的卡巴内瑞
+> ——赤井林檎
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/22/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 06:14:10
+Autogen by LittleJake at 08:13:55
