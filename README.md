@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 12/22/2021.
 
 ### Hitokoto
 
-> 受虐狂的娇小美少年……真想带回家去养一段时间啊。
+> 也许正义并非太阳，而是如同星星一般的东西，天空中有无数的星星，彼此不断抵消着其他星星的光芒。
 > 
-> ——赤井林檎
+> ——亚尔斯兰战纪
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/22/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 08:13:55
+Autogen by LittleJake at 10:12:25
