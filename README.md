@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 12/23/2021.
 
 ### Hitokoto
 
-> 明明只是活着，哀伤却无处不在…
+> 有很多辛苦的事情，从结果上来说并不好。但是一起努力的过程，绝对不是没用的。我是这么想的。所以现在不是停滞不前的时候。
 > 
-> ——秒速五厘米
+> ——如果有个妹妹就好了
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/23/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 10:12:06
+Autogen by LittleJake at 12:18:14
