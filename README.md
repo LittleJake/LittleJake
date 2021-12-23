@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 12/23/2021.
 
 ### Hitokoto
 
-> 翠星石最喜欢苍星石的说,所以到死也要在一起的说...
+> 无知而又纯洁的岁月。是任何人都曾拥有的。世界上没有一成不变的事务。所以只要以其他方式找到自己的快乐就行了。
 > 
-> ——Rozen Maiden
+> ——CLANNAD
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/23/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 04:14:56
+Autogen by LittleJake at 06:13:38
