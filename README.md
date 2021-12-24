@@ -6,9 +6,9 @@ Today is 12/24/2021.
 
 ### Hitokoto
 
-> 我不是天生的王者 但我骨子里流动着不让我低头的血液
+> 我不渴望什么在别的城市迎来的春天，只要和你在一起的春天就好，只要和你在一起就好
 > 
-> ——海贼王
+> ——CLANNAD
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/24/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 14:10:18
+Autogen by LittleJake at 16:16:29
