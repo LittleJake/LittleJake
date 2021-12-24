@@ -6,9 +6,9 @@ Today is 12/24/2021.
 
 ### Hitokoto
 
-> 优秀的幼苗应该有与之相称的土壤，贫瘠的土地是无法结出丰盛果实的。
+> 长大了，才能体会什么是责任！
 > 
-> ——排球少年
+> ——家庭
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/24/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 06:13:45
+Autogen by LittleJake at 08:13:58
