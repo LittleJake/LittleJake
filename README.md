@@ -2,13 +2,13 @@
 
 Good evening work time!
 
-Today is 12/24/2021.
+Today is 12/25/2021.
 
 ### Hitokoto
 
-> 梦总是有会醒来的时候，不会醒的梦总有一天会变成悲伤。
+> 最初的一步，泪水之后再一次，雕刻的风景线，消逝在黄昏中的风，直到梦的最后。
 > 
-> ——AIR
+> ——Clannad
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,4 +18,4 @@ Today is 12/24/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 22:10:42
+Autogen by LittleJake at 00:38:08
