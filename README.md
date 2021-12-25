@@ -6,9 +6,9 @@ Today is 12/25/2021.
 
 ### Hitokoto
 
-> 有一天，你到了人类的世界，不要去爱上一个人，因为，爱上一个人，会让你真正变成孤单一人。
+> 冈崎，永远都别迷失自己最珍爱的事物啊。
 > 
-> ——朝花夕誓
+> ——CLANNAD ～AFTER STORY～
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 12/25/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 08:13:13
+Autogen by LittleJake at 10:11:16
