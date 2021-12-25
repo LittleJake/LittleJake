@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,15 +6,15 @@ Today is 12/25/2021.
 
 ### Hitokoto
 
-> 你指尖跳动的电光，是我此生不变的信仰
+> 做出一副温柔的样子来折磨人不是更令人难受吗？
 > 
-> ——某科学的超电磁炮
+> ——我的青春恋爱物语果然有问题
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleJake&layout=compact)
 
-[![Jake Liu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LittleJake)](https://wakatime.com/@LittleJake
+[![Jake Liu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LittleJake)](https://wakatime.com/@LittleJake)
 
 ### Donate
 
@@ -22,4 +22,4 @@ Today is 12/25/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 06:31:56
+Autogen by LittleJake at 06:32:54
