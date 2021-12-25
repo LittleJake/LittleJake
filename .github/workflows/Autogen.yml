@@ -1,6 +1,8 @@
 name: Readme Autogen
 
 on: 
+  repository_dispatch:
+  workflow_dispatch:
   release:
     types: [published]
   push:
