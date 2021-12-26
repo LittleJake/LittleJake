@@ -6,9 +6,9 @@ Today is 12/26/2021.
 
 ### Hitokoto
 
-> 有了喜欢的人，就会在意各种小事，感觉很不自由，但是，为了那些小事左思右想，心里竟然会这么快乐。
+> 英雄意味着强大，英雄意味着孤独，最后一幕一定是英雄渐行渐远，我的英雄也是那样的存在。
 > 
-> ——闪烁的青春
+> ——四月是你的谎言
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 12/26/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 02:33:59
+Autogen by LittleJake at 04:14:21
