@@ -6,9 +6,9 @@ Today is 12/26/2021.
 
 ### Hitokoto
 
-> 卧龙低伏，入我阵来。
+> 我不喜欢这世界，我只喜欢你
 > 
-> ——一人之下
+> ——乔一
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 12/26/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 14:09:47
+Autogen by LittleJake at 16:15:51
