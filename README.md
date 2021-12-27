@@ -6,9 +6,9 @@ Today is 12/27/2021.
 
 ### Hitokoto
 
-> 这么温暖的世界里有我，要感谢神明了。
+> Star Burst Stream!
 > 
-> ——Comic Girls
+> ——刀剑神域
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 12/27/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 08:14:07
+Autogen by LittleJake at 10:12:10
