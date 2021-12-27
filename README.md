@@ -6,9 +6,9 @@ Today is 12/27/2021.
 
 ### Hitokoto
 
-> 经为流逝的日月。纬为人们的生业。
+> 天才的字典里，没有不可能这三个字。
 > 
-> ——朝花夕誓
+> ——灌篮高手
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 12/27/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 00:39:35
+Autogen by LittleJake at 02:31:22
