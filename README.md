@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 12/27/2021.
 
 ### Hitokoto
 
-> 天才的字典里，没有不可能这三个字。
+> 那似乎是比翼鸟。这种鸟天生单翼，须靠雌雄二鸟相互依偎才能翱翔天际，是种有缺陷的生物。但是，不知为何，我却感受到了这种生活方式的美妙。
 > 
-> ——灌篮高手
+> ——Darling in the FRANXX
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 12/27/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 02:31:22
+Autogen by LittleJake at 04:14:41
