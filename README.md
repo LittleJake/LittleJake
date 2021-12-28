@@ -6,9 +6,9 @@ Today is 12/28/2021.
 
 ### Hitokoto
 
-> “像你这样的白痴是怎么活过来的？”“因为我很自信。
+> 将所有人类当成玩偶的神,本身居然也是个小丑啊。
 > 
-> ——海贼王
+> ——Fate/Zero
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 12/28/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 08:14:13
+Autogen by LittleJake at 10:11:59
