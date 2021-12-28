@@ -6,9 +6,9 @@ Today is 12/28/2021.
 
 ### Hitokoto
 
-> 愿你有一天，能与你最重要的人重逢
+> 我最喜欢三月的风，四月的雨，不落的太阳和最好的你
 > 
-> ——可塑性记忆
+> ——闺密
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 12/28/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 02:31:11
+Autogen by LittleJake at 04:14:26
