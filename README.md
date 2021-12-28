@@ -6,9 +6,9 @@ Today is 12/28/2021.
 
 ### Hitokoto
 
-> 人类的赞歌就是勇气的赞歌
+> 即便分开，羁绊仍然是存在的，这就是所谓的家人。
 > 
-> ——JOJO的奇妙冒险
+> ——CLANNAD
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 12/28/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 12:17:58
+Autogen by LittleJake at 14:10:14
