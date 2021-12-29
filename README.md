@@ -6,9 +6,9 @@ Today is 12/29/2021.
 
 ### Hitokoto
 
-> 既然没有终点，那在何处又何妨呢。
+> 即使再也没有晴天也没有关系.
 > 
-> ——异度侵入
+> ——天气之子
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 12/29/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 14:10:25
+Autogen by LittleJake at 16:16:43
