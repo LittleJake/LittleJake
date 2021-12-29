@@ -6,9 +6,9 @@ Today is 12/29/2021.
 
 ### Hitokoto
 
-> 我下定决心要当海贼王，就算因此而战死，那也无所谓。
+> 苹果是给那些为了爱选择死亡的人的奖励
 > 
-> ——海贼王
+> ——回转企鹅罐
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 12/29/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 06:13:48
+Autogen by LittleJake at 08:13:44
