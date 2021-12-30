@@ -6,9 +6,9 @@ Today is 12/30/2021.
 
 ### Hitokoto
 
-> 星空之所以美丽，就是因为在无限的宇宙中，不管黑暗如何蔓延，都有星星的光芒去把它照亮。世界也是这样，有绝望的地方，就会有希望产生。
+> 你知道雪为什么是白色的吗？因为她忘记了本来的颜色。
 > 
-> ——星游记
+> ——反叛的鲁路修
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 12/30/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 18:12:56
+Autogen by LittleJake at 20:12:03
