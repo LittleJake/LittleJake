@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 12/30/2021.
 
 ### Hitokoto
 
-> 无论在哪里遇到你，我都会喜欢上你。
+> 男人许下的诺言就一定要遵守。
 > 
-> ——AngleBeats!
+> ——海贼王
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 12/30/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 02:30:19
+Autogen by LittleJake at 04:14:23
