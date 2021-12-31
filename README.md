@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,7 +6,7 @@ Today is 12/31/2021.
 
 ### Hitokoto
 
-> 难道我输了吗？
+> 死者的血泪混入滚滚的流沙之中...将会赐予修罗更强的力量...
 > 
 > ——火影忍者
 
@@ -22,4 +22,4 @@ Today is 12/31/2021.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 06:13:46
+Autogen by LittleJake at 08:13:48
