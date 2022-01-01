@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 01/01/2022.
 
 ### Hitokoto
 
-> 越是珍惜呆在这里的时间，今后就越是悲伤吧。但是我认为不能称之为「后悔」。
+> 或许前路永夜，即便如此我也要前进，因为星光即使微弱也会为我照亮前路。
 > 
-> ——小林家的龙女仆
+> ——四月是你的谎言
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/01/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 18:12:51
+Autogen by LittleJake at 20:11:53
