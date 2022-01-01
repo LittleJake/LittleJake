@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 01/01/2022.
 
 ### Hitokoto
 
-> 做出一副温柔的样子来折磨人不是更令人难受吗？
+> 花开得太好，所以摇摇欲坠；这一切的事情，老得这样快；世间一直熙攘着。
 > 
-> ——我的青春恋爱物语果然有问题
+> ——素年锦时
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/01/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 10:11:30
+Autogen by LittleJake at 12:17:21
