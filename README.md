@@ -6,9 +6,9 @@ Today is 01/01/2022.
 
 ### Hitokoto
 
-> 千军万马滚滚来，不知何人留情怀！
+> 不管对手是强是弱，结果只有胜负两种。输了的话，就无法站在球场上了。
 > 
-> ——Other
+> ——排球少年
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/01/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 00:40:45
+Autogen by LittleJake at 02:35:35
