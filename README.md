@@ -6,9 +6,9 @@ Today is 01/02/2022.
 
 ### Hitokoto
 
-> 无论人生过得怎么样，都不要失去自己活着的意义，努力的去追逐心中的梦想，留下自己曾经在这个世界活过的痕迹，不要等到一切都失去了才追悔莫及。
+> 你一直相信的事，也让我相信吧。活着，是件美好的事。
 > 
-> ——天使的心跳
+> ——Angle Beats
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/02/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 08:13:15
+Autogen by LittleJake at 10:11:34
