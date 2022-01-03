@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 01/03/2022.
 
 ### Hitokoto
 
-> 人不会对讨厌人要求理由。莫名的生气、莫名的讨厌、莫名的恶心、什么都能成为讨厌人的理由。
+> 只要记住你的名字，不管你在世界的哪个地方 ，我一定会，去见你。
 > 
-> ——果然我的青春恋爱喜剧搞错了
+> ——你的名字
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/03/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 14:10:38
+Autogen by LittleJake at 16:18:00
