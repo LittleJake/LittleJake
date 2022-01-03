@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 01/03/2022.
 
 ### Hitokoto
 
-> 对自己有自信时，不能对别人说「期待」。所谓的「期待」是放弃时的托词，因为别无选择。若缺少这种无奈感，这个词就太虚伪了。
+> 有些景色必须前进才能看到，那么只有勇往直前。
 > 
-> ——冰菓
+> ——如果有个妹妹就好了
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/03/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 06:14:03
+Autogen by LittleJake at 08:14:16
