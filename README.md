@@ -6,9 +6,9 @@ Today is 01/04/2022.
 
 ### Hitokoto
 
-> 我们都在命运之湖上荡舟划桨，波浪起伏着而我们无法逃脱孤航。但是假使我们迷失了方向，波浪将指引我们穿越另一天的曙光。
+> 这个世界啊，很美丽的，很广大的，很辽阔的！
 > 
-> ——死神
+> ——Darling in the FRANXX
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/04/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 00:40:27
+Autogen by LittleJake at 02:32:27
