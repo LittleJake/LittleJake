@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 01/04/2022.
 
 ### Hitokoto
 
-> 人总有一天会孤独一人，然后活在自己的回忆中。为了能笑着于孤独相依为命，我决定战斗下去，决定不会再以泪洗面。
+> 不管看到什么样的过去，都请不要迷失自己，不管你变成什么样子，我都是你的同伴。
 > 
-> ——天使的心跳
+> ——angel beats
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/04/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 18:13:16
+Autogen by LittleJake at 20:14:07
