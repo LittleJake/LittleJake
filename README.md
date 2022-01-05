@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 01/05/2022.
 
 ### Hitokoto
 
-> 只要抗争下去就能带来奇迹，这是恐怖分子的教诲，你给我记清楚了。
+> 我会死在这里，我的每一寸肌肤都会腐烂，除了…一寸，这一寸，它是那么的小，那么的脆弱，却是这世上唯一值得拥有的东西，我们决不能失去或者放弃它，我们决不能让别人把它夺走。
 > 
-> ——未来日记
+> ——碧之轨迹
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/05/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 06:14:02
+Autogen by LittleJake at 08:13:49
