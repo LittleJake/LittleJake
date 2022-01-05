@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 01/05/2022.
 
 ### Hitokoto
 
-> 我会死在这里，我的每一寸肌肤都会腐烂，除了…一寸，这一寸，它是那么的小，那么的脆弱，却是这世上唯一值得拥有的东西，我们决不能失去或者放弃它，我们决不能让别人把它夺走。
+> 世界是无情的，并不存在与生俱来的英雄。 所以只能由刚好在旁边的人粉墨登场， 演一出英雄的戏码。
 > 
-> ——碧之轨迹
+> ——魔法禁书目录
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/05/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 08:13:49
+Autogen by LittleJake at 10:12:11
