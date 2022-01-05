@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 01/05/2022.
 
 ### Hitokoto
 
-> 世界是无情的，并不存在与生俱来的英雄。 所以只能由刚好在旁边的人粉墨登场， 演一出英雄的戏码。
+> 在末日中，人们总想寻找希望，但要真有希望的话，那还叫希望吗？
 > 
-> ——魔法禁书目录
+> ——灵笼
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/05/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 10:12:11
+Autogen by LittleJake at 12:18:36
