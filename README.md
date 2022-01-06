@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 01/06/2022.
 
 ### Hitokoto
 
-> 以后继续来一起练习打篮球
+> 幸福的回忆，美满的回忆不一定会成为救赎，有时候，回忆越是美满便越痛苦，也有时候，会越害怕，无论是对于将要离开的人来说，还是对于被留下的人来说，都不可能会成为一种救赎。
 > 
-> ——湊智花
+> ——可塑性记忆
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/06/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 18:13:25
+Autogen by LittleJake at 20:11:40
