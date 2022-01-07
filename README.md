@@ -6,9 +6,9 @@ Today is 01/07/2022.
 
 ### Hitokoto
 
-> 喂，前面可是地狱啊！おい、この先は地狱だぜ！
+> 有些事情我不看透，不是我太笨，只是我太善良。
 > 
-> ——Fate/stay night
+> ——樱桃小丸子
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/07/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 12:18:26
+Autogen by LittleJake at 14:10:42
