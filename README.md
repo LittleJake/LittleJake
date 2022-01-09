@@ -6,9 +6,9 @@ Today is 01/09/2022.
 
 ### Hitokoto
 
-> 木叶飞舞之处，火亦生生不息
+> 世界上哪有不会输的英雄啊
 > 
-> ——火影忍者
+> ——凸变英雄
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/09/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 20:11:48
+Autogen by LittleJake at 22:10:44
