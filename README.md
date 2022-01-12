@@ -6,9 +6,9 @@ Today is 01/12/2022.
 
 ### Hitokoto
 
-> 所谓人，无论是谁到了最后，都会形单影只。
+> 青春是谎言，是邪恶。
 > 
-> ——悠久之翼2
+> ——春物
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/12/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 12:18:51
+Autogen by LittleJake at 14:10:40
