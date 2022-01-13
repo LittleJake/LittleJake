@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 01/13/2022.
 
 ### Hitokoto
 
-> 跌落谷底之后，唯有向上攀爬。
+> 这短短的一生，我们最终都会失去。你不妨大胆一些，爱一个人，攀一座山，追一个梦。
 > 
-> ——排球少年
+> ——大鱼海棠
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/13/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 14:10:43
+Autogen by LittleJake at 16:17:33
