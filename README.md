@@ -6,9 +6,9 @@ Today is 01/13/2022.
 
 ### Hitokoto
 
-> 时间带着明显的恶意，缓缓在我的头顶流逝。
+> 也许正义并非太阳，而是如同星星一般的东西，天空中有无数的星星，彼此不断抵消着其他星星的光芒。
 > 
-> ——秒速五厘米
+> ——亚尔斯兰战纪
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/13/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 02:34:59
+Autogen by LittleJake at 04:14:40
