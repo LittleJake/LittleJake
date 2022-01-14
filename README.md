@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 01/14/2022.
 
 ### Hitokoto
 
-> 只要有你想要保护的东西，那就拔剑好了。
+> 为了传达不到的思念而苦恼，只会感到痛不欲生。
 > 
-> ——银魂
+> ——WHITE FIRST LOVE
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/14/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 16:14:35
+Autogen by LittleJake at 18:13:27
