@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 01/14/2022.
 
 ### Hitokoto
 
-> 区区一只趴在地上的蝼蚁，谁允许你抬起头的， 虫子就要有虫子的样子，低头伏地然后去死。
+> 一日为灵，终生为影，灵气共生，魂命无分，阴阳调和，万物皆宁。
 > 
-> ——fate/zero
+> ——灵契
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/14/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 06:14:08
+Autogen by LittleJake at 08:14:06
