@@ -6,9 +6,9 @@ Today is 01/14/2022.
 
 ### Hitokoto
 
-> 喜欢的人喜欢别人不是很正常吗。
+> 王冠会让戴上它的人高人一头，是地位的象征。但王冠真正的意义是：当灾难从天而降时，我会为你们抵挡一切，永远让你们只看到金色的希望。
 > 
-> ——四月是你的谎言
+> ——星游记
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/14/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 20:12:22
+Autogen by LittleJake at 22:10:58
