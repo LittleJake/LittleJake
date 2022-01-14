@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 01/14/2022.
 
 ### Hitokoto
 
-> 那些坚定决心的人们，会展现出好脸色。
+> 区区一只趴在地上的蝼蚁，谁允许你抬起头的， 虫子就要有虫子的样子，低头伏地然后去死。
 > 
-> ——闪电十一人
+> ——fate/zero
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/14/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 04:14:39
+Autogen by LittleJake at 06:14:08
