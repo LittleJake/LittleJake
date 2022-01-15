@@ -6,9 +6,9 @@ Today is 01/15/2022.
 
 ### Hitokoto
 
-> 我只是做了我能做的事，没有时间想将来。
+> 不是为了战斗而活着，而是为了活着而战斗。
 > 
-> ——秒速五厘米
+> ——《DARLING in the FRANXX》
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/15/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 06:13:36
+Autogen by LittleJake at 08:13:44
