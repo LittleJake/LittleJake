@@ -6,9 +6,9 @@ Today is 01/16/2022.
 
 ### Hitokoto
 
-> 明明喜欢的不得了，可是看到对方幸福洋溢的表情，却觉得很难过、很痛苦，胸口发疼。
+> 你是否会等待着我？我会变得更加完美！
 > 
-> ——彩云国物语
+> ——Aqours
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/16/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 08:13:30
+Autogen by LittleJake at 10:11:57
