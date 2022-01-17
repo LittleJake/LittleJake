@@ -6,9 +6,9 @@ Today is 01/17/2022.
 
 ### Hitokoto
 
-> 只是相谈就会开心起来，沉浸在温柔的眼神当中，竭尽全力的思念，悄悄地奉献。
+> 此身为剑所天成，身如钢铁，心似琉璃。
 > 
-> ——School Days
+> ——Fate
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/17/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 12:19:05
+Autogen by LittleJake at 14:11:03
