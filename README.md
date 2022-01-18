@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 01/18/2022.
 
 ### Hitokoto
 
-> 死对任何人都是残酷的，年轻年老、好人坏人都一样。死是平等的，没哪种死亡是特别残酷的，所以死才可怕。品行、年龄、个性、金钱、美貌，这些东西只在生前才有意义。就因能将一切化为乌有，所以怎样的死都是残酷的。
+> 不要哀求，学会争取；若是如此，终有所获。
 > 
-> ——尸鬼
+> ——交响诗篇
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/18/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 16:17:57
+Autogen by LittleJake at 18:14:10
