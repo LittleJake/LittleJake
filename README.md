@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 01/18/2022.
 
 ### Hitokoto
 
-> 有光的地方必有影，有影的地方也必定有光，绝望的颜色越是浓重，一定会有光芒耀眼的希望。
+> 和她相遇的瞬间，我的人生就改变了。所见所闻所感，目之所及全都开始变得多姿多彩起来。
 > 
-> ——银魂
+> ——四月是你的谎言
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/18/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 06:12:28
+Autogen by LittleJake at 08:14:40
