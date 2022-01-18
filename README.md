@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 01/18/2022.
 
 ### Hitokoto
 
-> 聚拢，成形，捻转，回绕，时而返回，暂歇，再联结。这就是组纽。这就是时间。这就是，联结
+> 不能逃避，不能逃避，不能逃避，不能逃避⋯⋯
 > 
-> ——你的名字
+> ——EVA
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/18/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 00:42:56
+Autogen by LittleJake at 02:33:20
