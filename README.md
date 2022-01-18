@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 01/18/2022.
 
 ### Hitokoto
 
-> 不相信自己的人，连努力的价值都没有。
+> 星空之所以美丽，就是因为在无限的宇宙中，不管黑暗如何蔓延，都有星星的光芒去把它照亮。世界也是这样，有绝望的地方，就会有希望产生。
 > 
-> ——火影忍者
+> ——星游记
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/18/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 12:22:25
+Autogen by LittleJake at 14:11:08
