@@ -6,9 +6,9 @@ Today is 01/19/2022.
 
 ### Hitokoto
 
-> 超频链接
+> 不服从命令的人是人渣，抛弃同伴的人连人渣都不如。
 > 
-> ——加速世界
+> ——火影忍者
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/19/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 12:16:38
+Autogen by LittleJake at 14:10:10
