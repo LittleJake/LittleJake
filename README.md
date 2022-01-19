@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 01/19/2022.
 
 ### Hitokoto
 
-> 寂寞阴暗中度过，孤单孕育了怨与悲凉。锋利的伤痛刺入了我们彼此胸膛，这是我们无法躲避的惩罚，是我们不该任人生撩拨忧伤，不该走过之后又往回看。
+> 超频链接
 > 
-> ——火影忍者
+> ——加速世界
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/19/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 10:11:05
+Autogen by LittleJake at 12:16:38
