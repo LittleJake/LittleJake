@@ -6,9 +6,9 @@ Today is 01/19/2022.
 
 ### Hitokoto
 
-> 如果你是魔女，我只要化身魔王就可以了。
+> 除了这一颗心，都是你的。
 > 
-> ——反叛的鲁鲁修
+> ——人渣的本愿
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/19/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 20:11:06
+Autogen by LittleJake at 22:10:34
