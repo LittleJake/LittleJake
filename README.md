@@ -6,9 +6,9 @@ Today is 01/20/2022.
 
 ### Hitokoto
 
-> 与绝望~和睦相处。
+> 尽管我们的手中空无一物，却能因此紧紧相牵，当你一人时请别迷茫，因为我无论何时都不会放手。
 > 
-> ——少女终末旅行
+> ——尽管我们的手中空无一物
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/20/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 14:09:48
+Autogen by LittleJake at 16:15:52
