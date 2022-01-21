@@ -6,9 +6,9 @@ Today is 01/21/2022.
 
 ### Hitokoto
 
-> 人是可以改变一切的，世上的一切。
+> 人的记忆本来就是暧昧的，不值得信任。
 > 
-> ——吹响！上低音号
+> ——叛逆的鲁鲁修R2
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/21/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 06:12:57
+Autogen by LittleJake at 08:13:00
