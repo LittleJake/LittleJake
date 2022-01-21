@@ -6,9 +6,9 @@ Today is 01/21/2022.
 
 ### Hitokoto
 
-> 今まで生きてきで，今が一番幸せかもしれない。
+> 我没能说出口，不管是那句「我走了」，还是那句「对不起」，或者那句「谢谢」...
 > 
-> ——言叶之庭
+> ——TARI TARI
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/21/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 14:09:48
+Autogen by LittleJake at 16:15:04
