@@ -6,9 +6,9 @@ Today is 01/22/2022.
 
 ### Hitokoto
 
-> Don't forget. Always,somewhere,someone is fighting for you. As long as you remember her,you are not alone.
+> 是我，是我先，明明都是我先来的……接吻也好，拥抱也好，还是喜欢上那家伙也好
 > 
-> ——魔法少女小圆
+> ——白色相簿2
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/22/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 20:10:24
+Autogen by LittleJake at 22:09:54
