@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 01/22/2022.
 
 ### Hitokoto
 
-> 只要抗争下去就能带来奇迹，这是恐怖分子的教诲，你给我记清楚了。
+> 天空是连着的，如果我们也能各自发光的话，无论距离有多远，都能看到彼此努力的身影。
 > 
-> ——未来日记
+> ——龙虎斗
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/22/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 14:09:00
+Autogen by LittleJake at 16:14:28
