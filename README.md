@@ -6,9 +6,9 @@ Today is 01/22/2022.
 
 ### Hitokoto
 
-> 每个人每一天的价值都是完全相等的，无论做什么，都不会改变我今天活着的价值。
+> Don't forget. Always,somewhere,someone is fighting for you. As long as you remember her,you are not alone.
 > 
-> ——我想吃掉你的胰脏
+> ——魔法少女小圆
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/22/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 18:11:36
+Autogen by LittleJake at 20:10:24
