@@ -6,9 +6,9 @@ Today is 01/22/2022.
 
 ### Hitokoto
 
-> 即使作为代价要夺走我什么，即使接下来等待我的是什么，即使那样，我无论如何都不想失去他。
+> 坐上与学校相反方向的电车，展开没有目标的旅行，去往那从未见过的地方
 > 
-> ——少年阴阳师
+> ——比宇宙更远的地方
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/22/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 06:12:10
+Autogen by LittleJake at 08:12:07
