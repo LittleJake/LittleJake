@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 01/22/2022.
 
 ### Hitokoto
 
-> 天空是连着的，如果我们也能各自发光的话，无论距离有多远，都能看到彼此努力的身影。
+> 每个人每一天的价值都是完全相等的，无论做什么，都不会改变我今天活着的价值。
 > 
-> ——龙虎斗
+> ——我想吃掉你的胰脏
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/22/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 16:14:28
+Autogen by LittleJake at 18:11:36
