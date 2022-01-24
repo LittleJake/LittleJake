@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 01/24/2022.
 
 ### Hitokoto
 
-> 无可替代的存在什么的不是很可怕吗？一旦失去就再也无法取回；绝对不能容忍失败；无法再一次得到。
+> 战争是什么？战争只不过是一群人对于另一群人的屠杀，只不过是屠杀的对象有所不同而已。
 > 
-> ——果然我的青春恋爱喜剧搞错了
+> ——紫罗兰的永恒花园
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/24/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 04:13:31
+Autogen by LittleJake at 06:15:51
