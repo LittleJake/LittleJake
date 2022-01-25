@@ -6,9 +6,9 @@ Today is 01/25/2022.
 
 ### Hitokoto
 
-> 理解何为孤单，努力想得到爱的你，内心的悲伤是否稍微宣泄了呢？
+> 可爱即是正义。
 > 
-> ——夏目友人帐
+> ——游戏人生
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/25/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 12:17:32
+Autogen by LittleJake at 14:09:44
