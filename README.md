@@ -6,9 +6,9 @@ Today is 01/25/2022.
 
 ### Hitokoto
 
-> 前天是兔子，昨天是小鹿，今天是你
+> 哪怕是打断你的手脚，也要把你带回去。
 > 
-> ——Clannad
+> ——火影忍者
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/25/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 18:12:52
+Autogen by LittleJake at 20:10:53
