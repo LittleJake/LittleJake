@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 01/25/2022.
+Today is 01/26/2022.
 
 ### Hitokoto
 
-> 大家即将各自展开旅程，挥别这个没落的城镇。
+> 我从未让你们骄傲，你们却待我如宝。
 > 
-> ——仰望半月的夜空
+> ——Az殇芯的chx
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/25/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 22:10:25
+Autogen by LittleJake at 00:43:35
