@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,7 +6,7 @@ Today is 01/27/2022.
 
 ### Hitokoto
 
-> 就连一直都无容身之地的我……也不是可以任意舍弃的生命。
+> 看到的感受到的永远都不会消失永远都不会忘记，与各种各样的相遇一同永存。
 > 
 > ——夏目友人帐
 
@@ -22,4 +22,4 @@ Today is 01/27/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 00:38:15
+Autogen by LittleJake at 02:25:00
