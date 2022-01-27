@@ -6,9 +6,9 @@ Today is 01/27/2022.
 
 ### Hitokoto
 
-> 梦是现实的延续，现实是梦的终结。
+> When the dawn is close inside, we never say good-bye and never see again.
 > 
-> ——Eva
+> ——末日时在做什么？有没有空？可以来拯救吗？
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/27/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 14:10:39
+Autogen by LittleJake at 16:15:43
