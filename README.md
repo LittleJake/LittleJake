@@ -6,9 +6,9 @@ Today is 01/27/2022.
 
 ### Hitokoto
 
-> 看到的感受到的永远都不会消失永远都不会忘记，与各种各样的相遇一同永存。
+> 纵使日薄西山。
 > 
-> ——夏目友人帐
+> ——末日时在做什么
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/27/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 02:25:00
+Autogen by LittleJake at 04:13:14
