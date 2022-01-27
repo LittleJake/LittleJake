@@ -1,12 +1,12 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 01/26/2022.
+Today is 01/27/2022.
 
 ### Hitokoto
 
-> 就算是自私…我也希望那些人能够永远都有笑容…
+> 就连一直都无容身之地的我……也不是可以任意舍弃的生命。
 > 
 > ——夏目友人帐
 
@@ -22,4 +22,4 @@ Today is 01/26/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 22:09:58
+Autogen by LittleJake at 00:38:15
