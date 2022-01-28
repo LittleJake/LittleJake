@@ -6,9 +6,9 @@ Today is 01/28/2022.
 
 ### Hitokoto
 
-> 回首前尘，尽是可耻的过往
+> We've learned that friendship isn't always easy, but there's no doubt it's worth fighting for!
 > 
-> ——月色真美
+> ——My Little Pony: Friendship is Magic
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/28/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 02:27:23
+Autogen by LittleJake at 04:13:35
