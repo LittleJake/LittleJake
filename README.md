@@ -6,9 +6,9 @@ Today is 01/28/2022.
 
 ### Hitokoto
 
-> 我想要握紧的并不是匕首或是什么，只不过是他的掌心而已。
+> 回首前尘，尽是可耻的过往
 > 
-> ——空之境界
+> ——月色真美
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/28/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 00:38:36
+Autogen by LittleJake at 02:27:23
