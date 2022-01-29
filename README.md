@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 01/29/2022.
 
 ### Hitokoto
 
-> 你从我的手中展翅高飞，我深受打击。在这世上的某处，再次寻找崭新的你的影子，那就是我们之间的美好结局。
+> 我不努力，就见不到你了啊。
 > 
-> ——骚动时节的少女们啊
+> ——昨日之歌
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/29/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 14:09:07
+Autogen by LittleJake at 16:14:19
