@@ -6,9 +6,9 @@ Today is 01/29/2022.
 
 ### Hitokoto
 
-> ご無事で何よりです。
+> 世界は恋に落ちている。
 > 
-> ——妖狐X僕ss
+> ——青春之旅OP（我的世界已坠入爱河）
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/29/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 02:20:40
+Autogen by LittleJake at 04:13:08
