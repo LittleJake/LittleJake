@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 01/30/2022.
 
 ### Hitokoto
 
-> 醒来的时候 不知道自己为什么哭 时常会有的事情 做过的梦总是回想不起 只是 一种有什么消失的丧失感
+> 独步天下，吾心自洁，无欲无求，如林中之象。
 > 
-> ——你的名字
+> ——攻壳机动队Ⅱ无罪
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/30/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 08:11:56
+Autogen by LittleJake at 10:10:24
