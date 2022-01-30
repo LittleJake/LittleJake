@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 01/30/2022.
 
 ### Hitokoto
 
-> 这个世界上没有奇迹，有的只是偶然和必然，以及是谁在做些什么。一直期望着能出现奇迹的人们是不会发生奇迹
+> 能够原谅女人的，才是男人。
 > 
-> ——悠久之翼
+> ——海贼王
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +22,4 @@ Today is 01/30/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 02:23:49
+Autogen by LittleJake at 04:13:16
