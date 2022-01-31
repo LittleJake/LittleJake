@@ -1,14 +1,18 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
 Today is 01/31/2022.
 
+I'm capable of modifying many source code to fit my needs. Before that, I would leave issues to the maintainers, but get 80% negative replies which is pretty sad.
+
 ### Hitokoto
 
-> 爱迪生说过：“要把BOSS打倒就要准备足够的等级。”
+> 爱，其实很简单，困难的是去接受它。
 > 
-> ——学生会的一己之见
+> ——通灵王
+
+### Stat
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -22,4 +26,4 @@ Today is 01/31/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 10:11:31
+Autogen by LittleJake at 10:34:27
