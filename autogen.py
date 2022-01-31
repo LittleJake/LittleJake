@@ -23,7 +23,9 @@ def generate_readme(hitokoto):
     with open('README.md', 'w', encoding='utf-8') as fp:
         fp.write("<img alt='{}' src='{}{}' align='right' style='max-width:100%;'>\n\n".format(welcome, URL, choice(IMGS)))
         fp.write("{}!\n\nToday is {}.\n\n".format(welcome, time.strftime("%m/%d/%Y")))
+        fp.write("I'm capable of modifying many source code to fit my needs. Before that, I would leave issues to the maintainers, but get 80% negative replies which is pretty sad.")
         fp.write("### Hitokoto\n\n> {}\n> \n> ——{}\n\n".format(hitokoto['hitokoto'],hitokoto['from']))
+        fp.write("### Stat\n\n")
         fp.write("![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)\n\n")
         fp.write("![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleJake&layout=compact)\n\n")
         fp.write("[![Jake Liu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LittleJake)](https://wakatime.com/@LittleJake)\n\n")
