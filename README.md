@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 我看到这个世界的恶意，我们正在接受考验。
+> 在灾难面前，如果连英雄都逃跑了，那还有谁能站出来？
 > 
-> ——机动战士高达00
+> ——一拳超人
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 12:16:30
+Autogen by LittleJake at 14:09:56
