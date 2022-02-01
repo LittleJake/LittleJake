@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 是你赢了...哲...
+> 你一直相信的事，也让我相信吧。活着，是件美好的事。
 > 
-> ——黑子的篮球
+> ——Angle Beats
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 14:09:58
+Autogen by LittleJake at 16:16:33
