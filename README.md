@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 不习惯的事越来越多，但我仍在前进……就算步伐很小，我也在一步一步的前进。
+> 今日的余晖和你最后那天给我的拥抱，同一个温度
 > 
-> ——夏目友人帐
+> ——Myself
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 02:22:29
+Autogen by LittleJake at 04:13:10
