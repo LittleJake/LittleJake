@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 即使你忘却了我，我也不会遗忘你。
+> 最近我很喜欢明天见这句话，因为只要许下约定，就能期待明天的到来。
 > 
-> ——菜月昂
+> ——结城友奈是勇者
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 14:09:51
+Autogen by LittleJake at 16:15:23
