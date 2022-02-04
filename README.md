@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 梦存高远，志在争霸，这股热情确实值得赞许。但所谓梦，终有一天是要醒来的。
+> 忘记本身就是一件不可能的事。
 > 
-> ——fate/zero
+> ——我们的存在
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 20:09:28
+Autogen by LittleJake at 22:08:50
