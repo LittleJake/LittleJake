@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 懂得认输是非常重要的，不尝到失败的不甘，也就不会明白跌倒后怎么爬起来，更不可能再向前迈进。
+> 梦存高远，志在争霸，这股热情确实值得赞许。但所谓梦，终有一天是要醒来的。
 > 
-> ——笨蛋测验召唤兽
+> ——fate/zero
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 18:10:25
+Autogen by LittleJake at 20:09:28
