@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 我除了投三分，就什么都没有了……
+> 仍是那么熟悉的味道，只是用墓土和骨灰作成的身体，已经不再有体温。
 > 
-> ——灌篮高手
+> ——犬夜叉
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 12:16:43
+Autogen by LittleJake at 14:08:38
