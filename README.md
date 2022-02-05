@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 有样东西是其他生物绝对没有，只有人类才有 那就是人有秘密。
+> What about super-ultra-extreme-awesomazing?
 > 
-> ——月色真美
+> ——My Little Pony: Friendship is Magic
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 12:12:34
+Autogen by LittleJake at 14:08:05
