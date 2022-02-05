@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> What about super-ultra-extreme-awesomazing?
+> 关于自己的生活，我和你都不是读者，而是作者。至少结局，还是能自己说了算的。
 > 
-> ——My Little Pony: Friendship is Magic
+> ——银魂
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 14:08:05
+Autogen by LittleJake at 16:11:47
