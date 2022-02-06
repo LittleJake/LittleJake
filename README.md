@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 真正重要的东西，总是没有的人比拥有的人清楚。
+> 如果我拥有如同小狗一样的尾巴的话，肯定会高兴得遮掩不住地摇来摇去吧。
 > 
-> ——银魂
+> ——秒速五厘米
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 06:12:12
+Autogen by LittleJake at 08:11:41
