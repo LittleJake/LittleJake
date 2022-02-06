@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 懂得认输是非常重要的，不尝到失败的不甘，也就不会明白跌倒后怎么爬起来，更不可能再向前迈进。
+> 自己的过去会被当做笑话或者捏他的形式，被他人随随便便的共有化。
 > 
-> ——笨蛋测验召唤兽
+> ——我的青春恋爱物语果然有问题
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 02:33:54
+Autogen by LittleJake at 04:13:26
