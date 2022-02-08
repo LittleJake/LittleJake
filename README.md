@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 男人的爱情是另存为，女人的爱情是覆盖。
+> 生命可以随心所欲，但不能随波逐流
 > 
-> ——红
+> ——猫的报恩
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 00:40:35
+Autogen by LittleJake at 02:26:27
