@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 有型的东西终究会消逝，不过……终于，这份回忆还是永远不朽的…
+> 已经无法回到过去了。也不知道将来会是什么模样。
 > 
-> ——火影忍者
+> ——文学少女
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 18:11:23
+Autogen by LittleJake at 20:10:51
