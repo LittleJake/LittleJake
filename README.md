@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 即便我弱了，也并不代表你强了。
+> 我们不是大人，而是同学吧。
 > 
-> ——魔法禁书目录
+> ——恋如雨止
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 12:16:38
+Autogen by LittleJake at 14:09:44
