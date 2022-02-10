@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 努力是不会背叛自己的，虽然梦想有时会背叛自己。
+> 想和你重新认识一次 从你叫什么名字说起。
 > 
-> ——我的青春恋爱物语果然有问题
+> ——你的名字
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 20:10:42
+Autogen by LittleJake at 22:10:06
