@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 从你站在桥上看我的 那一刻起你就是我的世界。
+> 回首前尘，尽是可耻的过往
 > 
-> ——火影忍者
+> ——月色真美
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 02:24:13
+Autogen by LittleJake at 04:13:10
