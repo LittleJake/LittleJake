@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 我是想被包养，但不会接受施舍
+> 别人恋爱不成功，你连暗恋都不成功！
 > 
-> ——我的青春恋爱物语果然有问题
+> ——灌篮高手
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 12:16:02
+Autogen by LittleJake at 14:10:14
