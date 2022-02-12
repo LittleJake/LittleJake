@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 堕入黑暗裏的可怜影子啊，停止伤害他人的行为吧，犯下罪行的灵魂…想死一次么？
+> 我一点也不走运。
 > 
-> ——地狱少女
+> ——Fairy gone
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 12:15:57
+Autogen by LittleJake at 14:09:00
