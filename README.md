@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 寂寞阴暗中度过，孤单孕育了怨与悲凉。锋利的伤痛刺入了我们彼此胸膛，这是我们无法躲避的惩罚，是我们不该任人生撩拨忧伤，不该走过之后又往回看。
+> 愿有朝一日与你见面还能释放温暖拥你入怀。
 > 
-> ——火影忍者
+> ——境界的彼方
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 02:26:25
+Autogen by LittleJake at 04:13:01
