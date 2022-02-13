@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 人生没有那么多预算，不要等到到死后世界叹息，珍惜眼前所有。相信每天都是新的开始，都充满希望.
+> 就一会儿，再在这里待一会儿好吗？我要把你深深地印在脑海里，为了只要闭上眼，就能随时见到花丛中的你。
 > 
-> ——天使的心跳
+> ——元气少女缘结神◎ 10集 21:55
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 14:09:07
+Autogen by LittleJake at 16:14:27
