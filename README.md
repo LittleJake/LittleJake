@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 最近困扰我的是小小的分别，总会带来一丝寂寞。短暂的相遇和分别那一分一秒的时间都让我想要无比珍惜。
+> 做好人需要比恶人更狡猾，他们的名字终将成为传说，而真实沉没于历史的波涛中。
 > 
-> ——夏目友人帐
+> ——万国志
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 18:12:17
+Autogen by LittleJake at 20:11:08
