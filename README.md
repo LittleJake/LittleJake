@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 那么，开始实验吧！
+> 时间并不存在，存在的只有此刻。
 > 
-> ——假面骑士Build
+> ——魔女猎人
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 08:13:22
+Autogen by LittleJake at 10:11:32
