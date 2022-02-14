@@ -1,6 +1,6 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 02/14/2022.
 
@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 从你站在桥上看我的 那一刻起你就是我的世界。
+> 最近困扰我的是小小的分别，总会带来一丝寂寞。短暂的相遇和分别那一分一秒的时间都让我想要无比珍惜。
 > 
-> ——火影忍者
+> ——夏目友人帐
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 16:14:43
+Autogen by LittleJake at 18:12:17
