@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 代表月亮消灭你！
+> 世界这么大，人生这么长，总会有那么一个人，让你想要温柔的对待。
 > 
-> ——美少女战士
+> ——哈尔的移动城堡
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 12:16:52
+Autogen by LittleJake at 14:10:45
