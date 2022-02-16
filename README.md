@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 是你，是你，告诉我，若能在黑暗中绽放光芒，便能化作星空，悲伤化作笑颜，已经无需隐藏，漫天闪耀着的星光，都会为你照亮前行。
+> 由变态化身成为变态，也就是真·变态，也就是说，完全变态呢。
 > 
-> ——四月是你的谎言
+> ——一拳超人
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 06:13:01
+Autogen by LittleJake at 08:12:49
