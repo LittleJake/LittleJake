@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 隐约雷鸣，阴霾天空，即使天无雨，我亦留此地。
+> 要是因为烦恼很痛苦，就选择了轻松的选项，将来一定会后悔。
 > 
-> ——言叶之庭
+> ——樱花庄的宠物女孩
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 20:10:16
+Autogen by LittleJake at 22:10:51
