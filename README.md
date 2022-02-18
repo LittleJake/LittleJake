@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 今天我就要带她走，我看谁敢拦我
+> 蔷薇不管被冠以什么名字，却依旧可以芳香扑鼻。
 > 
-> ——刺客伍六七
+> ——我的青春恋爱物语果然有问题
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 18:13:09
+Autogen by LittleJake at 20:11:23
