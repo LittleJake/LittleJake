@@ -1,6 +1,6 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 02/19/2022.
 
@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 就算是对我抱有敌意的人，也是被某个人深爱着而降生在这个世界上的。
+> 人各有命，上天注定。有人天生为王，有人落草为寇。脚下的路如果不是你自己的选择，那么旅程的终点在哪儿也没人知道，你会走到哪儿，会碰到谁，都不一定。
 > 
-> ——罪恶王冠
+> ——镇魂街
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 10:11:15
+Autogen by LittleJake at 12:16:37
