@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 就因为没有好事发生，所以至少要保持微笑。
+> 深藏不露是一种卓越的才能
 > 
-> ——阴晴不定大哥哥
+> ——欢迎来到实力至上主义的教室
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 20:11:20
+Autogen by LittleJake at 22:10:47
