@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 不管是怎样的回忆，都是我们活过的人生。
+> 他有一双好眼睛，就是他将我从黑暗的迷途中带了回来。
 > 
-> ——angel beats
+> ——火影忍者
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 14:09:50
+Autogen by LittleJake at 16:14:55
