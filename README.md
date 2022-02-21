@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 我只是做了我能做的事，没有时间想将来。
+> 记忆是不会消失的，只是一时想不起来了而已。
 > 
-> ——秒速五厘米
+> ——千与千寻
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 20:12:03
+Autogen by LittleJake at 22:10:48
