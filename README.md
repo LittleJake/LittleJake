@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 真相只有一个！
+> 梦总是有会醒来的时候，不会醒的梦总有一天会变成悲伤。
 > 
-> ——柯南
+> ——AIR
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 14:10:28
+Autogen by LittleJake at 16:16:08
