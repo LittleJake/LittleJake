@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 如果今天是最糟糕的，那么明天一定比今天美好，不是吗？
+> 宁愿带着浑身伤痛勇敢站起 让泪水洒满尘埃与苍穹之间。
 > 
-> ——未来日记
+> ——机动战士高达NT
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 06:13:47
+Autogen by LittleJake at 08:13:14
