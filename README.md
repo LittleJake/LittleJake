@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 宁愿带着浑身伤痛勇敢站起 让泪水洒满尘埃与苍穹之间。
+> 我的终点，与幸福同在。
 > 
-> ——机动战士高达NT
+> ——AIR
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 08:13:14
+Autogen by LittleJake at 10:12:21
