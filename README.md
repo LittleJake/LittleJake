@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 即使再也没有晴天也没有关系.
+> 可是就算我们通一千次短信，我们各自的心，大概也只会相互靠近一厘米吧。
 > 
-> ——天气之子
+> ——秒速5厘米
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 02:31:50
+Autogen by LittleJake at 04:14:09
