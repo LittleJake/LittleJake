@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 24岁的阿升你好，我是15岁的美加子，我现在也还是非常、非常的喜欢阿升哦！
+> 很抱歉，前面是单行道，你就乖乖的夹着尾巴耸拉着脑袋返回原点吧！
 > 
-> ——星之声
+> ——一方通行
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 12:17:31
+Autogen by LittleJake at 14:10:51
