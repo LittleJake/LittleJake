@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 很抱歉，前面是单行道，你就乖乖的夹着尾巴耸拉着脑袋返回原点吧！
+> 人生在世何其痛苦，所以咖啡至少该甜一点。
 > 
-> ——一方通行
+> ——我的青春恋爱物语果然有问题
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 14:10:51
+Autogen by LittleJake at 16:15:02
