@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 或许前路永夜，即便如此我也要前进，因为星光即使微弱也会为我照亮前路。
+> 我的梦想是不失去任何东西让所有人笑着回来。
 > 
-> ——四月是你的谎言
+> ——某科学的超电磁炮
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 08:14:03
+Autogen by LittleJake at 10:12:43
