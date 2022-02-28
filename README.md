@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 知道和感觉到是两码事。
+> 人是可以改变一切的，世上的一切。
 > 
-> ——《看见》
+> ——吹响！上低音号
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 12:19:26
+Autogen by LittleJake at 14:10:35
