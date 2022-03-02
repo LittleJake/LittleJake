@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 下一次重逢，将是何年何月？天空必将见证。
+> 想要试着去相互接近，但最后还是无法敞开心扉，结果就是擦肩而过……
 > 
-> ——SOLA
+> ——文学少女
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 02:35:41
+Autogen by LittleJake at 04:14:20
