@@ -1,16 +1,16 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 03/03/2022.
+Today is 03/04/2022.
 
 I'm capable of modifying many source code to fit my needs. Before that, I would leave issues to the maintainers, but get 80% negative replies which is pretty sad.
 
 ### Hitokoto
 
-> 我绝对会成为火影。我从来都是有话直说，这就是我的忍道！
+> 我会化作人间的风雨陪在你的身边
 > 
-> ——漩涡鸣人
+> ——大鱼海棠
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 22:11:27
+Autogen by LittleJake at 00:52:33
