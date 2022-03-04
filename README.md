@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 蔷薇不管被冠以什么名字，却依旧可以芳香扑鼻。
+> 想象力是武器，没有想象力的人会先死。
 > 
-> ——我的青春恋爱物语果然有问题
+> ——哥布林杀手
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 02:39:42
+Autogen by LittleJake at 04:14:23
