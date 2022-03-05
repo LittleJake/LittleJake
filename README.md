@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 今天不想做，所以才要做
+> 人难免伤害别人,也难免受伤,不过,人是不会轻易讨厌别人的.
 > 
-> ——春上村树
+> ——火影忍者
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 00:49:39
+Autogen by LittleJake at 02:32:26
