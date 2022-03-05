@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 即使你忘却了我，我也不会遗忘你。
+> 烦恼这东西，是只有活着的人，才有的特权哦。
 > 
-> ——菜月昂
+> ——我们的存在
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 18:12:39
+Autogen by LittleJake at 20:11:00
