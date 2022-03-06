@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 我的面包！
+> 我们不是狼，我们只是长着獠牙的羊......
 > 
-> ——Clannad
+> ——羊之歌
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 18:12:48
+Autogen by LittleJake at 20:12:22
