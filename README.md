@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 想象力是武器，没有想象力的人会先死。
+> 粉色蓝宝石的宝石语是「献给弱者的正义」。
 > 
-> ——哥布林杀手
+> ——宝石商人理查德的谜鉴定
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 06:13:24
+Autogen by LittleJake at 08:13:12
