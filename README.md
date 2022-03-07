@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 虽然想做一团火，却成了一块透视苦难的冰
+> 若隐若现才是艺术！
 > 
-> ——卡夫卡研究
+> ——问题儿童来自异世界
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 06:14:45
+Autogen by LittleJake at 08:14:26
