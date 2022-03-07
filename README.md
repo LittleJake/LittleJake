@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 若隐若现才是艺术！
+> 是我，是我先，明明都是我先来的，接吻也好，拥抱也好，还是喜欢上那家伙也好。
 > 
-> ——问题儿童来自异世界
+> ——白色相簿2
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 08:14:26
+Autogen by LittleJake at 10:12:32
