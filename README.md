@@ -1,16 +1,16 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 03/06/2022.
+Today is 03/07/2022.
 
 I'm capable of modifying many source code to fit my needs. Before that, I would leave issues to the maintainers, but get 80% negative replies which is pretty sad.
 
 ### Hitokoto
 
-> 正因生来一无所有，因此我们能拥有一切。
+> 音无结弦之日 跃动天使之心 立于浮华之世 奏响天籁之音
 > 
-> ——游戏人生
+> ——Angel Beats!
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 22:11:14
+Autogen by LittleJake at 00:48:09
