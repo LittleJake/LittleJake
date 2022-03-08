@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 在未知的未来将要发生的事，一定有它的意义
+> 在走廊上跌倒会流鼻血，在人生中跌倒会流眼泪。
 > 
-> ——火影忍者
+> ——龙虎斗
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 12:19:10
+Autogen by LittleJake at 14:10:52
