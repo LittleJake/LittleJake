@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 和她相遇的瞬间，我的人生就改变了。所见所闻所感，目之所及全都开始变得多姿多彩起来。
+> 一天最大任务莫过于，好好睡觉，好好醒来。
 > 
-> ——四月是你的谎言
+> ——火影忍者
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 06:14:04
+Autogen by LittleJake at 08:14:51
