@@ -1,6 +1,6 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 03/11/2022.
 
@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 从这里（太空）根本看不到什么国境线，只有地球。
+> 人和人之间就像这风筝一样，拉的太紧就飞不远，放的太松又掉下来，而当它飞的很高很高你还拽着不放，它就有可能会断掉，再也回不来了。
 > 
-> ——星空清理者
+> ——灵契
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 16:17:20
+Autogen by LittleJake at 18:13:25
