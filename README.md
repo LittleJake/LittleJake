@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 人和人之间就像这风筝一样，拉的太紧就飞不远，放的太松又掉下来，而当它飞的很高很高你还拽着不放，它就有可能会断掉，再也回不来了。
+> 来看看你的脚下，这就是你要走的路。
 > 
-> ——灵契
+> ——未来へ(向着未来)
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 18:13:25
+Autogen by LittleJake at 20:12:16
