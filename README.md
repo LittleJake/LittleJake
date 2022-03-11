@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 人各有命，上天注定。有人天生为王，有人落草为寇。脚下的路如果不是你自己的选择，那么旅程的终点在哪儿也没人知道，你会走到哪儿，会碰到谁，都不一定。
+> 真可悲，你什么都不知道，在这个世界上没有什么是不重要的！
 > 
-> ——镇魂街
+> ——最终幻想
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 00:51:45
+Autogen by LittleJake at 02:37:32
