@@ -1,16 +1,16 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 03/10/2022.
+Today is 03/11/2022.
 
 I'm capable of modifying many source code to fit my needs. Before that, I would leave issues to the maintainers, but get 80% negative replies which is pretty sad.
 
 ### Hitokoto
 
-> 只顾着追求新事物，却不回顾历史，怎么会有未来。
+> 人各有命，上天注定。有人天生为王，有人落草为寇。脚下的路如果不是你自己的选择，那么旅程的终点在哪儿也没人知道，你会走到哪儿，会碰到谁，都不一定。
 > 
-> ——虞美人盛开的山坡
+> ——镇魂街
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 22:12:02
+Autogen by LittleJake at 00:51:45
