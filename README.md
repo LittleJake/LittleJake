@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 大家热爱的事物，擅长的事物都不同，都拥有自己的世界，一个人一个世界，这些互相连接的话，就会展开许多的可能性，广大、未知，就像是宇宙一样。
+> 我希望，我能完全信任你，我还从来没有能这样信任过谁。我也希望，你将给我最大的支持。
 > 
-> ——恋爱小行星
+> ——安妮日记
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 08:13:26
+Autogen by LittleJake at 10:12:12
