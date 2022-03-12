@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 理解何为孤单，努力想得到爱的你，内心的悲伤是否稍微宣泄了呢？
+> 即使天无雨，我亦留此地。
 > 
-> ——夏目友人帐
+> ——言叶之庭
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 00:43:53
+Autogen by LittleJake at 02:29:32
