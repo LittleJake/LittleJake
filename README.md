@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 一举一动，都是承诺，会被另一个人看在眼里，记在心上的。
+> 不管看到什么样的过去，都请不要迷失自己，不管你变成什么样子，我都是你的同伴。
 > 
-> ——悬崖上的金鱼姬
+> ——angel beats
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 08:13:19
+Autogen by LittleJake at 10:11:47
