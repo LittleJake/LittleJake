@@ -1,16 +1,16 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 03/13/2022.
+Today is 03/14/2022.
 
 I'm capable of modifying many source code to fit my needs. Before that, I would leave issues to the maintainers, but get 80% negative replies which is pretty sad.
 
 ### Hitokoto
 
-> 死者的血泪混入滚滚的流沙之中...将会赐予修罗更强的力量...
+> (」・ω・)」うー！(／・ω・)／にゃー！
 > 
-> ——火影忍者
+> ——潜行吧奈亚子
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 22:10:45
+Autogen by LittleJake at 00:49:50
