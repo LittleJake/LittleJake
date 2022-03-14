@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 我明白，洛克昂。我是只能选择战斗的破坏者，所以要战斗，为击败催生战争的人，粉碎这扭曲。
+> 祈求别人幸福的同时,却不得不去诅咒其他的人,我们魔法少女就是这样的构造吧!
 > 
-> ——机动战士高达00
+> ——魔法少女小圆
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 20:12:43
+Autogen by LittleJake at 22:11:49
