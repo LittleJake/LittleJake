@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 如果还有来生 ，我无论如何都要来到你身边，我已经没有了其他想要追求的东西，因为没有比你更重要的了。
+> 也许一个人的快乐会建立在另一个人或者很多人的痛苦之上。但是，自己种下的祸根终有一天会报应在自己的身上的。
 > 
-> ——秒速五厘米
+> ——地狱少女
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 02:41:25
+Autogen by LittleJake at 04:14:13
