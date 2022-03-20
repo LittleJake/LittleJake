@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 将愿望倾入不愿忘却的回忆中……
+> 幸福感就如沉积在悲哀之河底下 隐隐发光的金砂
 > 
-> ——ef-a tale of memories
+> ——月色真美
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 12:17:55
+Autogen by LittleJake at 14:10:51
