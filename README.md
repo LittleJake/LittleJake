@@ -1,16 +1,16 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 03/19/2022.
+Today is 03/20/2022.
 
 I'm capable of modifying many source code to fit my needs. Before that, I would leave issues to the maintainers, but get 80% negative replies which is pretty sad.
 
 ### Hitokoto
 
-> 青春总是焦虑的，连一勺砂糖溶于杯中的时间都等不及。后悔带来的苦涩，是对过去的见证，终将逐一化为杯中咖啡的味道。
+> 即使作为代价要夺走我什么，即使接下来等待我的是什么，即使那样，我无论如何都不想失去他。
 > 
-> ——玉子爱情故事
+> ——少年阴阳师
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 22:10:45
+Autogen by LittleJake at 00:48:59
