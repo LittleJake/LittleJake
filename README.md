@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 我觉得，不改变也很好。
+> 痛苦着痛苦着，满脑子只能想我的事。
 > 
-> ——来自风平浪静的明天
+> ——四月是你的谎言
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 20:12:40
+Autogen by LittleJake at 22:11:52
