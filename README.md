@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 润滑油是用来防止磨损的东西。在心中有着润滑油也会活得更加轻松吧。
+> 温柔正确的人总是难以生存，因为这世界既不温柔，也不正确。
 > 
-> ——果然我的青春恋爱喜剧搞错了
+> ——我的青春恋爱物语果然有问题
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 02:46:45
+Autogen by LittleJake at 04:14:34
