@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 忍者的才能不在于所掌握忍术的多少，而在于永不放弃的毅力.笔直向前绝不违背自己的誓言，还有不管何时都不放弃.
+> 如果聚集负的感情，世界就会陷入负的洪流；反之聚集正的感情，世界就会循着正道而行。
 > 
-> ——火影忍者
+> ——钢之炼金术师
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 08:15:19
+Autogen by LittleJake at 10:12:54
