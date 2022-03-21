@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 不要就是不要，要学会大声说出口，这样才能保护你自己。
+> 我觉得，不改变也很好。
 > 
-> ——魔女之旅
+> ——来自风平浪静的明天
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 18:14:21
+Autogen by LittleJake at 20:12:40
