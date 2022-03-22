@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 今まで生きてきで，今が一番幸せかもしれない。
+> 你受伤的时候，我永远都在。
 > 
-> ——言叶之庭
+> ——多啦A梦
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 00:51:07
+Autogen by LittleJake at 02:48:15
