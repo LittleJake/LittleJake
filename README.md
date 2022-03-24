@@ -1,16 +1,16 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 03/23/2022.
+Today is 03/24/2022.
 
 I'm capable of modifying many source code to fit my needs. Before that, I would leave issues to the maintainers, but get 80% negative replies which is pretty sad.
 
 ### Hitokoto
 
-> 加油
+> 有一天，你到了人类的世界，不要去爱上一个人，因为，爱上一个人，会让你真正变成孤单一人。
 > 
-> ——自编
+> ——朝花夕誓
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 22:11:49
+Autogen by LittleJake at 00:51:31
