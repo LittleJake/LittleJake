@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 驱动着这个世界的，并非只有眼睛能够看到的东西。就像只观察结晶回路的轮盘是无法知晓齿轮的运动一样……
+> 世界是无情的，并不存在与生俱来的英雄。 所以只能由刚好在旁边的人粉墨登场， 演一出英雄的戏码。
 > 
-> ——空之轨迹
+> ——魔法禁书目录
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 20:12:13
+Autogen by LittleJake at 22:10:49
