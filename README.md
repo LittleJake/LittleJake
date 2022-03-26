@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 规则是用来被打破的。
+> 愿有朝一日与你见面还能释放温暖拥你入怀。
 > 
-> ——机械公敌
+> ——境界的彼方
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 14:09:58
+Autogen by LittleJake at 16:14:54
