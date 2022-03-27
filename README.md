@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 只要你在，我便无所不能。
+> 梦总是有会醒来的时候，不会醒的梦总有一天会变成悲伤。
 > 
-> ——进击的巨人
+> ——AIR
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 02:41:43
+Autogen by LittleJake at 04:14:50
