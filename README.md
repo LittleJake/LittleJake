@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 叫做妈妈的人，是不会哭的。
+> 我们所度过的每个平凡的日常，也许就是连续发生的奇迹
 > 
-> ——朝花夕誓
+> ——日常
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 00:55:36
+Autogen by LittleJake at 02:54:01
