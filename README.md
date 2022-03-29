@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 时间带着明显的恶意，缓缓在我的头顶流逝。
+> 时间是伟大的作家，总会写下完美的结局。
 > 
-> ——秒速五厘米
+> ——秋之回忆
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 18:14:13
+Autogen by LittleJake at 20:12:23
