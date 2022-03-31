@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 狙击目标！
+> 呐，我们好像是，被宇宙和地球拆散的恋人似的。
 > 
-> ——机动战士高达00
+> ——星之声
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 06:14:51
+Autogen by LittleJake at 08:14:15
