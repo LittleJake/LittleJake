@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 孤独的人不会伤害别人，只会不断地伤害自己罢了。
+> 忘记本身就是一件不可能的事。
 > 
-> ——我的青春恋爱物语果然有问题
+> ——我们的存在
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 18:14:55
+Autogen by LittleJake at 20:12:45
