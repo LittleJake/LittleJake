@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 在我年轻的时候，不知道什么是恐惧，可偏偏是你的温柔，让我害怕。
+> 男人就应该保持冷静，沸腾的水只会被蒸发掉。
 > 
-> ——东京爱情故事
+> ——假面骑士kabuto
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 14:12:08
+Autogen by LittleJake at 16:17:37
