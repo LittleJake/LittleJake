@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 人们只是用好人来称呼对自己有用的人而以，不存在对所有人都有用的人。
+> 才能是可以栽培开花的，灵感是可以研磨雕琢的。
 > 
-> ——进击的巨人
+> ——排球少年
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 00:56:28
+Autogen by LittleJake at 02:48:33
