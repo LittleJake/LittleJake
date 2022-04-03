@@ -2,15 +2,15 @@
 
 Good evening work time!
 
-Today is 04/02/2022.
+Today is 04/03/2022.
 
 I'm capable of modifying many source code to fit my needs. Before that, I would leave issues to the maintainers, but get 80% negative replies which is pretty sad.
 
 ### Hitokoto
 
-> 无论最终的结果是什么，只要这是自己选择的道路。
+> 人们只是用好人来称呼对自己有用的人而以，不存在对所有人都有用的人。
 > 
-> ——龙与虎
+> ——进击的巨人
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 22:11:25
+Autogen by LittleJake at 00:56:28
