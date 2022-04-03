@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 我是为了与你相见才诞生于世的。
+> 我要拼，装上假牙也要拼！
 > 
-> ——EVA
+> ——灌篮高手
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 20:13:04
+Autogen by LittleJake at 22:11:29
