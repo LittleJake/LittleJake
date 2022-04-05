@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/05/2022.
 
 ### Hitokoto
 
-> 有时写信才能表达，平时难以说出口的心声。
+> 那是，未满45秒的邂逅。
 > 
-> ——紫罗兰的永恒花园
+> ——EF
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/05/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 18:14:10
+Autogen by LittleJake at 20:14:04
