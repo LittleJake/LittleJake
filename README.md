@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/05/2022.
 
 ### Hitokoto
 
-> 那是，未满45秒的邂逅。
+> 哦~
 > 
-> ——EF
+> ——袴田日向
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/05/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 20:14:04
+Autogen by LittleJake at 22:11:09
