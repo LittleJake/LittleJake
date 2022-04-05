@@ -8,9 +8,9 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 ### Hitokoto
 
-> 今天不想做，所以才要做
+> 你将不再是道具，而是人如其名的人。
 > 
-> ——春上村树
+> ——紫罗兰永恒的花园
 
 ### Stat
 
@@ -26,4 +26,4 @@ I'm capable of modifying many source code to fit my needs. Before that, I would 
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 14:11:43
+Autogen by LittleJake at 16:17:07
