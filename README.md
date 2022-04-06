@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 04/06/2022.
 
 ### Hitokoto
 
-> 越是试着忘记，越是记得深刻。
+> 无可取代的东西要到失去后才知道珍惜呢。
 > 
-> ——天空之城
+> ——干物妹小埋
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/06/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 04:14:38
+Autogen by LittleJake at 06:14:01
