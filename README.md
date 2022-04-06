@@ -6,9 +6,9 @@ Today is 04/06/2022.
 
 ### Hitokoto
 
-> 为了传达不到的思念而苦恼，只会感到痛不欲生。
+> 越是试着忘记，越是记得深刻。
 > 
-> ——WHITE FIRST LOVE
+> ——天空之城
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/06/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 02:51:35
+Autogen by LittleJake at 04:14:38
