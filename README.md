@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 04/06/2022.
 
 ### Hitokoto
 
-> 与其被自己的本性牵着走而痛苦，倒不如试着改变自己。
+> 没有一封信是不必被送达的。
 > 
-> ——银魂
+> ——紫罗兰永恒花园
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/06/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 12:22:12
+Autogen by LittleJake at 14:11:18
