@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/06/2022.
 
 ### Hitokoto
 
-> 波，高低起伏的东西；波，产生后开始扩散；波，自己无法抵抗的东西。
+> 错的不是我，而是这个世界！
 > 
-> ——四月一日灵异事件薄
+> ——东京喰种
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/06/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 18:14:38
+Autogen by LittleJake at 20:12:35
