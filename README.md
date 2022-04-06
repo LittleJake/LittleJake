@@ -6,9 +6,9 @@ Today is 04/06/2022.
 
 ### Hitokoto
 
-> 人没有回忆是无法活下去的哟
+> 为了传达不到的思念而苦恼，只会感到痛不欲生。
 > 
-> ——AIR
+> ——WHITE FIRST LOVE
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/06/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 00:56:12
+Autogen by LittleJake at 02:51:35
