@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/07/2022.
 
 ### Hitokoto
 
-> 即使你忘却了我，我也不会遗忘你。
+> 我要拼，装上假牙也要拼！
 > 
-> ——菜月昂
+> ——灌篮高手
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/07/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 00:54:06
+Autogen by LittleJake at 02:49:59
