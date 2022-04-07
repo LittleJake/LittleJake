@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 04/07/2022.
 
 ### Hitokoto
 
-> 不习惯的事越来越多，但我仍在前进……就算步伐很小，我也在一步一步的前进。
+> 未来的旅程是如此遥远，能见到的光明却是如此稀少。即使如此——我仍然没有完全放弃希望。
 > 
-> ——夏目友人帐
+> ——刀剑神域
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/07/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 10:12:41
+Autogen by LittleJake at 12:22:06
