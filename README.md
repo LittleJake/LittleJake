@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 04/07/2022.
 
 ### Hitokoto
 
-> 旅行唯有出发前最愉快，狗儿唯有叫声最吓人，女人唯有背影最美丽。
+> 挡着在我们面前的是巨大庞然的人生，阻隔在我们中间的是广阔无际的时间，对于他们，我们无能为力……
 > 
-> ——狼与香辛料
+> ——秒速五厘米
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/07/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 06:14:46
+Autogen by LittleJake at 08:14:59
