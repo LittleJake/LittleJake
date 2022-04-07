@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/07/2022.
 
 ### Hitokoto
 
-> 在染成红色的天空下，在雨中，流淌着，漂浮着的，最软弱的自己的倒影，朦胧蓝色的回忆。
+> 不能输，笑吧！
 > 
-> ——知晓天空之蓝的人啊
+> ——约定的梦幻岛
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/07/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 18:14:07
+Autogen by LittleJake at 20:13:03
