@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 04/07/2022.
 
 ### Hitokoto
 
-> 未来的旅程是如此遥远，能见到的光明却是如此稀少。即使如此——我仍然没有完全放弃希望。
+> 我喜欢你，比这个世界上其他任何人都喜欢你，我永远都会喜欢你的。只有我的这份心情是不会输给任何人的，即使我的这个身体毁灭了、从世界上消失了，来世我肯定还是会喜欢上你的。
 > 
-> ——刀剑神域
+> ——境界的彼方
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/07/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 12:22:06
+Autogen by LittleJake at 14:11:28
