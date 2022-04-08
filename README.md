@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 04/08/2022.
 
 ### Hitokoto
 
-> 雁过拔毛，兽走留皮。涂山，我罩的，懂？
+> 人生中有些事你不竭尽所能去做，你永远不知道自己有多出色！
 > 
-> ——狐妖小红娘
+> ——海贼王
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/08/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 06:15:04
+Autogen by LittleJake at 08:14:51
