@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/08/2022.
 
 ### Hitokoto
 
-> 没有偶然的必然，只有必然的偶然
+> 关于自己的生活，我和你都不是读者，而是作者。至少结局，还是能自己说了算的。
 > 
-> ——魔卡少女樱
+> ——银魂
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/08/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 18:15:24
+Autogen by LittleJake at 20:12:35
