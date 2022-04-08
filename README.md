@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 04/08/2022.
 
 ### Hitokoto
 
-> 你的双眼能够看到多远的未来。
+> 雁过拔毛，兽走留皮。涂山，我罩的，懂？
 > 
-> ——火影忍者
+> ——狐妖小红娘
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/08/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 04:14:42
+Autogen by LittleJake at 06:15:04
