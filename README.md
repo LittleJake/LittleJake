@@ -6,9 +6,9 @@ Today is 04/08/2022.
 
 ### Hitokoto
 
-> 人生中有些事你不竭尽所能去做，你永远不知道自己有多出色！
+> 我是奥尔加·伊滋卡，几颗子弹不要紧的！
 > 
-> ——海贼王
+> ——机动战士高达：铁血的孤儿
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/08/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 08:14:51
+Autogen by LittleJake at 10:13:25
