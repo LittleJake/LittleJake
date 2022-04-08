@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,7 +6,7 @@ Today is 04/08/2022.
 
 ### Hitokoto
 
-> 在弱者眼里可能是这样，不过，我的确很强。
+> 对于虚伪而言，真实的光明或许过于耀眼了
 > 
 > ——蔷薇少女
 
@@ -24,4 +24,4 @@ Today is 04/08/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 12:26:56
+Autogen by LittleJake at 14:11:12
