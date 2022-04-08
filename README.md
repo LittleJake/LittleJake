@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/08/2022.
 
 ### Hitokoto
 
-> 据说之所以有人出现在梦中，是因为对方想见你的心情穿过身体，飞进了你的梦中。
+> みんなで作る、最高のライブ！
 > 
-> ——蜂蜜与四叶草
+> ——LoveLive! The School idol Movie
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/08/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 00:55:09
+Autogen by LittleJake at 02:57:32
