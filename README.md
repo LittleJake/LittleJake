@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 04/08/2022.
+Today is 04/09/2022.
 
 ### Hitokoto
 
-> 世间有很多事情，人们无法从它寂静的表象，猜测到暗涌，就像一个人和另一个人的相遇
+> 我到底要以怎么样的速度生活才能与你再次相遇？
 > 
-> ——我是江小白
+> ——秒速五厘米
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/08/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 22:12:16
+Autogen by LittleJake at 00:52:44
