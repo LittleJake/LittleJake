@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 04/09/2022.
 
 ### Hitokoto
 
-> 喜欢喜欢轻飘飘喜欢喜欢轻飘飘让我们一起来！
+> 人生最糟糕的事，一个是饿肚子，一个是孤独。
 > 
-> ——Printemps
+> ——夏日大作战
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/09/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 14:10:52
+Autogen by LittleJake at 16:15:24
