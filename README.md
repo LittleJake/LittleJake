@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 04/09/2022.
 
 ### Hitokoto
 
-> 想和你重新认识一次 从你叫什么名字说起。
+> 不拼尽全力去试一下，又怎么会知道啊
 > 
-> ——你的名字
+> ——刺客伍六七
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/09/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 06:14:36
+Autogen by LittleJake at 08:14:06
