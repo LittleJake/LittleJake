@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/09/2022.
 
 ### Hitokoto
 
-> 坐上与学校相反方向的电车，展开没有目标的旅行，去往那从未见过的地方
+> 明明喜欢的不得了，可是看到对方幸福洋溢的表情，却觉得很难过、很痛苦，胸口发疼。
 > 
-> ——比宇宙更远的地方
+> ——彩云国物语
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/09/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 18:13:35
+Autogen by LittleJake at 20:12:45
