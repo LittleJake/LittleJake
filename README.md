@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/09/2022.
 
 ### Hitokoto
 
-> 明明喜欢的不得了，可是看到对方幸福洋溢的表情，却觉得很难过、很痛苦，胸口发疼。
+> 喜欢上你，爱上你，真是太好了，谢谢。
 > 
-> ——彩云国物语
+> ——龙虎斗
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/09/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 20:12:45
+Autogen by LittleJake at 22:11:55
