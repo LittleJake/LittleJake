@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/09/2022.
 
 ### Hitokoto
 
-> 我到底要以怎么样的速度生活才能与你再次相遇？
+> 吵死了吵死了!
 > 
-> ——秒速五厘米
+> ——逢坂大河
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/09/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 00:52:44
+Autogen by LittleJake at 02:46:14
