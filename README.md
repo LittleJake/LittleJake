@@ -6,9 +6,9 @@ Today is 04/09/2022.
 
 ### Hitokoto
 
-> 吵死了吵死了!
+> 一旦醉心于狩猎，不到最后关头不会发现自己才是猎物。
 > 
-> ——逢坂大河
+> ——来自新世界
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/09/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 02:46:14
+Autogen by LittleJake at 04:14:46
