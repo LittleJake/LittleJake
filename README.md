@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 04/09/2022.
 
 ### Hitokoto
 
-> 我们都在梦中，一个叫青春的梦里。梦总有一天会醒来，而回忆会一直闪烁。
+> 我不喜欢这世界，我只喜欢你
 > 
-> ——校园迷糊大王
+> ——乔一
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/09/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 10:12:14
+Autogen by LittleJake at 12:18:44
