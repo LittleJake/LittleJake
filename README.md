@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/10/2022.
 
 ### Hitokoto
 
-> 人类的赞歌是勇气的赞歌，人类的伟大是勇气的伟大！
+> 人，只有在放弃战斗的时候才算输，只要坚持战斗，就还没输！
 > 
-> ——JOJO的奇妙冒险
+> ——进击的巨人
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/10/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 20:12:01
+Autogen by LittleJake at 22:12:12
