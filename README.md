@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 04/10/2022.
 
 ### Hitokoto
 
-> 喜欢上一个人就是变得束手无策。
+> 只要引导着二人的两把命运之剑还在身边，我们就绝不会失败。
 > 
-> ——悠久之翼2
+> ——刀剑神域
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/10/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 06:14:38
+Autogen by LittleJake at 08:13:52
