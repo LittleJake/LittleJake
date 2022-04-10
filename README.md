@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/10/2022.
 
 ### Hitokoto
 
-> 一日为灵，终生为影，灵气共生，魂命无分，阴阳调和，万物皆宁。
+> 所谓的人类，可是连短短的十分钟也等不起的。
 > 
-> ——灵契
+> ——Angel Beats!
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/10/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 00:56:03
+Autogen by LittleJake at 02:51:40
