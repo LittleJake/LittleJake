@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 04/10/2022.
 
 ### Hitokoto
 
-> 要把所有的夜归还给星河，把所有的春光归还给疏疏篱落，把所有的慵慵沉迷与不前，归还给过去的我。
+> 喜欢上一个人就是变得束手无策。
 > 
-> ——德卡先生的信箱
+> ——悠久之翼2
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/10/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 04:14:16
+Autogen by LittleJake at 06:14:38
