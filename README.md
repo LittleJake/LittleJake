@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 04/10/2022.
 
 ### Hitokoto
 
-> 这就是人类感情的极致，比希望更炽热，比绝望更深邃的，爱哟！
+> 没有一个世界会比活在这个世界痛苦
 > 
-> ——魔法少女小圆
+> ——黑岩射手
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/10/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 10:12:18
+Autogen by LittleJake at 12:18:48
