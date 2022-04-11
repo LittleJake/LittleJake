@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 04/11/2022.
 
 ### Hitokoto
 
-> 或许前路永夜，即便如此我也要前进，因为星光即使微弱也会为我照亮前路。
+> 人各有命，上天注定。有人天生为王，有人落草为寇。脚下的路如果不是你自己的选择，那么旅程的终点在哪儿也没人知道，你会走到哪儿，会碰到谁，都不一定。
 > 
-> ——四月是你的谎言
+> ——镇魂街
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/11/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 04:16:07
+Autogen by LittleJake at 06:15:44
