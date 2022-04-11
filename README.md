@@ -6,9 +6,9 @@ Today is 04/11/2022.
 
 ### Hitokoto
 
-> 脱！！巨乳！
+> 不管前方的路有多苦，只要走的方向正确，不管多么崎岖不平，都比站在原地更接近幸福。
 > 
-> ——暗杀教室
+> ——千与千寻
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/11/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 12:21:14
+Autogen by LittleJake at 14:11:36
