@@ -2,13 +2,13 @@
 
 Good evening work time!
 
-Today is 04/10/2022.
+Today is 04/11/2022.
 
 ### Hitokoto
 
-> 人，只有在放弃战斗的时候才算输，只要坚持战斗，就还没输！
+> 所谓爱情，是对对自己最重要的人，以慈悲的心保护他的想法。
 > 
-> ——进击的巨人
+> ——火影忍者
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/10/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 22:12:12
+Autogen by LittleJake at 00:55:04
