@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/11/2022.
 
 ### Hitokoto
 
-> 所谓爱情，是对对自己最重要的人，以慈悲的心保护他的想法。
+> Fightだよじゃねつの！
 > 
-> ——火影忍者
+> ——高坂穗乃果
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/11/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 00:55:04
+Autogen by LittleJake at 03:04:28
