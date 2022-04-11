@@ -6,9 +6,9 @@ Today is 04/11/2022.
 
 ### Hitokoto
 
-> 人各有命，上天注定。有人天生为王，有人落草为寇。脚下的路如果不是你自己的选择，那么旅程的终点在哪儿也没人知道，你会走到哪儿，会碰到谁，都不一定。
+> 我的内心就和厕纸一样单纯！
 > 
-> ——镇魂街
+> ——Little Busters!
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/11/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 06:15:44
+Autogen by LittleJake at 08:15:08
