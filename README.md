@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/11/2022.
 
 ### Hitokoto
 
-> 我是否住进了某人的心房呢？
+> 沒有永远下不停的雨。
 > 
-> ——四月是你的谎言
+> ——秋之回憶
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/11/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 18:15:47
+Autogen by LittleJake at 20:13:19
