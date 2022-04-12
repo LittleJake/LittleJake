@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 04/12/2022.
 
 ### Hitokoto
 
-> 今天不想做，所以才要做
+> 我的金子，只给千寻。
 > 
-> ——春上村树
+> ——千与千寻
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/12/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 14:11:42
+Autogen by LittleJake at 16:15:16
