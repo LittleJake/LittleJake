@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 04/12/2022.
 
 ### Hitokoto
 
-> 就算鼻血流尽，也不能放弃妄想。
+> 世界不完美 所以才显得美丽
 > 
-> ——摇曳百合
+> ——钢之炼金术士
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/12/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 10:14:07
+Autogen by LittleJake at 12:20:41
