@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 04/12/2022.
 
 ### Hitokoto
 
-> 无论在哪里遇到你，我都会喜欢上你。
+> 就算鼻血流尽，也不能放弃妄想。
 > 
-> ——AngleBeats!
+> ——摇曳百合
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/12/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 08:15:25
+Autogen by LittleJake at 10:14:07
