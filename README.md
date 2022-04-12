@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 04/12/2022.
 
 ### Hitokoto
 
-> 每当心情郁闷的时候，用手托腮就好，手臂会因为帮上忙而开心的。
+> 无论在哪里遇到你，我都会喜欢上你。
 > 
-> ——四月是你的谎言
+> ——AngleBeats!
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/12/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 06:15:12
+Autogen by LittleJake at 08:15:25
