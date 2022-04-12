@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/12/2022.
 
 ### Hitokoto
 
-> 我可从来不认为恐惧可以成为舍弃他人的借口，人不能因为恐惧，就连身为人类的品性都丢掉。
+> 让我成为你的双眼，把那世界万千，描绘在你面前。
 > 
-> ——铁甲城的卡巴内瑞
+> ——狐妖小红娘
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/12/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 18:14:29
+Autogen by LittleJake at 20:12:48
