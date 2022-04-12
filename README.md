@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/12/2022.
 
 ### Hitokoto
 
-> 因为我喜欢你，喜欢得想吃掉你啊！
+> 祈求别人幸福的同时,却不得不去诅咒其他的人,我们魔法少女就是这样的构造吧!
 > 
-> ——有顶天家族
+> ——魔法少女小圆
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/12/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 02:56:36
+Autogen by LittleJake at 04:14:37
