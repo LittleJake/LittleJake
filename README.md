@@ -6,9 +6,9 @@ Today is 04/13/2022.
 
 ### Hitokoto
 
-> 大家即将各自展开旅程，挥别这个没落的城镇。
+> 我会化作人间的风雨陪在你的身边
 > 
-> ——仰望半月的夜空
+> ——大鱼海棠
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/13/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 06:15:46
+Autogen by LittleJake at 08:15:50
