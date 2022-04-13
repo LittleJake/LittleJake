@@ -6,9 +6,9 @@ Today is 04/13/2022.
 
 ### Hitokoto
 
-> 有的鱼是永远关不住的，因为他们属于天空。
+> 真可悲，你什么都不知道，在这个世界上没有什么是不重要的！
 > 
-> ——大鱼海棠
+> ——最终幻想
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/13/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 18:13:57
+Autogen by LittleJake at 20:13:23
