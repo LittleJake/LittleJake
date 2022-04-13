@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/13/2022.
 
 ### Hitokoto
 
-> 我只对现实世界绝望过，却未对自己绝望过！
+> 即使再也没有晴天也没有关系.
 > 
-> ——只有神知道的世界
+> ——天气之子
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/13/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 02:59:32
+Autogen by LittleJake at 04:16:06
