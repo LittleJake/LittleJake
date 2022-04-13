@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 04/13/2022.
 
 ### Hitokoto
 
-> 何必去在意自己与别人相比是否特别呢？即便只有一个人也好。只要有一个认为自己特别的人，我觉得那就足够了。
+> 在弱者眼里可能是这样，不过，我的确很强。
 > 
-> ——冰菓
+> ——蔷薇少女
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/13/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 12:20:30
+Autogen by LittleJake at 14:16:42
