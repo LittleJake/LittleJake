@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 04/13/2022.
 
 ### Hitokoto
 
-> 与众不同的生活方式很累人呢，因为找不到借口。
+> 有的鱼是永远关不住的，因为他们属于天空。
 > 
-> ——幸运星
+> ——大鱼海棠
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/13/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 16:17:00
+Autogen by LittleJake at 18:13:57
