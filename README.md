@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 04/13/2022.
 
 ### Hitokoto
 
-> 我会化作人间的风雨陪在你的身边
+> 人的记忆本来就是暧昧的，不值得信任。
 > 
-> ——大鱼海棠
+> ——叛逆的鲁鲁修R2
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/13/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 08:15:50
+Autogen by LittleJake at 10:13:26
