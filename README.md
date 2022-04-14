@@ -6,9 +6,9 @@ Today is 04/14/2022.
 
 ### Hitokoto
 
-> 牙白得斯内！
+> 明天，不是你想要就能有的。
 > 
-> ——公主连结Re:Dive
+> ——未闻花名
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/14/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 20:13:29
+Autogen by LittleJake at 22:13:25
