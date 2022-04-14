@@ -6,9 +6,9 @@ Today is 04/14/2022.
 
 ### Hitokoto
 
-> 想和你重新认识一次 从你叫什么名字说起。
+> 用我的左手将你那个不可理喻的幻想粉碎掉！
 > 
-> ——你的名字
+> ——魔法禁书目录
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/14/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 06:15:47
+Autogen by LittleJake at 08:15:09
