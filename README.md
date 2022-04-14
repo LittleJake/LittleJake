@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 04/14/2022.
 
 ### Hitokoto
 
-> 我只是个兴趣使然的英雄。
+> 不能逃避，不能逃避，不能逃避。
 > 
-> ——一拳超人
+> ——EVA
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/14/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 14:11:26
+Autogen by LittleJake at 16:17:50
