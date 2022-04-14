@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/14/2022.
 
 ### Hitokoto
 
-> 代你见证世界的终结，来世再续梦之伊甸
+> 牙白得斯内！
 > 
-> ——Eden*/b站弹幕
+> ——公主连结Re:Dive
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/14/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 18:14:35
+Autogen by LittleJake at 20:13:29
