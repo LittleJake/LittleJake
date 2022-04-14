@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 04/14/2022.
 
 ### Hitokoto
 
-> 打架这玩意，不就是为了守护什么东西吗？
+> 想和你重新认识一次 从你叫什么名字说起。
 > 
-> ——银魂
+> ——你的名字
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/14/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 04:14:31
+Autogen by LittleJake at 06:15:47
