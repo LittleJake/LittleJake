@@ -6,9 +6,9 @@ Today is 04/15/2022.
 
 ### Hitokoto
 
-> 春天是胖次的季节。
+> 就算世上有着所谓的“好女人”，也不会有着“和我关系好的女人”。
 > 
-> ——电器街漫画店
+> ——我的青春恋爱物语果然有问题
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/15/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 18:14:33
+Autogen by LittleJake at 20:12:49
