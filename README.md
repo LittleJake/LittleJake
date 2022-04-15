@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 04/15/2022.
 
 ### Hitokoto
 
-> 世间有很多事情，人们无法从它寂静的表象，猜测到暗涌，就像一个人和另一个人的相遇
+> 乘上与平时相反的列车，为了去见从未见过的风景。
 > 
-> ——我是江小白
+> ——比宇宙更远的地方
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/15/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 06:15:05
+Autogen by LittleJake at 08:15:38
