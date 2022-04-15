@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 04/15/2022.
 
 ### Hitokoto
 
-> 时间并不存在，存在的只有此刻。
+> 世间有很多事情，人们无法从它寂静的表象，猜测到暗涌，就像一个人和另一个人的相遇
 > 
-> ——魔女猎人
+> ——我是江小白
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/15/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 04:30:23
+Autogen by LittleJake at 06:15:05
