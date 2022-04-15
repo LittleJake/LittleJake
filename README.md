@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 04/15/2022.
 
 ### Hitokoto
 
-> 有伤害人的人存在的话，也会有能抚慰伤痕的人
+> 我们还没年老到，对被注定的未来，欣然接受的年纪。想要去到更高的地方，我们便无所畏惧。
 > 
-> ——水果篮子
+> ——数码宝贝：最后的进化 絆
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/15/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 12:19:59
+Autogen by LittleJake at 14:11:30
