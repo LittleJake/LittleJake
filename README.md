@@ -6,9 +6,9 @@ Today is 04/15/2022.
 
 ### Hitokoto
 
-> 就算世上有着所谓的“好女人”，也不会有着“和我关系好的女人”。
+> 春天 马上就要来了  让我与你相遇的春天 就要来了  再也没有你的春天 就要来了
 > 
-> ——我的青春恋爱物语果然有问题
+> ——四月是你的谎言
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/15/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 20:12:49
+Autogen by LittleJake at 22:11:49
