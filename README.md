@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 04/16/2022.
 
 ### Hitokoto
 
-> 世界上没有一个人能代替另一个人。
+> 只要抗争下去就能带来奇迹，这是恐怖分子的教诲，你给我记清楚了。
 > 
-> ——人型电脑天使心
+> ——未来日记
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/16/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 06:14:26
+Autogen by LittleJake at 08:14:30
