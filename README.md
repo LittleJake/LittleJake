@@ -6,9 +6,9 @@ Today is 04/16/2022.
 
 ### Hitokoto
 
-> 什么都无法舍弃的人，什么都无法改变 。
+> 呐，知道么，樱花飘落的速度，是每秒五厘米哦~
 > 
-> ——进击的巨人
+> ——秒速五厘米
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/16/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 12:19:34
+Autogen by LittleJake at 14:11:06
