@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/16/2022.
 
 ### Hitokoto
 
-> 我们虽然距离很远很远，非常非常的远，但是思念或许真的可以穿越时间和距离。
+> 愿你和重要的人，在来日重逢。
 > 
-> ——星之声
+> ——可塑性记忆
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/16/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 20:12:02
+Autogen by LittleJake at 22:11:15
