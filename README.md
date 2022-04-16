@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 04/16/2022.
 
 ### Hitokoto
 
-> 我觉得，不改变也很好。
+> 如果我是雨的话，也能像连接那永远都不将交汇的天空和大地一样，去连接某个人的心吗。
 > 
-> ——来自风平浪静的明天
+> ——BLEACH
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/16/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 16:15:48
+Autogen by LittleJake at 18:13:57
