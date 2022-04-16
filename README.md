@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/16/2022.
 
 ### Hitokoto
 
-> 正因为不会发生，人们才称它为”奇迹“
+> 想说什么就说，想做什么就做，我们不就是这么一直过来的吗？
 > 
-> ——KANON
+> ——LoveLive!
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/16/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 02:48:56
+Autogen by LittleJake at 04:14:59
