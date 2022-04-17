@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 04/17/2022.
 
 ### Hitokoto
 
-> 我只是做了我能做的事，没有时间想将来。
+> 我并不羡慕别人的人生，这就是所谓幸福。
 > 
-> ——秒速五厘米
+> ——幸运星
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/17/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 04:14:38
+Autogen by LittleJake at 06:14:32
