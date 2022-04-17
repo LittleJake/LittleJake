@@ -6,9 +6,9 @@ Today is 04/17/2022.
 
 ### Hitokoto
 
-> 美好的人眼里映出的世界也是美好的。
+> 我的终点，与幸福同在。
 > 
-> ——ARIA
+> ——AIR
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/17/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 20:12:01
+Autogen by LittleJake at 22:11:32
