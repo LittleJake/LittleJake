@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 04/17/2022.
 
 ### Hitokoto
 
-> 龙儿是我的，谁都不许碰。
+> (」・ω・)」うー！(／・ω・)／にゃー！
 > 
-> ——龙与虎
+> ——潜行吧奈亚子
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/17/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 12:19:16
+Autogen by LittleJake at 14:11:00
