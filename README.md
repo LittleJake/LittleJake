@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 04/17/2022.
 
 ### Hitokoto
 
-> (」・ω・)」うー！(／・ω・)／にゃー！
+> 尽管我们的手中空无一物，却能因此紧紧相牵，当你一人时请别迷茫，因为我无论何时都不会放手。
 > 
-> ——潜行吧奈亚子
+> ——尽管我们的手中空无一物
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/17/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 14:11:00
+Autogen by LittleJake at 16:15:34
