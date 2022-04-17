@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 04/16/2022.
+Today is 04/17/2022.
 
 ### Hitokoto
 
-> 愿你和重要的人，在来日重逢。
+> 今后我们来度过满是愉快之事的人生吧
 > 
-> ——可塑性记忆
+> ——Charlotte
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/16/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 22:11:15
+Autogen by LittleJake at 00:57:50
