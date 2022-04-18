@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/18/2022.
 
 ### Hitokoto
 
-> 不可结缘,徒增寂寞
+> 青春是谎言，是邪恶。
 > 
-> ——夏目友人帐
+> ——春物
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/18/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 03:10:18
+Autogen by LittleJake at 04:18:54
