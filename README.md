@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 04/17/2022.
+Today is 04/18/2022.
 
 ### Hitokoto
 
-> 我的终点，与幸福同在。
+> 这个世界上没有完美的人类，所以，人无法自己一个人活著。
 > 
-> ——AIR
+> ——不可思议游戏
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/17/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 22:11:32
+Autogen by LittleJake at 01:03:12
