@@ -6,9 +6,9 @@ Today is 04/18/2022.
 
 ### Hitokoto
 
-> 正因生来一无所有，因此我们能拥有一切。
+> 音无结弦之日 跃动天使之心 立于浮华之世 奏响天籁之音
 > 
-> ——游戏人生
+> ——Angel Beats!
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/18/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 18:15:52
+Autogen by LittleJake at 20:13:15
