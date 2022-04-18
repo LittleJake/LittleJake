@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 04/18/2022.
 
 ### Hitokoto
 
-> 世间本就没有真实的对与错，也没有绝对的善与恶。地狱天堂，一念之间。
+> 不要就是不要，要学会大声说出口，这样才能保护你自己。
 > 
-> ——地狱少女
+> ——魔女之旅
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/18/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 14:11:29
+Autogen by LittleJake at 16:17:46
