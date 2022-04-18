@@ -6,9 +6,9 @@ Today is 04/18/2022.
 
 ### Hitokoto
 
-> 音无结弦之日 跃动天使之心 立于浮华之世 奏响天籁之音
+> 规则是用来被打破的。
 > 
-> ——Angel Beats!
+> ——机械公敌
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/18/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 20:13:15
+Autogen by LittleJake at 22:12:44
