@@ -6,9 +6,9 @@ Today is 04/18/2022.
 
 ### Hitokoto
 
-> 只要是活着的东西，就算是神我也会杀给你看。
+> 世间本就没有真实的对与错，也没有绝对的善与恶。地狱天堂，一念之间。
 > 
-> ——空之境界
+> ——地狱少女
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/18/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 12:21:43
+Autogen by LittleJake at 14:11:29
