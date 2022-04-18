@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 04/18/2022.
 
 ### Hitokoto
 
-> Don't forget. Always,somewhere,someone is fighting for you. As long as you remember her,you are not alone.
+> 朝着下一道光芒横渡大海吧！
 > 
-> ——魔法少女小圆
+> ——Aqours
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/18/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 08:15:23
+Autogen by LittleJake at 10:14:06
