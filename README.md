@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 04/18/2022.
 
 ### Hitokoto
 
-> 朝着下一道光芒横渡大海吧！
+> 只要是活着的东西，就算是神我也会杀给你看。
 > 
-> ——Aqours
+> ——空之境界
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/18/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 10:14:06
+Autogen by LittleJake at 12:21:43
