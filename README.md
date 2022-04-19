@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/19/2022.
 
 ### Hitokoto
 
-> 我的面包！
+> 活在现实中的人是错的，而那些哭泣的人才是正确的，孤独的我们才有人类的样子
 > 
-> ——Clannad
+> ——angel beats
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/19/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 18:14:58
+Autogen by LittleJake at 20:14:03
