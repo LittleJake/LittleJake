@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 04/19/2022.
 
 ### Hitokoto
 
-> 不管对手是强是弱，结果只有胜负两种。输了的话，就无法站在球场上了。
+> 所谓的人类，可是连短短的十分钟也等不起的。
 > 
-> ——排球少年
+> ——Angel Beats!
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/19/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 12:24:47
+Autogen by LittleJake at 14:11:57
