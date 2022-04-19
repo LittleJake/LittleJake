@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/19/2022.
 
 ### Hitokoto
 
-> 什么叫忍者？学会忍耐的人就叫忍者。
+> 喜欢你，因为我喜欢你，比地球上任何人都，喜欢你...
 > 
-> ——哔哩哔哩
+> ——名侦探柯南
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/19/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 01:06:12
+Autogen by LittleJake at 03:19:24
