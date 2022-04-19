@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 04/19/2022.
 
 ### Hitokoto
 
-> 我们都很执着,而且思念的越深,越是绝望。
+> 我的面包！
 > 
-> ——人渣的本愿
+> ——Clannad
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/19/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 16:17:40
+Autogen by LittleJake at 18:14:58
