@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 04/19/2022.
 
 ### Hitokoto
 
-> 不敢反抗压迫的心理将伴你一生
+> 孤独的人不会伤害别人，只会不断地伤害自己罢了。
 > 
-> ——狂赌深渊
+> ——我的青春恋爱物语果然有问题
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/19/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 06:15:31
+Autogen by LittleJake at 08:15:40
