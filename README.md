@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,11 +6,13 @@ Today is 04/20/2022.
 
 ### Hitokoto
 
-> 人啊...想要保护重要东西的时候，就真的能变得很坚强。
+> 即使再也没有晴天也没有关系.
 > 
-> ——火影忍者
+> ——天气之子
 
-### Stat
+<detail>
+
+<summary>**Stat**</summary>
 
 ![Jake Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=LittleJake&show_icons=true)
 
@@ -18,10 +20,12 @@ Today is 04/20/2022.
 
 [![Jake Liu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LittleJake&layout=compact)](https://wakatime.com/@LittleJake)
 
+</detail>
+
 ### Donate
 
 <a href='https://www.buymeacoffee.com/littlejake'><img alt='buymeacoffee' src='https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/buymeacoffee.svg' width='50'></a>
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 01:12:51
+Autogen by LittleJake at 02:36:21
