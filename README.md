@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 04/19/2022.
+Today is 04/20/2022.
 
 ### Hitokoto
 
-> 不愿意的时候，逃跑也没有关系！
+> 人啊...想要保护重要东西的时候，就真的能变得很坚强。
 > 
-> ——灵能百分百
+> ——火影忍者
 
 ### Stat
 
@@ -24,4 +24,4 @@ Today is 04/19/2022.
 
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
-Autogen by LittleJake at 22:12:25
+Autogen by LittleJake at 01:12:51
