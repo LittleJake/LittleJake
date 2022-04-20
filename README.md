@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/20/2022.
 
 ### Hitokoto
 
-> 我拼命地挣扎，我对活下去的执著，都是因为你，是你让我，对和你一起度过的那段时光无比留恋。
+> 只要引导着二人的两把命运之剑还在身边，我们就绝不会失败。
 > 
-> ——四月是你的谎言
+> ——刀剑神域
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/20/2022.
 
 </details>
 
-Autogen by LittleJake at 04:00:41
+Autogen by LittleJake at 05:33:12
