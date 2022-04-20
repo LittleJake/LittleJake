@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 04/20/2022.
 
 ### Hitokoto
 
-> 九月是蒲公英漫飞的季节，我喜欢这个季节，只可惜今天是九月的最后一天了
+> 在我年轻的时候，不知道什么是恐惧，可偏偏是你的温柔，让我害怕。
 > 
-> ——我是江小白
+> ——东京爱情故事
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/20/2022.
 
 </details>
 
-Autogen by LittleJake at 15:18:17
+Autogen by LittleJake at 16:25:13
