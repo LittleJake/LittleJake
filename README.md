@@ -6,9 +6,9 @@ Today is 04/20/2022.
 
 ### Hitokoto
 
-> 吾于冥河沉浮,受尽命运捉弄，纵然汝将忘吾，吾亦伴汝身旁。
+> 是我，是我先，明明都是我先来的……接吻也好，拥抱也好，还是喜欢上那家伙也好
 > 
-> ——Re：从零开始的异世界生活
+> ——白色相簿2
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/20/2022.
 
 </details>
 
-Autogen by LittleJake at 18:18:50
+Autogen by LittleJake at 19:13:26
