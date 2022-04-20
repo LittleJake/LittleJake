@@ -6,9 +6,9 @@ Today is 04/20/2022.
 
 ### Hitokoto
 
-> 来看看你的未来，那就是你的未来，向着未来，一步一步地走去。
+> 要是有事情不称心，就起身反抗吧。
 > 
-> ——未来へ(向着未来)
+> ——魔女之旅
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/20/2022.
 
 </details>
 
-Autogen by LittleJake at 07:15:32
+Autogen by LittleJake at 08:22:21
