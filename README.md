@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 04/20/2022.
 
 ### Hitokoto
 
-> 我们一直在离别中，比如和爱的人，和伤害，甚至和时光。
+> 来看看你的未来，那就是你的未来，向着未来，一步一步地走去。
 > 
-> ——萤火虫之墓
+> ——未来へ(向着未来)
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/20/2022.
 
 </details>
 
-Autogen by LittleJake at 06:20:43
+Autogen by LittleJake at 07:15:32
