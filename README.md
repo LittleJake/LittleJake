@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 04/20/2022.
 
 ### Hitokoto
 
-> 人生最糟糕的事，一个是饿肚子，一个是孤独。
+> 九月是蒲公英漫飞的季节，我喜欢这个季节，只可惜今天是九月的最后一天了
 > 
-> ——夏日大作战
+> ——我是江小白
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/20/2022.
 
 </details>
 
-Autogen by LittleJake at 14:15:16
+Autogen by LittleJake at 15:18:17
