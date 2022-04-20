@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 04/20/2022.
 
 ### Hitokoto
 
-> 我觉得你很幸福，因为你可以选择爱我或不爱我，而我只能选择爱你或更爱你。
+> 今日的余晖和你最后那天给我的拥抱，同一个温度
 > 
-> ——School Days
+> ——Myself
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/20/2022.
 
 </details>
 
-Autogen by LittleJake at 12:31:16
+Autogen by LittleJake at 13:33:34
