@@ -6,9 +6,9 @@ Today is 04/20/2022.
 
 ### Hitokoto
 
-> 梦是现实的延续，现实是梦的终结。
+> 淅淅沥沥的雨，即便能填满路上的水坑，也填不满心中的空洞。
 > 
-> ——Eva
+> ——神圣之门
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/20/2022.
 
 </details>
 
-Autogen by LittleJake at 22:16:02
+Autogen by LittleJake at 23:17:37
