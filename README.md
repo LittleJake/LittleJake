@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 04/20/2022.
 
 ### Hitokoto
 
-> 只要引导着二人的两把命运之剑还在身边，我们就绝不会失败。
+> 我们一直在离别中，比如和爱的人，和伤害，甚至和时光。
 > 
-> ——刀剑神域
+> ——萤火虫之墓
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/20/2022.
 
 </details>
 
-Autogen by LittleJake at 05:33:12
+Autogen by LittleJake at 06:20:43
