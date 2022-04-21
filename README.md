@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 04/21/2022.
 
 ### Hitokoto
 
-> 无可替代的存在什么的不是很可怕吗？一旦失去就再也无法取回；绝对不能容忍失败；无法再一次得到。
+> 我向星星许了个愿。我并不是真的相信它，但是反正也是免费的，而且也没有证据证明它不灵。
 > 
-> ——果然我的青春恋爱喜剧搞错了
+> ——加菲猫的幸福生活
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/21/2022.
 
 </details>
 
-Autogen by LittleJake at 05:35:06
+Autogen by LittleJake at 06:20:00
