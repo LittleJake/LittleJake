@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 04/21/2022.
 
 ### Hitokoto
 
-> 我向星星许了个愿。我并不是真的相信它，但是反正也是免费的，而且也没有证据证明它不灵。
+> 人的一生会遭遇各种各样的事，其中有令人难以置信的事，也有不讲道理的事，但这就是生活。
 > 
-> ——加菲猫的幸福生活
+> ——地狱少女
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/21/2022.
 
 </details>
 
-Autogen by LittleJake at 06:20:00
+Autogen by LittleJake at 07:15:08
