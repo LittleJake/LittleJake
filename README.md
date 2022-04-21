@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/21/2022.
 
 ### Hitokoto
 
-> 想哭的时候能哭出来，也是一种坚强
+> 无可替代的存在什么的不是很可怕吗？一旦失去就再也无法取回；绝对不能容忍失败；无法再一次得到。
 > 
-> ——翼年代记
+> ——果然我的青春恋爱喜剧搞错了
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/21/2022.
 
 </details>
 
-Autogen by LittleJake at 04:42:27
+Autogen by LittleJake at 05:35:06
