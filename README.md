@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 04/21/2022.
 
 ### Hitokoto
 
-> 在我年轻的时候，不知道什么是恐惧，可偏偏是你的温柔，让我害怕。
+> 迎接我们的也许是漆黑一片的夜路，即便如此，也要相信自己，勇往直前。 星空会为我们在这条道路上点缀出淡淡星光。
 > 
-> ——东京爱情故事
+> ——四月是你的谎言
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/21/2022.
 
 </details>
 
-Autogen by LittleJake at 16:24:09
+Autogen by LittleJake at 17:24:48
