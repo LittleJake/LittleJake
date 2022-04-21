@@ -6,9 +6,9 @@ Today is 04/21/2022.
 
 ### Hitokoto
 
-> I'm bad, and that's good. I will never be good, and that's not bad. There's no one I'd rather be than me.
+> 在我年轻的时候，不知道什么是恐惧，可偏偏是你的温柔，让我害怕。
 > 
-> ——无敌破坏王
+> ——东京爱情故事
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/21/2022.
 
 </details>
 
-Autogen by LittleJake at 15:17:45
+Autogen by LittleJake at 16:24:09
