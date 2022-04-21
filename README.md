@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 04/20/2022.
+Today is 04/21/2022.
 
 ### Hitokoto
 
-> 淅淅沥沥的雨，即便能填满路上的水坑，也填不满心中的空洞。
+> 对于那个被照顾的人，她剩下的人生变得不再孤单寂寞，变得不再因为生命必然的终结而不能沾染上明丽的色彩。
 > 
-> ——神圣之门
+> ——仰望半月的夜空
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/20/2022.
 
 </details>
 
-Autogen by LittleJake at 23:17:37
+Autogen by LittleJake at 01:19:16
