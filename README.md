@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/21/2022.
 
 ### Hitokoto
 
-> 假如我们相遇，肯定一眼就能认出彼此
+> 不要为自己的努力道歉，这样太对不起自己了！
 > 
-> ——你的名字
+> ——火影忍者
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/21/2022.
 
 </details>
 
-Autogen by LittleJake at 19:11:52
+Autogen by LittleJake at 20:18:49
