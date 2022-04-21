@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/21/2022.
 
 ### Hitokoto
 
-> 对于那个被照顾的人，她剩下的人生变得不再孤单寂寞，变得不再因为生命必然的终结而不能沾染上明丽的色彩。
+> 人类的赞歌是勇气的赞歌，人类的伟大是勇气的伟大！
 > 
-> ——仰望半月的夜空
+> ——JOJO的奇妙冒险
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/21/2022.
 
 </details>
 
-Autogen by LittleJake at 01:19:16
+Autogen by LittleJake at 03:26:06
