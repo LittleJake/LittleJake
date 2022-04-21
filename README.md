@@ -6,9 +6,9 @@ Today is 04/21/2022.
 
 ### Hitokoto
 
-> 人的一生会遭遇各种各样的事，其中有令人难以置信的事，也有不讲道理的事，但这就是生活。
+> 我手里拿着刀，没法抱你，我放下刀，没法保护你！
 > 
-> ——地狱少女
+> ——死神
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/21/2022.
 
 </details>
 
-Autogen by LittleJake at 07:15:08
+Autogen by LittleJake at 08:21:08
