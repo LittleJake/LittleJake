@@ -6,9 +6,9 @@ Today is 04/21/2022.
 
 ### Hitokoto
 
-> 人类的赞歌是勇气的赞歌，人类的伟大是勇气的伟大！
+> 想哭的时候能哭出来，也是一种坚强
 > 
-> ——JOJO的奇妙冒险
+> ——翼年代记
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/21/2022.
 
 </details>
 
-Autogen by LittleJake at 03:26:06
+Autogen by LittleJake at 04:42:27
