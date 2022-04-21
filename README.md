@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 04/21/2022.
 
 ### Hitokoto
 
-> “如果我不在了，你会怎样？” “我会去找你” “如果找不见呢？” “我会一直，一直，一直找下去”
+> 会起反作用是吧……明明是想保护，却伤害了；明明想要哭泣， 却微笑着。
 > 
-> ——人鱼森林
+> ——吸血鬼骑士
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/21/2022.
 
 </details>
 
-Autogen by LittleJake at 10:18:52
+Autogen by LittleJake at 11:14:04
