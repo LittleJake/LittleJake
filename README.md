@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 04/22/2022.
 
 ### Hitokoto
 
-> 比起悲伤来说，无法分享快乐这件事，要更加的寂寞吧。
+> 正义不是行使武力的理由，而是正相反——为了将动武的理由正当化，人们才会高喊正义。
 > 
-> ——AIR
+> ——末日时在做什么？有没有空？可以来拯救吗？
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/22/2022.
 
 </details>
 
-Autogen by LittleJake at 12:30:47
+Autogen by LittleJake at 13:34:08
