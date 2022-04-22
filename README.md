@@ -6,9 +6,9 @@ Today is 04/22/2022.
 
 ### Hitokoto
 
-> 步伐虽小，密而不停
+> 必须洗净一切往事，否则你永远无法清楚自由地看这个世界
 > 
-> ——实验品家庭
+> ——死神
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/22/2022.
 
 </details>
 
-Autogen by LittleJake at 04:44:47
+Autogen by LittleJake at 05:33:58
