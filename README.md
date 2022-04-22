@@ -6,9 +6,9 @@ Today is 04/22/2022.
 
 ### Hitokoto
 
-> 我再也不要看见她哭的样子了，就算我从此从她心目中消失。
+> 等着我，有马，不对，别回头，向前进，你要一直向前，我一定会追上来的。
 > 
-> ——名侦探柯南
+> ——四月是你的谎言
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/22/2022.
 
 </details>
 
-Autogen by LittleJake at 18:19:16
+Autogen by LittleJake at 19:13:17
