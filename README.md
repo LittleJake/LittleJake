@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 04/22/2022.
 
 ### Hitokoto
 
-> 邂逅本身，就是一种奇迹啊。
+> 旅行唯有出发前最愉快，狗儿唯有叫声最吓人，女人唯有背影最美丽。
 > 
-> ——游魂
+> ——狼与香辛料
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/22/2022.
 
 </details>
 
-Autogen by LittleJake at 09:16:41
+Autogen by LittleJake at 10:18:27
