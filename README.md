@@ -6,9 +6,9 @@ Today is 04/22/2022.
 
 ### Hitokoto
 
-> 那些坚定决心的人们，会展现出好脸色。
+> 叫做妈妈的人，是不会哭的。
 > 
-> ——闪电十一人
+> ——朝花夕誓
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/22/2022.
 
 </details>
 
-Autogen by LittleJake at 01:21:36
+Autogen by LittleJake at 03:43:59
