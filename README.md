@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/22/2022.
 
 ### Hitokoto
 
-> 跌落谷底之后，唯有向上攀爬。
+> 自身不先改变的话，一切都不会改变。
 > 
-> ——排球少年
+> ——银魂
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/22/2022.
 
 </details>
 
-Autogen by LittleJake at 22:16:35
+Autogen by LittleJake at 23:15:54
