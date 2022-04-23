@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 04/23/2022.
 
 ### Hitokoto
 
-> 连繁星都不是永恒的，何况是人呢。
+> 既然没有终点，那在何处又何妨呢。
 > 
-> ——中二病也要谈恋爱！
+> ——异度侵入
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/23/2022.
 
 </details>
 
-Autogen by LittleJake at 10:17:15
+Autogen by LittleJake at 11:12:53
