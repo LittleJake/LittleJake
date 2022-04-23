@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 04/23/2022.
 
 ### Hitokoto
 
-> 你愿意陪我走到地狱的底端吗？
+> 从今往后，你不能斩的人我来斩，你不能伤的人我来杀，既然你要保护这个世界，那我便保护你，这就是我的信念！
 > 
-> ——魔法禁书目录
+> ——灵契
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/23/2022.
 
 </details>
 
-Autogen by LittleJake at 05:13:53
+Autogen by LittleJake at 06:18:58
