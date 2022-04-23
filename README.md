@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 04/23/2022.
 
 ### Hitokoto
 
-> 从今往后，你不能斩的人我来斩，你不能伤的人我来杀，既然你要保护这个世界，那我便保护你，这就是我的信念！
+> 我们不应该根据背负的罪孽来选择道路，而应在选择的道路上背负自己的罪孽。
 > 
-> ——灵契
+> ——空之境界
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/23/2022.
 
 </details>
 
-Autogen by LittleJake at 06:18:58
+Autogen by LittleJake at 07:15:18
