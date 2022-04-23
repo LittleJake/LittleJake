@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 04/22/2022.
+Today is 04/23/2022.
 
 ### Hitokoto
 
-> 自身不先改变的话，一切都不会改变。
+> 人们渴望像鸟儿一样自由自在地飞翔，可他们并没有想过，鸟儿也并不自由，它们之所以飞翔，是为了生存。
 > 
-> ——银魂
+> ——奈克瑟斯奥特曼
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/22/2022.
 
 </details>
 
-Autogen by LittleJake at 23:15:54
+Autogen by LittleJake at 01:13:39
