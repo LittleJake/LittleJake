@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 04/23/2022.
 
 ### Hitokoto
 
-> 恋爱不是谈出来的，而是陷进去的。
+> 我从未让你们骄傲，你们却待我如宝。
 > 
-> ——GAMER电玩咖！
+> ——Az殇芯的chx
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/23/2022.
 
 </details>
 
-Autogen by LittleJake at 17:17:05
+Autogen by LittleJake at 18:18:19
