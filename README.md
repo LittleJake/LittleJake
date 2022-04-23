@@ -6,9 +6,9 @@ Today is 04/23/2022.
 
 ### Hitokoto
 
-> 人们渴望像鸟儿一样自由自在地飞翔，可他们并没有想过，鸟儿也并不自由，它们之所以飞翔，是为了生存。
+> 因为喜欢你，所以想继续相信下去。
 > 
-> ——奈克瑟斯奥特曼
+> ——空之境界
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/23/2022.
 
 </details>
 
-Autogen by LittleJake at 01:13:39
+Autogen by LittleJake at 02:58:12
