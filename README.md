@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 04/23/2022.
 
 ### Hitokoto
 
-> 如期待奇迹发生，那唯有不停伸手去抓紧，去把握才行
+> 我有在反省，但我不后悔。
 > 
-> ——秒速5厘米
+> ——物语系列
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/23/2022.
 
 </details>
 
-Autogen by LittleJake at 13:23:04
+Autogen by LittleJake at 14:14:25
