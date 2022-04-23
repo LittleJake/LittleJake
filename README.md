@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 04/23/2022.
 
 ### Hitokoto
 
-> 挚友的执念烙印此身，无尽的黑暗化为光明，天上天下，一骑当神！
+> 如期待奇迹发生，那唯有不停伸手去抓紧，去把握才行
 > 
-> ——天元突破：红莲螺岩
+> ——秒速5厘米
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/23/2022.
 
 </details>
 
-Autogen by LittleJake at 12:26:05
+Autogen by LittleJake at 13:23:04
