@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 04/23/2022.
 
 ### Hitokoto
 
-> 我们不应该根据背负的罪孽来选择道路，而应在选择的道路上背负自己的罪孽。
+> 未来的旅程是如此遥远，能见到的光明却是如此稀少。即使如此——我仍然没有完全放弃希望。
 > 
-> ——空之境界
+> ——刀剑神域
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/23/2022.
 
 </details>
 
-Autogen by LittleJake at 07:15:18
+Autogen by LittleJake at 08:18:24
