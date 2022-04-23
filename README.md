@@ -6,9 +6,9 @@ Today is 04/23/2022.
 
 ### Hitokoto
 
-> 是你赢了...哲...
+> 人找不到某种东西沉迷就活不下来。人都是某种东西的奴隶。
 > 
-> ——黑子的篮球
+> ——进击的巨人
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/23/2022.
 
 </details>
 
-Autogen by LittleJake at 19:12:44
+Autogen by LittleJake at 20:16:28
