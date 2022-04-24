@@ -6,9 +6,9 @@ Today is 04/24/2022.
 
 ### Hitokoto
 
-> 我们开始一起攀登，这长长的，长长的坡道。
+> 将愿望倾入不愿忘却的回忆中……
 > 
-> ——Clannad
+> ——ef-a tale of memories
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/24/2022.
 
 </details>
 
-Autogen by LittleJake at 16:21:21
+Autogen by LittleJake at 17:16:57
