@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 04/24/2022.
 
 ### Hitokoto
 
-> 无论人生过得怎么样，都不要失去自己活着的意义，努力的去追逐心中的梦想，留下自己曾经在这个世界活过的痕迹，不要等到一切都失去了才追悔莫及。
+> 不能逃避，不能逃避，不能逃避，不能逃避……
 > 
-> ——天使的心跳
+> ——EVA
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/24/2022.
 
 </details>
 
-Autogen by LittleJake at 07:15:07
+Autogen by LittleJake at 08:18:58
