@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/24/2022.
 
 ### Hitokoto
 
-> 如果你一个人把什么都做完了，那我做什么？
+> 重要的感情总是非常单纯 自然脱口而出的
 > 
-> ——元气少女缘结神
+> ——GAMERS电玩咖！
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/24/2022.
 
 </details>
 
-Autogen by LittleJake at 02:51:49
+Autogen by LittleJake at 03:27:03
