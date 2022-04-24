@@ -6,9 +6,9 @@ Today is 04/24/2022.
 
 ### Hitokoto
 
-> 不能逃避，不能逃避，不能逃避，不能逃避……
+> 你们人类让我明白了一个道理，那就是这个世界是不讲道理的
 > 
-> ——EVA
+> ——刺客伍六七
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/24/2022.
 
 </details>
 
-Autogen by LittleJake at 08:18:58
+Autogen by LittleJake at 09:15:29
