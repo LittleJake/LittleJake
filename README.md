@@ -6,9 +6,9 @@ Today is 04/24/2022.
 
 ### Hitokoto
 
-> 音无结弦之日 跃动天使之心 立于浮华之世 奏响天籁之音
+> 我们开始一起攀登，这长长的，长长的坡道。
 > 
-> ——Angel Beats!
+> ——Clannad
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/24/2022.
 
 </details>
 
-Autogen by LittleJake at 15:15:54
+Autogen by LittleJake at 16:21:21
