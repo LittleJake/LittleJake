@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/24/2022.
 
 ### Hitokoto
 
-> 战斗是残酷的，无法做出多余的考虑！
+> 我觉得只要这样继续加油，总有一天能赶上他们的。
 > 
-> ——机动战士高达
+> ——刀剑神域
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/24/2022.
 
 </details>
 
-Autogen by LittleJake at 20:16:53
+Autogen by LittleJake at 21:13:26
