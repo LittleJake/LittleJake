@@ -6,9 +6,9 @@ Today is 04/24/2022.
 
 ### Hitokoto
 
-> 喜欢的人喜欢别人不是很正常吗。
+> 战斗是残酷的，无法做出多余的考虑！
 > 
-> ——四月是你的谎言
+> ——机动战士高达
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/24/2022.
 
 </details>
 
-Autogen by LittleJake at 19:12:52
+Autogen by LittleJake at 20:16:53
