@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 04/25/2022.
 
 ### Hitokoto
 
-> 无论你在哪里，就算我看不见你，我也会一直注视着你。
+> 超频链接
 > 
-> ——妖精的尾巴
+> ——加速世界
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/25/2022.
 
 </details>
 
-Autogen by LittleJake at 13:30:33
+Autogen by LittleJake at 14:15:31
