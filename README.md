@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 04/25/2022.
 
 ### Hitokoto
 
-> 错误可不是为了别人才改的过来的，要为了自己才能改正。
+> 我除了投三分，就什么都没有了……
 > 
-> ——XXXHolic
+> ——灌篮高手
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/25/2022.
 
 </details>
 
-Autogen by LittleJake at 15:18:24
+Autogen by LittleJake at 16:22:23
