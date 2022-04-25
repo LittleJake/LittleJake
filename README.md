@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/25/2022.
 
 ### Hitokoto
 
-> 物转星移，花开花落，周而复始，生生不息，但今昔已非昨日，然今日花容依旧。
+> 正气和狂气，理性和知性，自信和确信，在悲剧性的不合理世界，故事开始了。
 > 
-> ——虫师
+> ——绝园的暴风雨
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/25/2022.
 
 </details>
 
-Autogen by LittleJake at 22:16:07
+Autogen by LittleJake at 23:16:21
