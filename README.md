@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 04/24/2022.
+Today is 04/25/2022.
 
 ### Hitokoto
 
-> 重要的人，不能忘记的人，不想忘记的人。 你，是谁？
+> 就连一直都无容身之地的我……也不是可以任意舍弃的生命。
 > 
-> ——你的名字
+> ——夏目友人帐
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/24/2022.
 
 </details>
 
-Autogen by LittleJake at 23:15:28
+Autogen by LittleJake at 01:15:18
