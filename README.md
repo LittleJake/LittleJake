@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 04/25/2022.
 
 ### Hitokoto
 
-> 超频链接
+> 错误可不是为了别人才改的过来的，要为了自己才能改正。
 > 
-> ——加速世界
+> ——XXXHolic
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/25/2022.
 
 </details>
 
-Autogen by LittleJake at 14:15:31
+Autogen by LittleJake at 15:18:24
