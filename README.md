@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/25/2022.
 
 ### Hitokoto
 
-> 就连一直都无容身之地的我……也不是可以任意舍弃的生命。
+> 真相只有一个！
 > 
-> ——夏目友人帐
+> ——柯南
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/25/2022.
 
 </details>
 
-Autogen by LittleJake at 01:15:18
+Autogen by LittleJake at 03:11:40
