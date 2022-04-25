@@ -6,9 +6,9 @@ Today is 04/25/2022.
 
 ### Hitokoto
 
-> 孩子，我愿意为你而前行。
+> 爸爸，我能不再忍了吗？早苗说了，世界上能够放声大哭的地方，只有卫生间，和爸爸的怀里。
 > 
-> ——灵笼
+> ——CLANNAD ～AFTER STORY～ EP18
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/25/2022.
 
 </details>
 
-Autogen by LittleJake at 09:16:33
+Autogen by LittleJake at 10:18:16
