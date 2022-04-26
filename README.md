@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 04/26/2022.
 
 ### Hitokoto
 
-> 禁忌算什么！那难道比爱丽丝的命还重要吗？
+> El Psy Congroo!
 > 
-> ——刀剑神域
+> ——命运石之门
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/26/2022.
 
 </details>
 
-Autogen by LittleJake at 14:14:39
+Autogen by LittleJake at 15:17:09
