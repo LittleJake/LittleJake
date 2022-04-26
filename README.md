@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 04/26/2022.
 
 ### Hitokoto
 
-> 鲁鲁修，你知道雪花为什么是白色的吗？因为已经忘记自己本来是什么颜色啊。
+> 一举一动，都是承诺，会被另一个人看在眼里，记在心上的。
 > 
-> ——叛逆的鲁鲁修
+> ——悬崖上的金鱼姬
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/26/2022.
 
 </details>
 
-Autogen by LittleJake at 12:31:51
+Autogen by LittleJake at 13:35:41
