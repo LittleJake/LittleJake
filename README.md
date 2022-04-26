@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 04/26/2022.
 
 ### Hitokoto
 
-> 在我年轻的时候，不知道什么是恐惧，可偏偏是你的温柔，让我害怕。
+> 我只是个兴趣使然的英雄。
 > 
-> ——东京爱情故事
+> ——一拳超人
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/26/2022.
 
 </details>
 
-Autogen by LittleJake at 17:21:17
+Autogen by LittleJake at 18:19:37
