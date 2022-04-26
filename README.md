@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 04/26/2022.
 
 ### Hitokoto
 
-> El Psy Congroo!
+> 这个世界上没有完美的人类，所以，人无法自己一个人活著。
 > 
-> ——命运石之门
+> ——不可思议游戏
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/26/2022.
 
 </details>
 
-Autogen by LittleJake at 15:17:09
+Autogen by LittleJake at 16:23:32
