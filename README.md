@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/26/2022.
 
 ### Hitokoto
 
-> 我的愿望是—幸福地活着，幸福地死去。
+> 听说，樱花花瓣飘落的速度，是每秒5厘米，思念的距离到底有多远。如果樱花下落时是有声音的，你会不会听到我对你的思念
 > 
-> ——神不在的星期天
+> ——秒速五厘米
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/26/2022.
 
 </details>
 
-Autogen by LittleJake at 20:17:37
+Autogen by LittleJake at 21:15:13
