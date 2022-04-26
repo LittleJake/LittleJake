@@ -6,9 +6,9 @@ Today is 04/26/2022.
 
 ### Hitokoto
 
-> 'Cause rainbow won't light up the sky unless you let it rain.
+> 失去的东西虽然拿不回来，但是，忘记的事情是可以想起来的。
 > 
-> ——My Little Pony: Friendship is Magic
+> ——TOUCH
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/26/2022.
 
 </details>
 
-Autogen by LittleJake at 22:15:53
+Autogen by LittleJake at 23:16:37
