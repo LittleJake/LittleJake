@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 04/26/2022.
 
 ### Hitokoto
 
-> 从今往后，你不能斩的人我来斩，你不能伤的人我来杀，既然你要保护这个世界，那我便保护你，这就是我的信念！
+> 我除了投三分，就什么都没有了……
 > 
-> ——灵契
+> ——灌篮高手
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/26/2022.
 
 </details>
 
-Autogen by LittleJake at 07:15:57
+Autogen by LittleJake at 08:20:05
