@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 04/27/2022.
 
 ### Hitokoto
 
-> 喜欢上一个人就是变得束手无策。
+> 重要的是无论我们选择哪条路，都要担负起选择的责任。
 > 
-> ——悠久之翼2
+> ——蜂蜜与四叶草
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/27/2022.
 
 </details>
 
-Autogen by LittleJake at 12:30:07
+Autogen by LittleJake at 13:33:43
