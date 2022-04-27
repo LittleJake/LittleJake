@@ -6,9 +6,9 @@ Today is 04/27/2022.
 
 ### Hitokoto
 
-> 不管是怎样的回忆，都是我们活过的人生。
+> 你的败因只有一个，就是与我为敌。 ­
 > 
-> ——angel beats
+> ——家庭教师
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/27/2022.
 
 </details>
 
-Autogen by LittleJake at 15:18:28
+Autogen by LittleJake at 16:23:51
