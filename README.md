@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 04/27/2022.
 
 ### Hitokoto
 
-> 你是否会等待着我?我还想变的更加完美...
+> 喜欢上一个人就是变得束手无策。
 > 
-> ——LoveLive!Sunshine!
+> ——悠久之翼2
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/27/2022.
 
 </details>
 
-Autogen by LittleJake at 11:13:55
+Autogen by LittleJake at 12:30:07
