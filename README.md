@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/27/2022.
 
 ### Hitokoto
 
-> 但我拒绝！我岸边露伴最喜欢的事情之一，就是向那些自以为是的家伙说，NO！
+> 应该可以了吧，我已经很努力了，应该可以抵达终点了……
 > 
-> ——JOJO的奇妙冒险
+> ——AIR
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/27/2022.
 
 </details>
 
-Autogen by LittleJake at 21:14:56
+Autogen by LittleJake at 22:16:18
