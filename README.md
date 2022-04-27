@@ -6,9 +6,9 @@ Today is 04/27/2022.
 
 ### Hitokoto
 
-> 我没有任何理由为了那些人让自己的人生付之一炬！
+> 你是否会等待着我?我还想变的更加完美...
 > 
-> ——三月的狮子
+> ——LoveLive!Sunshine!
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/27/2022.
 
 </details>
 
-Autogen by LittleJake at 10:18:35
+Autogen by LittleJake at 11:13:55
