@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 04/27/2022.
 
 ### Hitokoto
 
-> 人类的赞歌就是勇气的赞歌！
+> 花无凋零之时，爱无传达之期，爱情亘古不变，紫罗兰永世长存。
 > 
-> ——JOJO的奇妙冒险
+> ——紫罗兰永恒花园
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/27/2022.
 
 </details>
 
-Autogen by LittleJake at 17:24:12
+Autogen by LittleJake at 18:20:07
