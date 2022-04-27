@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 04/27/2022.
 
 ### Hitokoto
 
-> 虽然有时候，不知道要写些什么，有时候，却有很多想说的，来不及记录。回忆一转身，就悄悄溜走了。
+> 就算是自私⋯⋯我也希望那些人能够永远都有笑容⋯⋯
 > 
-> ——凸变英雄
+> ——夏目友人帐
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/27/2022.
 
 </details>
 
-Autogen by LittleJake at 07:15:52
+Autogen by LittleJake at 08:20:01
