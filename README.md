@@ -6,9 +6,9 @@ Today is 04/27/2022.
 
 ### Hitokoto
 
-> 花无凋零之时，爱无传达之期，爱情亘古不变，紫罗兰永世长存。
+> 别人恋爱不成功，你连暗恋都不成功！
 > 
-> ——紫罗兰永恒花园
+> ——灌篮高手
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/27/2022.
 
 </details>
 
-Autogen by LittleJake at 18:20:07
+Autogen by LittleJake at 19:12:55
