@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 04/28/2022.
 
 ### Hitokoto
 
-> 即使想放弃，也没法放弃最想要的东西，这就是人
+> 即使你已经习惯了受伤害，也有人看了会心疼的。
 > 
-> ——悠久之翼
+> ——我的恋爱物语果然有问题
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/28/2022.
 
 </details>
 
-Autogen by LittleJake at 17:19:36
+Autogen by LittleJake at 18:20:35
