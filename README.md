@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 04/28/2022.
 
 ### Hitokoto
 
-> ——比起自己的生命还要重要的东西，并不是这么好找的。
+> 笑是对身边的事物感到一瞬间的幸福而表现出来的东西。
 > 
-> ——末日时在做什么？能不能再见一面？
+> ——CLANNAD
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/28/2022.
 
 </details>
 
-Autogen by LittleJake at 08:20:13
+Autogen by LittleJake at 09:17:47
