@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 04/28/2022.
 
 ### Hitokoto
 
-> 这个世界对温柔的你可一点也不温柔呀。
+> 我已经准备好了足够挡雨的伞，可是却迟迟没有等到雨的到来，这样的尴尬只是我漫长人生中的小插曲罢了。
 > 
-> ——军火女王
+> ——千与千寻
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/28/2022.
 
 </details>
 
-Autogen by LittleJake at 11:14:18
+Autogen by LittleJake at 12:31:59
