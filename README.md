@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 04/28/2022.
 
 ### Hitokoto
 
-> 我是一个经常笑的人，可我不是经常开心的人。
+> 我动身踏上旅程，是为了与你道别。
 > 
-> ——未闻花名
+> ——追逐繁星的孩子
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/28/2022.
 
 </details>
 
-Autogen by LittleJake at 15:18:06
+Autogen by LittleJake at 16:24:57
