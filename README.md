@@ -6,9 +6,9 @@ Today is 04/28/2022.
 
 ### Hitokoto
 
-> 区区一只趴在地上的蝼蚁，谁允许你抬起头的， 虫子就要有虫子的样子，低头伏地然后去死。
+> 这个世界对温柔的你可一点也不温柔呀。
 > 
-> ——fate/zero
+> ——军火女王
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/28/2022.
 
 </details>
 
-Autogen by LittleJake at 10:17:58
+Autogen by LittleJake at 11:14:18
