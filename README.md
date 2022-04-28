@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 04/28/2022.
 
 ### Hitokoto
 
-> 从你的前前前世开始，我就开始找寻你
+> 最初的一步，泪水之后再一次，雕刻的风景线，消逝在黄昏中的风，直到梦的最后。
 > 
-> ——你的名字
+> ——Clannad
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/28/2022.
 
 </details>
 
-Autogen by LittleJake at 05:38:48
+Autogen by LittleJake at 06:22:59
