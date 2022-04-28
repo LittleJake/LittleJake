@@ -6,9 +6,9 @@ Today is 04/28/2022.
 
 ### Hitokoto
 
-> 人啊...想要保护重要东西的时候，就真的能变得很坚强。
+> 正是因为这一点一滴觉得还有希望的自己，才是最无可救药的吧。
 > 
-> ——火影忍者
+> ——人渣的本愿
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/28/2022.
 
 </details>
 
-Autogen by LittleJake at 13:35:23
+Autogen by LittleJake at 14:12:55
