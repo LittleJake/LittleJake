@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/28/2022.
 
 ### Hitokoto
 
-> 所谓爱情，是对对自己最重要的人，以慈悲的心保护他的想法。
+> 虽然想做一团火，却成了一块透视苦难的冰
 > 
-> ——火影忍者
+> ——卡夫卡研究
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/28/2022.
 
 </details>
 
-Autogen by LittleJake at 21:14:05
+Autogen by LittleJake at 22:15:59
