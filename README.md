@@ -6,9 +6,9 @@ Today is 04/28/2022.
 
 ### Hitokoto
 
-> 笑是对身边的事物感到一瞬间的幸福而表现出来的东西。
+> 区区一只趴在地上的蝼蚁，谁允许你抬起头的， 虫子就要有虫子的样子，低头伏地然后去死。
 > 
-> ——CLANNAD
+> ——fate/zero
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/28/2022.
 
 </details>
 
-Autogen by LittleJake at 09:17:47
+Autogen by LittleJake at 10:17:58
