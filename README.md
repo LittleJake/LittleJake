@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 04/27/2022.
+Today is 04/28/2022.
 
 ### Hitokoto
 
-> 可是就算我们通一千次短信，我们各自的心，大概也只会相互靠近一厘米吧。
+> 因为我喜欢你，喜欢得想吃掉你啊！
 > 
-> ——秒速5厘米
+> ——有顶天家族
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/27/2022.
 
 </details>
 
-Autogen by LittleJake at 23:19:45
+Autogen by LittleJake at 01:55:48
