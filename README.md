@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 04/29/2022.
 
 ### Hitokoto
 
-> 不要就是不要，要学会大声说出口，这样才能保护你自己。
+> 无知而又纯洁的岁月是任何人都曾拥有的，世界上没有一成不变的事物，所以只要以其他方式找到自己的快乐就行了。
 > 
-> ——魔女之旅
+> ——CLANNAD
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/29/2022.
 
 </details>
 
-Autogen by LittleJake at 11:13:48
+Autogen by LittleJake at 12:31:53
