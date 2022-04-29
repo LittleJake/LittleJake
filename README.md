@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 04/29/2022.
 
 ### Hitokoto
 
-> 也许我的灵魂彷徨了几万年，不过就是为了与你相遇。
+> 龙儿是我的，谁都不准碰！
 > 
-> ——JOJO的奇妙冒险·战斗潮流
+> ——龙虎斗
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/29/2022.
 
 </details>
 
-Autogen by LittleJake at 09:17:04
+Autogen by LittleJake at 10:16:50
