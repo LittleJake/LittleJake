@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 04/29/2022.
 
 ### Hitokoto
 
-> 无知而又纯洁的岁月是任何人都曾拥有的，世界上没有一成不变的事物，所以只要以其他方式找到自己的快乐就行了。
+> 不相信自己的人，连努力的价值都没有。
 > 
-> ——CLANNAD
+> ——火影忍者
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/29/2022.
 
 </details>
 
-Autogen by LittleJake at 12:31:53
+Autogen by LittleJake at 13:36:25
