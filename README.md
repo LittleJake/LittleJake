@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 04/29/2022.
 
 ### Hitokoto
 
-> 即使我变弱了，也不代表你变强了。
+> 喜欢喜欢轻飘飘喜欢喜欢轻飘飘让我们一起来！
 > 
-> ——魔法禁书目录
+> ——Printemps
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/29/2022.
 
 </details>
 
-Autogen by LittleJake at 16:24:08
+Autogen by LittleJake at 17:20:14
