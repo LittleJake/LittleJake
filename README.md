@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 04/29/2022.
 
 ### Hitokoto
 
-> 龙儿是我的，谁都不准碰！
+> 不要就是不要，要学会大声说出口，这样才能保护你自己。
 > 
-> ——龙虎斗
+> ——魔女之旅
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/29/2022.
 
 </details>
 
-Autogen by LittleJake at 10:16:50
+Autogen by LittleJake at 11:13:48
