@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 04/29/2022.
 
 ### Hitokoto
 
-> 相信朋友是不需要理由的。
+> 我讨厌温柔的女孩子，温柔的女孩子其实对所有人都温柔，而我却会误以为只对自己温柔，然后沾沾自喜得意忘形，最后弄得不欢而散，双方都受到伤害，所以我才讨厌温柔的女孩子。
 > 
-> ——从零开始的异世界生活 第二季
+> ——我的青春恋爱物语果然有问题
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/29/2022.
 
 </details>
 
-Autogen by LittleJake at 05:18:21
+Autogen by LittleJake at 06:20:40
