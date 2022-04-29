@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 04/28/2022.
+Today is 04/29/2022.
 
 ### Hitokoto
 
-> 做不到的事没必要勉强去做，不也挺好吗？
+> 如果我拥有如同小狗一样的尾巴的话，肯定会高兴得遮掩不住地摇来摇去吧。
 > 
-> ——青春猪头少年不会梦到兔女郎学姐
+> ——秒速五厘米
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/28/2022.
 
 </details>
 
-Autogen by LittleJake at 23:16:32
+Autogen by LittleJake at 01:21:14
