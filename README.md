@@ -6,9 +6,9 @@ Today is 04/29/2022.
 
 ### Hitokoto
 
-> 没事没事，不同朋友擅长的事情也不同。
+> 最近困扰我的是小小的分别，总会带来一丝寂寞。短暂的相遇和分别那一分一秒的时间都让我想要无比珍惜。
 > 
-> ——兽娘动物园
+> ——夏目友人帐
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/29/2022.
 
 </details>
 
-Autogen by LittleJake at 07:15:40
+Autogen by LittleJake at 08:21:47
