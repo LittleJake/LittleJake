@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/29/2022.
 
 ### Hitokoto
 
-> 未来的旅程是如此遥远，能见到的光明却是如此稀少。即使如此——我仍然没有完全放弃希望。
+> 应该可以了吧，我已经很努力了，应该可以抵达终点了…
 > 
-> ——刀剑神域
+> ——AIR
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/29/2022.
 
 </details>
 
-Autogen by LittleJake at 20:17:45
+Autogen by LittleJake at 21:14:55
