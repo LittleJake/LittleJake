@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/30/2022.
 
 ### Hitokoto
 
-> 你从我的手中展翅高飞，我深受打击。在这世上的某处，再次寻找崭新的你的影子，那就是我们之间的美好结局。
+> 遇到事情不能坐以待毙。
 > 
-> ——骚动时节的少女们啊
+> ——捷德奥特曼
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/30/2022.
 
 </details>
 
-Autogen by LittleJake at 01:37:32
+Autogen by LittleJake at 03:15:29
