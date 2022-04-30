@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/30/2022.
 
 ### Hitokoto
 
-> 遇到事情不能坐以待毙。
+> 一旦醉心于狩猎，不到最后关头不会发现自己才是猎物。
 > 
-> ——捷德奥特曼
+> ——来自新世界
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/30/2022.
 
 </details>
 
-Autogen by LittleJake at 03:15:29
+Autogen by LittleJake at 04:22:44
