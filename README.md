@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 04/30/2022.
 
 ### Hitokoto
 
-> 无论是丢下还是被丢下，这两者都是一样痛苦的。
+> 一旦你尝试过天空的味道，你就会永远向上仰望
 > 
-> ——水果篮子
+> ——列奥那多·达芬奇
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/30/2022.
 
 </details>
 
-Autogen by LittleJake at 17:17:08
+Autogen by LittleJake at 18:19:00
