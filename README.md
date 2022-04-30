@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 04/30/2022.
 
 ### Hitokoto
 
-> 不要随便贬低自己
+> “为什么要选择这条路”这种问题，是决不能问出口的，只有在暴风雨里问自己。
 > 
-> ——终将成为你
+> ——三月的狮子
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/30/2022.
 
 </details>
 
-Autogen by LittleJake at 15:16:22
+Autogen by LittleJake at 16:21:18
