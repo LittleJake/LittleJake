@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 04/30/2022.
 
 ### Hitokoto
 
-> 即使天无雨，我亦留此地。
+> 桐乃非常非常不愿意你有女朋友，但是你还愿意和我复合吗。开...开玩笑的，你不要回答我不然我真的会死"
 > 
-> ——言叶之庭
+> ——五更琉璃
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/30/2022.
 
 </details>
 
-Autogen by LittleJake at 05:14:50
+Autogen by LittleJake at 06:19:37
