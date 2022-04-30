@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 04/30/2022.
 
 ### Hitokoto
 
-> 桐乃非常非常不愿意你有女朋友，但是你还愿意和我复合吗。开...开玩笑的，你不要回答我不然我真的会死"
+> 都说樱花飘落时让人伤感，而我看到樱花盛开也觉得伤感，因为我会计算，我还能再看几次樱花盛开呢。
 > 
-> ——五更琉璃
+> ——我想吃掉你的胰脏
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/30/2022.
 
 </details>
 
-Autogen by LittleJake at 06:19:37
+Autogen by LittleJake at 07:15:14
