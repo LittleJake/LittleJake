@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 04/30/2022.
 
 ### Hitokoto
 
-> 一旦你尝试过天空的味道，你就会永远向上仰望
+> 重要的感情总是非常单纯 自然脱口而出的
 > 
-> ——列奥那多·达芬奇
+> ——GAMERS电玩咖！
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/30/2022.
 
 </details>
 
-Autogen by LittleJake at 18:19:00
+Autogen by LittleJake at 19:12:49
