@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 04/30/2022.
 
 ### Hitokoto
 
-> 枷锁，自然规律，时光的流逝，名为身体的容器，名为心灵的自我。
+> 有些景色必须前进才能看到，那么只有勇往直前。
 > 
-> ——四月一日灵异事件薄
+> ——如果有个妹妹就好了
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/30/2022.
 
 </details>
 
-Autogen by LittleJake at 11:13:06
+Autogen by LittleJake at 12:26:30
