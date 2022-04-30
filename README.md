@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 04/30/2022.
 
 ### Hitokoto
 
-> 有些景色必须前进才能看到，那么只有勇往直前。
+> 正因为这样，我才决定任何时候都要尽全力享受人生，这样的话，无论什么时候死去，都是最幸福的一生了吧
 > 
-> ——如果有个妹妹就好了
+> ——恋爱随意链接
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/30/2022.
 
 </details>
 
-Autogen by LittleJake at 12:26:30
+Autogen by LittleJake at 13:23:36
