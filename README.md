@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 04/30/2022.
 
 ### Hitokoto
 
-> 都说樱花飘落时让人伤感，而我看到樱花盛开也觉得伤感，因为我会计算，我还能再看几次樱花盛开呢。
+> 我不甘心，明明你为我做了那么多，我却什么都不能为你做。
 > 
-> ——我想吃掉你的胰脏
+> ——四月是你的谎言
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 04/30/2022.
 
 </details>
 
-Autogen by LittleJake at 07:15:14
+Autogen by LittleJake at 08:19:00
