@@ -6,9 +6,9 @@ Today is 05/01/2022.
 
 ### Hitokoto
 
-> 宁愿带着浑身伤痛勇敢站起 让泪水洒满尘埃与苍穹之间。
+> 无法飞翔的翅膀也是有意义的，因为它是曾经翱翔于天空所留下的珍贵回忆。
 > 
-> ——机动战士高达NT
+> ——AIR
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/01/2022.
 
 </details>
 
-Autogen by LittleJake at 22:15:29
+Autogen by LittleJake at 23:15:41
