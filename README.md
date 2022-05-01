@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 05/01/2022.
 
 ### Hitokoto
 
-> 一旦你尝试过天空的味道，你就会永远向上仰望
+> 所以，请你抬起头，笑着为我的旅途祝福吧。 一直以来谢谢你陪伴我，听我的那些谎话。和你的相遇，是我一生最珍贵的记忆。
 > 
-> ——列奥那多·达芬奇
+> ——死后文
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/01/2022.
 
 </details>
 
-Autogen by LittleJake at 11:13:27
+Autogen by LittleJake at 12:27:28
