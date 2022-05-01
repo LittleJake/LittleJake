@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/01/2022.
 
 ### Hitokoto
 
-> 所以，请你抬起头，笑着为我的旅途祝福吧。 一直以来谢谢你陪伴我，听我的那些谎话。和你的相遇，是我一生最珍贵的记忆。
+> 这个世界对温柔的你可一点也不温柔呀。
 > 
-> ——死后文
+> ——军火女王
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/01/2022.
 
 </details>
 
-Autogen by LittleJake at 17:17:58
+Autogen by LittleJake at 18:18:31
