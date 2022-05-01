@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/01/2022.
 
 ### Hitokoto
 
-> 梦存高远，志在争霸，这股热情确实值得赞许。但所谓梦，终有一天是要醒来的。
+> 孤独的人不会伤害别人，只会不断地伤害自己罢了。
 > 
-> ——fate/zero
+> ——我的青春恋爱物语果然有问题
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/01/2022.
 
 </details>
 
-Autogen by LittleJake at 19:13:14
+Autogen by LittleJake at 20:16:48
