@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/01/2022.
 
 ### Hitokoto
 
-> 与其被自己的本性牵着走而痛苦，倒不如试着改变自己。
+> 醒来的时候 不知道自己为什么哭 时常会有的事情 做过的梦总是回想不起 只是 一种有什么消失的丧失感
 > 
-> ——银魂
+> ——你的名字
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/01/2022.
 
 </details>
 
-Autogen by LittleJake at 04:34:42
+Autogen by LittleJake at 05:20:33
