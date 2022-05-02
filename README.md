@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/02/2022.
 
 ### Hitokoto
 
-> 我的梦想是不失去任何东西让所有人笑着回来。
+> 男人只要去行动就好，做得到或做不到，女孩子会来告诉你的。
 > 
-> ——某科学的超电磁炮
+> ——四月是你的谎言
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/02/2022.
 
 </details>
 
-Autogen by LittleJake at 07:15:56
+Autogen by LittleJake at 08:21:47
