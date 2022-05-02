@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/02/2022.
 
 ### Hitokoto
 
-> 有些梦想虽然遥不可及，但不是不可能实现。只要我足够的强。
+> Angel大河大人，为了大家能有一个幸福快乐的圣诞，无论是一层皮还是两层皮都给你剥下来，直到最后全裸都没问题的觉悟都做好了！
 > 
-> ——秦时明月
+> ——逢坂大河
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/02/2022.
 
 </details>
 
-Autogen by LittleJake at 20:14:41
+Autogen by LittleJake at 21:12:10
