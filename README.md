@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/02/2022.
 
 ### Hitokoto
 
-> 有时语言就像把利刃，使用不当，就会成为凶器。
+> “像你这样的白痴是怎么活过来的？”“因为我很自信。
 > 
-> ——名侦探柯南
+> ——海贼王
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/02/2022.
 
 </details>
 
-Autogen by LittleJake at 13:35:21
+Autogen by LittleJake at 14:15:24
