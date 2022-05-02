@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/02/2022.
 
 ### Hitokoto
 
-> 来看看你的脚下，这就是你要走的路。
+> 有些梦想虽然遥不可及，但不是不可能实现。只要我足够的强。
 > 
-> ——未来へ(向着未来)
+> ——秦时明月
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/02/2022.
 
 </details>
 
-Autogen by LittleJake at 19:13:27
+Autogen by LittleJake at 20:14:41
