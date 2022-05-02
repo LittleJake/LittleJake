@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/02/2022.
 
 ### Hitokoto
 
-> 如果还有来生 ，我无论如何都要来到你身边，我已经没有了其他想要追求的东西，因为没有比你更重要的了。
+> 有时语言就像把利刃，使用不当，就会成为凶器。
 > 
-> ——秒速五厘米
+> ——名侦探柯南
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/02/2022.
 
 </details>
 
-Autogen by LittleJake at 12:30:46
+Autogen by LittleJake at 13:35:21
