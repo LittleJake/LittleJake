@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/02/2022.
 
 ### Hitokoto
 
-> 欺骗世界，欺骗最初的你。
+> 真正重要的东西，总是没有的人比拥有的人清楚。
 > 
-> ——Steins;Gate
+> ——银魂
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/02/2022.
 
 </details>
 
-Autogen by LittleJake at 16:25:59
+Autogen by LittleJake at 17:22:00
