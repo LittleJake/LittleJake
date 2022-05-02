@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 05/01/2022.
+Today is 05/02/2022.
 
 ### Hitokoto
 
-> 无法飞翔的翅膀也是有意义的，因为它是曾经翱翔于天空所留下的珍贵回忆。
+> 只要是人都是依靠自己的知识与认知并且被之束缚生活着的，那就叫做现实。但是知识与认知是模糊不清的东西，现实也许只是镜花水月，人都是活在自己的执念中的。
 > 
-> ——AIR
+> ——火影忍者
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/01/2022.
 
 </details>
 
-Autogen by LittleJake at 23:15:41
+Autogen by LittleJake at 01:23:36
