@@ -6,9 +6,9 @@ Today is 05/02/2022.
 
 ### Hitokoto
 
-> Angel大河大人，为了大家能有一个幸福快乐的圣诞，无论是一层皮还是两层皮都给你剥下来，直到最后全裸都没问题的觉悟都做好了！
+> 有被杀的觉悟，才有资格开枪。
 > 
-> ——逢坂大河
+> ——反叛的鲁路修
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/02/2022.
 
 </details>
 
-Autogen by LittleJake at 21:12:10
+Autogen by LittleJake at 22:16:48
