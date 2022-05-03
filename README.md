@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/03/2022.
 
 ### Hitokoto
 
-> 要相信同伴，拯救同伴。
+> 不相信人咬不到肚脐的，咬破肚脐去死如何？
 > 
-> ——绯弹的亚里亚
+> ——海猫鸣泣之时
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/03/2022.
 
 </details>
 
-Autogen by LittleJake at 22:16:24
+Autogen by LittleJake at 23:14:48
