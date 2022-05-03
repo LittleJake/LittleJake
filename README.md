@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/03/2022.
 
 ### Hitokoto
 
-> When the dawn is close inside, we never say good-bye and never see again.
+> 遇事不决，量子力学。
 > 
-> ——末日时在做什么？有没有空？可以来拯救吗？
+> ——青春期猪头少年不会梦到兔女郎学姐
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/03/2022.
 
 </details>
 
-Autogen by LittleJake at 18:19:36
+Autogen by LittleJake at 19:13:18
