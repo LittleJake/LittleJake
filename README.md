@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/03/2022.
 
 ### Hitokoto
 
-> 必须洗净一切往事，否则你永远无法清楚自由地看这个世界
+> 求求你，不要对我这么温柔！
 > 
-> ——死神
+> ——秒速五厘米
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/03/2022.
 
 </details>
 
-Autogen by LittleJake at 12:34:11
+Autogen by LittleJake at 13:36:29
