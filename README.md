@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/03/2022.
 
 ### Hitokoto
 
-> 那是，未满45秒的邂逅。
+> 人生没有那么多预算，不要等到到死后世界叹息，珍惜眼前所有。相信每天都是新的开始，都充满希望.
 > 
-> ——EF
+> ——天使的心跳
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/03/2022.
 
 </details>
 
-Autogen by LittleJake at 03:22:53
+Autogen by LittleJake at 04:30:32
