@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/03/2022.
 
 ### Hitokoto
 
-> 如果我们能活着出去，千山万水，你愿意陪我一起看吗？
+> 正因为有了所有的过去，才成就了现在的我。否定自己所走过的路途，就意味着否定现在的自己。
 > 
-> ——狐妖小红娘
+> ——恋爱随意链接
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/03/2022.
 
 </details>
 
-Autogen by LittleJake at 09:16:01
+Autogen by LittleJake at 10:21:28
