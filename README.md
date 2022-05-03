@@ -6,9 +6,9 @@ Today is 05/03/2022.
 
 ### Hitokoto
 
-> 人总有一天会孤独一人，然后活在自己的回忆中。为了能笑着于孤独相依为命，我决定战斗下去，决定不会再以泪洗面。
+> 为了爱，与梦想！
 > 
-> ——天使的心跳
+> ——眼大人
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/03/2022.
 
 </details>
 
-Autogen by LittleJake at 15:17:56
+Autogen by LittleJake at 16:26:21
