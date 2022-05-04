@@ -6,9 +6,9 @@ Today is 05/04/2022.
 
 ### Hitokoto
 
-> 与其被自己的本性牵着走而痛苦，倒不如试着改变自己。
+> 生活坏到一定程度就会好起来，因为它无法更坏。
 > 
-> ——银魂
+> ——龙猫
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/04/2022.
 
 </details>
 
-Autogen by LittleJake at 16:25:17
+Autogen by LittleJake at 17:25:25
