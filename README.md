@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/04/2022.
 
 ### Hitokoto
 
-> 痴情的妖怪啊,请再等一世吧。
+> 与其被自己的本性牵着走而痛苦，倒不如试着改变自己。
 > 
-> ——狐妖小红娘
+> ——银魂
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/04/2022.
 
 </details>
 
-Autogen by LittleJake at 15:18:08
+Autogen by LittleJake at 16:25:17
