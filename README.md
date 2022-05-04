@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/04/2022.
 
 ### Hitokoto
 
-> 我有在反省，但我不后悔。
+> 走过一段路 回头看 原来那些痛得快要死去的事情是可以一笑而过的。
 > 
-> ——物语系列
+> ——黑子的篮球
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/04/2022.
 
 </details>
 
-Autogen by LittleJake at 03:23:52
+Autogen by LittleJake at 04:29:30
