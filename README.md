@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/04/2022.
 
 ### Hitokoto
 
-> 只要是正义的一方，无论手段多么卑鄙都可以被原谅
+> 所谓的言语，只有当对方听进去了才开始有意义啊。
 > 
-> ——东京喰种
+> ——少年同盟
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/04/2022.
 
 </details>
 
-Autogen by LittleJake at 20:17:50
+Autogen by LittleJake at 21:15:35
