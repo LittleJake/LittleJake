@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/04/2022.
 
 ### Hitokoto
 
-> 生活坏到一定程度就会好起来，因为它无法更坏。
+> 即便分开，羁绊仍然是存在的，这就是所谓的家人。
 > 
-> ——龙猫
+> ——CLANNAD
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/04/2022.
 
 </details>
 
-Autogen by LittleJake at 17:25:25
+Autogen by LittleJake at 18:19:39
