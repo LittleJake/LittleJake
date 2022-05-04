@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/04/2022.
 
 ### Hitokoto
 
-> 如果你一个人把什么都做完了，那我做什么？
+> 从你站在桥上看我的 那一刻起你就是我的世界。
 > 
-> ——元气少女缘结神
+> ——火影忍者
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/04/2022.
 
 </details>
 
-Autogen by LittleJake at 07:15:37
+Autogen by LittleJake at 08:20:40
