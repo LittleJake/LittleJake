@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/05/2022.
 
 ### Hitokoto
 
-> 如果你是魔女，我只要化身魔王就可以了。
+> 人难免伤害别人,也难免受伤,不过,人是不会轻易讨厌别人的.
 > 
-> ——反叛的鲁鲁修
+> ——火影忍者
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/05/2022.
 
 </details>
 
-Autogen by LittleJake at 07:16:17
+Autogen by LittleJake at 08:21:22
