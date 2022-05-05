@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/05/2022.
 
 ### Hitokoto
 
-> 堕入黑暗裏的可怜影子啊，停止伤害他人的行为吧，犯下罪行的灵魂……想死一次么？
+> 邪王真眼是最强的
 > 
-> ——地狱少女
+> ——中二病也要谈恋爱
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/05/2022.
 
 </details>
 
-Autogen by LittleJake at 15:16:32
+Autogen by LittleJake at 16:23:09
