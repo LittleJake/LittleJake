@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/05/2022.
 
 ### Hitokoto
 
-> 今宵之月，绝不西沉。只此美梦，不再苏醒。从今往后，生生世世，长相厮守，为你立誓。
+> 从开始的第一天起，就回不去了。
 > 
-> ——银魂
+> ——流浪地球
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/05/2022.
 
 </details>
 
-Autogen by LittleJake at 13:34:35
+Autogen by LittleJake at 14:15:27
