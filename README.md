@@ -6,9 +6,9 @@ Today is 05/05/2022.
 
 ### Hitokoto
 
-> 聚拢，成形，捻转，回绕，时而返回，暂歇，再联结。这就是组纽。这就是时间。这就是，联结
+> 如果你是魔女，我只要化身魔王就可以了。
 > 
-> ——你的名字
+> ——反叛的鲁鲁修
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/05/2022.
 
 </details>
 
-Autogen by LittleJake at 06:21:05
+Autogen by LittleJake at 07:16:17
