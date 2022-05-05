@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 05/05/2022.
 
 ### Hitokoto
 
-> 无论最终的结果是什么，只要这是自己选择的道路。
+> 聚拢，成形，捻转，回绕，时而返回，暂歇，再联结。这就是组纽。这就是时间。这就是，联结
 > 
-> ——龙与虎
+> ——你的名字
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/05/2022.
 
 </details>
 
-Autogen by LittleJake at 05:20:55
+Autogen by LittleJake at 06:21:05
