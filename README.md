@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 05/05/2022.
 
 ### Hitokoto
 
-> 大部分人并不想长大 只是没办法继续当一个小孩子。
+> 为什么要称赞他人？那是为了把对方捧到更高的地方更容易绊他的脚，为了把他从高处摔下来。这就叫做称赞杀人法。
 > 
-> ——小林家的龙女仆
+> ——我的青春恋爱物语果然有问题
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/05/2022.
 
 </details>
 
-Autogen by LittleJake at 11:14:04
+Autogen by LittleJake at 12:32:40
