@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/05/2022.
 
 ### Hitokoto
 
-> 如果可以，愿来生你不要忘记我，我也不要忘记你那熟悉的温柔。
+> 夕阳真是耀眼无比啊。
 > 
-> ——狐妖小红娘
+> ——女高中生的虚度日常
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/05/2022.
 
 </details>
 
-Autogen by LittleJake at 17:22:42
+Autogen by LittleJake at 18:24:19
