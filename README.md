@@ -6,9 +6,9 @@ Today is 05/05/2022.
 
 ### Hitokoto
 
-> 你在那么美丽的地方，纯属奇迹般的偶然。
+> 大部分人并不想长大 只是没办法继续当一个小孩子。
 > 
-> ——理科生坠入情网故尝试证明
+> ——小林家的龙女仆
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/05/2022.
 
 </details>
 
-Autogen by LittleJake at 10:18:14
+Autogen by LittleJake at 11:14:04
