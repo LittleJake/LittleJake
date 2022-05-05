@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/05/2022.
 
 ### Hitokoto
 
-> 为什么要称赞他人？那是为了把对方捧到更高的地方更容易绊他的脚，为了把他从高处摔下来。这就叫做称赞杀人法。
+> 今宵之月，绝不西沉。只此美梦，不再苏醒。从今往后，生生世世，长相厮守，为你立誓。
 > 
-> ——我的青春恋爱物语果然有问题
+> ——银魂
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/05/2022.
 
 </details>
 
-Autogen by LittleJake at 12:32:40
+Autogen by LittleJake at 13:34:35
