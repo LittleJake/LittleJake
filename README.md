@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/05/2022.
 
 ### Hitokoto
 
-> 人难免伤害别人,也难免受伤,不过,人是不会轻易讨厌别人的.
+> 恋爱不是谈出来的，而是陷进去的。
 > 
-> ——火影忍者
+> ——GAMER电玩咖！
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/05/2022.
 
 </details>
 
-Autogen by LittleJake at 08:21:22
+Autogen by LittleJake at 09:16:32
