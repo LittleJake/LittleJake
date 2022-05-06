@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 05/06/2022.
 
 ### Hitokoto
 
-> 能哭的地方只有厕所和爸爸的怀里。
+> 我是想被包养，但不会接受施舍
 > 
-> ——CLANNAD
+> ——我的青春恋爱物语果然有问题
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/06/2022.
 
 </details>
 
-Autogen by LittleJake at 11:13:59
+Autogen by LittleJake at 12:31:24
