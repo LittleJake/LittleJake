@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/06/2022.
 
 ### Hitokoto
 
-> 大家都是伪善者，世间充斥着不真实。
+> 如果当初握住的不是硬币，而是勇者的手......
 > 
-> ——无头骑士异闻录
+> ——中二病也要谈恋爱 恋！
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/06/2022.
 
 </details>
 
-Autogen by LittleJake at 13:32:28
+Autogen by LittleJake at 14:15:49
