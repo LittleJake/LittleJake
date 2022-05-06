@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 05/05/2022.
+Today is 05/06/2022.
 
 ### Hitokoto
 
-> 才能是可以栽培开花的，灵感是可以研磨雕琢的。
+> 倘若只是为了驱赶心中的寂寞，找谁都可以的。
 > 
-> ——排球少年
+> ——秒速5厘米
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/05/2022.
 
 </details>
 
-Autogen by LittleJake at 23:16:46
+Autogen by LittleJake at 01:14:04
