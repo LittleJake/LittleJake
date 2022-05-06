@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/06/2022.
 
 ### Hitokoto
 
-> 如果我们能活着出去，千山万水，你愿意陪我一起看吗？
+> You Are (Not) Alone;You Can (Not) Advance;You Can (Not) Redo
 > 
-> ——狐妖小红娘
+> ——EVA
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/06/2022.
 
 </details>
 
-Autogen by LittleJake at 03:04:05
+Autogen by LittleJake at 04:20:57
