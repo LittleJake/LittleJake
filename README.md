@@ -6,9 +6,9 @@ Today is 05/06/2022.
 
 ### Hitokoto
 
-> 我无法抗拒泡面这种没营养又廉价的口感。
+> 只要能努力，就应当去努力；只要还能前进，就要向前走去。
 > 
-> ——银仙
+> ——CLANNAD
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/06/2022.
 
 </details>
 
-Autogen by LittleJake at 19:13:25
+Autogen by LittleJake at 20:17:32
