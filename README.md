@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 05/06/2022.
 
 ### Hitokoto
 
-> 人的记忆本来就是暧昧的，不值得信任。
+> 我的梦想是不失去任何东西让所有人笑着回来。
 > 
-> ——叛逆的鲁鲁修R2
+> ——某科学的超电磁炮
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/06/2022.
 
 </details>
 
-Autogen by LittleJake at 05:15:35
+Autogen by LittleJake at 06:22:22
