@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/06/2022.
 
 ### Hitokoto
 
-> 小的时候，总认为世界是单纯的。
+> 在面对这些强敌之前...一定要先将眼前敌人逐个打败吧。
 > 
-> ——游戏人生 zero
+> ——网球王子
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/06/2022.
 
 </details>
 
-Autogen by LittleJake at 17:22:44
+Autogen by LittleJake at 18:20:04
