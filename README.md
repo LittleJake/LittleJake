@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/06/2022.
 
 ### Hitokoto
 
-> You Are (Not) Alone;You Can (Not) Advance;You Can (Not) Redo
+> 人的记忆本来就是暧昧的，不值得信任。
 > 
-> ——EVA
+> ——叛逆的鲁鲁修R2
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/06/2022.
 
 </details>
 
-Autogen by LittleJake at 04:20:57
+Autogen by LittleJake at 05:15:35
