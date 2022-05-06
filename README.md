@@ -6,9 +6,9 @@ Today is 05/06/2022.
 
 ### Hitokoto
 
-> 一个人走在路上，形单影只。回首望去，大家都留在远方。回过头来继续前行，这便是所谓坚强。
+> 我跟喜欢成人游戏一样喜欢你
 > 
-> ——AngelBeats
+> ——高坂桐乃
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/06/2022.
 
 </details>
 
-Autogen by LittleJake at 22:15:51
+Autogen by LittleJake at 23:16:04
