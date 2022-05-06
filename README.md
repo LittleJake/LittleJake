@@ -6,9 +6,9 @@ Today is 05/06/2022.
 
 ### Hitokoto
 
-> 倘若只是为了驱赶心中的寂寞，找谁都可以的。
+> 如果我们能活着出去，千山万水，你愿意陪我一起看吗？
 > 
-> ——秒速5厘米
+> ——狐妖小红娘
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/06/2022.
 
 </details>
 
-Autogen by LittleJake at 01:14:04
+Autogen by LittleJake at 03:04:05
