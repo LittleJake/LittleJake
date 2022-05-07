@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/07/2022.
 
 ### Hitokoto
 
-> 这是你所不能理解的，人类感情的极致，比希望更热烈，比绝望更深邃——爱！
+> 想要试着去相互接近，但最后还是无法敞开心扉，结果就是擦肩而过……
 > 
-> ——魔法少女小圆新篇
+> ——文学少女
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/07/2022.
 
 </details>
 
-Autogen by LittleJake at 10:17:30
+Autogen by LittleJake at 11:13:42
