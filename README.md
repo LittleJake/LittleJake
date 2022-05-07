@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/07/2022.
 
 ### Hitokoto
 
-> 别人的看法都是狗屁，你是谁只有你自己说了才算，这是爹教我的道理。
+> 想象力足以改变一切。
 > 
-> ——哪吒之魔童降世
+> ——来自新世界
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/07/2022.
 
 </details>
 
-Autogen by LittleJake at 08:20:08
+Autogen by LittleJake at 09:15:16
