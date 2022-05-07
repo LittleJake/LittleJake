@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 05/07/2022.
 
 ### Hitokoto
 
-> 想要试着去相互接近，但最后还是无法敞开心扉，结果就是擦肩而过……
+> 拥有和舍弃都很痛苦，既然无论怎样都会痛苦的话，我宁可选择守护它而痛苦。
 > 
-> ——文学少女
+> ——银魂
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/07/2022.
 
 </details>
 
-Autogen by LittleJake at 11:13:42
+Autogen by LittleJake at 12:27:19
