@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/07/2022.
 
 ### Hitokoto
 
-> 人类这种生物，不管有过多少不得不伴着泪水吞咽的教训，只要过了咽喉，所有教训便又会被彻底遗忘。
+> 每一个兔子都有一个大国梦
 > 
-> ——来自新世界
+> ——那年那兔那些事
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/07/2022.
 
 </details>
 
-Autogen by LittleJake at 04:19:43
+Autogen by LittleJake at 05:14:12
