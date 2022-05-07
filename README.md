@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/07/2022.
 
 ### Hitokoto
 
-> 想象力足以改变一切。
+> 这是你所不能理解的，人类感情的极致，比希望更热烈，比绝望更深邃——爱！
 > 
-> ——来自新世界
+> ——魔法少女小圆新篇
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/07/2022.
 
 </details>
 
-Autogen by LittleJake at 09:15:16
+Autogen by LittleJake at 10:17:30
