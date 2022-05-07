@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/07/2022.
 
 ### Hitokoto
 
-> 你已经不是我的狗了。
+> 和我定下契约，成为魔法少女吧！
 > 
-> ——龙与虎
+> ——魔法少女小圆
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/07/2022.
 
 </details>
 
-Autogen by LittleJake at 20:17:01
+Autogen by LittleJake at 21:14:30
