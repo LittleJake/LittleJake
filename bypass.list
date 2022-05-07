@@ -2,3 +2,5 @@ DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-KEYWORD,ttvnw
 DOMAIN,armory.worldofwarships.asia
 DOMAIN-SUFFIX,gstatic.cn
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,steamstatic.com
