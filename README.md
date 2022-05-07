@@ -6,9 +6,9 @@ Today is 05/07/2022.
 
 ### Hitokoto
 
-> 拥有和舍弃都很痛苦，既然无论怎样都会痛苦的话，我宁可选择守护它而痛苦。
+> 愿你有一天，能与你最重要的人重逢
 > 
-> ——银魂
+> ——可塑性记忆
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/07/2022.
 
 </details>
 
-Autogen by LittleJake at 12:27:19
+Autogen by LittleJake at 13:24:36
