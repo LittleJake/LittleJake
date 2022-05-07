@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/07/2022.
 
 ### Hitokoto
 
-> 我们即使发了一千次短信，心与心之间大概也只能靠近1厘米。
+> 相信奇迹的人，本身就和奇迹一样了不起。
 > 
-> ——秒速五厘米
+> ——星游记
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/07/2022.
 
 </details>
 
-Autogen by LittleJake at 06:19:53
+Autogen by LittleJake at 07:15:11
