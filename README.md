@@ -6,9 +6,9 @@ Today is 05/07/2022.
 
 ### Hitokoto
 
-> 人生没有彩排，只有现场直播，所以做最好的自己。
+> 想哭的时候能哭出来，也是一种坚强
 > 
-> ——Internet
+> ——翼年代记
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/07/2022.
 
 </details>
 
-Autogen by LittleJake at 18:18:30
+Autogen by LittleJake at 19:14:39
