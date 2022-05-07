@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 05/06/2022.
+Today is 05/07/2022.
 
 ### Hitokoto
 
-> 我跟喜欢成人游戏一样喜欢你
+> 在弱者眼里可能是这样，不过，我的确很强。
 > 
-> ——高坂桐乃
+> ——蔷薇少女
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/06/2022.
 
 </details>
 
-Autogen by LittleJake at 23:16:04
+Autogen by LittleJake at 01:13:31
