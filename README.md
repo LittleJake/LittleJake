@@ -6,9 +6,9 @@ Today is 05/08/2022.
 
 ### Hitokoto
 
-> 如果你都不知道自己想去哪里，那去哪里都是一样的。
+> 正因为生来什么都没有，因此我们能拥有一切。
 > 
-> ——柴郡猫
+> ——游戏人生
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/08/2022.
 
 </details>
 
-Autogen by LittleJake at 14:14:43
+Autogen by LittleJake at 15:16:13
