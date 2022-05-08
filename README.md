@@ -6,9 +6,9 @@ Today is 05/08/2022.
 
 ### Hitokoto
 
-> 以盐水作配菜，糖水做主食，就有种奢侈的感觉呢。
+> 每个人每一天的价值都是完全相等的，无论做什么，都不会改变我今天活着的价值。
 > 
-> ——笨蛋测验召唤兽
+> ——我想吃掉你的胰脏
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/08/2022.
 
 </details>
 
-Autogen by LittleJake at 08:19:39
+Autogen by LittleJake at 09:15:46
