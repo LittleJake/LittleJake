@@ -6,9 +6,9 @@ Today is 05/08/2022.
 
 ### Hitokoto
 
-> 男人就应该保持冷静，沸腾的水只会被蒸发掉。
+> 大部分人并不想长大，只是没办法继续当一个小孩子
 > 
-> ——假面骑士kabuto
+> ——小林家的龙女仆
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/08/2022.
 
 </details>
 
-Autogen by LittleJake at 01:20:48
+Autogen by LittleJake at 03:12:37
