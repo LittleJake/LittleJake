@@ -6,9 +6,9 @@ Today is 05/08/2022.
 
 ### Hitokoto
 
-> 以为大哭大闹一场就有人来安慰的家伙真是幸福呢。
+> 笨蛋吉娃娃（バカチワワ）
 > 
-> ——龙与虎
+> ——逢坂大河
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/08/2022.
 
 </details>
 
-Autogen by LittleJake at 19:13:10
+Autogen by LittleJake at 20:16:24
