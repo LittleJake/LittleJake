@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 05/08/2022.
 
 ### Hitokoto
 
-> 和绝望，和睦相处
+> “我要诅咒！诅咒所有相爱的情侣！诅咒神圣的夜晚！诅咒这整个世界（世界：怪我咯？）！对所有的现充挥下破坏的铁锤！我会让你尝尝……我生涯最大的诅咒！”
 > 
-> ——少女终末旅行
+> ——千叶の堕天圣黑猫
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/08/2022.
 
 </details>
 
-Autogen by LittleJake at 05:14:54
+Autogen by LittleJake at 06:20:05
