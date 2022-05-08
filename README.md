@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/08/2022.
 
 ### Hitokoto
 
-> 冈崎，永远都别迷失自己最珍爱的事物啊。
+> 也许一个人的快乐会建立在另一个人或者很多人的痛苦之上。但是，自己种下的祸根终有一天会报应在自己的身上的。
 > 
-> ——CLANNAD ～AFTER STORY～
+> ——地狱少女
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/08/2022.
 
 </details>
 
-Autogen by LittleJake at 10:17:44
+Autogen by LittleJake at 11:13:20
