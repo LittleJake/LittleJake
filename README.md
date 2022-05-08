@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 05/07/2022.
+Today is 05/08/2022.
 
 ### Hitokoto
 
-> 你可以祈祷，但神不会倾听。
+> 男人就应该保持冷静，沸腾的水只会被蒸发掉。
 > 
-> ——寂静王冠
+> ——假面骑士kabuto
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/07/2022.
 
 </details>
 
-Autogen by LittleJake at 23:15:48
+Autogen by LittleJake at 01:20:48
