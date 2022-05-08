@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/08/2022.
 
 ### Hitokoto
 
-> 是你，是你，告诉我，若能在黑暗中绽放光芒，便能化作星空，悲伤化作笑颜，已经无需隐藏，漫天闪耀着的星光，都会为你照亮前行。
+> 我讨厌温柔的女孩子，温柔的女孩子其实对所有人都温柔，而我却会误以为只对自己温柔，然后沾沾自喜得意忘形，最后弄得不欢而散，双方都受到伤害，所以我才讨厌温柔的女孩子。
 > 
-> ——四月是你的谎言
+> ——我的青春恋爱物语果然有问题
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/08/2022.
 
 </details>
 
-Autogen by LittleJake at 17:17:43
+Autogen by LittleJake at 18:18:40
