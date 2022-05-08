@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/08/2022.
 
 ### Hitokoto
 
-> 我必须要变强，但是孤独居然这么痛苦。
+> 是个男人就要对自己的人生负责
 > 
-> ——黑色五叶草
+> ——麻辣教师
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/08/2022.
 
 </details>
 
-Autogen by LittleJake at 21:14:08
+Autogen by LittleJake at 22:15:22
