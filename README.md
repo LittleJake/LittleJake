@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/08/2022.
 
 ### Hitokoto
 
-> 每个人每一天的价值都是完全相等的，无论做什么，都不会改变我今天活着的价值。
+> 冈崎，永远都别迷失自己最珍爱的事物啊。
 > 
-> ——我想吃掉你的胰脏
+> ——CLANNAD ～AFTER STORY～
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/08/2022.
 
 </details>
 
-Autogen by LittleJake at 09:15:46
+Autogen by LittleJake at 10:17:44
