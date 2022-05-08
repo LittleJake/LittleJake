@@ -6,9 +6,9 @@ Today is 05/08/2022.
 
 ### Hitokoto
 
-> 正因为生来什么都没有，因此我们能拥有一切。
+> 是鸣人改变了我！是鸣人的笑脸拯救了我！所以，如果是为了保护鸣人，就算死，我也无可畏惧，因为我，最喜欢鸣人了。
 > 
-> ——游戏人生
+> —— 火影忍者
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/08/2022.
 
 </details>
 
-Autogen by LittleJake at 15:16:13
+Autogen by LittleJake at 16:21:37
