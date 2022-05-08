@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/08/2022.
 
 ### Hitokoto
 
-> 我讨厌温柔的女孩子，温柔的女孩子其实对所有人都温柔，而我却会误以为只对自己温柔，然后沾沾自喜得意忘形，最后弄得不欢而散，双方都受到伤害，所以我才讨厌温柔的女孩子。
+> 以为大哭大闹一场就有人来安慰的家伙真是幸福呢。
 > 
-> ——我的青春恋爱物语果然有问题
+> ——龙与虎
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/08/2022.
 
 </details>
 
-Autogen by LittleJake at 18:18:40
+Autogen by LittleJake at 19:13:10
