@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/08/2022.
 
 ### Hitokoto
 
-> 天空是连着的，如果我们也能各自发光的话，无论距离有多远，都能看到彼此努力的身影。
+> 以盐水作配菜，糖水做主食，就有种奢侈的感觉呢。
 > 
-> ——龙虎斗
+> ——笨蛋测验召唤兽
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/08/2022.
 
 </details>
 
-Autogen by LittleJake at 07:15:22
+Autogen by LittleJake at 08:19:39
