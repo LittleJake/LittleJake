@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/08/2022.
 
 ### Hitokoto
 
-> 命运的红线一旦断了，就再也接不上了。
+> 和绝望，和睦相处
 > 
-> ——犬夜叉
+> ——少女终末旅行
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/08/2022.
 
 </details>
 
-Autogen by LittleJake at 04:22:07
+Autogen by LittleJake at 05:14:54
