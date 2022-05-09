@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/09/2022.
 
 ### Hitokoto
 
-> 我没有任何理由为了那些人让自己的人生付之一炬！
+> 为什么妈妈就不明白无所事事的忙碌呢。
 > 
-> ——三月的狮子
+> ——白熊咖啡屋
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/09/2022.
 
 </details>
 
-Autogen by LittleJake at 17:23:27
+Autogen by LittleJake at 18:19:48
