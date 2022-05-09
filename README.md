@@ -6,9 +6,9 @@ Today is 05/09/2022.
 
 ### Hitokoto
 
-> 我也许能再一次找到活着的目的，也许能再一次找到活着的意义，为了那些人，奉献出我的人生的话……
+> 我的恋爱还没有开始就结束了。
 > 
-> ——Angelbeats
+> ——樱花庄的宠物女孩
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/09/2022.
 
 </details>
 
-Autogen by LittleJake at 09:17:15
+Autogen by LittleJake at 10:18:38
