@@ -6,9 +6,9 @@ Today is 05/09/2022.
 
 ### Hitokoto
 
-> 我们即使发了一千次短信，心与心之间大概也只能靠近1厘米。
+> 观察铅笔和橡皮，哪个是攻哪个是受，请写出它们晚上的对话。
 > 
-> ——秒速五厘米
+> ——学生会的一己之见
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/09/2022.
 
 </details>
 
-Autogen by LittleJake at 19:13:28
+Autogen by LittleJake at 20:17:19
