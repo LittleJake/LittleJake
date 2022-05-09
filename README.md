@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/09/2022.
 
 ### Hitokoto
 
-> 自己不经意的一句话，触动了别人的心。
+> 我没有任何理由为了那些人让自己的人生付之一炬！
 > 
-> ——恋如雨止
+> ——三月的狮子
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/09/2022.
 
 </details>
 
-Autogen by LittleJake at 16:26:06
+Autogen by LittleJake at 17:23:27
