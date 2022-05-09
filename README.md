@@ -6,9 +6,9 @@ Today is 05/09/2022.
 
 ### Hitokoto
 
-> 重要的人，不能忘记的人，不想忘记的人。 你，是谁？
+> 一旦失去的东西，就再也拿不回来了。
 > 
-> ——你的名字
+> ——黑执事
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/09/2022.
 
 </details>
 
-Autogen by LittleJake at 14:19:30
+Autogen by LittleJake at 15:17:40
