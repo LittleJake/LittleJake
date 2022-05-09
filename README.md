@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/09/2022.
 
 ### Hitokoto
 
-> 观察铅笔和橡皮，哪个是攻哪个是受，请写出它们晚上的对话。
+> 不可结缘，徒留寂寞……
 > 
-> ——学生会的一己之见
+> ——夏目友人帐
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/09/2022.
 
 </details>
 
-Autogen by LittleJake at 20:17:19
+Autogen by LittleJake at 21:14:56
