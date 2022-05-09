@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/09/2022.
 
 ### Hitokoto
 
-> 什么都无所谓只想在你身边，什么都无所谓只想和你说话，什么都无所谓所以请你不要逃避。
+> ご無事で何よりです。
 > 
-> ——好想告诉你
+> ——妖狐X僕ss
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/09/2022.
 
 </details>
 
-Autogen by LittleJake at 12:30:21
+Autogen by LittleJake at 13:36:26
