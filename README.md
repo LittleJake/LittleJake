@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/09/2022.
 
 ### Hitokoto
 
-> 每段灿烂的回忆，都是琐碎的小事，是我一直珍藏的宝物，只要你能将这其中任何一件事记在心里，毫不夸张的说，那便足以支撑我活下去。这世上谁都不及你好。
+> 我也许能再一次找到活着的目的，也许能再一次找到活着的意义，为了那些人，奉献出我的人生的话……
 > 
-> ——人渣的本愿
+> ——Angelbeats
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/09/2022.
 
 </details>
 
-Autogen by LittleJake at 08:21:24
+Autogen by LittleJake at 09:17:15
