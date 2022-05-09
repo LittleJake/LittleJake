@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 05/08/2022.
+Today is 05/09/2022.
 
 ### Hitokoto
 
-> 每个人每一天的价值都是完全相等的，无论做什么，都不会改变我今天活着的价值。
+> 世界是无情的，并不存在与生俱来的英雄。 所以只能由刚好在旁边的人粉墨登场， 演一出英雄的戏码。
 > 
-> ——我想吃掉你的胰脏
+> ——魔法禁书目录
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/08/2022.
 
 </details>
 
-Autogen by LittleJake at 23:15:49
+Autogen by LittleJake at 01:23:08
