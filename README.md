@@ -6,9 +6,9 @@ Today is 05/10/2022.
 
 ### Hitokoto
 
-> 卧龙低伏，入我阵来。
+> 契约者不会做梦。
 > 
-> ——一人之下
+> ——黑之契约者
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/10/2022.
 
 </details>
 
-Autogen by LittleJake at 04:20:45
+Autogen by LittleJake at 05:15:48
