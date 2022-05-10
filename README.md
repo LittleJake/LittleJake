@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/10/2022.
 
 ### Hitokoto
 
-> 我的梦想实现了，也留下了美好的回忆，我已经没有任何遗憾了。
+> 我的回合，抽卡！
 > 
-> ——末日时在做什么?有没有空?可以来拯救吗?
+> ——游戏王
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/10/2022.
 
 </details>
 
-Autogen by LittleJake at 15:17:22
+Autogen by LittleJake at 16:27:01
