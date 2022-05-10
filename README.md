@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/10/2022.
 
 ### Hitokoto
 
-> 我也做个好孩子，成为这幸福光景的一部分，想成为闪耀在圣诞节的城市里，其中一张幸福的笑脸。
+> What, so everyone's supposed to sleep every single night now? You realize that nighttime makes up half of all time?
 > 
-> ——逢坂大河
+> ——Rick
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/10/2022.
 
 </details>
 
-Autogen by LittleJake at 02:47:55
+Autogen by LittleJake at 03:25:34
