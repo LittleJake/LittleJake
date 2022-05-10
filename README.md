@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/10/2022.
 
 ### Hitokoto
 
-> 我的回合，抽卡！
+> 你只见树，未见森林
 > 
-> ——游戏王
+> ——火影忍者
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/10/2022.
 
 </details>
 
-Autogen by LittleJake at 16:27:01
+Autogen by LittleJake at 17:25:46
