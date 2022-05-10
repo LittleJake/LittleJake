@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/10/2022.
 
 ### Hitokoto
 
-> 不要随便贬低自己
+> 夕阳真是耀眼无比啊。
 > 
-> ——终将成为你
+> ——女高中生的虚度日常
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/10/2022.
 
 </details>
 
-Autogen by LittleJake at 08:20:52
+Autogen by LittleJake at 09:16:51
