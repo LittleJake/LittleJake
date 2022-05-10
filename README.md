@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/10/2022.
 
 ### Hitokoto
 
-> 虚伪的眼泪，会伤害别人，虚伪的笑容，会伤害自己。
+> 我也做个好孩子，成为这幸福光景的一部分，想成为闪耀在圣诞节的城市里，其中一张幸福的笑脸。
 > 
-> ——叛逆的鲁鲁修
+> ——逢坂大河
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/10/2022.
 
 </details>
 
-Autogen by LittleJake at 01:09:26
+Autogen by LittleJake at 02:47:55
