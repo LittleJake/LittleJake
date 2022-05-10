@@ -1,7 +1,6 @@
 name: Generate External AD
 
 on: 
-  repository_dispatch:
   workflow_dispatch:
     inputs:
       rule_url:
