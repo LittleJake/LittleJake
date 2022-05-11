@@ -6,9 +6,9 @@ Today is 05/11/2022.
 
 ### Hitokoto
 
-> 你会哭着笑，笑着哭，是因为你的心，早已超越了自己啊。
+> 在未知的未来将要发生的事，一定有它的意义
 > 
-> ——你的名字
+> ——火影忍者
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/11/2022.
 
 </details>
 
-Autogen by LittleJake at 09:16:15
+Autogen by LittleJake at 10:18:50
