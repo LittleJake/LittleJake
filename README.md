@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/11/2022.
 
 ### Hitokoto
 
-> 从进入厨房的瞬间开始，你们就肩负着烹饪美食的责任。
+> 一天最大任务莫过于，好好睡觉，好好醒来。
 > 
-> ——食戟之灵
+> ——火影忍者
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/11/2022.
 
 </details>
 
-Autogen by LittleJake at 07:16:34
+Autogen by LittleJake at 08:22:34
