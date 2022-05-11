@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/11/2022.
 
 ### Hitokoto
 
-> 这个世界啊，很美丽的，很广大的，很辽阔的！
+> 欺骗世界，欺骗最初的你。
 > 
-> ——Darling in the FRANXX
+> ——Steins;Gate
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/11/2022.
 
 </details>
 
-Autogen by LittleJake at 13:37:57
+Autogen by LittleJake at 14:15:48
