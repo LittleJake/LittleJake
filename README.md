@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/11/2022.
 
 ### Hitokoto
 
-> 男人只要去行动就好，做得到或做不到，女孩子会来告诉你的。
+> 我不管这个世上的人怎么说我，我只想依照我的信念做事，绝不后悔，不管现在将来都一样。
 > 
-> ——四月是你的谎言
+> ——火影忍者
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/11/2022.
 
 </details>
 
-Autogen by LittleJake at 17:27:30
+Autogen by LittleJake at 18:20:18
