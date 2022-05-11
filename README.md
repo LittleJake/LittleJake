@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/11/2022.
 
 ### Hitokoto
 
-> 明明只是活着，哀伤却无处不在……
+> 从进入厨房的瞬间开始，你们就肩负着烹饪美食的责任。
 > 
-> ——秒速五厘米
+> ——食戟之灵
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/11/2022.
 
 </details>
 
-Autogen by LittleJake at 06:24:16
+Autogen by LittleJake at 07:16:34
