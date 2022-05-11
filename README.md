@@ -6,9 +6,9 @@ Today is 05/11/2022.
 
 ### Hitokoto
 
-> 正因为有了所有的过去，才成就了现在的我。否定自己所走过的路途，就意味着否定现在的自己。
+> 宛如花朵在风中摇摆起舞，宛如雨露滋润大地，这世界的万物相互依存共同延续。
 > 
-> ——恋爱随意链接
+> ——机动战士高达00
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/11/2022.
 
 </details>
 
-Autogen by LittleJake at 21:13:46
+Autogen by LittleJake at 22:15:32
