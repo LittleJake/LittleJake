@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/11/2022.
 
 ### Hitokoto
 
-> 我们只是历史的过客，目标渺茫，无地自容。我们没有世界大战可以经历，也没有经济大萧条可以恐慌。我们的战争充其量不过是内心之战，我们最大的恐慌就是自己的生活。
+> I'm bad, and that's good. I will never be good, and that's not bad. There's no one I'd rather be than me.
 > 
-> ——搏击俱乐部
+> ——无敌破坏王
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/11/2022.
 
 </details>
 
-Autogen by LittleJake at 01:27:35
+Autogen by LittleJake at 03:19:35
