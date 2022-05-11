@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/11/2022.
 
 ### Hitokoto
 
-> 时间可以治愈？如果时间也病了怎么办
+> 你以为你接受的是谁的爱，是一个天神的爱！他背叛所有神灵去爱你，为你忍受一切痛苦。
 > 
-> ——寒蝉明泣之时
+> ——大鱼海棠
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/11/2022.
 
 </details>
 
-Autogen by LittleJake at 15:17:53
+Autogen by LittleJake at 16:25:00
