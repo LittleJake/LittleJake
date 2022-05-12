@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/12/2022.
 
 ### Hitokoto
 
-> 背后即是祖国，我们无路可退。
+> 一个人有表里两面，你能看到的，仅仅是其中一面而已。
 > 
-> ——那年那兔那些事
+> ——零的执行人
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/12/2022.
 
 </details>
 
-Autogen by LittleJake at 17:24:31
+Autogen by LittleJake at 18:21:14
