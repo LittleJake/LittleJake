@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/12/2022.
 
 ### Hitokoto
 
-> 或许前路永夜，即便如此我也要前进，因为星光即使微弱也会为我照亮前路。
+> 背后即是祖国，我们无路可退。
 > 
-> ——四月是你的谎言
+> ——那年那兔那些事
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/12/2022.
 
 </details>
 
-Autogen by LittleJake at 16:25:46
+Autogen by LittleJake at 17:24:31
