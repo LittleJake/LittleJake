@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/12/2022.
 
 ### Hitokoto
 
-> 其实，恋爱这种东西，当你看上人家的那一刹那就已经失败了。
+> 有你在的日子才是我的日常。
 > 
-> ——秋之回忆
+> ——琴浦小姐
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/12/2022.
 
 </details>
 
-Autogen by LittleJake at 13:42:14
+Autogen by LittleJake at 14:17:27
