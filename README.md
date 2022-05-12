@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/12/2022.
 
 ### Hitokoto
 
-> 正因生来一无所有，因此我们能拥有一切。
+> 我们终会相遇相知，在那悠远的苍穹。
 > 
-> ——游戏人生
+> ——缘之空
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/12/2022.
 
 </details>
 
-Autogen by LittleJake at 08:21:00
+Autogen by LittleJake at 09:21:28
