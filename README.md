@@ -6,9 +6,9 @@ Today is 05/12/2022.
 
 ### Hitokoto
 
-> 理解何为孤单，努力想得到爱的你，内心的悲伤是否稍微宣泄了呢？
+> 其实，恋爱这种东西，当你看上人家的那一刹那就已经失败了。
 > 
-> ——夏目友人帐
+> ——秋之回忆
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/12/2022.
 
 </details>
 
-Autogen by LittleJake at 12:32:58
+Autogen by LittleJake at 13:42:14
