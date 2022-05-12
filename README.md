@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/12/2022.
 
 ### Hitokoto
 
-> 一个人有表里两面，你能看到的，仅仅是其中一面而已。
+> 今宵之月，绝不西沉。只此美梦，不再苏醒。从今往后，生生世世，长相厮守，为你立誓。
 > 
-> ——零的执行人
+> ——银魂
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/12/2022.
 
 </details>
 
-Autogen by LittleJake at 18:21:14
+Autogen by LittleJake at 19:13:10
