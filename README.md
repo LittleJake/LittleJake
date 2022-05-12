@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/12/2022.
 
 ### Hitokoto
 
-> 能够用自己喜欢的工作维持生活是件很幸福的事情
+> 关于自己的生活，我和你都不是读者，而是作者。至少结局，还是能自己说了算的。
 > 
-> ——白箱
+> ——银魂
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/12/2022.
 
 </details>
 
-Autogen by LittleJake at 21:13:36
+Autogen by LittleJake at 22:18:33
