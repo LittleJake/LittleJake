@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/13/2022.
 
 ### Hitokoto
 
-> 你在那么美丽的地方，纯属奇迹般的偶然。
+> 人可以为他人舍弃自身的生命，但并不代表你我的伟大。伟大的、美丽的是已经逝去的他们，我们只是卑微地、愚昧地、苟延残喘地，在这地狱中挣扎，匍匐着拼命求生，仅此而已。
 > 
-> ——理科生坠入情网故尝试证明
+> ——UN-GO
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/13/2022.
 
 </details>
 
-Autogen by LittleJake at 17:25:14
+Autogen by LittleJake at 18:21:42
