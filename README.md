@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/13/2022.
 
 ### Hitokoto
 
-> 如果结果不如你所愿，就在尘埃落定前奋力一搏。
+> 善于破坏气氛的人，不仅能破坏好的气氛，其实也能把坏的气氛破坏掉。
 > 
-> ——夏目友人帐
+> ——我的青春恋爱物语果然有问题
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/13/2022.
 
 </details>
 
-Autogen by LittleJake at 07:17:27
+Autogen by LittleJake at 08:19:39
