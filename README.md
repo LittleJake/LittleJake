@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/13/2022.
 
 ### Hitokoto
 
-> 我会死在这里，我的每一寸肌肤都会腐烂，除了…一寸，这一寸，它是那么的小，那么的脆弱，却是这世上唯一值得拥有的东西，我们决不能失去或者放弃它，我们决不能让别人把它夺走。
+> 我们的夏天仍未结束。
 > 
-> ——碧之轨迹
+> ——王牌投手
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/13/2022.
 
 </details>
 
-Autogen by LittleJake at 19:14:06
+Autogen by LittleJake at 20:18:53
