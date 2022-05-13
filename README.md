@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/13/2022.
 
 ### Hitokoto
 
-> 用你的笑容去改变这个世界，别让这个世界改变了你的笑容。
+> 你在那么美丽的地方，纯属奇迹般的偶然。
 > 
-> ——网络
+> ——理科生坠入情网故尝试证明
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/13/2022.
 
 </details>
 
-Autogen by LittleJake at 16:25:53
+Autogen by LittleJake at 17:25:14
