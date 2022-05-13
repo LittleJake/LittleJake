@@ -6,9 +6,9 @@ Today is 05/13/2022.
 
 ### Hitokoto
 
-> 春天 马上就要来了  让我与你相遇的春天 就要来了  再也没有你的春天 就要来了
+> 人类的赞歌就是勇气的赞歌！
 > 
-> ——四月是你的谎言
+> ——JOJO的奇妙冒险
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/13/2022.
 
 </details>
 
-Autogen by LittleJake at 14:18:39
+Autogen by LittleJake at 15:17:34
