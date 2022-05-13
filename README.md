@@ -6,9 +6,9 @@ Today is 05/13/2022.
 
 ### Hitokoto
 
-> 世界是无情的，并不存在与生俱来的英雄。 所以只能由刚好在旁边的人粉墨登场， 演一出英雄的戏码。
+> 如果结果不如你所愿，就在尘埃落定前奋力一搏。
 > 
-> ——魔法禁书目录
+> ——夏目友人帐
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/13/2022.
 
 </details>
 
-Autogen by LittleJake at 06:23:58
+Autogen by LittleJake at 07:17:27
