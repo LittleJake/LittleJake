@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/13/2022.
 
 ### Hitokoto
 
-> 成一事者，是失之不渝的愚者；毁一事者，是停滞不前的贤者。
+> 有一天，你到了人类的世界，不要去爱上一个人，因为，爱上一个人，会让你真正变成孤单一人。
 > 
-> ——不正经的魔法讲师
+> ——朝花夕誓
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/13/2022.
 
 </details>
 
-Autogen by LittleJake at 10:18:57
+Autogen by LittleJake at 11:14:53
