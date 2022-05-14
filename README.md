@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/14/2022.
 
 ### Hitokoto
 
-> 我的腿让我停下，可是心却不允许我那么做。
+> 人各有命，上天注定。有人天生为王，有人落草为寇。脚下的路，如果不是自己的选择，那旅程的终点在哪儿，也没人知道，你会走到哪儿，会碰到谁，都不一定。
 > 
-> ——钢之炼金术师
+> ——镇魂街
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/14/2022.
 
 </details>
 
-Autogen by LittleJake at 13:34:46
+Autogen by LittleJake at 14:15:14
