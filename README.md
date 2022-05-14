@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/14/2022.
 
 ### Hitokoto
 
-> 你指尖跳动的电光，是我此生不变的信仰
+> 此身为剑所天成，身如钢铁，心似琉璃。
 > 
-> ——某科学的超电磁炮
+> ——Fate
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/14/2022.
 
 </details>
 
-Autogen by LittleJake at 10:18:08
+Autogen by LittleJake at 11:13:33
