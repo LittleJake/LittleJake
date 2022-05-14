@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/14/2022.
 
 ### Hitokoto
 
-> 有话直说就是我的忍道！
+> 我的腿让我停下，可是心却不允许我那么做。
 > 
-> ——火影忍者
+> ——钢之炼金术师
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/14/2022.
 
 </details>
 
-Autogen by LittleJake at 12:31:37
+Autogen by LittleJake at 13:34:46
