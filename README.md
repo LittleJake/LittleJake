@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/14/2022.
 
 ### Hitokoto
 
-> 我们终会相遇相知，在那悠远的苍穹。
+> 没问题，绝对没问题
 > 
-> ——缘之空
+> ——木之本樱（无敌咒语）
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/14/2022.
 
 </details>
 
-Autogen by LittleJake at 20:16:39
+Autogen by LittleJake at 21:14:08
