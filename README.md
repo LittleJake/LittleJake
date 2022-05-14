@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/14/2022.
 
 ### Hitokoto
 
-> 人各有命，上天注定。有人天生为王，有人落草为寇。脚下的路，如果不是自己的选择，那旅程的终点在哪儿，也没人知道，你会走到哪儿，会碰到谁，都不一定。
+> 我喜欢你，比这个世界上其他任何人都喜欢你，我永远都会喜欢你的。只有我的这份心情是不会输给任何人的，即使我的这个身体毁灭了、从世界上消失了，来世我肯定还是会喜欢上你的。
 > 
-> ——镇魂街
+> ——境界的彼方
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/14/2022.
 
 </details>
 
-Autogen by LittleJake at 14:15:14
+Autogen by LittleJake at 15:16:59
