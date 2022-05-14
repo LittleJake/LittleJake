@@ -6,9 +6,9 @@ Today is 05/14/2022.
 
 ### Hitokoto
 
-> 不习惯的事越来越多，但我仍在前进…就算步伐很小，我也在一步一步的前进。
+> 叫做妈妈的人，是不会哭的。
 > 
-> ——夏目友人帐
+> ——朝花夕誓
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/14/2022.
 
 </details>
 
-Autogen by LittleJake at 07:21:11
+Autogen by LittleJake at 08:20:03
