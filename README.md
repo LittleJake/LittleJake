@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/15/2022.
 
 ### Hitokoto
 
-> 正因为生命有限，所以才显得更重要，正因为生命有限，所以才更应该努力不懈。
+> さあ，Games始めましょうか
 > 
-> ——名侦探柯南
+> ——游戏人生
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/15/2022.
 
 </details>
 
-Autogen by LittleJake at 18:19:36
+Autogen by LittleJake at 19:13:34
