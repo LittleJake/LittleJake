@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 05/15/2022.
 
 ### Hitokoto
 
-> 人生中有些事你不竭尽所能去做，你永远不知道自己有多出色！
+> 并非喜欢、也不是爱。而是更加深刻而沉重的——
 > 
-> ——海贼王
+> ——SWEET POOL
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/15/2022.
 
 </details>
 
-Autogen by LittleJake at 05:18:08
+Autogen by LittleJake at 06:20:29
