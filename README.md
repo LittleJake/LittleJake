@@ -6,9 +6,9 @@ Today is 05/15/2022.
 
 ### Hitokoto
 
-> 不服从命令的人是人渣，抛弃同伴的人连人渣都不如。
+> 我的出生就是为了用鲜花将你淹没。
 > 
-> ——火影忍者
+> ——怪物Monster
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/15/2022.
 
 </details>
 
-Autogen by LittleJake at 15:16:31
+Autogen by LittleJake at 16:22:58
