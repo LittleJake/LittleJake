@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/15/2022.
 
 ### Hitokoto
 
-> 我的出生就是为了用鲜花将你淹没。
+> 爱迪生说过：“要把BOSS打倒就要准备足够的等级。”
 > 
-> ——怪物Monster
+> ——学生会的一己之见
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/15/2022.
 
 </details>
 
-Autogen by LittleJake at 16:22:58
+Autogen by LittleJake at 17:20:41
