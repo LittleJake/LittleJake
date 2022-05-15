@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 05/14/2022.
+Today is 05/15/2022.
 
 ### Hitokoto
 
-> 但是，我没有后悔，不能后悔，因为，我所做的事情一定没有错！
+> 独步天下，吾心自洁，无欲无求，如林中之象。
 > 
-> ——三月的狮子
+> ——攻壳机动队Ⅱ无罪
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/14/2022.
 
 </details>
 
-Autogen by LittleJake at 23:16:43
+Autogen by LittleJake at 01:41:40
