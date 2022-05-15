@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/15/2022.
 
 ### Hitokoto
 
-> 幸福感就如沉积在悲哀之河底下 隐隐发光的金砂
+> 人生中有些事你不竭尽所能去做，你永远不知道自己有多出色！
 > 
-> ——月色真美
+> ——海贼王
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/15/2022.
 
 </details>
 
-Autogen by LittleJake at 04:24:49
+Autogen by LittleJake at 05:18:08
