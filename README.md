@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/15/2022.
 
 ### Hitokoto
 
-> 爱迪生说过：“要把BOSS打倒就要准备足够的等级。”
+> 正因为生命有限，所以才显得更重要，正因为生命有限，所以才更应该努力不懈。
 > 
-> ——学生会的一己之见
+> ——名侦探柯南
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/15/2022.
 
 </details>
 
-Autogen by LittleJake at 17:20:41
+Autogen by LittleJake at 18:19:36
