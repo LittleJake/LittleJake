@@ -6,9 +6,9 @@ Today is 05/16/2022.
 
 ### Hitokoto
 
-> 我绝对会成为火影。我从来都是有话直说，这就是我的忍道！
+> 你的败因只有一个，就是与我为敌。 ­
 > 
-> ——漩涡鸣人
+> ——家庭教师
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/16/2022.
 
 </details>
 
-Autogen by LittleJake at 14:21:39
+Autogen by LittleJake at 15:23:23
