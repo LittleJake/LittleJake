@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/16/2022.
 
 ### Hitokoto
 
-> Don't forget. Always,somewhere,someone is fighting for you. As long as you remember her,you are not alone.
+> 我绝对会成为火影。我从来都是有话直说，这就是我的忍道！
 > 
-> ——魔法少女小圆
+> ——漩涡鸣人
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/16/2022.
 
 </details>
 
-Autogen by LittleJake at 13:39:48
+Autogen by LittleJake at 14:21:39
