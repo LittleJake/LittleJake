@@ -6,9 +6,9 @@ Today is 05/16/2022.
 
 ### Hitokoto
 
-> 你知道雪为什么是白色的吗？因为她忘记了本来的颜色。
+> 无论是人类还是妖怪，只要内心希望他人接触，那么就是相同的存在；会因独处而感到寂寞，也会害怕踏出第一步。
 > 
-> ——反叛的鲁路修
+> ——夏目友人帐
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/16/2022.
 
 </details>
 
-Autogen by LittleJake at 09:17:37
+Autogen by LittleJake at 10:20:01
