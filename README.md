@@ -6,9 +6,9 @@ Today is 05/16/2022.
 
 ### Hitokoto
 
-> 命运的红线一旦断了，就再也不会接上。
+> 真正的危机不是机器人像人一样思考，而是人像机器一样思考。
 > 
-> ——犬夜叉
+> ——凉宫春日的忧郁
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/16/2022.
 
 </details>
 
-Autogen by LittleJake at 20:19:04
+Autogen by LittleJake at 21:14:53
