@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/16/2022.
 
 ### Hitokoto
 
-> 求求你，不要对我这么温柔！
+> 我会化作人间的风雨陪在你的身边
 > 
-> ——秒速五厘米
+> ——大鱼海棠
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/16/2022.
 
 </details>
 
-Autogen by LittleJake at 06:24:03
+Autogen by LittleJake at 07:18:37
