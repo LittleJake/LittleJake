@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 05/16/2022.
 
 ### Hitokoto
 
-> What about super-ultra-extreme-awesomazing?
+> 世界上所有的不利状况都是因为当事者的能力不足
 > 
-> ——My Little Pony: Friendship is Magic
+> ——东京喰种
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/16/2022.
 
 </details>
 
-Autogen by LittleJake at 11:14:39
+Autogen by LittleJake at 12:33:15
