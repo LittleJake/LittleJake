@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/16/2022.
 
 ### Hitokoto
 
-> 这就是人类感情的极致，比希望更炽热，比绝望更深邃的，爱哟！
+> 我终不能改变那个开始，何不忘了那个结局呢。
 > 
-> ——魔法少女小圆
+> ——悟空传
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/16/2022.
 
 </details>
 
-Autogen by LittleJake at 16:26:18
+Autogen by LittleJake at 17:21:42
