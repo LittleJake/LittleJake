@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/17/2022.
 
 ### Hitokoto
 
-> 不拼尽全力去试一下，又怎么会知道啊
+> 比希望更炙热，比绝望更深邃，这就是爱啊。
 > 
-> ——刺客伍六七
+> ——魔法少女小圆-叛逆的物语
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/17/2022.
 
 </details>
 
-Autogen by LittleJake at 16:31:26
+Autogen by LittleJake at 17:22:41
