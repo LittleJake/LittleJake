@@ -6,9 +6,9 @@ Today is 05/17/2022.
 
 ### Hitokoto
 
-> 王与坐骑的区别—在于本能！
+> 才能是可以栽培开花的，灵感是可以研磨雕琢的。
 > 
-> ——死神
+> ——排球少年
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/17/2022.
 
 </details>
 
-Autogen by LittleJake at 19:11:28
+Autogen by LittleJake at 20:17:35
