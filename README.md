@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 05/17/2022.
 
 ### Hitokoto
 
-> 越是试着忘记，越是记得深刻。
+> 如果有人对我说抱有希望是错误的花，我会无数次回答“不是这样的”，无论什么时候都一定会这样撑下去。
 > 
-> ——天空之城
+> ——魔法少女小圆
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/17/2022.
 
 </details>
 
-Autogen by LittleJake at 05:20:07
+Autogen by LittleJake at 06:21:56
