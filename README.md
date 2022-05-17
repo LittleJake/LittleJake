@@ -6,9 +6,9 @@ Today is 05/17/2022.
 
 ### Hitokoto
 
-> 在這手心之中的，就是“心”啊。
+> 心急火燎地想要长大，明明还是个小鬼。
 > 
-> ——死神
+> ——CLANNAD ～AFTER STORY～
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/17/2022.
 
 </details>
 
-Autogen by LittleJake at 10:18:36
+Autogen by LittleJake at 11:14:05
