@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/17/2022.
 
 ### Hitokoto
 
-> 如果有人对我说抱有希望是错误的花，我会无数次回答“不是这样的”，无论什么时候都一定会这样撑下去。
+> 你们这些天才止步不前的时候，我会走得更远。
 > 
-> ——魔法少女小圆
+> ——如果有个妹妹就好了
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/17/2022.
 
 </details>
 
-Autogen by LittleJake at 06:21:56
+Autogen by LittleJake at 07:15:43
