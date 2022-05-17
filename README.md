@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/17/2022.
 
 ### Hitokoto
 
-> 为了传达不到的思念而苦恼，只会感到痛不欲生。
+> 不拼尽全力去试一下，又怎么会知道啊
 > 
-> ——WHITE FIRST LOVE
+> ——刺客伍六七
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/17/2022.
 
 </details>
 
-Autogen by LittleJake at 15:22:25
+Autogen by LittleJake at 16:31:26
