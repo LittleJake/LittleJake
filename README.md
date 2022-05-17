@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/17/2022.
 
 ### Hitokoto
 
-> 比希望更炙热，比绝望更深邃，这就是爱啊。
+> 如果你愿意的话，让我带您去吧，这座小镇，愿望实现的地方……
 > 
-> ——魔法少女小圆-叛逆的物语
+> ——CLANNAD
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/17/2022.
 
 </details>
 
-Autogen by LittleJake at 17:22:41
+Autogen by LittleJake at 18:20:36
