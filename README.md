@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/17/2022.
 
 ### Hitokoto
 
-> 神啊 我的人生到底为何而存在呢
+> 与其因为不信任而后悔，不如因为相信而后悔。
 > 
-> ——蜂蜜与四叶草
+> ——刀剑神域
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/17/2022.
 
 </details>
 
-Autogen by LittleJake at 12:37:29
+Autogen by LittleJake at 13:39:24
