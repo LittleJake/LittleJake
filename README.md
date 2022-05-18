@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/18/2022.
 
 ### Hitokoto
 
-> 我来做最不想做的事情了。
+> “像你这样的白痴是怎么活过来的？”“因为我很自信。“
 > 
-> ——22/7
+> ——海贼王
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/18/2022.
 
 </details>
 
-Autogen by LittleJake at 17:23:01
+Autogen by LittleJake at 18:19:53
