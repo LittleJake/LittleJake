@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/18/2022.
 
 ### Hitokoto
 
-> 能哭的地方只有厕所和爸爸的怀里。
+> 相信奇迹的人本身就和奇迹一样了不起啊
 > 
-> ——CLANNAD
+> ——星游记
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/18/2022.
 
 </details>
 
-Autogen by LittleJake at 06:21:19
+Autogen by LittleJake at 07:15:44
