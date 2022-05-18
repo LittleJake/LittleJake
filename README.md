@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 05/17/2022.
+Today is 05/18/2022.
 
 ### Hitokoto
 
-> 不愿意的时候，逃跑也没有关系！
+> 爱，其实很简单，困难的是去接受它。
 > 
-> ——灵能百分百
+> ——通灵王
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/17/2022.
 
 </details>
 
-Autogen by LittleJake at 23:16:24
+Autogen by LittleJake at 01:10:23
