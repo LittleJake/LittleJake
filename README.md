@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/18/2022.
 
 ### Hitokoto
 
-> 我的恋爱还没有开始就结束了。
+> 我不相信人类......但是，我相信人类的“可能性”
 > 
-> ——樱花庄的宠物女孩
+> ——游戏人生
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/18/2022.
 
 </details>
 
-Autogen by LittleJake at 14:18:44
+Autogen by LittleJake at 15:17:48
