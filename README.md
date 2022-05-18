@@ -6,9 +6,9 @@ Today is 05/18/2022.
 
 ### Hitokoto
 
-> 这个世界上没有奇迹，有的只是偶然和必然，以及是谁在做些什么。一直期望着能出现奇迹的人们是不会发生奇迹
+> 我的恋爱还没有开始就结束了。
 > 
-> ——悠久之翼
+> ——樱花庄的宠物女孩
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/18/2022.
 
 </details>
 
-Autogen by LittleJake at 13:39:37
+Autogen by LittleJake at 14:18:44
