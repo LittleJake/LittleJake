@@ -6,9 +6,9 @@ Today is 05/18/2022.
 
 ### Hitokoto
 
-> 奇迹不是免费的，如果你祈求了希望，也会散播出同等的绝望。
+> 没有一个世界会比活在这个世界痛苦
 > 
-> ——魔法少女小圆
+> ——黑岩射手
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/18/2022.
 
 </details>
 
-Autogen by LittleJake at 09:18:06
+Autogen by LittleJake at 10:18:22
