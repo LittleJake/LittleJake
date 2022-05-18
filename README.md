@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/18/2022.
 
 ### Hitokoto
 
-> 当真心想要做成一件事的时候，人总是孤独的，必须孤身一人，相互依赖上就完了。
+> JOJO，我不想再做人了！！
 > 
-> ——魔女之旅
+> ——JOJO的奇妙冒险
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/18/2022.
 
 </details>
 
-Autogen by LittleJake at 04:29:31
+Autogen by LittleJake at 05:20:12
