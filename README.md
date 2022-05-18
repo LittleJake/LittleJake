@@ -6,9 +6,9 @@ Today is 05/18/2022.
 
 ### Hitokoto
 
-> 用你的笑容去改变这个世界，别让这个世界改变了你的笑容。
+> 时间可以治愈？如果时间也病了怎么办？
 > 
-> ——网络
+> ——寒蝉鸣泣之时
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/18/2022.
 
 </details>
 
-Autogen by LittleJake at 19:13:42
+Autogen by LittleJake at 20:17:39
