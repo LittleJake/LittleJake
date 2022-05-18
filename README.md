@@ -6,9 +6,9 @@ Today is 05/18/2022.
 
 ### Hitokoto
 
-> 时间可以治愈？如果时间也病了怎么办？
+> 男人只要去行动就好，做得到或做不到，女孩子会来告诉你的。
 > 
-> ——寒蝉鸣泣之时
+> ——四月是你的谎言
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/18/2022.
 
 </details>
 
-Autogen by LittleJake at 20:17:39
+Autogen by LittleJake at 21:15:23
