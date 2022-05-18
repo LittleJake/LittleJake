@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/18/2022.
 
 ### Hitokoto
 
-> 你会哭着笑，笑着哭，是因为你的心，早已超越了自己啊。
+> 我来做最不想做的事情了。
 > 
-> ——你的名字
+> ——22/7
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/18/2022.
 
 </details>
 
-Autogen by LittleJake at 16:24:27
+Autogen by LittleJake at 17:23:01
