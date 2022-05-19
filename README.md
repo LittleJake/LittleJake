@@ -6,9 +6,9 @@ Today is 05/19/2022.
 
 ### Hitokoto
 
-> 心，可是很重的。
+> 如果当时我们说了再见，后来是不是就可以再见
 > 
-> ——哈尔的移动城堡
+> ——昨日青空
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/19/2022.
 
 </details>
 
-Autogen by LittleJake at 10:19:20
+Autogen by LittleJake at 11:14:24
