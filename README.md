@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/19/2022.
 
 ### Hitokoto
 
-> 我们都很执着,而且思念的越深,越是绝望。
+> 只要抗争下去就能带来奇迹，这是恐怖分子的教诲，你给我记清楚了。
 > 
-> ——人渣的本愿
+> ——未来日记
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/19/2022.
 
 </details>
 
-Autogen by LittleJake at 06:21:44
+Autogen by LittleJake at 07:21:01
