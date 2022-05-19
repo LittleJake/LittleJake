@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/19/2022.
 
 ### Hitokoto
 
-> 好梦向来易醒。
+> 希望老师像帮我一样帮帮れいジ
 > 
-> ——风之谷
+> ——九重凛
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/19/2022.
 
 </details>
 
-Autogen by LittleJake at 20:17:44
+Autogen by LittleJake at 21:15:36
