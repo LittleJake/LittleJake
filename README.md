@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/19/2022.
 
 ### Hitokoto
 
-> 花开得太好，所以摇摇欲坠；这一切的事情，老得这样快；世间一直熙攘着。
+> 好梦向来易醒。
 > 
-> ——素年锦时
+> ——风之谷
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/19/2022.
 
 </details>
 
-Autogen by LittleJake at 19:14:01
+Autogen by LittleJake at 20:17:44
