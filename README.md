@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 05/18/2022.
+Today is 05/19/2022.
 
 ### Hitokoto
 
-> 哭过喊过便会停止哭泣
+> 什么都无法舍弃的人，什么都无法改变 。
 > 
-> ——从零开始的异世界生活
+> ——进击的巨人
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/18/2022.
 
 </details>
 
-Autogen by LittleJake at 23:16:23
+Autogen by LittleJake at 01:36:49
