@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/19/2022.
 
 ### Hitokoto
 
-> 最近我很喜欢明天见这句话，因为只要许下约定，就能期待明天的到来。
+> 花开得太好，所以摇摇欲坠；这一切的事情，老得这样快；世间一直熙攘着。
 > 
-> ——结城友奈是勇者
+> ——素年锦时
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/19/2022.
 
 </details>
 
-Autogen by LittleJake at 18:28:21
+Autogen by LittleJake at 19:14:01
