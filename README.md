@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/19/2022.
 
 ### Hitokoto
 
-> 隐藏的是心中的秘密，照耀两人的是star和snow……
+> 一个人有表里两面，你能看到的，仅仅是其中一面而已。
 > 
-> ——名侦探柯南
+> ——零的执行人
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/19/2022.
 
 </details>
 
-Autogen by LittleJake at 04:31:55
+Autogen by LittleJake at 05:20:27
