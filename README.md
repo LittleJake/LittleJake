@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/20/2022.
 
 ### Hitokoto
 
-> 会起反作用是吧……明明是想保护，却伤害了；明明想要哭泣， 却微笑着。
+> 她有心，她的心在我这里。
 > 
-> ——吸血鬼骑士
+> ——人形电脑天使心
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/20/2022.
 
 </details>
 
-Autogen by LittleJake at 09:17:29
+Autogen by LittleJake at 10:19:09
