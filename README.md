@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/20/2022.
 
 ### Hitokoto
 
-> All for one，one for all.
+> 嗯，明白。我们是天人的Gundam Meister
 > 
-> ——海贼王
+> ——机动战士高达00
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/20/2022.
 
 </details>
 
-Autogen by LittleJake at 04:26:15
+Autogen by LittleJake at 05:17:34
