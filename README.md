@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 05/19/2022.
+Today is 05/20/2022.
 
 ### Hitokoto
 
-> 从小好女色的男人的想像力比不上狗。
+> 我可从来不认为恐惧可以成为舍弃他人的借口，人不能因为恐惧，就连身为人类的品性都丢掉。
 > 
-> ——寒蝉鸣泣之时
+> ——铁甲城的卡巴内瑞
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/19/2022.
 
 </details>
 
-Autogen by LittleJake at 23:16:39
+Autogen by LittleJake at 01:23:13
