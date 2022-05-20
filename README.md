@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/20/2022.
 
 ### Hitokoto
 
-> 时间带着明显的恶意，缓缓在我的头顶流逝。
+> 我会死在这里，我的每一寸肌肤都会腐烂，除了…一寸，这一寸，它是那么的小，那么的脆弱，却是这世上唯一值得拥有的东西，我们决不能失去或者放弃它，我们决不能让别人把它夺走。
 > 
-> ——秒速五厘米
+> ——碧之轨迹
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/20/2022.
 
 </details>
 
-Autogen by LittleJake at 14:15:13
+Autogen by LittleJake at 15:18:10
