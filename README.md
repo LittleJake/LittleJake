@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/20/2022.
 
 ### Hitokoto
 
-> 醒来的时候 不知道自己为什么哭 时常会有的事情 做过的梦总是回想不起 只是 一种有什么消失的丧失感
+> 时间带着明显的恶意，缓缓在我的头顶流逝。
 > 
-> ——你的名字
+> ——秒速五厘米
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/20/2022.
 
 </details>
 
-Autogen by LittleJake at 13:35:37
+Autogen by LittleJake at 14:15:13
