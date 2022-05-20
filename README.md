@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/20/2022.
 
 ### Hitokoto
 
-> 别人的看法都是狗屁，你是谁只有你自己说了才算，这是爹教我的道理。
+> 在未知的未来将要发生的事，一定有它的意义
 > 
-> ——哪吒之魔童降世
+> ——火影忍者
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/20/2022.
 
 </details>
 
-Autogen by LittleJake at 16:23:31
+Autogen by LittleJake at 17:21:25
