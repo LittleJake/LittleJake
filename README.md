@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/20/2022.
 
 ### Hitokoto
 
-> 就是因为抱有不现实的理想，所以才总是做出如此极端的事情！
+> 我们的夏天仍未结束。
 > 
-> ——逆袭的夏亚
+> ——王牌投手
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/20/2022.
 
 </details>
 
-Autogen by LittleJake at 22:17:06
+Autogen by LittleJake at 23:17:09
