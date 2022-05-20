@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/20/2022.
 
 ### Hitokoto
 
-> 背后即是祖国，我们无路可退。
+> 不能输，笑吧！
 > 
-> ——那年那兔那些事
+> ——约定的梦幻岛
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/20/2022.
 
 </details>
 
-Autogen by LittleJake at 07:15:43
+Autogen by LittleJake at 08:21:21
