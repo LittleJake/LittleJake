@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/21/2022.
 
 ### Hitokoto
 
-> 为了终止绝望的连锁，希望她能化为照亮正确道路的灯火。
+> “像你这样的白痴是怎么活过来的？”“因为我很自信。“
 > 
-> ——Re：从零开始的异世界生活
+> ——海贼王
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/21/2022.
 
 </details>
 
-Autogen by LittleJake at 18:18:55
+Autogen by LittleJake at 19:13:08
