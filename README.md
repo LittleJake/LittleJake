@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/21/2022.
 
 ### Hitokoto
 
-> 自杀是没有理由的，只是今天没有飞起来罢了。
+> 为了终止绝望的连锁，希望她能化为照亮正确道路的灯火。
 > 
-> ——空之境界
+> ——Re：从零开始的异世界生活
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/21/2022.
 
 </details>
 
-Autogen by LittleJake at 17:18:13
+Autogen by LittleJake at 18:18:55
