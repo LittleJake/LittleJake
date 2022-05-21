@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/21/2022.
 
 ### Hitokoto
 
-> 一个人决定寂寞，和另一个人相互依偎又有什么错
+> 像平常的你一样引发奇迹吧-
 > 
-> ——人渣的本愿
+> ——魔法少女小圆
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/21/2022.
 
 </details>
 
-Autogen by LittleJake at 06:20:56
+Autogen by LittleJake at 07:15:16
