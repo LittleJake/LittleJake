@@ -6,9 +6,9 @@ Today is 05/21/2022.
 
 ### Hitokoto
 
-> 只要是正义的一方，无论手段多么卑鄙都可以被原谅
+> 十年前的你，喜欢过我吗？
 > 
-> ——东京喰种
+> ——路人女主的养成方法
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/21/2022.
 
 </details>
 
-Autogen by LittleJake at 04:20:49
+Autogen by LittleJake at 05:15:35
