@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 05/21/2022.
 
 ### Hitokoto
 
-> 十年前的你，喜欢过我吗？
+> 一个人决定寂寞，和另一个人相互依偎又有什么错
 > 
-> ——路人女主的养成方法
+> ——人渣的本愿
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/21/2022.
 
 </details>
 
-Autogen by LittleJake at 05:15:35
+Autogen by LittleJake at 06:20:56
