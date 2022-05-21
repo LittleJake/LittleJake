@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/21/2022.
 
 ### Hitokoto
 
-> “像你这样的白痴是怎么活过来的？”“因为我很自信。“
+> 如果说怪盗是一个技艺精湛，盗取财宝的艺术家，那么侦探就只是跟在怪盗后面吹毛求疵，充其量不过是个评论家。
 > 
-> ——海贼王
+> ——名侦探柯南
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/21/2022.
 
 </details>
 
-Autogen by LittleJake at 19:13:08
+Autogen by LittleJake at 20:17:20
