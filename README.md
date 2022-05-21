@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/21/2022.
 
 ### Hitokoto
 
-> 即使再也没有晴天也没有关系.
+> 即使我变弱了，也不代表你变强了。
 > 
-> ——天气之子
+> ——魔法禁书目录
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/21/2022.
 
 </details>
 
-Autogen by LittleJake at 08:20:10
+Autogen by LittleJake at 09:15:42
