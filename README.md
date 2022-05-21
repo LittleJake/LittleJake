@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/21/2022.
 
 ### Hitokoto
 
-> 如果你愿意的话，让我带您去吧，这座小镇，愿望实现的地方……
+> 自杀是没有理由的，只是今天没有飞起来罢了。
 > 
-> ——CLANNAD
+> ——空之境界
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/21/2022.
 
 </details>
 
-Autogen by LittleJake at 16:21:44
+Autogen by LittleJake at 17:18:13
