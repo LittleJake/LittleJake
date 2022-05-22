@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/22/2022.
 
 ### Hitokoto
 
-> 忘记本身就是一件不可能的事。
+> 这个地方的人们，就是我战斗的理由。
 > 
-> ——我们的存在
+> ——战翼的希格德莉法
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/22/2022.
 
 </details>
 
-Autogen by LittleJake at 12:27:53
+Autogen by LittleJake at 13:26:19
