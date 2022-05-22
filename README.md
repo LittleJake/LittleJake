@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 05/22/2022.
 
 ### Hitokoto
 
-> 走过一段路 回头看 原来那些痛得快要死去的事情是可以一笑而过的。
+> 忘记本身就是一件不可能的事。
 > 
-> ——黑子的篮球
+> ——我们的存在
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/22/2022.
 
 </details>
 
-Autogen by LittleJake at 11:13:24
+Autogen by LittleJake at 12:27:53
