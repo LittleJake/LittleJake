@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 05/22/2022.
 
 ### Hitokoto
 
-> 大家都是伪善者，世间充斥着不真实。
+> 我的船上没有手下，只有伙伴。
 > 
-> ——无头骑士异闻录
+> ——海贼王
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/22/2022.
 
 </details>
 
-Autogen by LittleJake at 05:15:19
+Autogen by LittleJake at 06:19:59
