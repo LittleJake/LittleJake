@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/22/2022.
 
 ### Hitokoto
 
-> 就算世上有着所谓的“好女人”，也不会有着“和我关系好的女人”。
+> 我不渴望什么在别的城市迎来的春天，只要和你在一起的春天就好，只要和你在一起就好
 > 
-> ——我的青春恋爱物语果然有问题
+> ——CLANNAD
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/22/2022.
 
 </details>
 
-Autogen by LittleJake at 03:07:29
+Autogen by LittleJake at 04:20:59
