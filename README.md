@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/22/2022.
 
 ### Hitokoto
 
-> 优秀的幼苗应该有与之相称的土壤，贫瘠的土地是无法结出丰盛果实的。
+> 看到的感受到的永远都不会消失永远都不会忘记，与各种各样的相遇一同永存。
 > 
-> ——排球少年
+> ——夏目友人帐
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/22/2022.
 
 </details>
 
-Autogen by LittleJake at 15:17:43
+Autogen by LittleJake at 16:22:06
