@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/22/2022.
 
 ### Hitokoto
 
-> 死亡不是终点，被遗忘才是。
+> 失望了吗？没错，世上或许有些东西别打开比较好，真正把心打开的人多么麻烦啊！
 > 
-> ——寻梦环游记
+> ——绝望先生
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/22/2022.
 
 </details>
 
-Autogen by LittleJake at 19:13:29
+Autogen by LittleJake at 20:16:51
