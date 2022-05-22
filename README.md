@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/22/2022.
 
 ### Hitokoto
 
-> 来看看你的未来，那就是你的未来，向着未来，一步一步地走去。
+> 既然没有终点，那在何处又何妨呢。
 > 
-> ——未来へ(向着未来)
+> ——异度侵入
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/22/2022.
 
 </details>
 
-Autogen by LittleJake at 09:15:44
+Autogen by LittleJake at 10:17:53
