@@ -6,9 +6,9 @@ Today is 05/22/2022.
 
 ### Hitokoto
 
-> 描线一笔接一笔，白色的素描本上渐渐萌生黑意。即便如此，还无法照准记忆中的风景。
+> 那天，我见过的最强剑客，提起了天下最强的宝剑······却早已没了剑心。
 > 
-> ——你的名字
+> ——狐妖小红娘
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/22/2022.
 
 </details>
 
-Autogen by LittleJake at 22:15:45
+Autogen by LittleJake at 23:16:27
