@@ -6,9 +6,9 @@ Today is 05/23/2022.
 
 ### Hitokoto
 
-> 与绝望~和睦相处。
+> 老是低着头，幸福可是会离你而去的喔。
 > 
-> ——少女终末旅行
+> ——我们的仙境
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/23/2022.
 
 </details>
 
-Autogen by LittleJake at 15:18:00
+Autogen by LittleJake at 16:23:28
