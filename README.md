@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 05/23/2022.
 
 ### Hitokoto
 
-> 人生，一半是现实，一半是梦想。一念花开，一念花落。
+> 要相信同伴，拯救同伴。
 > 
-> ——火影忍者
+> ——绯弹的亚里亚
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/23/2022.
 
 </details>
 
-Autogen by LittleJake at 11:14:58
+Autogen by LittleJake at 12:31:12
