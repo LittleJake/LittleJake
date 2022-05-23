@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/23/2022.
 
 ### Hitokoto
 
-> 我手中的魔法，是守护挚爱的力量，是坚定这个信念所必须的力量，我一定会拯救你的，无论在何时、何地。
+> 恋爱不是谈出来的，而是陷进去的。
 > 
-> ——魔法少女奈叶
+> ——GAMER电玩咖！
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/23/2022.
 
 </details>
 
-Autogen by LittleJake at 04:32:25
+Autogen by LittleJake at 05:21:41
