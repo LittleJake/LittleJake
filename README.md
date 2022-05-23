@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/23/2022.
 
 ### Hitokoto
 
-> 如果你愿意的话，让我带您去吧，这座小镇，愿望实现的地方……
+> 世间万物，如果一直放着不管的话，便一定会向不好的方向发展。就像即使如何的努力也无法阻止宇宙变冷一样。只是按照‘常理进行’不断积累而构筑出的世界，无论如何也无法脱离物理法则的束缚。
 > 
-> ——CLANNAD
+> ——虚渊玄
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/23/2022.
 
 </details>
 
-Autogen by LittleJake at 06:22:59
+Autogen by LittleJake at 07:17:44
