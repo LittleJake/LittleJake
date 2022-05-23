@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/23/2022.
 
 ### Hitokoto
 
-> 也许我的灵魂彷徨了几万年，不过就是为了与你相遇。
+> 人啊...想要保护重要东西的时候，就真的能变得很坚强。
 > 
-> ——JOJO的奇妙冒险·战斗潮流
+> ——火影忍者
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/23/2022.
 
 </details>
 
-Autogen by LittleJake at 17:20:34
+Autogen by LittleJake at 18:21:15
