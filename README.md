@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/23/2022.
 
 ### Hitokoto
 
-> 错的不是我，而是这个世界！
+> 我手中的魔法，是守护挚爱的力量，是坚定这个信念所必须的力量，我一定会拯救你的，无论在何时、何地。
 > 
-> ——东京喰种
+> ——魔法少女奈叶
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/23/2022.
 
 </details>
 
-Autogen by LittleJake at 03:19:57
+Autogen by LittleJake at 04:32:25
