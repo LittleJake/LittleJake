@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 05/22/2022.
+Today is 05/23/2022.
 
 ### Hitokoto
 
-> 那天，我见过的最强剑客，提起了天下最强的宝剑······却早已没了剑心。
+> Ko no Dio da!
 > 
-> ——狐妖小红娘
+> ——JOJO的奇妙冒险
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/22/2022.
 
 </details>
 
-Autogen by LittleJake at 23:16:27
+Autogen by LittleJake at 01:20:54
