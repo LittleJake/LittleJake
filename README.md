@@ -6,9 +6,9 @@ Today is 05/23/2022.
 
 ### Hitokoto
 
-> 孤独的人不会伤害别人，只会不断地伤害自己罢了。
+> 有时写信才能表达，平时难以说出口的心声。
 > 
-> ——我的青春恋爱物语果然有问题
+> ——紫罗兰的永恒花园
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/23/2022.
 
 </details>
 
-Autogen by LittleJake at 13:36:55
+Autogen by LittleJake at 14:16:31
