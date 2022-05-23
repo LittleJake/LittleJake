@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/23/2022.
 
 ### Hitokoto
 
-> 人啊...想要保护重要东西的时候，就真的能变得很坚强。
+> 在染成红色的天空下，在雨中，流淌着，漂浮着的，最软弱的自己的倒影，朦胧蓝色的回忆。
 > 
-> ——火影忍者
+> ——知晓天空之蓝的人啊
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/23/2022.
 
 </details>
 
-Autogen by LittleJake at 18:21:15
+Autogen by LittleJake at 19:13:27
