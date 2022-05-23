@@ -6,9 +6,9 @@ Today is 05/23/2022.
 
 ### Hitokoto
 
-> 我终不能改变那个开始，何不忘了那个结局呢。
+> 善于破坏气氛的人，不仅能破坏好的气氛，其实也能把坏的气氛破坏掉。
 > 
-> ——悟空传
+> ——我的青春恋爱物语果然有问题
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/23/2022.
 
 </details>
 
-Autogen by LittleJake at 22:18:09
+Autogen by LittleJake at 23:16:43
