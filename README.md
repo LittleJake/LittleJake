@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/23/2022.
 
 ### Hitokoto
 
-> 世间万物，如果一直放着不管的话，便一定会向不好的方向发展。就像即使如何的努力也无法阻止宇宙变冷一样。只是按照‘常理进行’不断积累而构筑出的世界，无论如何也无法脱离物理法则的束缚。
+> 要改变别人的心真是件很难办的事，不过改变自己要容易一点。
 > 
-> ——虚渊玄
+> ——XXXHolic
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/23/2022.
 
 </details>
 
-Autogen by LittleJake at 07:17:44
+Autogen by LittleJake at 08:21:14
