@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/23/2022.
 
 ### Hitokoto
 
-> 不要，我现在暂时留在他身边，直到那转瞬即逝的日子到来。
+> 我的梦想实现了，也留下了美好的回忆，我已经没有任何遗憾了。
 > 
-> ——夏目友人帐
+> ——末日时在做什么?有没有空?可以来拯救吗?
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/23/2022.
 
 </details>
 
-Autogen by LittleJake at 09:17:10
+Autogen by LittleJake at 10:19:04
