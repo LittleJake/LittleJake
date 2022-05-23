@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 05/23/2022.
 
 ### Hitokoto
 
-> 恋爱不是谈出来的，而是陷进去的。
+> 如果你愿意的话，让我带您去吧，这座小镇，愿望实现的地方……
 > 
-> ——GAMER电玩咖！
+> ——CLANNAD
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/23/2022.
 
 </details>
 
-Autogen by LittleJake at 05:21:41
+Autogen by LittleJake at 06:22:59
