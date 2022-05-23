@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/23/2022.
 
 ### Hitokoto
 
-> 要改变别人的心真是件很难办的事，不过改变自己要容易一点。
+> 不要，我现在暂时留在他身边，直到那转瞬即逝的日子到来。
 > 
-> ——XXXHolic
+> ——夏目友人帐
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/23/2022.
 
 </details>
 
-Autogen by LittleJake at 08:21:14
+Autogen by LittleJake at 09:17:10
