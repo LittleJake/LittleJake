@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/24/2022.
 
 ### Hitokoto
 
-> さあ，Games始めましょうか
+> El Psy Congroo!
 > 
-> ——游戏人生
+> ——命运石之门
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/24/2022.
 
 </details>
 
-Autogen by LittleJake at 17:22:55
+Autogen by LittleJake at 18:21:29
