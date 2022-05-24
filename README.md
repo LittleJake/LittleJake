@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/24/2022.
 
 ### Hitokoto
 
-> 超频链接
+> 有一种说法是「恋爱就是一场梦」，既然是梦的话，只要给她一点时间，总是会醒的。
 > 
-> ——加速世界
+> ——中二病也要谈恋爱！
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/24/2022.
 
 </details>
 
-Autogen by LittleJake at 14:16:11
+Autogen by LittleJake at 15:17:43
