@@ -6,9 +6,9 @@ Today is 05/24/2022.
 
 ### Hitokoto
 
-> 知道人的眼睛为什么长在前面吗？那是因为如果想看到远处的风景的话，就只能向前前进。
+> 今まで生きてきで，今が一番幸せかもしれない。
 > 
-> ——天元突破：红莲螺岩
+> ——言叶之庭
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/24/2022.
 
 </details>
 
-Autogen by LittleJake at 22:16:52
+Autogen by LittleJake at 23:17:13
