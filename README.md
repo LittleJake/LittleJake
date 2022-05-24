@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/24/2022.
 
 ### Hitokoto
 
-> 今天的风儿有些喧嚣啊。
+> 知识是很美的，它们可以让你不出家门就了解这世上的许多事。
 > 
-> ——男子高中生的日常
+> ——妖精的尾巴
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/24/2022.
 
 </details>
 
-Autogen by LittleJake at 20:19:16
+Autogen by LittleJake at 21:15:02
