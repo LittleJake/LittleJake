@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 05/23/2022.
+Today is 05/24/2022.
 
 ### Hitokoto
 
-> 善于破坏气氛的人，不仅能破坏好的气氛，其实也能把坏的气氛破坏掉。
+> 我无法抗拒泡面这种没营养又廉价的口感。
 > 
-> ——我的青春恋爱物语果然有问题
+> ——银仙
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/23/2022.
 
 </details>
 
-Autogen by LittleJake at 23:16:43
+Autogen by LittleJake at 01:26:33
