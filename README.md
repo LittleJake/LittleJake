@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/24/2022.
 
 ### Hitokoto
 
-> 知识是很美的，它们可以让你不出家门就了解这世上的许多事。
+> 知道人的眼睛为什么长在前面吗？那是因为如果想看到远处的风景的话，就只能向前前进。
 > 
-> ——妖精的尾巴
+> ——天元突破：红莲螺岩
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/24/2022.
 
 </details>
 
-Autogen by LittleJake at 21:15:02
+Autogen by LittleJake at 22:16:52
