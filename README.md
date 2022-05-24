@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 05/24/2022.
 
 ### Hitokoto
 
-> 那么难受，那么痛苦，可是 世界这么美丽...让我如何能够忘记！
+> 老是低着头，幸福可是会离你而去的喔。
 > 
-> ——朝花夕誓
+> ——我们的仙境
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/24/2022.
 
 </details>
 
-Autogen by LittleJake at 11:14:16
+Autogen by LittleJake at 12:33:05
