@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/24/2022.
 
 ### Hitokoto
 
-> 我无法抗拒泡面这种没营养又廉价的口感。
+> 你已经不是我的狗了。
 > 
-> ——银仙
+> ——龙与虎
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/24/2022.
 
 </details>
 
-Autogen by LittleJake at 01:26:33
+Autogen by LittleJake at 03:22:57
