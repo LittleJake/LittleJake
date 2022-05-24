@@ -6,9 +6,9 @@ Today is 05/24/2022.
 
 ### Hitokoto
 
-> 如果可以，愿来生你不要忘记我，我也不要忘记你那熟悉的温柔。
+> さあ，Games始めましょうか
 > 
-> ——狐妖小红娘
+> ——游戏人生
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/24/2022.
 
 </details>
 
-Autogen by LittleJake at 16:25:03
+Autogen by LittleJake at 17:22:55
