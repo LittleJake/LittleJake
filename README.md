@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 05/25/2022.
 
 ### Hitokoto
 
-> 大部分人并不想长大，只是没办法继续当一个小孩子
+> 枷锁，自然规律，时光的流逝，名为身体的容器，名为心灵的自我。
 > 
-> ——小林家的龙女仆
+> ——四月一日灵异事件薄
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/25/2022.
 
 </details>
 
-Autogen by LittleJake at 11:15:14
+Autogen by LittleJake at 12:32:21
