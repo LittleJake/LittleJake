@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 05/25/2022.
 
 ### Hitokoto
 
-> 幸福的回忆，美满的回忆不一定会成为救赎，有时候，回忆越是美满便越痛苦，也有时候，会越害怕，无论是对于将要离开的人来说，还是对于被留下的人来说，都不可能会成为一种救赎。
+> 好梦向来易醒。
 > 
-> ——可塑性记忆
+> ——风之谷
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/25/2022.
 
 </details>
 
-Autogen by LittleJake at 05:19:42
+Autogen by LittleJake at 06:21:21
