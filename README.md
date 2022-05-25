@@ -6,7 +6,7 @@ Today is 05/25/2022.
 
 ### Hitokoto
 
-> 在未知的未来将要发生的事，一定有它的意义
+> 死者的血泪混入滚滚的流沙之中...将会赐予修罗更强的力量...
 > 
 > ——火影忍者
 
@@ -32,4 +32,4 @@ Today is 05/25/2022.
 
 </details>
 
-Autogen by LittleJake at 01:25:31
+Autogen by LittleJake at 03:19:01
