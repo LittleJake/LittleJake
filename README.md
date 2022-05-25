@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/25/2022.
 
 ### Hitokoto
 
-> 回忆都是美好的，记忆却是痛苦。回忆全部被记录下来，可记忆不一定能想起来。
+> 一举一动，都是承诺，会被另一个人看在眼里，记在心上的。
 > 
-> ——全部成为F
+> ——悬崖上的金鱼姬
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/25/2022.
 
 </details>
 
-Autogen by LittleJake at 13:39:28
+Autogen by LittleJake at 14:16:37
