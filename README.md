@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 05/24/2022.
+Today is 05/25/2022.
 
 ### Hitokoto
 
-> 今まで生きてきで，今が一番幸せかもしれない。
+> 在未知的未来将要发生的事，一定有它的意义
 > 
-> ——言叶之庭
+> ——火影忍者
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/24/2022.
 
 </details>
 
-Autogen by LittleJake at 23:17:13
+Autogen by LittleJake at 01:25:31
