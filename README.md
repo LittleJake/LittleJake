@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/25/2022.
 
 ### Hitokoto
 
-> 我想你们的努力一定会有回报的
+> 重要的不是你做了多少事，而是你放了多少心思进去。
 > 
-> ——龙与虎
+> ——凉宫春日的忧郁
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/25/2022.
 
 </details>
 
-Autogen by LittleJake at 17:24:25
+Autogen by LittleJake at 18:20:15
