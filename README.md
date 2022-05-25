@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/25/2022.
 
 ### Hitokoto
 
-> 重要的不是你做了多少事，而是你放了多少心思进去。
+> 邂逅本身，就是一种奇迹啊。
 > 
-> ——凉宫春日的忧郁
+> ——游魂
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/25/2022.
 
 </details>
 
-Autogen by LittleJake at 18:20:15
+Autogen by LittleJake at 19:13:50
