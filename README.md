@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/25/2022.
 
 ### Hitokoto
 
-> 枷锁，自然规律，时光的流逝，名为身体的容器，名为心灵的自我。
+> 回忆都是美好的，记忆却是痛苦。回忆全部被记录下来，可记忆不一定能想起来。
 > 
-> ——四月一日灵异事件薄
+> ——全部成为F
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/25/2022.
 
 </details>
 
-Autogen by LittleJake at 12:32:21
+Autogen by LittleJake at 13:39:28
