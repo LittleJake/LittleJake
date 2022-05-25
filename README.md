@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/25/2022.
 
 ### Hitokoto
 
-> 死者的血泪混入滚滚的流沙之中...将会赐予修罗更强的力量...
+> 明天，不是你想要就能有的。
 > 
-> ——火影忍者
+> ——未闻花名
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/25/2022.
 
 </details>
 
-Autogen by LittleJake at 03:19:01
+Autogen by LittleJake at 04:30:00
