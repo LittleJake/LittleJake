@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/25/2022.
 
 ### Hitokoto
 
-> 人们只是用好人来称呼对自己有用的人而以，不存在对所有人都有用的人。
+> 拥有和舍弃都很痛苦，既然无论怎样都会痛苦的话，我宁可选择守护它而痛苦。
 > 
-> ——进击的巨人
+> ——银魂
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/25/2022.
 
 </details>
 
-Autogen by LittleJake at 22:17:12
+Autogen by LittleJake at 23:16:35
