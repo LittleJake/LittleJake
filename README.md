@@ -6,9 +6,9 @@ Today is 05/26/2022.
 
 ### Hitokoto
 
-> 我将送你最美的鲜花。
+> 拥有和舍弃都很痛苦，既然无论怎样都会痛苦的话，我宁可选择守护它而痛苦。
 > 
-> ——怪物Monster
+> ——银魂
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/26/2022.
 
 </details>
 
-Autogen by LittleJake at 20:18:34
+Autogen by LittleJake at 21:15:42
