@@ -6,9 +6,9 @@ Today is 05/26/2022.
 
 ### Hitokoto
 
-> 有了喜欢的人，就会在意各种小事，感觉很不自由，但是，为了那些小事左思右想，心里竟然会这么快乐。
+> 我不相信人类......但是，我相信人类的“可能性”
 > 
-> ——闪烁的青春
+> ——游戏人生
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/26/2022.
 
 </details>
 
-Autogen by LittleJake at 07:15:48
+Autogen by LittleJake at 08:22:29
