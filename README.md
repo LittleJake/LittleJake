@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 05/26/2022.
 
 ### Hitokoto
 
-> 有一种说法是「恋爱就是一场梦」，既然是梦的话，只要给她一点时间，总是会醒的。
+> 那只萤火虫在很长很长的时间里都是独自一人生活，甚至忘了自己是只萤火虫。
 > 
-> ——中二病也要谈恋爱！
+> ——小鸠
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/26/2022.
 
 </details>
 
-Autogen by LittleJake at 05:19:52
+Autogen by LittleJake at 06:21:03
