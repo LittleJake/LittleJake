@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/26/2022.
 
 ### Hitokoto
 
-> 战争是什么？战争只不过是一群人对于另一群人的屠杀，只不过是屠杀的对象有所不同而已。
+> 明明喜欢的不得了，可是看到对方幸福洋溢的表情，却觉得很难过、很痛苦，胸口发疼。
 > 
-> ——紫罗兰的永恒花园
+> ——彩云国物语
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/26/2022.
 
 </details>
 
-Autogen by LittleJake at 22:17:15
+Autogen by LittleJake at 23:15:21
