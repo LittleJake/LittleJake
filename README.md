@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/26/2022.
 
 ### Hitokoto
 
-> 只会比大小真是没品
+> 哭过喊过便会停止哭泣
 > 
-> ——某科学的超电磁炮S
+> ——从零开始的异世界生活
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/26/2022.
 
 </details>
 
-Autogen by LittleJake at 17:23:09
+Autogen by LittleJake at 18:21:06
