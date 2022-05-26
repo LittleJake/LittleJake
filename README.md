@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/26/2022.
 
 ### Hitokoto
 
-> 呐，我们好像是，被宇宙和地球拆散的恋人似的。
+> 我喜欢你们！超喜欢的！大家和我交往吧！绝对会让你们幸福的！
 > 
-> ——星之声
+> ——学生会的一己之见
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/26/2022.
 
 </details>
 
-Autogen by LittleJake at 14:15:56
+Autogen by LittleJake at 15:19:22
