@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/26/2022.
 
 ### Hitokoto
 
-> 我不相信人类......但是，我相信人类的“可能性”
+> 所以，请你抬起头，笑着为我的旅途祝福吧。 一直以来谢谢你陪伴我，听我的那些谎话。和你的相遇，是我一生最珍贵的记忆。
 > 
-> ——游戏人生
+> ——死后文
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/26/2022.
 
 </details>
 
-Autogen by LittleJake at 08:22:29
+Autogen by LittleJake at 09:17:33
