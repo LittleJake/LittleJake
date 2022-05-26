@@ -6,9 +6,9 @@ Today is 05/26/2022.
 
 ### Hitokoto
 
-> 没有一个世界会比活在这个世界痛苦
+> 只会比大小真是没品
 > 
-> ——黑岩射手
+> ——某科学的超电磁炮S
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/26/2022.
 
 </details>
 
-Autogen by LittleJake at 16:24:53
+Autogen by LittleJake at 17:23:09
