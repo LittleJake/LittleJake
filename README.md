@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/26/2022.
 
 ### Hitokoto
 
-> 哭过喊过便会停止哭泣
+> 明明喜欢的不得了，可是看到对方幸福洋溢的表情，却觉得很难过、很痛苦，胸口发疼。
 > 
-> ——从零开始的异世界生活
+> ——彩云国物语
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/26/2022.
 
 </details>
 
-Autogen by LittleJake at 18:21:06
+Autogen by LittleJake at 19:13:15
