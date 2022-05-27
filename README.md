@@ -6,9 +6,9 @@ Today is 05/27/2022.
 
 ### Hitokoto
 
-> 一举一动，都是承诺，会被另一个人看在眼里，记在心上的。
+> 我们即使发了一千次短信，心与心之间大概也只能靠近1厘米。
 > 
-> ——悬崖上的金鱼姬
+> ——秒速五厘米
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/27/2022.
 
 </details>
 
-Autogen by LittleJake at 18:20:32
+Autogen by LittleJake at 19:13:19
