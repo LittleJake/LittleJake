@@ -6,9 +6,9 @@ Today is 05/27/2022.
 
 ### Hitokoto
 
-> 有被杀的觉悟，才有资格开枪。
+> 就因为没有好事发生，所以至少要保持微笑。
 > 
-> ——反叛的鲁路修
+> ——阴晴不定大哥哥
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/27/2022.
 
 </details>
 
-Autogen by LittleJake at 15:17:46
+Autogen by LittleJake at 16:24:17
