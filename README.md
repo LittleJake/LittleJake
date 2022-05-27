@@ -6,9 +6,9 @@ Today is 05/27/2022.
 
 ### Hitokoto
 
-> 那东西既然被你知道了，我就没脸活下去了，只有一死了之了！可是我还不想死，所以只好把你杀了啊！
+> 世界怎样与我无关，以我自己的意识！
 > 
-> ——逢坂大河
+> ——机动战士高达00
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/27/2022.
 
 </details>
 
-Autogen by LittleJake at 01:19:47
+Autogen by LittleJake at 03:24:31
