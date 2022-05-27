@@ -6,9 +6,9 @@ Today is 05/27/2022.
 
 ### Hitokoto
 
-> 王有王的才能，厨师有厨师的才能，替身之间是没有强弱之分的
+> 自认为为他人好而做的事情，并不一定正确。
 > 
-> ——JOJO的奇妙冒险
+> ——魔女之旅
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/27/2022.
 
 </details>
 
-Autogen by LittleJake at 08:20:58
+Autogen by LittleJake at 09:17:19
