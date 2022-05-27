@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/27/2022.
 
 ### Hitokoto
 
-> 因为喜欢你，所以想继续相信下去。
+> 一举一动，都是承诺，会被另一个人看在眼里，记在心上的。
 > 
-> ——空之境界
+> ——悬崖上的金鱼姬
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/27/2022.
 
 </details>
 
-Autogen by LittleJake at 17:21:01
+Autogen by LittleJake at 18:20:32
