@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/27/2022.
 
 ### Hitokoto
 
-> 旅行唯有出发前最愉快，狗儿唯有叫声最吓人，女人唯有背影最美丽。
+> 既然没有终点，那在何处又何妨呢。
 > 
-> ——狼与香辛料
+> ——异度侵入
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/27/2022.
 
 </details>
 
-Autogen by LittleJake at 13:36:14
+Autogen by LittleJake at 14:15:17
