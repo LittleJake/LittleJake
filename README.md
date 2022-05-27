@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/27/2022.
 
 ### Hitokoto
 
-> 今后我们来度过满是愉快之事的人生吧
+> 前天是小兔子，昨天是小鹿，今天是你。
 > 
-> ——Charlotte
+> ——CLANNAD
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/27/2022.
 
 </details>
 
-Autogen by LittleJake at 21:15:30
+Autogen by LittleJake at 22:16:11
