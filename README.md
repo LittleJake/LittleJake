@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 05/27/2022.
 
 ### Hitokoto
 
-> 如果你都不知道自己想去哪里，那去哪里都是一样的。
+> キラキラ☆ドキドキ
 > 
-> ——柴郡猫
+> ——戸山香澄
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/27/2022.
 
 </details>
 
-Autogen by LittleJake at 11:15:25
+Autogen by LittleJake at 12:33:48
