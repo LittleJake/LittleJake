@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 05/27/2022.
 
 ### Hitokoto
 
-> 如果你不能击败你的敌人，那么就加入他们。
+> 时间并不存在，存在的只有此刻。
 > 
-> ——加菲猫
+> ——魔女猎人
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/27/2022.
 
 </details>
 
-Autogen by LittleJake at 05:20:21
+Autogen by LittleJake at 06:21:51
