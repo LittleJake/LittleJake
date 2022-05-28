@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/28/2022.
 
 ### Hitokoto
 
-> 所谓长大成人，就是不断聚了散，散了又聚。为了让彼此不会受伤害而保持一个适当的距离。
+> 欧拉欧拉欧拉欧拉！
 > 
-> ——新世纪福音战士
+> ——JOJO的奇妙冒险
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/28/2022.
 
 </details>
 
-Autogen by LittleJake at 21:14:27
+Autogen by LittleJake at 22:16:17
