@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 05/27/2022.
+Today is 05/28/2022.
 
 ### Hitokoto
 
-> 最初的一步，泪水之后再一次，雕刻的风景线，消逝在黄昏中的风，直到梦的最后。
+> 看来这世界 似乎还想要驯服我 那就如你所愿吧 我会美丽地挣扎到底
 > 
-> ——Clannad
+> ——你的名字
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/27/2022.
 
 </details>
 
-Autogen by LittleJake at 23:16:35
+Autogen by LittleJake at 01:19:38
