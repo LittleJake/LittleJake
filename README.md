@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/28/2022.
 
 ### Hitokoto
 
-> 欧拉欧拉欧拉欧拉！
+> 正因为有了音乐，才有了相遇的瞬间，有了相会的感动，有了相逢的人们，有了邂逅的思念。
 > 
-> ——JOJO的奇妙冒险
+> ——四月是你的谎言
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/28/2022.
 
 </details>
 
-Autogen by LittleJake at 22:16:17
+Autogen by LittleJake at 23:16:42
