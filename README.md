@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 05/28/2022.
 
 ### Hitokoto
 
-> 这东西是越嚼越有味哦~
+> 喂，前面可是地狱啊！おい、この先は地狱だぜ！
 > 
-> ——BanG Dream! 2nd Season
+> ——Fate/stay night
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/28/2022.
 
 </details>
 
-Autogen by LittleJake at 11:14:07
+Autogen by LittleJake at 12:27:25
