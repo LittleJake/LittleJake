@@ -6,9 +6,9 @@ Today is 05/28/2022.
 
 ### Hitokoto
 
-> 就算鼻血流尽，也不能放弃妄想。
+> 如果基拉被抓住了，那他就是邪恶，如果基拉统治了世界，那他就是正义。
 > 
-> ——摇曳百合
+> ——死亡笔记
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/28/2022.
 
 </details>
 
-Autogen by LittleJake at 14:15:11
+Autogen by LittleJake at 15:17:03
