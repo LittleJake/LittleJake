@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/28/2022.
 
 ### Hitokoto
 
-> 梦想是什么，梦想是现实的延续；现实是什么，现实是梦想的终结。
+> 不好意思，我喜欢的是艾米莉亚
 > 
-> ——EVA
+> ——Re：从零开始的异世界生活
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/28/2022.
 
 </details>
 
-Autogen by LittleJake at 06:20:35
+Autogen by LittleJake at 07:15:19
