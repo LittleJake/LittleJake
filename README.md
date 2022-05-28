@@ -6,9 +6,9 @@ Today is 05/28/2022.
 
 ### Hitokoto
 
-> 你是笨蛋吗？
+> 冈崎，永远都别迷失自己最珍爱的事物啊。
 > 
-> ——小桐桐（きりりん）
+> ——CLANNAD ～AFTER STORY～
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/28/2022.
 
 </details>
 
-Autogen by LittleJake at 08:21:32
+Autogen by LittleJake at 09:15:43
