@@ -6,9 +6,9 @@ Today is 05/28/2022.
 
 ### Hitokoto
 
-> 冈崎，永远都别迷失自己最珍爱的事物啊。
+> 总在不停寻觅你的踪影，无论十字路口抑或梦境之中，明知你不在，却依然不停地找寻。
 > 
-> ——CLANNAD ～AFTER STORY～
+> ——秒速五厘米
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/28/2022.
 
 </details>
 
-Autogen by LittleJake at 09:15:43
+Autogen by LittleJake at 10:17:44
