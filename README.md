@@ -6,9 +6,9 @@ Today is 05/28/2022.
 
 ### Hitokoto
 
-> 你的败因只有一个，就是与我为敌。 ­
+> 我也做个好孩子，成为这幸福光景的一部分，想成为闪耀在圣诞节的城市里，其中一张幸福的笑脸。
 > 
-> ——家庭教师
+> ——逢坂大河
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/28/2022.
 
 </details>
 
-Autogen by LittleJake at 04:21:40
+Autogen by LittleJake at 05:15:31
