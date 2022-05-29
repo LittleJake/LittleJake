@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/29/2022.
 
 ### Hitokoto
 
-> MAKE OUR DREAMS ALIVE
+> 大家热爱的事物，擅长的事物都不同，都拥有自己的世界，一个人一个世界，这些互相连接的话，就会展开许多的可能性，广大、未知，就像是宇宙一样。
 > 
-> ——ラブライブ！
+> ——恋爱小行星
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/29/2022.
 
 </details>
 
-Autogen by LittleJake at 19:13:44
+Autogen by LittleJake at 20:17:42
