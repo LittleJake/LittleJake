@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/29/2022.
 
 ### Hitokoto
 
-> 世界は恋に落ちている。
+> 干燥的空气，尘埃的味道，我在其中……踏上旅途。
 > 
-> ——青春之旅OP（我的世界已坠入爱河）
+> ——四月是你的谎言
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/29/2022.
 
 </details>
 
-Autogen by LittleJake at 03:26:15
+Autogen by LittleJake at 04:30:19
