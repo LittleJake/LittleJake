@@ -6,9 +6,9 @@ Today is 05/29/2022.
 
 ### Hitokoto
 
-> This is your dream! Anything you can do in your dreams, you can do now!
+> 让我们开始我们的约会（战争）吧
 > 
-> ——My Little Pony: Friendship is Magic
+> ——约会大作战
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/29/2022.
 
 </details>
 
-Autogen by LittleJake at 09:16:02
+Autogen by LittleJake at 10:17:41
