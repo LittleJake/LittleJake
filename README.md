@@ -6,9 +6,9 @@ Today is 05/29/2022.
 
 ### Hitokoto
 
-> 是鸣人改变了我！是鸣人的笑脸拯救了我！所以，如果是为了保护鸣人，就算死，我也无可畏惧，因为我，最喜欢鸣人了。
+> This is your dream! Anything you can do in your dreams, you can do now!
 > 
-> —— 火影忍者
+> ——My Little Pony: Friendship is Magic
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/29/2022.
 
 </details>
 
-Autogen by LittleJake at 08:20:09
+Autogen by LittleJake at 09:16:02
