@@ -6,9 +6,9 @@ Today is 05/29/2022.
 
 ### Hitokoto
 
-> 干燥的空气，尘埃的味道，我在其中……踏上旅途。
+> 魔装少女就是本少爷！
 > 
-> ——四月是你的谎言
+> ——这是僵尸吗？
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/29/2022.
 
 </details>
 
-Autogen by LittleJake at 04:30:19
+Autogen by LittleJake at 05:18:40
