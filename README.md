@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/29/2022.
 
 ### Hitokoto
 
-> 让我们开始我们的约会（战争）吧
+> 时间并不存在，存在的只有此刻。
 > 
-> ——约会大作战
+> ——魔女猎人
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/29/2022.
 
 </details>
 
-Autogen by LittleJake at 10:17:41
+Autogen by LittleJake at 11:13:37
