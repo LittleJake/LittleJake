@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 05/29/2022.
 
 ### Hitokoto
 
-> 遇事不决，量子力学。
+> 总觉得跟你在一起，不管多高的地方都可以到达。
 > 
-> ——青春期猪头少年不会梦到兔女郎学姐
+> ——网球王子
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/29/2022.
 
 </details>
 
-Autogen by LittleJake at 17:19:20
+Autogen by LittleJake at 18:19:14
