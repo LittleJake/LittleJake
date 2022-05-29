@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/29/2022.
 
 ### Hitokoto
 
-> 如果你是魔女，我只要化身魔王就可以了。
+> 最喜欢你了唷！！ 开玩笑的！！啊--！好害羞 有机会的话会再写信给你。 希望那时，能变得更加坦率捏~
 > 
-> ——反叛的鲁鲁修
+> ——久保由利香致小泉花阳
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/29/2022.
 
 </details>
 
-Autogen by LittleJake at 15:16:48
+Autogen by LittleJake at 16:22:06
