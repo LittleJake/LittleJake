@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/29/2022.
 
 ### Hitokoto
 
-> 我只对现实世界绝望过，却未对自己绝望过！
+> 是鸣人改变了我！是鸣人的笑脸拯救了我！所以，如果是为了保护鸣人，就算死，我也无可畏惧，因为我，最喜欢鸣人了。
 > 
-> ——只有神知道的世界
+> —— 火影忍者
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/29/2022.
 
 </details>
 
-Autogen by LittleJake at 07:15:18
+Autogen by LittleJake at 08:20:09
