@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 05/30/2022.
 
 ### Hitokoto
 
-> 有光的地方必有影，有影的地方也必定有光，绝望的颜色越是浓重，一定会有光芒耀眼的希望。
+> 羁绊是那不可切断的深切联系。即使分离，心与心也紧紧的连在一起。
 > 
-> ——银魂
+> ——假面骑士kabuto
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/30/2022.
 
 </details>
 
-Autogen by LittleJake at 05:24:37
+Autogen by LittleJake at 06:25:00
