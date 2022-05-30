@@ -6,9 +6,9 @@ Today is 05/30/2022.
 
 ### Hitokoto
 
-> 我想要握紧的并不是匕首或是什么，只不过是他的掌心而已。
+> 大部分人并不想长大，只是没办法继续当一个小孩子
 > 
-> ——空之境界
+> ——小林家的龙女仆
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/30/2022.
 
 </details>
 
-Autogen by LittleJake at 14:16:13
+Autogen by LittleJake at 15:19:07
