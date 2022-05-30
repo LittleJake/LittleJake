@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/30/2022.
 
 ### Hitokoto
 
-> 如果当时我们说了再见，后来是不是就可以再见
+> 人经历风浪是会变得更强，可是船不同，日积月累的只有伤痛。
 > 
-> ——昨日青空
+> ——海贼王
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/30/2022.
 
 </details>
 
-Autogen by LittleJake at 22:17:14
+Autogen by LittleJake at 23:17:30
