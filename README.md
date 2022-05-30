@@ -6,9 +6,9 @@ Today is 05/30/2022.
 
 ### Hitokoto
 
-> 王与坐骑的区别—在于本能！
+> 清算，终将到来。
 > 
-> ——死神
+> ——Stellaris
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/30/2022.
 
 </details>
 
-Autogen by LittleJake at 18:20:11
+Autogen by LittleJake at 19:13:27
