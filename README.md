@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/30/2022.
 
 ### Hitokoto
 
-> 每一个兔子都有一个大国梦
+> 乘上与平时相反的列车，为了去见从未见过的风景。
 > 
-> ——那年那兔那些事
+> ——比宇宙更远的地方
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/30/2022.
 
 </details>
 
-Autogen by LittleJake at 12:31:17
+Autogen by LittleJake at 13:39:59
