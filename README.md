@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 05/30/2022.
 
 ### Hitokoto
 
-> 遇到事情不能坐以待毙。
+> 每一个兔子都有一个大国梦
 > 
-> ——捷德奥特曼
+> ——那年那兔那些事
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/30/2022.
 
 </details>
 
-Autogen by LittleJake at 11:15:02
+Autogen by LittleJake at 12:31:17
