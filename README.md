@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/31/2022.
 
 ### Hitokoto
 
-> 越是珍惜呆在这里的时间，今后就越是悲伤吧。但是我认为不能称之为「后悔」。
+> 人的能力是有极限的。我从短暂的人生当中学到一件事……越是玩弄计谋,就越会发现人类的能力是有极限的……除非超越人类。
 > 
-> ——小林家的龙女仆
+> ——JOJO的奇妙冒险
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/31/2022.
 
 </details>
 
-Autogen by LittleJake at 04:32:02
+Autogen by LittleJake at 05:21:31
