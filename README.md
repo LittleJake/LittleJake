@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 05/31/2022.
 
 ### Hitokoto
 
-> 人的能力是有极限的。我从短暂的人生当中学到一件事……越是玩弄计谋,就越会发现人类的能力是有极限的……除非超越人类。
+> 除了爱你，我什么都可以。
 > 
-> ——JOJO的奇妙冒险
+> ——命运守护夜
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/31/2022.
 
 </details>
 
-Autogen by LittleJake at 05:21:31
+Autogen by LittleJake at 06:21:23
