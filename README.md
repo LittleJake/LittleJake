@@ -6,9 +6,9 @@ Today is 05/31/2022.
 
 ### Hitokoto
 
-> 即使天无雨，我亦留此地。
+> 越是珍惜呆在这里的时间，今后就越是悲伤吧。但是我认为不能称之为「后悔」。
 > 
-> ——言叶之庭
+> ——小林家的龙女仆
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/31/2022.
 
 </details>
 
-Autogen by LittleJake at 03:22:08
+Autogen by LittleJake at 04:32:02
