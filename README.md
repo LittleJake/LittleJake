@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 05/31/2022.
 
 ### Hitokoto
 
-> 没有偶然的必然，只有必然的偶然
+> 桐乃非常非常不愿意你有女朋友，但是你还愿意和我复合吗。开...开玩笑的，你不要回答我不然我真的会死"
 > 
-> ——魔卡少女樱
+> ——五更琉璃
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/31/2022.
 
 </details>
 
-Autogen by LittleJake at 15:21:07
+Autogen by LittleJake at 16:26:25
