@@ -6,9 +6,9 @@ Today is 05/31/2022.
 
 ### Hitokoto
 
-> 不可结缘，徒留寂寞……
+> 即使天无雨，我亦留此地。
 > 
-> ——夏目友人帐
+> ——言叶之庭
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/31/2022.
 
 </details>
 
-Autogen by LittleJake at 01:24:05
+Autogen by LittleJake at 03:22:08
