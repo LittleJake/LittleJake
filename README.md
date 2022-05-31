@@ -6,9 +6,9 @@ Today is 05/31/2022.
 
 ### Hitokoto
 
-> 我们的哀伤和年龄是没有关系的。
+> 声起立华乐独奏，曲末音无心结弦。
 > 
-> ——樱桃小丸子
+> ——Angel Beats!
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/31/2022.
 
 </details>
 
-Autogen by LittleJake at 13:41:29
+Autogen by LittleJake at 14:16:03
