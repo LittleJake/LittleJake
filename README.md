@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 05/31/2022.
 
 ### Hitokoto
 
-> 无法飞翔的翅膀也是有意义的，因为它是曾经翱翔于天空所留下的珍贵回忆。
+> 悲伤教会了我喜悦。
 > 
-> ——AIR
+> ——秋之回忆
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/31/2022.
 
 </details>
 
-Autogen by LittleJake at 11:14:30
+Autogen by LittleJake at 12:33:05
