@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 05/31/2022.
 
 ### Hitokoto
 
-> 寂寞的时候，就呼唤我的名字吧。
+> 即使匍匐在地，也要持续前进，这才是你的作风。现在的你只靠一些漂亮话当借口，在高墙前使性子，不过是个小鬼罢了。
 > 
-> ——紫罗兰永恒花园外传
+> ——银魂
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/31/2022.
 
 </details>
 
-Autogen by LittleJake at 09:17:47
+Autogen by LittleJake at 10:20:08
