@@ -6,9 +6,9 @@ Today is 05/31/2022.
 
 ### Hitokoto
 
-> 声起立华乐独奏，曲末音无心结弦。
+> 没有偶然的必然，只有必然的偶然
 > 
-> ——Angel Beats!
+> ——魔卡少女樱
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/31/2022.
 
 </details>
 
-Autogen by LittleJake at 14:16:03
+Autogen by LittleJake at 15:21:07
