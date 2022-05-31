@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 05/31/2022.
 
 ### Hitokoto
 
-> 我不借助别人的力量就没办法跟仰慕的人聊天吗？
+> 君子无争，含光无形，坐忘无心。
 > 
-> ——女高中生的虚度日常
+> ——秦时明月
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/31/2022.
 
 </details>
 
-Autogen by LittleJake at 19:13:29
+Autogen by LittleJake at 20:19:17
