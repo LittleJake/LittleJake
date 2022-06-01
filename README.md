@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 06/01/2022.
 
 ### Hitokoto
 
-> 人生没有那么多的捷径，你不知道路的尽头是什么，但你必须向前走。
+> 我今天就要带她走，我看谁敢拦我！
 > 
-> ——刀剑神域
+> ——刺客伍六七
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/01/2022.
 
 </details>
 
-Autogen by LittleJake at 05:44:29
+Autogen by LittleJake at 06:25:09
