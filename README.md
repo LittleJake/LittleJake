@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 06/01/2022.
 
 ### Hitokoto
 
-> 正因为有了音乐，才有了相遇的瞬间，有了相会的感动，有了相逢的人们，有了邂逅的思念。
+> 在时间的流逝里，没有什么是一成不变的。
 > 
-> ——四月是你的谎言
+> ——CLANNAD ～AFTER STORY～
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/01/2022.
 
 </details>
 
-Autogen by LittleJake at 11:14:56
+Autogen by LittleJake at 12:36:16
