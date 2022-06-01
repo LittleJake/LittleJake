@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 06/01/2022.
 
 ### Hitokoto
 
-> 能够原谅女人的，才是男人。
+> 告白当天就要H什么的，真是没办法的男人呢。
 > 
-> ——海贼王
+> ——高坂桐乃
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/01/2022.
 
 </details>
 
-Autogen by LittleJake at 08:24:55
+Autogen by LittleJake at 09:18:14
