@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 05/31/2022.
+Today is 06/01/2022.
 
 ### Hitokoto
 
-> 如果你不能击败你的敌人，那么就加入他们。
+> 别人的看法都是狗屁，你是谁只有你自己说了才算，这是爹教我的道理。
 > 
-> ——加菲猫
+> ——哪吒之魔童降世
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 05/31/2022.
 
 </details>
 
-Autogen by LittleJake at 23:17:26
+Autogen by LittleJake at 01:46:37
