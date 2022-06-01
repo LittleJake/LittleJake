@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/01/2022.
 
 ### Hitokoto
 
-> 何必去在意自己与别人相比是否特别呢？即便只有一个人也好。只要有一个认为自己特别的人，我觉得那就足够了。
+> 我也做个好孩子，成为这幸福光景的一部分，想成为闪耀在圣诞节的城市里，其中一张幸福的笑脸。
 > 
-> ——冰菓
+> ——逢坂大河
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/01/2022.
 
 </details>
 
-Autogen by LittleJake at 13:46:44
+Autogen by LittleJake at 14:23:02
