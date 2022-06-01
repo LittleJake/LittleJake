@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/01/2022.
 
 ### Hitokoto
 
-> 人的能力是有极限的。我从短暂的人生当中学到一件事……越是玩弄计谋,就越会发现人类的能力是有极限的……除非超越人类。
+> たとえどんな现実を突きつられようと それでもと・言い続ける 自分を见失うな。
 > 
-> ——JOJO的奇妙冒险
+> ——机动战士高达独角兽
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/01/2022.
 
 </details>
 
-Autogen by LittleJake at 21:16:03
+Autogen by LittleJake at 22:17:58
