@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/01/2022.
 
 ### Hitokoto
 
-> 我也做个好孩子，成为这幸福光景的一部分，想成为闪耀在圣诞节的城市里，其中一张幸福的笑脸。
+> 其实我对混合咖啡还是很有自信的
 > 
-> ——逢坂大河
+> ——珈百璃的堕落
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/01/2022.
 
 </details>
 
-Autogen by LittleJake at 14:23:02
+Autogen by LittleJake at 15:29:29
