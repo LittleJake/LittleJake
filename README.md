@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 06/01/2022.
 
 ### Hitokoto
 
-> 你指尖跳动的电光，是我此生不变的信仰
+> 能够原谅女人的，才是男人。
 > 
-> ——某科学的超电磁炮
+> ——海贼王
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/01/2022.
 
 </details>
 
-Autogen by LittleJake at 07:17:51
+Autogen by LittleJake at 08:24:55
