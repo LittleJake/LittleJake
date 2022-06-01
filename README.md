@@ -6,9 +6,9 @@ Today is 06/01/2022.
 
 ### Hitokoto
 
-> 告白当天就要H什么的，真是没办法的男人呢。
+> 不动身的话就永远无法追寻，哪怕是休息也不会就此停下。
 > 
-> ——高坂桐乃
+> ——Aqours
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/01/2022.
 
 </details>
 
-Autogen by LittleJake at 09:18:14
+Autogen by LittleJake at 10:22:01
