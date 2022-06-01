@@ -6,9 +6,9 @@ Today is 06/01/2022.
 
 ### Hitokoto
 
-> 有话直说就是我的忍道！
+> 人生没有那么多的捷径，你不知道路的尽头是什么，但你必须向前走。
 > 
-> ——火影忍者
+> ——刀剑神域
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/01/2022.
 
 </details>
 
-Autogen by LittleJake at 04:02:12
+Autogen by LittleJake at 05:44:29
