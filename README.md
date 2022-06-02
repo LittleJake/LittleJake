@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/02/2022.
 
 ### Hitokoto
 
-> 假如我们相遇，肯定一眼就能认出彼此
+> 即使我弱了，也并不代表你强了
 > 
-> ——你的名字
+> ——魔法禁书目录 第二季
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/02/2022.
 
 </details>
 
-Autogen by LittleJake at 18:20:25
+Autogen by LittleJake at 19:13:20
