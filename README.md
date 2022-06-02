@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 06/02/2022.
 
 ### Hitokoto
 
-> We've learned that friendship isn't always easy, but there's no doubt it's worth fighting for!
+> 舞台上演员不能无视剧本随便演，华丽地退场才是完成使命。
 > 
-> ——My Little Pony: Friendship is Magic
+> ——绝园的暴风雨
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/02/2022.
 
 </details>
 
-Autogen by LittleJake at 09:17:02
+Autogen by LittleJake at 10:19:40
