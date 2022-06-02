@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/02/2022.
 
 ### Hitokoto
 
-> 如果你执意追寻着我的幻影，总有一天会被真正的我打败。
+> 不过傲慢分为两种。一种是能力过于低下，还有一种是志向异常远大的。前者显得非常愚蠢，后者是难得一见的珍贵种类。
 > 
-> ——棋魂
+> ——fate/zero
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/02/2022.
 
 </details>
 
-Autogen by LittleJake at 15:18:16
+Autogen by LittleJake at 16:25:46
