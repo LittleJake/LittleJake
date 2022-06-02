@@ -6,9 +6,9 @@ Today is 06/02/2022.
 
 ### Hitokoto
 
-> 舞台上演员不能无视剧本随便演，华丽地退场才是完成使命。
+> 我绝对会成为火影。我从来都是有话直说，这就是我的忍道！
 > 
-> ——绝园的暴风雨
+> ——漩涡鸣人
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/02/2022.
 
 </details>
 
-Autogen by LittleJake at 10:19:40
+Autogen by LittleJake at 11:15:16
