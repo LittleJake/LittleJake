@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/02/2022.
 
 ### Hitokoto
 
-> 明明只是活着，哀伤却无处不在…
+> 为了你,如果是为了你,即使我被困在永远的迷宫中,也没关系.
 > 
-> ——秒速五厘米
+> ——魔法少女小圆
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/02/2022.
 
 </details>
 
-Autogen by LittleJake at 12:36:08
+Autogen by LittleJake at 13:43:50
