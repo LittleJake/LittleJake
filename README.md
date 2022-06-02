@@ -6,9 +6,9 @@ Today is 06/02/2022.
 
 ### Hitokoto
 
-> 让我成为你的双眼，把那世界万千，描绘在你面前。
+> 如果你执意追寻着我的幻影，总有一天会被真正的我打败。
 > 
-> ——狐妖小红娘
+> ——棋魂
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/02/2022.
 
 </details>
 
-Autogen by LittleJake at 14:18:56
+Autogen by LittleJake at 15:18:16
