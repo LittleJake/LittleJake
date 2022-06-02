@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 06/01/2022.
+Today is 06/02/2022.
 
 ### Hitokoto
 
-> 我可从来不认为恐惧可以成为舍弃他人的借口，人不能因为恐惧，就连身为人类的品性都丢掉。
+> 我的愿望是—幸福地活着，幸福地死去。
 > 
-> ——铁甲城的卡巴内瑞
+> ——神不在的星期天
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/01/2022.
 
 </details>
 
-Autogen by LittleJake at 23:17:11
+Autogen by LittleJake at 01:25:59
