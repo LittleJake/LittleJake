@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/02/2022.
 
 ### Hitokoto
 
-> 即使我弱了，也并不代表你强了
+> 如果还有来生 ，我无论如何都要来到你身边，我已经没有了其他想要追求的东西，因为没有比你更重要的了。
 > 
-> ——魔法禁书目录 第二季
+> ——秒速五厘米
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/02/2022.
 
 </details>
 
-Autogen by LittleJake at 19:13:20
+Autogen by LittleJake at 20:17:15
