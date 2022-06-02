@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 06/02/2022.
 
 ### Hitokoto
 
-> 我绝对会成为火影。我从来都是有话直说，这就是我的忍道！
+> 明明只是活着，哀伤却无处不在…
 > 
-> ——漩涡鸣人
+> ——秒速五厘米
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/02/2022.
 
 </details>
 
-Autogen by LittleJake at 11:15:16
+Autogen by LittleJake at 12:36:08
