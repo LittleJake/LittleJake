@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/03/2022.
 
 ### Hitokoto
 
-> 因为喜欢你，所以想继续相信下去。
+> 勇气，就是即便害怕也会去做。
 > 
-> ——空之境界
+> ——原创
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/03/2022.
 
 </details>
 
-Autogen by LittleJake at 19:12:20
+Autogen by LittleJake at 20:16:32
