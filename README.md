@@ -6,9 +6,9 @@ Today is 06/03/2022.
 
 ### Hitokoto
 
-> 即使你已经习惯了受伤害，也有人看了会心疼的。
+> 连我爸都没打过我
 > 
-> ——我的恋爱物语果然有问题
+> ——高达0079
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/03/2022.
 
 </details>
 
-Autogen by LittleJake at 12:28:53
+Autogen by LittleJake at 13:29:43
