@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/03/2022.
 
 ### Hitokoto
 
-> 淅淅沥沥的雨，即便能填满路上的水坑，也填不满心中的空洞。
+> 今天我就要带她走，我看谁敢拦我
 > 
-> ——神圣之门
+> ——刺客伍六七
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/03/2022.
 
 </details>
 
-Autogen by LittleJake at 21:13:07
+Autogen by LittleJake at 22:14:54
