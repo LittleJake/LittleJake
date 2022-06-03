@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 06/03/2022.
 
 ### Hitokoto
 
-> 不习惯的事越来越多，但我仍在前进……就算步伐很小，我也在一步一步的前进。
+> 应该可以了吧，我已经很努力了，应该可以抵达终点了……
 > 
-> ——夏目友人帐
+> ——AIR
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/03/2022.
 
 </details>
 
-Autogen by LittleJake at 09:16:24
+Autogen by LittleJake at 10:19:16
