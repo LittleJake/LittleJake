@@ -2,13 +2,13 @@
 
 Good evening work time!
 
-Today is 06/02/2022.
+Today is 06/03/2022.
 
 ### Hitokoto
 
-> 旅行唯有出发前最愉快，狗儿唯有叫声最吓人，女人唯有背影最美丽。
+> 可是就算我们通一千次短信，我们各自的心，大概也只会相互靠近一厘米吧。
 > 
-> ——狼与香辛料
+> ——秒速5厘米
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/02/2022.
 
 </details>
 
-Autogen by LittleJake at 23:16:06
+Autogen by LittleJake at 01:12:13
