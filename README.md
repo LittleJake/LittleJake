@@ -6,9 +6,9 @@ Today is 06/03/2022.
 
 ### Hitokoto
 
-> 有的鱼是永远关不住的，因为他们属于天空。
+> 我们一直在离别中，比如和爱的人，和伤害，甚至和时光。
 > 
-> ——大鱼海棠
+> ——萤火虫之墓
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/03/2022.
 
 </details>
 
-Autogen by LittleJake at 04:19:53
+Autogen by LittleJake at 05:14:56
