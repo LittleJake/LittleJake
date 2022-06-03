@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 06/03/2022.
 
 ### Hitokoto
 
-> 我们一直在离别中，比如和爱的人，和伤害，甚至和时光。
+> 大部分人并不想长大 只是没办法继续当一个小孩子。
 > 
-> ——萤火虫之墓
+> ——小林家的龙女仆
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/03/2022.
 
 </details>
 
-Autogen by LittleJake at 05:14:56
+Autogen by LittleJake at 06:19:37
