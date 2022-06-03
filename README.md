@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 06/03/2022.
 
 ### Hitokoto
 
-> 由变态化身成为变态，也就是真·变态，也就是说，完全变态呢。
+> 隐约雷鸣，阴霾天空，即使天无雨，我亦留此地。
 > 
-> ——一拳超人
+> ——言叶之庭
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/03/2022.
 
 </details>
 
-Autogen by LittleJake at 17:16:56
+Autogen by LittleJake at 18:19:02
