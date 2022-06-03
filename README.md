@@ -6,9 +6,9 @@ Today is 06/03/2022.
 
 ### Hitokoto
 
-> 应该可以了吧，我已经很努力了，应该可以抵达终点了……
+> 这个世界啊，很美丽的，很广大的，很辽阔的！
 > 
-> ——AIR
+> ——Darling in the FRANXX
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/03/2022.
 
 </details>
 
-Autogen by LittleJake at 10:19:16
+Autogen by LittleJake at 11:13:15
