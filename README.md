@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/03/2022.
 
 ### Hitokoto
 
-> 爸爸，妈妈，对不起，我，要去了！
+> 就算鼻血流尽，也不能放弃妄想。
 > 
-> ——机动战士高达独角兽
+> ——摇曳百合
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/03/2022.
 
 </details>
 
-Autogen by LittleJake at 15:16:05
+Autogen by LittleJake at 16:24:54
