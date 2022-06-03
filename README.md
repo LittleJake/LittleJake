@@ -6,9 +6,9 @@ Today is 06/03/2022.
 
 ### Hitokoto
 
-> 连我爸都没打过我
+> 一天最大任务莫过于，好好睡觉，好好醒来。
 > 
-> ——高达0079
+> ——火影忍者
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/03/2022.
 
 </details>
 
-Autogen by LittleJake at 13:29:43
+Autogen by LittleJake at 14:13:39
