@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 06/03/2022.
 
 ### Hitokoto
 
-> 这个世界啊，很美丽的，很广大的，很辽阔的！
+> 即使你已经习惯了受伤害，也有人看了会心疼的。
 > 
-> ——Darling in the FRANXX
+> ——我的恋爱物语果然有问题
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/03/2022.
 
 </details>
 
-Autogen by LittleJake at 11:13:15
+Autogen by LittleJake at 12:28:53
