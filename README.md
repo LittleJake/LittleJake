@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 06/03/2022.
 
 ### Hitokoto
 
-> 大部分人并不想长大 只是没办法继续当一个小孩子。
+> 人间不温柔
 > 
-> ——小林家的龙女仆
+> ——李诞
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/03/2022.
 
 </details>
 
-Autogen by LittleJake at 06:19:37
+Autogen by LittleJake at 07:14:52
