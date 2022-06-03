@@ -6,9 +6,9 @@ Today is 06/03/2022.
 
 ### Hitokoto
 
-> 勇气，就是即便害怕也会去做。
+> 淅淅沥沥的雨，即便能填满路上的水坑，也填不满心中的空洞。
 > 
-> ——原创
+> ——神圣之门
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/03/2022.
 
 </details>
 
-Autogen by LittleJake at 20:16:32
+Autogen by LittleJake at 21:13:07
