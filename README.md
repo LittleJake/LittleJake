@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/04/2022.
 
 ### Hitokoto
 
-> 正义不是行使武力的理由，而是正相反——为了将动武的理由正当化，人们才会高喊正义。
+> 当真心想要做成一件事的时候，人总是孤独的，必须孤身一人，相互依赖上就完了。
 > 
-> ——末日时在做什么？有没有空？可以来拯救吗？
+> ——魔女之旅
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/04/2022.
 
 </details>
 
-Autogen by LittleJake at 20:15:12
+Autogen by LittleJake at 21:14:46
