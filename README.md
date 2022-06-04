@@ -6,9 +6,9 @@ Today is 06/04/2022.
 
 ### Hitokoto
 
-> 老是低着头，幸福可是会离你而去的喔。
+> 正义不是行使武力的理由，而是正相反——为了将动武的理由正当化，人们才会高喊正义。
 > 
-> ——我们的仙境
+> ——末日时在做什么？有没有空？可以来拯救吗？
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/04/2022.
 
 </details>
 
-Autogen by LittleJake at 19:11:42
+Autogen by LittleJake at 20:15:12
