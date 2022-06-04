@@ -6,9 +6,9 @@ Today is 06/04/2022.
 
 ### Hitokoto
 
-> 一个人觉得寂寞，和另一个人相互依偎又有什么错
+> ご無事で何よりです。
 > 
-> ——人渣的本愿
+> ——妖狐X僕ss
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/04/2022.
 
 </details>
 
-Autogen by LittleJake at 10:15:47
+Autogen by LittleJake at 11:13:44
