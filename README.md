@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/04/2022.
 
 ### Hitokoto
 
-> 历史虽然会一再重演，但人类却无法回到过去。
+> 最后我还想再拜托你一件事，希望你可以把我忘掉。
 > 
-> ——海贼王
+> ——末日时在做什么？有没有空？可以来拯救吗？
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/04/2022.
 
 </details>
 
-Autogen by LittleJake at 12:24:42
+Autogen by LittleJake at 13:20:35
