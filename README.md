@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 06/04/2022.
 
 ### Hitokoto
 
-> 前天是小兔子，昨天是小鹿，今天是你。
+> 所谓的言语，只有当对方听进去了才开始有意义啊。
 > 
-> ——Clannad
+> ——少年同盟
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/04/2022.
 
 </details>
 
-Autogen by LittleJake at 08:18:09
+Autogen by LittleJake at 09:14:46
