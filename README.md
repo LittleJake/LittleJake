@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 06/04/2022.
 
 ### Hitokoto
 
-> 无论乌云有多浓厚，星星也一定还在，只是暂时看不到了而已。
+> 我拼命地挣扎，我对活下去的执著，都是因为你，是你让我，对和你一起度过的那段时光无比留恋。
 > 
-> ——电波女与青春男
+> ——四月是你的谎言
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/04/2022.
 
 </details>
 
-Autogen by LittleJake at 05:13:36
+Autogen by LittleJake at 06:17:53
