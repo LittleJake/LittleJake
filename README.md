@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 06/04/2022.
 
 ### Hitokoto
 
-> 所谓的言语，只有当对方听进去了才开始有意义啊。
+> 一个人觉得寂寞，和另一个人相互依偎又有什么错
 > 
-> ——少年同盟
+> ——人渣的本愿
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/04/2022.
 
 </details>
 
-Autogen by LittleJake at 09:14:46
+Autogen by LittleJake at 10:15:47
