@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/04/2022.
 
 ### Hitokoto
 
-> 因为拒绝了世间所有的美好，才会比任何人都要温柔。
+> 无法入眠的凌晨两点，烦躁就像在敲门。
 > 
-> ——空は高く風は歌う - 「Fate/Zero」ED2
+> ——RUNNING TO HORIZON
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/04/2022.
 
 </details>
 
-Autogen by LittleJake at 14:12:59
+Autogen by LittleJake at 15:14:42
