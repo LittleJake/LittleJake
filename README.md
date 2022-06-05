@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/05/2022.
 
 ### Hitokoto
 
-> 你指尖跃动的电光，是我此生不变的信仰，唯我超电磁炮永世长存。
+> 所谓“大家”，就是无视并牺牲了一部分弱势群体后所达到的虚伪的和平与共识。
 > 
-> ——某科学的超电磁炮
+> ——果然我的青春恋爱喜剧搞错了
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/05/2022.
 
 </details>
 
-Autogen by LittleJake at 19:13:32
+Autogen by LittleJake at 20:15:11
