@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/05/2022.
 
 ### Hitokoto
 
-> 呐，知道么，樱花飘落的速度，是每秒五厘米哦~
+> 我从来都不是什么天才，只是一个普通人，是一个连一个小女孩都保护不了的普通的、渺小的人类啊。
 > 
-> ——秒速五厘米
+> ——钢之炼金术师
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/05/2022.
 
 </details>
 
-Autogen by LittleJake at 16:20:10
+Autogen by LittleJake at 17:13:19
