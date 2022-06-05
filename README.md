@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/05/2022.
 
 ### Hitokoto
 
-> “不管你我相距多远，我都想告诉你 我对你的心意不会变，给即将去到陌生城市的你 ，我永远喜欢你”
+> 给，一辈子朋友劵。
 > 
-> ——月色真美
+> ——日常
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/05/2022.
 
 </details>
 
-Autogen by LittleJake at 22:13:55
+Autogen by LittleJake at 23:14:32
