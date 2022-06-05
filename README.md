@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 06/04/2022.
+Today is 06/05/2022.
 
 ### Hitokoto
 
-> 但我拒绝！我岸边露伴最喜欢的事情之一，就是向那些自以为是的家伙说，NO！
+> 世间本就没有真实的对与错，也没有绝对的善与恶。地狱天堂，一念之间。
 > 
-> ——JOJO的奇妙冒险
+> ——地狱少女
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/04/2022.
 
 </details>
 
-Autogen by LittleJake at 23:15:18
+Autogen by LittleJake at 01:26:09
