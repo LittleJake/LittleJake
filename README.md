@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/05/2022.
 
 ### Hitokoto
 
-> 有话直说就是我的忍道！
+> 呐，知道么，樱花飘落的速度，是每秒五厘米哦~
 > 
-> ——火影忍者
+> ——秒速五厘米
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/05/2022.
 
 </details>
 
-Autogen by LittleJake at 15:14:43
+Autogen by LittleJake at 16:20:10
