@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 06/05/2022.
 
 ### Hitokoto
 
-> 我，将某个人，唯一的某个人，试图锁定。我，
+> 我绝对会成为火影。我从来都是有话直说，这就是我的忍道！
 > 
-> ——你的名字
+> ——漩涡鸣人
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/05/2022.
 
 </details>
 
-Autogen by LittleJake at 07:14:25
+Autogen by LittleJake at 08:18:47
