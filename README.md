@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 06/06/2022.
 
 ### Hitokoto
 
-> 自己不经意的一句话，触动了别人的心。
+> 你们腌太监也不会动人脑子啊！
 > 
-> ——恋如雨止
+> ——铁心搏奕
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/06/2022.
 
 </details>
 
-Autogen by LittleJake at 17:18:17
+Autogen by LittleJake at 18:18:30
