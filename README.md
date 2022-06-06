@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/06/2022.
 
 ### Hitokoto
 
-> 想说什么就说，想做什么就做，我们不就是这么一直过来的吗？
+> 在未知的未来将要发生的事，一定有它的意义
 > 
-> ——LoveLive!
+> ——火影忍者
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/06/2022.
 
 </details>
 
-Autogen by LittleJake at 15:17:23
+Autogen by LittleJake at 16:22:53
