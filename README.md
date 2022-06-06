@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/06/2022.
 
 ### Hitokoto
 
-> 端木熙，别忘了，你是我的祭司，谁也别来跟我争，他神龙章轩不可以，神也不行。
+> 没有一封信是不必被送达的。
 > 
-> ——灵契
+> ——紫罗兰永恒花园
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/06/2022.
 
 </details>
 
-Autogen by LittleJake at 21:13:16
+Autogen by LittleJake at 22:15:44
