@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 06/06/2022.
 
 ### Hitokoto
 
-> 散落至四方。又或是升起至四方。在无法确认这一事实的浮游感中，彗星耀辉在夜空。彗星裂开，碎片落下。
+> 死亡不是终点，被遗忘才是。
 > 
-> ——你的名字
+> ——寻梦环游记
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/06/2022.
 
 </details>
 
-Autogen by LittleJake at 07:14:23
+Autogen by LittleJake at 08:18:30
