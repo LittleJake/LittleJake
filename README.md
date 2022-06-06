@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/06/2022.
 
 ### Hitokoto
 
-> 每个人每一天的价值都是完全相等的，无论做什么，都不会改变我今天活着的价值。
+> 樱花满地集于我心，楪舞纷飞祈愿相随
 > 
-> ——我想吃掉你的胰脏
+> ——罪恶王冠
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/06/2022.
 
 </details>
 
-Autogen by LittleJake at 04:29:57
+Autogen by LittleJake at 05:16:23
