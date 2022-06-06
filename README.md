@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/06/2022.
 
 ### Hitokoto
 
-> 即使天无雨，我亦留此地。
+> 据说之所以有人出现在梦中，是因为对方想见你的心情穿过身体，飞进了你的梦中。
 > 
-> ——言叶之庭
+> ——蜂蜜与四叶草
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/06/2022.
 
 </details>
 
-Autogen by LittleJake at 01:22:28
+Autogen by LittleJake at 03:18:37
