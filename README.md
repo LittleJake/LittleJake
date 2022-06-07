@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 06/06/2022.
+Today is 06/07/2022.
 
 ### Hitokoto
 
-> 不管是快乐，还是欣喜，全都……全都不可能永远延续，即使是这样，你也会喜欢这里吗？
+> 从这里（太空）根本看不到什么国境线，只有地球。
 > 
-> ——CLANNAD
+> ——星空清理者
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/06/2022.
 
 </details>
 
-Autogen by LittleJake at 23:15:27
+Autogen by LittleJake at 01:17:07
