@@ -6,9 +6,9 @@ Today is 06/07/2022.
 
 ### Hitokoto
 
-> 去死两次！
+> 好梦向来易醒。
 > 
-> ——迷途猫
+> ——风之谷
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/07/2022.
 
 </details>
 
-Autogen by LittleJake at 16:24:26
+Autogen by LittleJake at 17:20:52
