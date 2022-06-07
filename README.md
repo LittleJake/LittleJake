@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/07/2022.
 
 ### Hitokoto
 
-> 我不渴望什么在别的城市迎来的春天，只要和你在一起的春天就好，只要和你在一起就好
+> 人生没有彩排，只有现场直播，所以做最好的自己。
 > 
-> ——CLANNAD
+> ——Internet
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/07/2022.
 
 </details>
 
-Autogen by LittleJake at 20:17:24
+Autogen by LittleJake at 21:13:57
