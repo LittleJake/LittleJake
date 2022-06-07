@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 06/07/2022.
 
 ### Hitokoto
 
-> 一举一动，都是承诺，会被另一个人看在眼里，记在心上的。
+> 恩，好像做了很多梦呢，快乐的，悲伤的，每个都很短，但是全都很珍贵。
 > 
-> ——悬崖上的金鱼姬
+> ——末日时在做什么？有没有空？可以来拯救吗？
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/07/2022.
 
 </details>
 
-Autogen by LittleJake at 05:13:42
+Autogen by LittleJake at 06:23:35
