@@ -6,9 +6,9 @@ Today is 06/07/2022.
 
 ### Hitokoto
 
-> 恩，好像做了很多梦呢，快乐的，悲伤的，每个都很短，但是全都很珍贵。
+> 自己不经意的一句话，触动了别人的心。
 > 
-> ——末日时在做什么？有没有空？可以来拯救吗？
+> ——恋如雨止
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/07/2022.
 
 </details>
 
-Autogen by LittleJake at 06:23:35
+Autogen by LittleJake at 07:20:25
