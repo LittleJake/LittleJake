@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 06/07/2022.
 
 ### Hitokoto
 
-> 美好的人眼里映出的世界也是美好的。
+> 最后，士郎……你要去打的話……必须給我贏！你要是死了话……我饶不了你……
 > 
-> ——ARIA
+> ——遠坂凜
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/07/2022.
 
 </details>
 
-Autogen by LittleJake at 11:13:55
+Autogen by LittleJake at 12:32:44
