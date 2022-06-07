@@ -6,9 +6,9 @@ Today is 06/07/2022.
 
 ### Hitokoto
 
-> 追逐梦想的人比抓住梦想的人更能发挥实力。
+> 我不渴望什么在别的城市迎来的春天，只要和你在一起的春天就好，只要和你在一起就好
 > 
-> ——银魂
+> ——CLANNAD
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/07/2022.
 
 </details>
 
-Autogen by LittleJake at 19:13:32
+Autogen by LittleJake at 20:17:24
