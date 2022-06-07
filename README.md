@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/07/2022.
 
 ### Hitokoto
 
-> 从这里（太空）根本看不到什么国境线，只有地球。
+> 你驻足于春色中，于那独一无二的春色之中。
 > 
-> ——星空清理者
+> ——四月是你的谎言
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/07/2022.
 
 </details>
 
-Autogen by LittleJake at 01:17:07
+Autogen by LittleJake at 03:17:11
