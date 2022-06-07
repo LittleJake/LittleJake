@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 06/07/2022.
 
 ### Hitokoto
 
-> 自己不经意的一句话，触动了别人的心。
+> 如果我不会飞，那我就只是一只普通的猪。
 > 
-> ——恋如雨止
+> ——红猪
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/07/2022.
 
 </details>
 
-Autogen by LittleJake at 07:20:25
+Autogen by LittleJake at 08:20:49
