@@ -6,9 +6,9 @@ Today is 06/07/2022.
 
 ### Hitokoto
 
-> 我想你们的努力一定会有回报的
+> 我只是想要得到「我没有逃避」的记忆吧。
 > 
-> ——龙与虎
+> ——三月的狮子
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/07/2022.
 
 </details>
 
-Autogen by LittleJake at 14:16:41
+Autogen by LittleJake at 15:16:36
