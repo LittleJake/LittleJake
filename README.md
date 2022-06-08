@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/08/2022.
 
 ### Hitokoto
 
-> 我知道的，面码…自己已经死掉这点事，还是知道的…
+> 在下雪时。第一次相会时。雪白的夜与漆黑的伞。只要有你在身边。只要你露出微笑。就是幸福。
 > 
-> ——我们仍未知道那天所看见的花的名字
+> ——空之境界
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/08/2022.
 
 </details>
 
-Autogen by LittleJake at 03:21:35
+Autogen by LittleJake at 04:29:13
