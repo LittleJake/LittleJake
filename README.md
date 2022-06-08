@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/08/2022.
 
 ### Hitokoto
 
-> 哪怕是打断你的手脚，也要把你带回去。
+> 不管看到什么样的过去，都请不要迷失自己，不管你变成什么样子，我都是你的同伴。
 > 
-> ——火影忍者
+> ——angel beats
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/08/2022.
 
 </details>
 
-Autogen by LittleJake at 22:14:56
+Autogen by LittleJake at 23:15:57
