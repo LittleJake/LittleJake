@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 06/08/2022.
 
 ### Hitokoto
 
-> 理解何为孤单，努力想得到爱的你，内心的悲伤是否稍微宣泄了呢？
+> 润滑油是用来防止磨损的东西。在心中有着润滑油也会活得更加轻松吧。
 > 
-> ——夏目友人帐
+> ——果然我的青春恋爱喜剧搞错了
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/08/2022.
 
 </details>
 
-Autogen by LittleJake at 06:19:31
+Autogen by LittleJake at 07:15:55
