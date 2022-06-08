@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 06/08/2022.
 
 ### Hitokoto
 
-> 话说回来，现充还真是麻烦啊。
+> 如果你不能击败你的敌人，那么就加入他们。
 > 
-> ——我的青春恋爱物语果然有问题
+> ——加菲猫
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/08/2022.
 
 </details>
 
-Autogen by LittleJake at 17:17:25
+Autogen by LittleJake at 18:19:11
