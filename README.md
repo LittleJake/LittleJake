@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 06/08/2022.
 
 ### Hitokoto
 
-> 夜晚还远远没有结束!
+> 理解何为孤单，努力想得到爱的你，内心的悲伤是否稍微宣泄了呢？
 > 
-> ——春宵苦短，少女前进吧！
+> ——夏目友人帐
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/08/2022.
 
 </details>
 
-Autogen by LittleJake at 05:14:51
+Autogen by LittleJake at 06:19:31
