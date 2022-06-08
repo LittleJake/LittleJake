@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/08/2022.
 
 ### Hitokoto
 
-> 红茶的温度和女人心在任何时代都是难以琢磨呢。
+> 人不能一个人活下去，不需要任何人的孤独和需要人但得不到的孤独是不一样的。
 > 
-> ——海猫鸣泣之时
+> ——邻座的怪同学
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/08/2022.
 
 </details>
 
-Autogen by LittleJake at 19:12:42
+Autogen by LittleJake at 20:21:22
