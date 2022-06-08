@@ -6,9 +6,9 @@ Today is 06/08/2022.
 
 ### Hitokoto
 
-> 今天我就要带她走，我看谁敢拦我
+> 我拼命地挣扎，我对活下去的执著，都是因为你，是你让我，对和你一起度过的那段时光无比留恋。
 > 
-> ——刺客伍六七
+> ——四月是你的谎言
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/08/2022.
 
 </details>
 
-Autogen by LittleJake at 08:23:13
+Autogen by LittleJake at 09:15:27
