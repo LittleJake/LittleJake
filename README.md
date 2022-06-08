@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/08/2022.
 
 ### Hitokoto
 
-> 真正让我难受的，大概是因为让你看到如此狼狈的自己。
+> 哪怕是打断你的手脚，也要把你带回去。
 > 
-> ——元气少女缘结神
+> ——火影忍者
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/08/2022.
 
 </details>
 
-Autogen by LittleJake at 21:13:37
+Autogen by LittleJake at 22:14:56
