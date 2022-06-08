@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 06/07/2022.
+Today is 06/08/2022.
 
 ### Hitokoto
 
-> 不知彼此来世相逢。是否还能记得我是谁？
+> 你以为你接受的是谁的爱，是一个天神的爱！他背叛所有神灵去爱你，为你忍受一切痛苦。
 > 
-> ——狐妖小红娘
+> ——大鱼海棠
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/07/2022.
 
 </details>
 
-Autogen by LittleJake at 23:15:05
+Autogen by LittleJake at 01:19:23
