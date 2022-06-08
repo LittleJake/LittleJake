@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/08/2022.
 
 ### Hitokoto
 
-> 你以为你接受的是谁的爱，是一个天神的爱！他背叛所有神灵去爱你，为你忍受一切痛苦。
+> 我知道的，面码…自己已经死掉这点事，还是知道的…
 > 
-> ——大鱼海棠
+> ——我们仍未知道那天所看见的花的名字
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/08/2022.
 
 </details>
 
-Autogen by LittleJake at 01:19:23
+Autogen by LittleJake at 03:21:35
