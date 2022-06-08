@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 06/08/2022.
 
 ### Hitokoto
 
-> 人这种东西，除了为了永不满足的欲望追求新的刺激之外，也是重视稀少价值之物的奇怪生物。
+> 人类，在决战之时难道会选择自己不擅长的武器来战斗吗？
 > 
-> ——gosick
+> ——只有神知道的世界
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/08/2022.
 
 </details>
 
-Autogen by LittleJake at 11:12:45
+Autogen by LittleJake at 12:33:29
