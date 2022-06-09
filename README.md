@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/09/2022.
 
 ### Hitokoto
 
-> 超频链接
+> 人们只是用好人来称呼对自己有用的人而以，不存在对所有人都有用的人。
 > 
-> ——加速世界
+> ——进击的巨人
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/09/2022.
 
 </details>
 
-Autogen by LittleJake at 12:33:15
+Autogen by LittleJake at 13:35:09
