@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 06/09/2022.
 
 ### Hitokoto
 
-> 我们不应该根据背负的罪孽来选择道路，而应在选择的道路上背负自己的罪孽。
+> 超频链接
 > 
-> ——空之境界
+> ——加速世界
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/09/2022.
 
 </details>
 
-Autogen by LittleJake at 11:13:05
+Autogen by LittleJake at 12:33:15
