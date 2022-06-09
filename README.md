@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/09/2022.
 
 ### Hitokoto
 
-> 给，一辈子朋友劵。
+> 没有一封信不必要被送达，因为没有一份思念不需要被送达。
 > 
-> ——日常
+> ——紫罗兰的永恒花园
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/09/2022.
 
 </details>
 
-Autogen by LittleJake at 18:19:01
+Autogen by LittleJake at 19:13:02
