@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 06/08/2022.
+Today is 06/09/2022.
 
 ### Hitokoto
 
-> 不管看到什么样的过去，都请不要迷失自己，不管你变成什么样子，我都是你的同伴。
+> 这个世界对温柔的你可一点也不温柔呀。
 > 
-> ——angel beats
+> ——军火女王
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/08/2022.
 
 </details>
 
-Autogen by LittleJake at 23:15:57
+Autogen by LittleJake at 01:26:49
