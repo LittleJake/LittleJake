@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/09/2022.
 
 ### Hitokoto
 
-> 孤高的游荡灵魂不需要羁绊之地
+> We've learned that friendship isn't always easy, but there's no doubt it's worth fighting for!
 > 
-> ——春物
+> ——My Little Pony: Friendship is Magic
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/09/2022.
 
 </details>
 
-Autogen by LittleJake at 04:27:38
+Autogen by LittleJake at 05:14:45
