@@ -6,9 +6,9 @@ Today is 06/09/2022.
 
 ### Hitokoto
 
-> 长大了，才能体会什么是责任！
+> 没有一个世界会比活在这个世界痛苦
 > 
-> ——家庭
+> ——黑岩射手
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/09/2022.
 
 </details>
 
-Autogen by LittleJake at 20:17:16
+Autogen by LittleJake at 21:12:25
