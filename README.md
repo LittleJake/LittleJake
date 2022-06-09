@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/09/2022.
 
 ### Hitokoto
 
-> 没有一个世界会比活在这个世界痛苦
+> 如果结果不如你所愿，就在尘埃落定前奋力一搏。
 > 
-> ——黑岩射手
+> ——夏目友人帐
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/09/2022.
 
 </details>
 
-Autogen by LittleJake at 21:12:25
+Autogen by LittleJake at 22:16:50
