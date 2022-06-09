@@ -6,9 +6,9 @@ Today is 06/09/2022.
 
 ### Hitokoto
 
-> 一直保持微笑是有诀窍的，那就是，在想哭的时候放声大哭。
+> 有时语言就像把利刃，使用不当，就会成为凶器。
 > 
-> ——天使领域
+> ——名侦探柯南
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/09/2022.
 
 </details>
 
-Autogen by LittleJake at 06:19:56
+Autogen by LittleJake at 07:15:20
