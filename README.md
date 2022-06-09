@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/09/2022.
 
 ### Hitokoto
 
-> 这个世界对温柔的你可一点也不温柔呀。
+> 你的那双手呢，是为了紧紧抓住什么而存在的哦。
 > 
-> ——军火女王
+> ——仰望半月的夜空
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/09/2022.
 
 </details>
 
-Autogen by LittleJake at 01:26:49
+Autogen by LittleJake at 03:23:24
