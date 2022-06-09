@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 06/09/2022.
 
 ### Hitokoto
 
-> We've learned that friendship isn't always easy, but there's no doubt it's worth fighting for!
+> 一直保持微笑是有诀窍的，那就是，在想哭的时候放声大哭。
 > 
-> ——My Little Pony: Friendship is Magic
+> ——天使领域
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/09/2022.
 
 </details>
 
-Autogen by LittleJake at 05:14:45
+Autogen by LittleJake at 06:19:56
