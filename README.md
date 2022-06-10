@@ -6,9 +6,9 @@ Today is 06/10/2022.
 
 ### Hitokoto
 
-> 从现在开始，我将追寻你的名字。
+> 得到更多人的认可，带著大家的爱意加油哦！
 > 
-> ——你的名字
+> ——内田彩致南小鸟
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/10/2022.
 
 </details>
 
-Autogen by LittleJake at 19:12:53
+Autogen by LittleJake at 20:15:36
