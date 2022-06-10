@@ -6,9 +6,9 @@ Today is 06/10/2022.
 
 ### Hitokoto
 
-> 大家都是伪善者，世间充斥着不真实。
+> 总有一天，我要撕碎这片虚伪的星空。
 > 
-> ——无头骑士异闻录
+> ——黑之契约者
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/10/2022.
 
 </details>
 
-Autogen by LittleJake at 01:24:50
+Autogen by LittleJake at 03:19:34
