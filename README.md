@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/10/2022.
 
 ### Hitokoto
 
-> 世间万物，如果一直放着不管的话，便一定会向不好的方向发展。就像即使如何的努力也无法阻止宇宙变冷一样。只是按照‘常理进行’不断积累而构筑出的世界，无论如何也无法脱离物理法则的束缚。
+> 何必去在意自己与别人相比是否特别呢？即便只有一个人也好。只要有一个认为自己特别的人，我觉得那就足够了。
 > 
-> ——虚渊玄
+> ——冰菓
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/10/2022.
 
 </details>
 
-Autogen by LittleJake at 21:13:31
+Autogen by LittleJake at 22:14:43
