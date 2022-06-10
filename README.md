@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/10/2022.
 
 ### Hitokoto
 
-> 哭过喊过便会停止哭泣
+> 就一会儿，再在这里待一会儿好吗？我要把你深深地印在脑海里，为了只要闭上眼，就能随时见到花丛中的你。
 > 
-> ——从零开始的异世界生活
+> ——元气少女缘结神◎ 10集 21:55
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/10/2022.
 
 </details>
 
-Autogen by LittleJake at 14:14:43
+Autogen by LittleJake at 15:18:15
