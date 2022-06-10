@@ -6,9 +6,9 @@ Today is 06/10/2022.
 
 ### Hitokoto
 
-> 我们总是在注意错过太多，却不注意自己拥有多少。
+> 哭过喊过便会停止哭泣
 > 
-> ——我们仍未知道那天所看见的花的名字
+> ——从零开始的异世界生活
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/10/2022.
 
 </details>
 
-Autogen by LittleJake at 13:33:18
+Autogen by LittleJake at 14:14:43
