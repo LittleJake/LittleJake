@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 06/10/2022.
 
 ### Hitokoto
 
-> 堕入黑暗裏的可怜影子啊，停止伤害他人的行为吧，犯下罪行的灵魂……想死一次么？
+> 虽然有时候，不知道要写些什么，有时候，却有很多想说的，来不及记录。回忆一转身，就悄悄溜走了。
 > 
-> ——地狱少女
+> ——凸变英雄
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/10/2022.
 
 </details>
 
-Autogen by LittleJake at 11:14:51
+Autogen by LittleJake at 12:32:37
