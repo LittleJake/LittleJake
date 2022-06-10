@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/10/2022.
 
 ### Hitokoto
 
-> 我有在反省，但我不后悔。
+> 从现在开始，我将追寻你的名字。
 > 
-> ——物语系列
+> ——你的名字
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/10/2022.
 
 </details>
 
-Autogen by LittleJake at 18:20:21
+Autogen by LittleJake at 19:12:53
