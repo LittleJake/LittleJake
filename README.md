@@ -6,9 +6,9 @@ Today is 06/10/2022.
 
 ### Hitokoto
 
-> 有被杀的觉悟，才有资格开枪。
+> 连我爸都没打过我
 > 
-> ——反叛的鲁路修
+> ——高达0079
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/10/2022.
 
 </details>
 
-Autogen by LittleJake at 04:23:45
+Autogen by LittleJake at 05:13:50
