@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/10/2022.
 
 ### Hitokoto
 
-> 虽然有时候，不知道要写些什么，有时候，却有很多想说的，来不及记录。回忆一转身，就悄悄溜走了。
+> 我们总是在注意错过太多，却不注意自己拥有多少。
 > 
-> ——凸变英雄
+> ——我们仍未知道那天所看见的花的名字
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/10/2022.
 
 </details>
 
-Autogen by LittleJake at 12:32:37
+Autogen by LittleJake at 13:33:18
