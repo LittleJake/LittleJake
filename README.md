@@ -6,9 +6,9 @@ Today is 06/11/2022.
 
 ### Hitokoto
 
-> 不要哀求，学会争取；若是如此，终有所获。
+> 恩，好像做了很多梦呢，快乐的，悲伤的，每个都很短，但是全都很珍贵。
 > 
-> ——交响诗篇
+> ——末日时在做什么？有没有空？可以来拯救吗？
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/11/2022.
 
 </details>
 
-Autogen by LittleJake at 21:12:46
+Autogen by LittleJake at 22:14:03
