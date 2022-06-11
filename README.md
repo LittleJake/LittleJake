@@ -6,9 +6,9 @@ Today is 06/11/2022.
 
 ### Hitokoto
 
-> “像你这样的白痴是怎么活过来的？”“因为我很自信。
+> 一个人觉得寂寞，和另一个人相互依偎又有什么错
 > 
-> ——海贼王
+> ——人渣的本愿
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/11/2022.
 
 </details>
 
-Autogen by LittleJake at 01:15:44
+Autogen by LittleJake at 03:16:32
