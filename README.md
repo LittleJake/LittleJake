@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 06/11/2022.
 
 ### Hitokoto
 
-> 我们不应该根据背负的罪孽来选择道路，而应在选择的道路上背负自己的罪孽。
+> 大圣此去欲何? 踏南天，碎凌霄！若一去不回.... 便一去不回！
 > 
-> ——空之境界
+> ——影视
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/11/2022.
 
 </details>
 
-Autogen by LittleJake at 17:13:24
+Autogen by LittleJake at 18:17:20
