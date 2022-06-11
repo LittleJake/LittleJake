@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 06/10/2022.
+Today is 06/11/2022.
 
 ### Hitokoto
 
-> 有阳光的地方就会有阴影，所以有阴影的地方也一定会有阳光。绝望的颜色越是浓厚，在哪里也一定会存在耀眼的希望之光。
+> “像你这样的白痴是怎么活过来的？”“因为我很自信。
 > 
-> ——银魂
+> ——海贼王
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/10/2022.
 
 </details>
 
-Autogen by LittleJake at 23:16:04
+Autogen by LittleJake at 01:15:44
