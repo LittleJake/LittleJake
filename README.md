@@ -6,9 +6,9 @@ Today is 06/11/2022.
 
 ### Hitokoto
 
-> 真正让我难受的，大概是因为让你看到如此狼狈的自己。
+> 你已经不是我的狗了。
 > 
-> ——元气少女缘结神
+> ——龙与虎
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/11/2022.
 
 </details>
 
-Autogen by LittleJake at 07:14:04
+Autogen by LittleJake at 08:18:24
