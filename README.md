@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/11/2022.
 
 ### Hitokoto
 
-> 我们一直在离别中，比如和爱的人，和伤害，甚至和时光。
+> 我们不应该根据背负的罪孽来选择道路，而应在选择的道路上背负自己的罪孽。
 > 
-> ——萤火虫之墓
+> ——空之境界
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/11/2022.
 
 </details>
 
-Autogen by LittleJake at 16:19:38
+Autogen by LittleJake at 17:13:24
