@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 06/11/2022.
 
 ### Hitokoto
 
-> 规则是用来被打破的。
+> “不管你我相距多远，我都想告诉你 我对你的心意不会变，给即将去到陌生城市的你 ，我永远喜欢你”
 > 
-> ——机械公敌
+> ——月色真美
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/11/2022.
 
 </details>
 
-Autogen by LittleJake at 11:12:37
+Autogen by LittleJake at 12:26:26
