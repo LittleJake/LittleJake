@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/11/2022.
 
 ### Hitokoto
 
-> 我们人是需要吃饭、工作和休息的生物，只要满足了其中一项，其他两项也会逐渐满足，而当这三项都满足后，就会得到强烈的存在感。
+> 独步天下，吾心自洁，无欲无求，如林中之象。
 > 
-> ——银魂
+> ——攻壳机动队Ⅱ无罪
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/11/2022.
 
 </details>
 
-Autogen by LittleJake at 13:22:02
+Autogen by LittleJake at 14:13:39
