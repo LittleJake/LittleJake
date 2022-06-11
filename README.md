@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/11/2022.
 
 ### Hitokoto
 
-> 恩，好像做了很多梦呢，快乐的，悲伤的，每个都很短，但是全都很珍贵。
+> 精神上，没有上进心的人，是笨蛋！
 > 
-> ——末日时在做什么？有没有空？可以来拯救吗？
+> ——归宅部活动记录
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/11/2022.
 
 </details>
 
-Autogen by LittleJake at 22:14:03
+Autogen by LittleJake at 23:14:30
