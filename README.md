@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/11/2022.
 
 ### Hitokoto
 
-> 独步天下，吾心自洁，无欲无求，如林中之象。
+> 他有一双好眼睛，就是他将我从黑暗的迷途中带了回来。
 > 
-> ——攻壳机动队Ⅱ无罪
+> ——火影忍者
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/11/2022.
 
 </details>
 
-Autogen by LittleJake at 14:13:39
+Autogen by LittleJake at 15:14:53
