@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/12/2022.
 
 ### Hitokoto
 
-> 我终不能改变那个开始，何不忘了那个结局呢。
+> 什么都无法舍弃的人，什么都无法改变 。
 > 
-> ——悟空传
+> ——进击的巨人
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/12/2022.
 
 </details>
 
-Autogen by LittleJake at 22:15:04
+Autogen by LittleJake at 23:14:57
