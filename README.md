@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/12/2022.
 
 ### Hitokoto
 
-> 我不努力，就见不到你了啊。
+> 比起悲伤来说，无法分享快乐这件事，要更加的寂寞吧。
 > 
-> ——昨日之歌
+> ——AIR
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/12/2022.
 
 </details>
 
-Autogen by LittleJake at 19:11:53
+Autogen by LittleJake at 20:16:34
