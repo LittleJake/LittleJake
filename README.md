@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 06/11/2022.
+Today is 06/12/2022.
 
 ### Hitokoto
 
-> 精神上，没有上进心的人，是笨蛋！
+> 这是你所不能理解的，人类感情的极致，比希望更热烈，比绝望更深邃——爱！
 > 
-> ——归宅部活动记录
+> ——魔法少女小圆新篇
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/11/2022.
 
 </details>
 
-Autogen by LittleJake at 23:14:30
+Autogen by LittleJake at 01:39:37
