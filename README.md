@@ -6,9 +6,9 @@ Today is 06/12/2022.
 
 ### Hitokoto
 
-> リア充死ね！
+> 我不是因为需要你们评论几句才去当英雄的，而是因为我想去当所以我才当的。
 > 
-> ——我的朋友很少
+> ——一拳超人
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/12/2022.
 
 </details>
 
-Autogen by LittleJake at 03:21:39
+Autogen by LittleJake at 04:22:54
