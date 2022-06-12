@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/12/2022.
 
 ### Hitokoto
 
-> 邪王真眼是最强的
+> 从你的前前前世开始，我就开始找寻你
 > 
-> ——中二病也要谈恋爱
+> ——你的名字
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/12/2022.
 
 </details>
 
-Autogen by LittleJake at 13:21:18
+Autogen by LittleJake at 14:13:03
