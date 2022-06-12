@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/12/2022.
 
 ### Hitokoto
 
-> 比起悲伤来说，无法分享快乐这件事，要更加的寂寞吧。
+> 理解何为孤单，努力想得到爱的你，内心的悲伤是否稍微宣泄了呢？
 > 
-> ——AIR
+> ——夏目友人帐
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/12/2022.
 
 </details>
 
-Autogen by LittleJake at 20:16:34
+Autogen by LittleJake at 21:12:46
