@@ -6,9 +6,9 @@ Today is 06/12/2022.
 
 ### Hitokoto
 
-> 拿着刀并且可以让人们变得幸福的只有料理人。
+> 我不努力，就见不到你了啊。
 > 
-> ——假面骑士kabuto
+> ——昨日之歌
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/12/2022.
 
 </details>
 
-Autogen by LittleJake at 18:17:21
+Autogen by LittleJake at 19:11:53
