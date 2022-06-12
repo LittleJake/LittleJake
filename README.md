@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 06/12/2022.
 
 ### Hitokoto
 
-> 我今天就要带她走，我看谁敢拦我！
+> 我问你：你是我的Master吗？
 > 
-> ——刺客伍六七
+> ——命运守护夜
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/12/2022.
 
 </details>
 
-Autogen by LittleJake at 05:13:29
+Autogen by LittleJake at 06:19:14
