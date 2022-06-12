@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 06/12/2022.
 
 ### Hitokoto
 
-> 我想成为一个温柔的人,因为曾被温柔的人那样对待,深深了解那种被温柔相待的感觉。
+> 爸爸，我能不再忍了吗？早苗说了，世界上能够放声大哭的地方，只有卫生间，和爸爸的怀里。
 > 
-> ——夏目友人帐
+> ——CLANNAD ～AFTER STORY～ EP18
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/12/2022.
 
 </details>
 
-Autogen by LittleJake at 08:18:14
+Autogen by LittleJake at 09:15:20
