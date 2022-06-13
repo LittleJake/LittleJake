@@ -6,9 +6,9 @@ Today is 06/13/2022.
 
 ### Hitokoto
 
-> 我可从来不认为恐惧可以成为舍弃他人的借口，人不能因为恐惧，就连身为人类的品性都丢掉。
+> 好梦向来易醒。
 > 
-> ——铁甲城的卡巴内瑞
+> ——风之谷
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/13/2022.
 
 </details>
 
-Autogen by LittleJake at 06:21:53
+Autogen by LittleJake at 07:15:09
