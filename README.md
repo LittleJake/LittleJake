@@ -6,9 +6,9 @@ Today is 06/13/2022.
 
 ### Hitokoto
 
-> 如果要伤害别人的感情才能实现的话，对那个人来说梦想就已经不能称之为梦想了。
+> 梦是现实的延续，现实是梦的终结。
 > 
-> ——名侦探柯南
+> ——Eva
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/13/2022.
 
 </details>
 
-Autogen by LittleJake at 10:22:05
+Autogen by LittleJake at 11:14:55
