@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/13/2022.
 
 ### Hitokoto
 
-> おれは 人の悲しさを 悲しい感じる心があるんなって事を 忘れなくない それを受け止められる人间になりたいです。
+> 已经无法回到过去了。也不知道将来会是什么模样。
 > 
-> ——机动战士高达独角兽
+> ——文学少女
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/13/2022.
 
 </details>
 
-Autogen by LittleJake at 19:12:32
+Autogen by LittleJake at 20:17:50
