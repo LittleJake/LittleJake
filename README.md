@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/13/2022.
 
 ### Hitokoto
 
-> 未来始终掌握在自己手中，从中滑落的，我们称之为过去。
+> 你就赌我会死吧，因为你逢赌必输。
 > 
-> ——末日时在做什么？有没有空？可以来拯救吗？
+> ——火影忍者
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/13/2022.
 
 </details>
 
-Autogen by LittleJake at 14:25:58
+Autogen by LittleJake at 15:23:39
