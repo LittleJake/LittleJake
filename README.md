@@ -6,9 +6,9 @@ Today is 06/13/2022.
 
 ### Hitokoto
 
-> 已经无法回到过去了。也不知道将来会是什么模样。
+> 憧憬是距离理解最遥远的一种感情。
 > 
-> ——文学少女
+> ——死神
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/13/2022.
 
 </details>
 
-Autogen by LittleJake at 20:17:50
+Autogen by LittleJake at 21:14:52
