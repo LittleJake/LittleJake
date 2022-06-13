@@ -6,9 +6,9 @@ Today is 06/13/2022.
 
 ### Hitokoto
 
-> 再相见，会是怎样的世界？
+> 明明只是活着，哀伤却无处不在……
 > 
-> ——升起的烟花，从下面看？还是从侧面看?
+> ——秒速五厘米
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/13/2022.
 
 </details>
 
-Autogen by LittleJake at 01:27:38
+Autogen by LittleJake at 03:34:53
