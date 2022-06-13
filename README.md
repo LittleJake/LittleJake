@@ -6,9 +6,9 @@ Today is 06/13/2022.
 
 ### Hitokoto
 
-> 小的时候，总认为世界是单纯的。
+> 如果要伤害别人的感情才能实现的话，对那个人来说梦想就已经不能称之为梦想了。
 > 
-> ——游戏人生 zero
+> ——名侦探柯南
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/13/2022.
 
 </details>
 
-Autogen by LittleJake at 09:16:57
+Autogen by LittleJake at 10:22:05
