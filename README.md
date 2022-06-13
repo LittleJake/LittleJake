@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 06/13/2022.
 
 ### Hitokoto
 
-> 我们一直在一起，所以最后也想在你身旁。
+> 愿你有一天能与你最重要的人重逢。
 > 
-> ——火影忍者
+> ——可塑性记忆
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/13/2022.
 
 </details>
 
-Autogen by LittleJake at 17:22:56
+Autogen by LittleJake at 18:20:35
