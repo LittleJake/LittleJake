@@ -6,9 +6,9 @@ Today is 06/13/2022.
 
 ### Hitokoto
 
-> 你就赌我会死吧，因为你逢赌必输。
+> 寂寞的时候，就呼唤我的名字吧。
 > 
-> ——火影忍者
+> ——紫罗兰永恒花园外传
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/13/2022.
 
 </details>
 
-Autogen by LittleJake at 15:23:39
+Autogen by LittleJake at 16:22:38
