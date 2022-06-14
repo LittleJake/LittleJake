@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 06/14/2022.
 
 ### Hitokoto
 
-> 喜欢你，因为我喜欢你，比地球上任何人都，喜欢你...
+> 人类的赞歌就是勇气的赞歌！
 > 
-> ——名侦探柯南
+> ——JOJO的奇妙冒险
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/14/2022.
 
 </details>
 
-Autogen by LittleJake at 17:19:10
+Autogen by LittleJake at 18:20:06
