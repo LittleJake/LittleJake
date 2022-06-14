@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/14/2022.
 
 ### Hitokoto
 
-> 人类的赞歌就是勇气的赞歌！
+> 绝对要一起去吃拉面喵~
 > 
-> ——JOJO的奇妙冒险
+> ——星空凛
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/14/2022.
 
 </details>
 
-Autogen by LittleJake at 18:20:06
+Autogen by LittleJake at 19:13:38
