@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 06/13/2022.
+Today is 06/14/2022.
 
 ### Hitokoto
 
-> 我是否住进了某人的心房呢？
+> 失望了吗？没错，世上或许有些东西别打开比较好，真正把心打开的人多么麻烦啊！
 > 
-> ——四月是你的谎言
+> ——绝望先生
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/13/2022.
 
 </details>
 
-Autogen by LittleJake at 23:15:44
+Autogen by LittleJake at 01:46:13
