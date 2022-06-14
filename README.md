@@ -6,9 +6,9 @@ Today is 06/14/2022.
 
 ### Hitokoto
 
-> ——比起自己的生命还要重要的东西，并不是这么好找的。
+> 是个男人就要对自己的人生负责
 > 
-> ——末日时在做什么？能不能再见一面？
+> ——麻辣教师
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/14/2022.
 
 </details>
 
-Autogen by LittleJake at 15:16:55
+Autogen by LittleJake at 16:24:11
