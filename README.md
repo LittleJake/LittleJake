@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 06/14/2022.
 
 ### Hitokoto
 
-> 愿你有一天，能和你最重要的人重逢。
+> 败者死于绝望，胜者死于渴望。
 > 
-> ——可塑性记忆
+> ——戏言系列
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/14/2022.
 
 </details>
 
-Autogen by LittleJake at 11:12:56
+Autogen by LittleJake at 12:30:37
