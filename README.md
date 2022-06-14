@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 06/14/2022.
 
 ### Hitokoto
 
-> 重要的感情总是非常单纯 自然脱口而出的
+> 无论你在哪里，就算我看不见你，我也会一直注视着你。
 > 
-> ——GAMERS电玩咖！
+> ——妖精的尾巴
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/14/2022.
 
 </details>
 
-Autogen by LittleJake at 07:15:25
+Autogen by LittleJake at 08:21:39
