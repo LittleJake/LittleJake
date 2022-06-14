@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/14/2022.
 
 ### Hitokoto
 
-> 我手里拿着刀，没法抱你，我放下刀，没法保护你！
+> ——比起自己的生命还要重要的东西，并不是这么好找的。
 > 
-> ——死神
+> ——末日时在做什么？能不能再见一面？
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/14/2022.
 
 </details>
 
-Autogen by LittleJake at 14:13:55
+Autogen by LittleJake at 15:16:55
