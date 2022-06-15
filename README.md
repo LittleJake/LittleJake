@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/15/2022.
 
 ### Hitokoto
 
-> 尽管我们的手中空无一物，却能因此紧紧相牵，当你一人时请别迷茫，因为我无论何时都不会放手。
+> 虽然想做一团火，却成了一块透视苦难的冰
 > 
-> ——尽管我们的手中空无一物
+> ——卡夫卡研究
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/15/2022.
 
 </details>
 
-Autogen by LittleJake at 03:38:27
+Autogen by LittleJake at 04:32:43
