@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 06/14/2022.
+Today is 06/15/2022.
 
 ### Hitokoto
 
-> 龙儿是我的！谁都不准碰！
+> 堕入黑暗裏的可怜影子啊，停止伤害他人的行为吧，犯下罪行的灵魂…想死一次么？
 > 
-> ——逢坂大河
+> ——地狱少女
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/14/2022.
 
 </details>
 
-Autogen by LittleJake at 23:15:04
+Autogen by LittleJake at 01:25:48
