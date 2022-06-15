@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 06/15/2022.
 
 ### Hitokoto
 
-> 你一直相信的事，也让我相信吧。活着，是件美好的事。
+> 我今天就要带她走，我看谁敢拦我！
 > 
-> ——Angle Beats
+> ——刺客伍六七
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/15/2022.
 
 </details>
 
-Autogen by LittleJake at 07:15:41
+Autogen by LittleJake at 08:22:33
