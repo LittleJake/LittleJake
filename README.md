@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/15/2022.
 
 ### Hitokoto
 
-> 自己的过去会被当做笑话或者捏他的形式，被他人随随便便的共有化。
+> 即使得不到旁人的认同，即使不曾拥有像样的地位，我们小小的双手也一定，能为明天的某人带去笑容。
 > 
-> ——我的青春恋爱物语果然有问题
+> ——尽管我们的手中空无一物
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/15/2022.
 
 </details>
 
-Autogen by LittleJake at 18:23:20
+Autogen by LittleJake at 19:13:15
