@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/15/2022.
 
 ### Hitokoto
 
-> 我连宇宙尽头在哪里都不知道，怎么会知道这个。
+> 我绝对会成为火影。我从来都是有话直说，这就是我的忍道！
 > 
-> ——JOJO的奇妙冒险
+> ——漩涡鸣人
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/15/2022.
 
 </details>
 
-Autogen by LittleJake at 21:13:35
+Autogen by LittleJake at 22:16:00
