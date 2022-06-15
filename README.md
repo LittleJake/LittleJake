@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/15/2022.
 
 ### Hitokoto
 
-> 不是别人，是我，承认了你的价值。
+> 向天空拼命伸出的双手，发射那么巨大的东西，只是为了寻找超出想象的彼岸所存在的东西。
 > 
-> ——fate/zero
+> ——秒速五厘米
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/15/2022.
 
 </details>
 
-Autogen by LittleJake at 12:30:34
+Autogen by LittleJake at 13:34:09
