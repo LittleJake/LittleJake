@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/15/2022.
 
 ### Hitokoto
 
-> 堕入黑暗裏的可怜影子啊，停止伤害他人的行为吧，犯下罪行的灵魂…想死一次么？
+> 尽管我们的手中空无一物，却能因此紧紧相牵，当你一人时请别迷茫，因为我无论何时都不会放手。
 > 
-> ——地狱少女
+> ——尽管我们的手中空无一物
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/15/2022.
 
 </details>
 
-Autogen by LittleJake at 01:25:48
+Autogen by LittleJake at 03:38:27
