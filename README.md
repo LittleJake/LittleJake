@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/16/2022.
 
 ### Hitokoto
 
-> 喜欢和不讨厌之间可是有着数亿光年的距离的。
+> 这个世界上没有完美的人类，所以，人无法自己一个人活著。
 > 
-> ——四月是你的谎言
+> ——不可思议游戏
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/16/2022.
 
 </details>
 
-Autogen by LittleJake at 12:31:13
+Autogen by LittleJake at 13:34:02
