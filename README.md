@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 06/16/2022.
 
 ### Hitokoto
 
-> 我的生命是属于你的，亚丝娜，我将为你而活。
+> 既不回头，何必不忘；既然无缘，何须誓言；今日种种，似水无痕；明夕何夕，君已陌路。
 > 
-> ——刀剑神域
+> ——仙剑奇侠传
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/16/2022.
 
 </details>
 
-Autogen by LittleJake at 07:15:37
+Autogen by LittleJake at 08:23:13
