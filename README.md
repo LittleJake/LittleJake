@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 06/16/2022.
 
 ### Hitokoto
 
-> 无论是人类还是妖怪，只要内心希望他人接触，那么就是相同的存在；会因独处而感到寂寞，也会害怕踏出第一步。
+> 无论乌云有多浓厚，星星也一定还在，只是暂时看不到了而已。
 > 
-> ——夏目友人帐
+> ——电波女与青春男
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/16/2022.
 
 </details>
 
-Autogen by LittleJake at 09:15:50
+Autogen by LittleJake at 10:18:03
