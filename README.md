@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/16/2022.
 
 ### Hitokoto
 
-> 无论是丢下还是被丢下，这两者都是一样痛苦的。
+> 也许正义并非太阳，而是如同星星一般的东西，天空中有无数的星星，彼此不断抵消着其他星星的光芒。
 > 
-> ——水果篮子
+> ——亚尔斯兰战纪
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/16/2022.
 
 </details>
 
-Autogen by LittleJake at 14:14:10
+Autogen by LittleJake at 15:15:58
