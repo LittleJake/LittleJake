@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/16/2022.
 
 ### Hitokoto
 
-> 看来这世界 似乎还想要驯服我 那就如你所愿吧 我会美丽地挣扎到底
+> “如果我不在了，你会怎样？” “我会去找你” “如果找不见呢？” “我会一直，一直，一直找下去”
 > 
-> ——你的名字
+> ——人鱼森林
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/16/2022.
 
 </details>
 
-Autogen by LittleJake at 16:24:44
+Autogen by LittleJake at 17:20:16
