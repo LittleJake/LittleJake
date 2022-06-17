@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/17/2022.
 
 ### Hitokoto
 
-> 我不会让任何人看到我软弱的一面。
+> 将所有人类当成玩偶的神,本身居然也是个小丑啊。
 > 
-> ——桔梗
+> ——Fate/Zero
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/17/2022.
 
 </details>
 
-Autogen by LittleJake at 03:22:55
+Autogen by LittleJake at 04:30:39
