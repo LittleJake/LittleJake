@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 06/17/2022.
 
 ### Hitokoto
 
-> 我觉得你很幸福，因为你可以选择爱我或不爱我，而我只能选择爱你或更爱你。
+> 她有心，她的心在我这里。
 > 
-> ——School Days
+> ——人形电脑天使心
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/17/2022.
 
 </details>
 
-Autogen by LittleJake at 11:13:26
+Autogen by LittleJake at 12:32:48
