@@ -6,9 +6,9 @@ Today is 06/17/2022.
 
 ### Hitokoto
 
-> 我一点也不走运。
+> 如果，樱花掉落的速度是每秒5厘米，那么两颗心需要多久才能靠近？
 > 
-> ——Fairy gone
+> ——秒速五厘米
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/17/2022.
 
 </details>
 
-Autogen by LittleJake at 09:16:47
+Autogen by LittleJake at 10:17:06
