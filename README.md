@@ -6,9 +6,9 @@ Today is 06/17/2022.
 
 ### Hitokoto
 
-> 即使从梦中醒来，还会有回忆留下。
+> 在染成红色的天空下，在雨中，流淌着，漂浮着的，最软弱的自己的倒影，朦胧蓝色的回忆。
 > 
-> ——AIR
+> ——知晓天空之蓝的人啊
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/17/2022.
 
 </details>
 
-Autogen by LittleJake at 19:12:49
+Autogen by LittleJake at 20:15:23
