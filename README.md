@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 06/17/2022.
 
 ### Hitokoto
 
-> 如果，樱花掉落的速度是每秒5厘米，那么两颗心需要多久才能靠近？
+> 我觉得你很幸福，因为你可以选择爱我或不爱我，而我只能选择爱你或更爱你。
 > 
-> ——秒速五厘米
+> ——School Days
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/17/2022.
 
 </details>
 
-Autogen by LittleJake at 10:17:06
+Autogen by LittleJake at 11:13:26
