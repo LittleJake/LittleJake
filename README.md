@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/17/2022.
 
 ### Hitokoto
 
-> 倘若只是为了驱赶心中的寂寞，找谁都可以的。
+> 我不会让任何人看到我软弱的一面。
 > 
-> ——秒速5厘米
+> ——桔梗
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/17/2022.
 
 </details>
 
-Autogen by LittleJake at 01:18:02
+Autogen by LittleJake at 03:22:55
