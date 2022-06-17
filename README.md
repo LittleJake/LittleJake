@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/17/2022.
 
 ### Hitokoto
 
-> 只要轻唤你的名字，我们的羁绊就永远不会消逝。
+> 女生口中的「好人」首先百分之百是「怎样都好的人」的意思，再好也不过止于「方便好使的人」。也就是说，不管怎样都是没戏了
 > 
-> ——紫罗兰永恒花园
+> ——我的青春恋爱物语果然有问题
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/17/2022.
 
 </details>
 
-Autogen by LittleJake at 13:36:24
+Autogen by LittleJake at 14:14:47
