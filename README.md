@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 06/17/2022.
 
 ### Hitokoto
 
-> 我只对现实世界绝望过，却未对自己绝望过！
+> 雁过拔毛，兽走留皮。涂山，我罩的，懂？
 > 
-> ——只有神知道的世界
+> ——狐妖小红娘
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/17/2022.
 
 </details>
 
-Autogen by LittleJake at 05:16:52
+Autogen by LittleJake at 06:20:10
