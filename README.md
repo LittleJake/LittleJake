@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 06/17/2022.
 
 ### Hitokoto
 
-> 雁过拔毛，兽走留皮。涂山，我罩的，懂？
+> 等着我，有马，不对，别回头，向前进，你要一直向前，我一定会追上来的。
 > 
-> ——狐妖小红娘
+> ——四月是你的谎言
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/17/2022.
 
 </details>
 
-Autogen by LittleJake at 06:20:10
+Autogen by LittleJake at 07:14:46
