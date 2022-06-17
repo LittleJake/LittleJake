@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 06/17/2022.
 
 ### Hitokoto
 
-> 等着我，有马，不对，别回头，向前进，你要一直向前，我一定会追上来的。
+> 我觉得在这里干尽坏事的玩家，都是些在现实世界中也烂到骨子里的家伙。
 > 
-> ——四月是你的谎言
+> ——刀剑神域
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/17/2022.
 
 </details>
 
-Autogen by LittleJake at 07:14:46
+Autogen by LittleJake at 08:21:06
