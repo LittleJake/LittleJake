@@ -6,9 +6,9 @@ Today is 06/17/2022.
 
 ### Hitokoto
 
-> Eloim Essaim Eloim Essaim 请聆听我的请求。
+> 神啊，求求你。已经足够了。已经没事了。我们都会熬过去的。
 > 
-> ——四月是你的谎言
+> ——天气之子
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/17/2022.
 
 </details>
 
-Autogen by LittleJake at 15:15:57
+Autogen by LittleJake at 16:28:25
