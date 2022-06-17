@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/17/2022.
 
 ### Hitokoto
 
-> 人们渴望像鸟儿一样自由自在地飞翔，可他们并没有想过，鸟儿也并不自由，它们之所以飞翔，是为了生存。
+> 人的好意是沉重的。
 > 
-> ——奈克瑟斯奥特曼
+> ——黑神
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/17/2022.
 
 </details>
 
-Autogen by LittleJake at 22:15:33
+Autogen by LittleJake at 23:15:09
