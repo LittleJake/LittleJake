@@ -6,9 +6,9 @@ Today is 06/18/2022.
 
 ### Hitokoto
 
-> 等着我，有马，不对，别回头，向前进，你要一直向前，我一定会追上来的。
+> 你知道雪为什么是白色的吗？因为她忘记了本来的颜色。
 > 
-> ——四月是你的谎言
+> ——反叛的鲁路修
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/18/2022.
 
 </details>
 
-Autogen by LittleJake at 01:24:25
+Autogen by LittleJake at 03:20:05
