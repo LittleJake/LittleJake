@@ -6,9 +6,9 @@ Today is 06/18/2022.
 
 ### Hitokoto
 
-> 即使天无雨，我亦留此地。
+> 年华无多时，恋爱吧男子！
 > 
-> ——言叶之庭
+> ——源君物语
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/18/2022.
 
 </details>
 
-Autogen by LittleJake at 19:12:58
+Autogen by LittleJake at 20:15:13
