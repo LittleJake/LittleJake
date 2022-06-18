@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/18/2022.
 
 ### Hitokoto
 
-> 我的出生就是为了用鲜花将你淹没。
+> 在东京的天空上，我们决定性的改变了世界的模样。
 > 
-> ——怪物Monster
+> ——天气之子
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/18/2022.
 
 </details>
 
-Autogen by LittleJake at 12:26:10
+Autogen by LittleJake at 13:24:02
