@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/18/2022.
 
 ### Hitokoto
 
-> 喜欢上你，爱上你，真是太好了，谢谢。
+> 站起来！站起来啊！你是我的腿吧！站起来啊！
 > 
-> ——龙虎斗
+> ——四月是你的谎言
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/18/2022.
 
 </details>
 
-Autogen by LittleJake at 16:21:26
+Autogen by LittleJake at 17:14:01
