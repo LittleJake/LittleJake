@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/18/2022.
 
 ### Hitokoto
 
-> 曾经发生过的事情不可能忘记，只不过是想不起而已。
+> 描线一笔接一笔，白色的素描本上渐渐萌生黑意。即便如此，还无法照准记忆中的风景。
 > 
-> ——千与千寻
+> ——你的名字
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/18/2022.
 
 </details>
 
-Autogen by LittleJake at 22:14:08
+Autogen by LittleJake at 23:14:33
