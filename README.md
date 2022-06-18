@@ -6,9 +6,9 @@ Today is 06/18/2022.
 
 ### Hitokoto
 
-> 年华无多时，恋爱吧男子！
+> 拿起武器，无论顺从还是逃跑，都无法得到自由，既然如此，我们只能战斗，为了自由，站起来吧。
 > 
-> ——源君物语
+> ——妖精的尾巴
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/18/2022.
 
 </details>
 
-Autogen by LittleJake at 20:15:13
+Autogen by LittleJake at 21:13:20
