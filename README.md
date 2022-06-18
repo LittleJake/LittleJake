@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 06/17/2022.
+Today is 06/18/2022.
 
 ### Hitokoto
 
-> 人的好意是沉重的。
+> 等着我，有马，不对，别回头，向前进，你要一直向前，我一定会追上来的。
 > 
-> ——黑神
+> ——四月是你的谎言
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/17/2022.
 
 </details>
 
-Autogen by LittleJake at 23:15:09
+Autogen by LittleJake at 01:24:25
