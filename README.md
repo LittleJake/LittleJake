@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/19/2022.
 
 ### Hitokoto
 
-> 清算，终将到来。
+> 整个社会对我都很苛刻。所以至少让我自己宽容一下我自己吧。如果大家都对自己更宽容一点的话。大家都变成废柴就没有废柴了。
 > 
-> ——Stellaris
+> ——果然我的青春恋爱喜剧搞错了
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/19/2022.
 
 </details>
 
-Autogen by LittleJake at 21:13:43
+Autogen by LittleJake at 22:14:32
