@@ -6,9 +6,9 @@ Today is 06/19/2022.
 
 ### Hitokoto
 
-> 我不会让任何人看到我软弱的一面。
+> キラキラ☆ドキドキ
 > 
-> ——桔梗
+> ——戸山香澄
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/19/2022.
 
 </details>
 
-Autogen by LittleJake at 06:18:33
+Autogen by LittleJake at 07:13:59
