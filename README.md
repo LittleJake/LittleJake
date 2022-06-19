@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 06/19/2022.
 
 ### Hitokoto
 
-> 伤害别人的人，就要有被伤害的觉悟！
+> 我再也不要看见她哭的样子了，就算我从此从她心目中消失。
 > 
-> ——罪恶王冠
+> ——名侦探柯南
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/19/2022.
 
 </details>
 
-Autogen by LittleJake at 17:14:03
+Autogen by LittleJake at 18:17:29
