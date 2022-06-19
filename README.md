@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/19/2022.
 
 ### Hitokoto
 
-> 这样叹气的话，幸福会像四处逃散的小蜘蛛一样溜走的。
+> 不动身的话就永远无法追寻，哪怕是休息也不会就此停下。
 > 
-> ——辉夜大小姐想让我告白
+> ——Aqours
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/19/2022.
 
 </details>
 
-Autogen by LittleJake at 03:38:15
+Autogen by LittleJake at 04:28:57
