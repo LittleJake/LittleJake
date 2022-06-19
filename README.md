@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 06/19/2022.
 
 ### Hitokoto
 
-> 人要意识到自己过得悲哀，需要很长时间；要意识到其实不必如此，则需要更久。
+> 人们只是用好人来称呼对自己有用的人而以，不存在对所有人都有用的人。
 > 
-> ——马男波杰克
+> ——进击的巨人
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/19/2022.
 
 </details>
 
-Autogen by LittleJake at 09:15:08
+Autogen by LittleJake at 10:15:57
