@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 06/19/2022.
 
 ### Hitokoto
 
-> 就算是对我抱有敌意的人，也是被某个人深爱着而降生在这个世界上的。
+> 我不会让任何人看到我软弱的一面。
 > 
-> ——罪恶王冠
+> ——桔梗
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/19/2022.
 
 </details>
 
-Autogen by LittleJake at 05:16:05
+Autogen by LittleJake at 06:18:33
