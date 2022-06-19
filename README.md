@@ -6,9 +6,9 @@ Today is 06/19/2022.
 
 ### Hitokoto
 
-> キラキラ☆ドキドキ
+> 世界并不完美，却因此而美丽。
 > 
-> ——戸山香澄
+> ——奇诺之旅
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/19/2022.
 
 </details>
 
-Autogen by LittleJake at 07:13:59
+Autogen by LittleJake at 08:18:03
