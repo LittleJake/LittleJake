@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 06/19/2022.
 
 ### Hitokoto
 
-> 世界并不完美，却因此而美丽。
+> 人要意识到自己过得悲哀，需要很长时间；要意识到其实不必如此，则需要更久。
 > 
-> ——奇诺之旅
+> ——马男波杰克
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/19/2022.
 
 </details>
 
-Autogen by LittleJake at 08:18:03
+Autogen by LittleJake at 09:15:08
