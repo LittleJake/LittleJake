@@ -6,9 +6,9 @@ Today is 06/19/2022.
 
 ### Hitokoto
 
-> 干燥的空气，尘埃的味道，我在其中……踏上旅途。
+> 伤害别人的人，就要有被伤害的觉悟！
 > 
-> ——四月是你的谎言
+> ——罪恶王冠
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/19/2022.
 
 </details>
 
-Autogen by LittleJake at 16:20:09
+Autogen by LittleJake at 17:14:03
