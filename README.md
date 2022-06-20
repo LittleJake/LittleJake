@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 06/20/2022.
 
 ### Hitokoto
 
-> 一旦醉心于狩猎，不到最后关头不会发现自己才是猎物。
+> 没有一个世界会比活在这个世界痛苦
 > 
-> ——来自新世界
+> ——黑岩射手
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/20/2022.
 
 </details>
 
-Autogen by LittleJake at 05:16:46
+Autogen by LittleJake at 06:21:51
