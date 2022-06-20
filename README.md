@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 06/19/2022.
+Today is 06/20/2022.
 
 ### Hitokoto
 
-> 爱迪生说过：“要把BOSS打倒就要准备足够的等级。”
+> 人这种东西，除了为了永不满足的欲望追求新的刺激之外，也是重视稀少价值之物的奇怪生物。
 > 
-> ——学生会的一己之见
+> ——gosick
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/19/2022.
 
 </details>
 
-Autogen by LittleJake at 23:14:31
+Autogen by LittleJake at 01:27:33
