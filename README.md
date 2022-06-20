@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/20/2022.
 
 ### Hitokoto
 
-> 那么，开始实验吧！
+> 一旦醉心于狩猎，不到最后关头不会发现自己才是猎物。
 > 
-> ——假面骑士Build
+> ——来自新世界
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/20/2022.
 
 </details>
 
-Autogen by LittleJake at 04:25:09
+Autogen by LittleJake at 05:16:46
