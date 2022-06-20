@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 06/20/2022.
 
 ### Hitokoto
 
-> 烈焰中舞动的火花，将赐予邪恶异性交往以天罚。
+> 总有一天，我要撕碎这片虚伪的星空。
 > 
-> ——潜行吧！奈亚子W
+> ——黑之契约者
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/20/2022.
 
 </details>
 
-Autogen by LittleJake at 17:20:55
+Autogen by LittleJake at 18:19:39
