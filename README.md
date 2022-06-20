@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/20/2022.
 
 ### Hitokoto
 
-> 要是太勉强自己的话，总有一天会受伤的
+> 烈焰中舞动的火花，将赐予邪恶异性交往以天罚。
 > 
-> ——吸血鬼骑士
+> ——潜行吧！奈亚子W
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/20/2022.
 
 </details>
 
-Autogen by LittleJake at 16:25:36
+Autogen by LittleJake at 17:20:55
