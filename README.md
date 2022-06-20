@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 06/20/2022.
 
 ### Hitokoto
 
-> 错误可不是为了别人才改的过来的，要为了自己才能改正。
+> 想要试着去相互接近，但最后还是无法敞开心扉，结果就是擦肩而过…
 > 
-> ——XXXHolic
+> ——文学少女
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/20/2022.
 
 </details>
 
-Autogen by LittleJake at 07:20:24
+Autogen by LittleJake at 08:22:45
