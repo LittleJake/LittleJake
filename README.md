@@ -6,9 +6,9 @@ Today is 06/20/2022.
 
 ### Hitokoto
 
-> 雨滴降落的速度是每秒十米，我该用怎么样的速度，才能将你挽留？
+> 知识是很美的，它们可以让你不出家门就了解这世上的许多事。
 > 
-> ——言叶之庭
+> ——妖精的尾巴
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/20/2022.
 
 </details>
 
-Autogen by LittleJake at 13:36:50
+Autogen by LittleJake at 14:13:58
