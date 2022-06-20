@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/20/2022.
 
 ### Hitokoto
 
-> 今宵之月，绝不西沉。只此美梦，不再苏醒。从今往后，生生世世，长相厮守，为你立誓。
+> 雨滴降落的速度是每秒十米，我该用怎么样的速度，才能将你挽留？
 > 
-> ——银魂
+> ——言叶之庭
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/20/2022.
 
 </details>
 
-Autogen by LittleJake at 12:34:22
+Autogen by LittleJake at 13:36:50
