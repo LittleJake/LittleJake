@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/20/2022.
 
 ### Hitokoto
 
-> 总有一天，我要撕碎这片虚伪的星空。
+> 只要是正义的一方，无论手段多么卑鄙都可以被原谅
 > 
-> ——黑之契约者
+> ——东京喰种
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/20/2022.
 
 </details>
 
-Autogen by LittleJake at 18:19:39
+Autogen by LittleJake at 19:11:33
