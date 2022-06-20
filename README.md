@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 06/20/2022.
 
 ### Hitokoto
 
-> 长大了，才能体会什么是责任！
+> 明明只是活着，哀伤却无处不在…
 > 
-> ——家庭
+> ——秒速五厘米
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/20/2022.
 
 </details>
 
-Autogen by LittleJake at 09:16:12
+Autogen by LittleJake at 10:19:44
