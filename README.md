@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/21/2022.
 
 ### Hitokoto
 
-> “像你这样的白痴是怎么活过来的？”“因为我很自信。“
+> 错误可不是为了别人才改的过来的，要为了自己才能改正。
 > 
-> ——海贼王
+> ——XXXHolic
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/21/2022.
 
 </details>
 
-Autogen by LittleJake at 21:13:33
+Autogen by LittleJake at 22:14:45
