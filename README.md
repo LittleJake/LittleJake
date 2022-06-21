@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/21/2022.
 
 ### Hitokoto
 
-> 少年少女 向前走吧。
+> 世界上没有偶然，有的只是必然。
 > 
-> ——阳炎PROJECT
+> ——XXXHolic
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/21/2022.
 
 </details>
 
-Autogen by LittleJake at 16:25:27
+Autogen by LittleJake at 17:28:47
