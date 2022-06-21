@@ -6,9 +6,9 @@ Today is 06/21/2022.
 
 ### Hitokoto
 
-> 错误可不是为了别人才改的过来的，要为了自己才能改正。
+> 你还是...笑起来...最棒了
 > 
-> ——XXXHolic
+> ——最终幻想XIV
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/21/2022.
 
 </details>
 
-Autogen by LittleJake at 22:14:45
+Autogen by LittleJake at 23:17:15
