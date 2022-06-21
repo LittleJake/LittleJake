@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/21/2022.
 
 ### Hitokoto
 
-> 晨意微寒秋渐深，侧伴无事俏佳人。
+> 少年少女 向前走吧。
 > 
-> ——WHITE ALBUM 2
+> ——阳炎PROJECT
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/21/2022.
 
 </details>
 
-Autogen by LittleJake at 15:21:33
+Autogen by LittleJake at 16:25:27
