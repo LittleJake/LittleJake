@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/21/2022.
 
 ### Hitokoto
 
-> 你们这些天才止步不前的时候，我会走得更远。
+> 羁绊是那不可切断的深切联系。即使分离，心与心也紧紧的连在一起。
 > 
-> ——如果有个妹妹就好了
+> ——假面骑士kabuto
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/21/2022.
 
 </details>
 
-Autogen by LittleJake at 13:40:50
+Autogen by LittleJake at 14:15:12
