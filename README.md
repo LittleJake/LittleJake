@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/21/2022.
 
 ### Hitokoto
 
-> 一代锤子一代皇，代代锤子教做人！
+> 你们这些天才止步不前的时候，我会走得更远。
 > 
-> ——斗罗大陆
+> ——如果有个妹妹就好了
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/21/2022.
 
 </details>
 
-Autogen by LittleJake at 12:35:22
+Autogen by LittleJake at 13:40:50
