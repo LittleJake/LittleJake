@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 06/21/2022.
 
 ### Hitokoto
 
-> 世界上没有偶然，有的只是必然。
+> 你喜欢的人已经心有所属不是正常的吗，因为你喜欢他，所以你的眼中就只有她。人啊，总是盲目地去爱。
 > 
-> ——XXXHolic
+> ——四月是你的谎言
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/21/2022.
 
 </details>
 
-Autogen by LittleJake at 17:28:47
+Autogen by LittleJake at 18:19:04
