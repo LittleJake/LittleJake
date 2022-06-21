@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 06/21/2022.
 
 ### Hitokoto
 
-> 比希望更炙热，比绝望更深邃，这就是爱啊。
+> 我们都在梦中，一个叫青春的梦里。梦总有一天会醒来，而回忆会一直闪烁。
 > 
-> ——魔法少女小圆-叛逆的物语
+> ——校园迷糊大王
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/21/2022.
 
 </details>
 
-Autogen by LittleJake at 05:19:50
+Autogen by LittleJake at 06:19:53
