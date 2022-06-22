@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/22/2022.
 
 ### Hitokoto
 
-> 悲伤教会了我喜悦。
+> 梦想是否无聊并不是别人来决定的，不管是什么样的梦想，自己拼命努力去追寻才是最重要的。
 > 
-> ——秋之回忆
+> ——守护甜心
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/22/2022.
 
 </details>
 
-Autogen by LittleJake at 04:33:14
+Autogen by LittleJake at 05:18:58
