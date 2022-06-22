@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 06/22/2022.
 
 ### Hitokoto
 
-> 我们一直在一起，所以最后也想在你身旁。
+> 也许正义并非太阳，而是如同星星一般的东西，天空中有无数的星星，彼此不断抵消着其他星星的光芒。
 > 
-> ——火影忍者
+> ——亚尔斯兰战纪
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/22/2022.
 
 </details>
 
-Autogen by LittleJake at 17:28:49
+Autogen by LittleJake at 18:20:09
