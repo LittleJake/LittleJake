@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 06/22/2022.
 
 ### Hitokoto
 
-> 我是为了与你相见才诞生于世的。
+> 出来吧，刻刻帝！
 > 
-> ——EVA
+> ——时崎狂三
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/22/2022.
 
 </details>
 
-Autogen by LittleJake at 06:19:26
+Autogen by LittleJake at 07:14:51
