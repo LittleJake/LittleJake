@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/22/2022.
 
 ### Hitokoto
 
-> 所谓的人类，可是连短短的十分钟也等不起的。
+> 我们一直在一起，所以最后也想在你身旁。
 > 
-> ——Angel Beats!
+> ——火影忍者
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/22/2022.
 
 </details>
 
-Autogen by LittleJake at 16:23:43
+Autogen by LittleJake at 17:28:49
