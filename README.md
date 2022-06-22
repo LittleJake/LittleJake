@@ -6,9 +6,9 @@ Today is 06/22/2022.
 
 ### Hitokoto
 
-> 别人的看法都是狗屁，你是谁只有你自己说了才算，这是爹教我的道理。
+> 既然今天是昨天，那么睡到明天就好。
 > 
-> ——哪吒之魔童降世
+> ——青春猪头少年不会梦到兔女郎学姐
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/22/2022.
 
 </details>
 
-Autogen by LittleJake at 01:41:23
+Autogen by LittleJake at 03:34:24
