@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,7 +6,7 @@ Today is 06/22/2022.
 
 ### Hitokoto
 
-> 只要有你，我便无所不能。
+> 什么都无法舍弃的人，什么都无法改变 。
 > 
 > ——进击的巨人
 
@@ -32,4 +32,4 @@ Today is 06/22/2022.
 
 </details>
 
-Autogen by LittleJake at 08:23:40
+Autogen by LittleJake at 09:14:50
