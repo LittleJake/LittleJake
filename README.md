@@ -6,9 +6,9 @@ Today is 06/22/2022.
 
 ### Hitokoto
 
-> 不要随便贬低自己
+> 由变态化身成为变态，也就是真·变态，也就是说，完全变态呢。
 > 
-> ——终将成为你
+> ——一拳超人
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/22/2022.
 
 </details>
 
-Autogen by LittleJake at 22:14:53
+Autogen by LittleJake at 23:16:00
