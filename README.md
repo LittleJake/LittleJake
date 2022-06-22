@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 06/22/2022.
 
 ### Hitokoto
 
-> 花开得太好，所以摇摇欲坠；这一切的事情，老得这样快；世间一直熙攘着。
+> 你以为你接受的是谁的爱，是一个天神的爱！他背叛所有神灵去爱你，为你忍受一切痛苦。
 > 
-> ——素年锦时
+> ——大鱼海棠
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/22/2022.
 
 </details>
 
-Autogen by LittleJake at 10:19:35
+Autogen by LittleJake at 11:12:58
