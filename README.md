@@ -6,9 +6,9 @@ Today is 06/22/2022.
 
 ### Hitokoto
 
-> 我有在反省，但我不后悔。
+> Fightだよじゃねつの！
 > 
-> ——物语系列
+> ——高坂穗乃果
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/22/2022.
 
 </details>
 
-Autogen by LittleJake at 13:36:40
+Autogen by LittleJake at 14:14:10
