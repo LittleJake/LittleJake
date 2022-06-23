@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 06/22/2022.
+Today is 06/23/2022.
 
 ### Hitokoto
 
-> 由变态化身成为变态，也就是真·变态，也就是说，完全变态呢。
+> 我不知道离别的滋味是这样凄凉，我不知道说声再见要这么坚强。
 > 
-> ——一拳超人
+> ——千与千寻
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/22/2022.
 
 </details>
 
-Autogen by LittleJake at 23:16:00
+Autogen by LittleJake at 01:17:22
