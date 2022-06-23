@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/23/2022.
 
 ### Hitokoto
 
-> 我在人生的道路上迷失了。
+> 只要记住你的名字，不管你在世界的哪个地方 ，我一定会，去见你。
 > 
-> ——火影忍者
+> ——你的名字
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/23/2022.
 
 </details>
 
-Autogen by LittleJake at 12:32:10
+Autogen by LittleJake at 13:37:52
