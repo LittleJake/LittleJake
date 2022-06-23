@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 06/23/2022.
 
 ### Hitokoto
 
-> 只顾着追求新事物，却不回顾历史，怎么会有未来。
+> 我在人生的道路上迷失了。
 > 
-> ——虞美人盛开的山坡
+> ——火影忍者
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/23/2022.
 
 </details>
 
-Autogen by LittleJake at 11:13:14
+Autogen by LittleJake at 12:32:10
