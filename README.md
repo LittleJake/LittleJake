@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 06/23/2022.
 
 ### Hitokoto
 
-> 就算世上有着所谓的“好女人”，也不会有着“和我关系好的女人”。
+> 不相信人咬不到肚脐的，咬破肚脐去死如何？
 > 
-> ——我的青春恋爱物语果然有问题
+> ——海猫鸣泣之时
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/23/2022.
 
 </details>
 
-Autogen by LittleJake at 07:15:07
+Autogen by LittleJake at 08:22:37
