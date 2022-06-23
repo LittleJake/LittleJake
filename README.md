@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/23/2022.
 
 ### Hitokoto
 
-> 未来始终掌握在自己手中，从中滑落的，我们称之为过去。
+> 奇迹不是免费的，如果你祈求了希望，也会散播出同等的绝望。
 > 
-> ——末日时在做什么？有没有空？可以来拯救吗？
+> ——魔法少女小圆
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/23/2022.
 
 </details>
 
-Autogen by LittleJake at 19:12:06
+Autogen by LittleJake at 20:17:08
