@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 06/23/2022.
 
 ### Hitokoto
 
-> 告白当天就要H什么的，真是没办法的男人呢。
+> 只顾着追求新事物，却不回顾历史，怎么会有未来。
 > 
-> ——高坂桐乃
+> ——虞美人盛开的山坡
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/23/2022.
 
 </details>
 
-Autogen by LittleJake at 10:17:37
+Autogen by LittleJake at 11:13:14
