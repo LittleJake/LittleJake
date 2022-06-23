@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 06/23/2022.
 
 ### Hitokoto
 
-> 时间可以治愈？如果时间也病了怎么办？
+> 每个人能走到现在，都是自己选择的结果。
 > 
-> ——寒蝉鸣泣之时
+> ——我想吃掉你的胰脏
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/23/2022.
 
 </details>
 
-Autogen by LittleJake at 17:19:59
+Autogen by LittleJake at 18:20:25
