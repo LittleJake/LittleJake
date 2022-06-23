@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/23/2022.
 
 ### Hitokoto
 
-> 我们一直在离别中，比如和爱的人，和伤害，甚至和时光。
+> 如果要伤害别人的感情才能实现的话，对那个人来说梦想就已经不能称之为梦想了。
 > 
-> ——萤火虫之墓
+> ——名侦探柯南
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/23/2022.
 
 </details>
 
-Autogen by LittleJake at 21:13:50
+Autogen by LittleJake at 22:15:18
