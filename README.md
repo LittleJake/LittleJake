@@ -6,9 +6,9 @@ Today is 06/24/2022.
 
 ### Hitokoto
 
-> 因为我喜欢你，喜欢得想吃掉你啊！
+> 这么温暖的世界里有我，要感谢神明了。
 > 
-> ——有顶天家族
+> ——Comic Girls
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/24/2022.
 
 </details>
 
-Autogen by LittleJake at 21:13:54
+Autogen by LittleJake at 22:14:42
