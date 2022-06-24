@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 06/24/2022.
 
 ### Hitokoto
 
-> 只要轻唤你的名字，我们的羁绊就永远不会消逝。
+> 他有一双好眼睛，就是他将我从黑暗的迷途中带了回来。
 > 
-> ——紫罗兰永恒花园
+> ——火影忍者
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/24/2022.
 
 </details>
 
-Autogen by LittleJake at 11:13:02
+Autogen by LittleJake at 12:34:45
