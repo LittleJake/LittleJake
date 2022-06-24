@@ -6,9 +6,9 @@ Today is 06/24/2022.
 
 ### Hitokoto
 
-> 大家即将各自展开旅程，挥别这个没落的城镇。
+> 真正重要的东西，永远都是非常简单的。
 > 
-> ——仰望半月的夜空
+> ——Clannad
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/24/2022.
 
 </details>
 
-Autogen by LittleJake at 09:15:22
+Autogen by LittleJake at 10:17:55
