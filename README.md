@@ -6,9 +6,9 @@ Today is 06/24/2022.
 
 ### Hitokoto
 
-> 得到更多人的认可，带著大家的爱意加油哦！
+> 不管对手是强是弱，结果只有胜负两种。输了的话，就无法站在球场上了。
 > 
-> ——内田彩致南小鸟
+> ——排球少年
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/24/2022.
 
 </details>
 
-Autogen by LittleJake at 13:37:14
+Autogen by LittleJake at 14:12:31
