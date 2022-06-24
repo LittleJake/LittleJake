@@ -6,9 +6,9 @@ Today is 06/24/2022.
 
 ### Hitokoto
 
-> 你们这些天才止步不前的时候，我会走得更远。
+> 'Cause rainbow won't light up the sky unless you let it rain.
 > 
-> ——如果有个妹妹就好了
+> ——My Little Pony: Friendship is Magic
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/24/2022.
 
 </details>
 
-Autogen by LittleJake at 15:18:07
+Autogen by LittleJake at 16:22:48
