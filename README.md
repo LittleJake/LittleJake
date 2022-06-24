@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/24/2022.
 
 ### Hitokoto
 
-> 只要努力活下去，总有一天会笑着回忆。
+> 让我们开始我们的约会（战争）吧
 > 
-> ——不可思议游戏
+> ——约会大作战
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/24/2022.
 
 </details>
 
-Autogen by LittleJake at 03:40:45
+Autogen by LittleJake at 04:36:45
