@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 06/24/2022.
 
 ### Hitokoto
 
-> 不论目睹怎样的现实 也不要迷失那个说「即便如此」的自我 这就是你的骨气。
+> 希望老师像帮我一样帮帮れいジ
 > 
-> ——机动战士高达独角兽
+> ——九重凛
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/24/2022.
 
 </details>
 
-Autogen by LittleJake at 06:21:20
+Autogen by LittleJake at 07:15:03
