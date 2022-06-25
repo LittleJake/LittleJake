@@ -6,9 +6,9 @@ Today is 06/25/2022.
 
 ### Hitokoto
 
-> 悲痛的事，温柔以对；难过的事，坚强以对。
+> 欺骗世界，欺骗最初的你。
 > 
-> ——朝花夕誓
+> ——Steins;Gate
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/25/2022.
 
 </details>
 
-Autogen by LittleJake at 12:25:44
+Autogen by LittleJake at 13:22:43
