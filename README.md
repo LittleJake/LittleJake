@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 06/25/2022.
 
 ### Hitokoto
 
-> 相信朋友是不需要理由的。
+> 世界上没有一成不变的事物，所以只要以其他方式找到自己的快乐就行了。
 > 
-> ——从零开始的异世界生活 第二季
+> ——CLANNAD
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/25/2022.
 
 </details>
 
-Autogen by LittleJake at 05:13:41
+Autogen by LittleJake at 06:18:34
