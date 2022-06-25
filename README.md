@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/25/2022.
 
 ### Hitokoto
 
-> 最近困扰我的是小小的分别，总会带来一丝寂寞。短暂的相遇和分别那一分一秒的时间都让我想要无比珍惜。
+> 有光的地方必有影，有影的地方也必定有光，绝望的颜色越是浓重，一定会有光芒耀眼的希望。
 > 
-> ——夏目友人帐
+> ——银魂
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/25/2022.
 
 </details>
 
-Autogen by LittleJake at 14:13:13
+Autogen by LittleJake at 15:15:13
