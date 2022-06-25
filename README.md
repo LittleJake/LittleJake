@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 06/25/2022.
 
 ### Hitokoto
 
-> 好了 接下来就让你们见识一下程序员的本事
+> 人们渴望像鸟儿一样自由自在地飞翔，可他们并没有想过，鸟儿也并不自由，它们之所以飞翔，是为了生存。
 > 
-> ——骑士与魔法
+> ——奈克瑟斯奥特曼
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/25/2022.
 
 </details>
 
-Autogen by LittleJake at 10:15:53
+Autogen by LittleJake at 11:12:57
