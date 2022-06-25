@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/25/2022.
 
 ### Hitokoto
 
-> 回家后我得好好找你人生咨询一下！
+> 相信朋友是不需要理由的。
 > 
-> ——高坂桐乃
+> ——从零开始的异世界生活 第二季
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/25/2022.
 
 </details>
 
-Autogen by LittleJake at 04:26:12
+Autogen by LittleJake at 05:13:41
