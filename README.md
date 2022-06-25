@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/25/2022.
 
 ### Hitokoto
 
-> 有光的地方必有影，有影的地方也必定有光，绝望的颜色越是浓重，一定会有光芒耀眼的希望。
+> 无论发生什么都不要停下。无论到什么时候都要继续前进。 要一直走下去，直到生命终止的那一刻。
 > 
-> ——银魂
+> ——驱魔少年
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/25/2022.
 
 </details>
 
-Autogen by LittleJake at 15:15:13
+Autogen by LittleJake at 16:20:17
