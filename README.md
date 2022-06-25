@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 06/25/2022.
 
 ### Hitokoto
 
-> 所谓的奇迹正是由于其耀眼而短暂的光芒而被成为奇迹。奇迹终将过去，而过去之后一切会归于沉寂。
+> 在面对这些强敌之前...一定要先将眼前敌人逐个打败吧。
 > 
-> ——成神之日
+> ——网球王子
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/25/2022.
 
 </details>
 
-Autogen by LittleJake at 08:18:50
+Autogen by LittleJake at 09:14:17
