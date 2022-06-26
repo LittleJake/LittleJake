@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 06/26/2022.
 
 ### Hitokoto
 
-> 你以为我是谁？这是我埋下的因，我要亲手解决这一切。
+> 我们的哀伤和年龄是没有关系的。
 > 
-> ——某科学的超电磁炮
+> ——樱桃小丸子
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/26/2022.
 
 </details>
 
-Autogen by LittleJake at 08:18:12
+Autogen by LittleJake at 09:14:13
