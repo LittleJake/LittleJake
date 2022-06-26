@@ -6,9 +6,9 @@ Today is 06/26/2022.
 
 ### Hitokoto
 
-> 我除了投三分，就什么都没有了…
+> 人就是要以自卑为跳板才能跳得更高。
 > 
-> ——灌篮高手
+> ——银魂
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/26/2022.
 
 </details>
 
-Autogen by LittleJake at 12:27:01
+Autogen by LittleJake at 13:23:13
