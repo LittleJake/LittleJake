@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 06/26/2022.
 
 ### Hitokoto
 
-> 我从未让你们骄傲，你们却待我如宝。
+> 你以为我是谁？这是我埋下的因，我要亲手解决这一切。
 > 
-> ——Az殇芯的chx
+> ——某科学的超电磁炮
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/26/2022.
 
 </details>
 
-Autogen by LittleJake at 07:13:52
+Autogen by LittleJake at 08:18:12
