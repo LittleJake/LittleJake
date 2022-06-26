@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 06/26/2022.
 
 ### Hitokoto
 
-> 一直注视着你，似近似远，总是触碰不到。
+> 无知而又纯洁的岁月。是任何人都曾拥有的。世界上没有一成不变的事务。所以只要以其他方式找到自己的快乐就行了。
 > 
-> ——来自风平浪静的明天
+> ——CLANNAD
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/26/2022.
 
 </details>
 
-Autogen by LittleJake at 17:14:53
+Autogen by LittleJake at 18:17:41
