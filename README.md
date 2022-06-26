@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/26/2022.
 
 ### Hitokoto
 
-> 人就是要以自卑为跳板才能跳得更高。
+> 无可替代的存在什么的不是很可怕吗？一旦失去就再也无法取回；绝对不能容忍失败；无法再一次得到。
 > 
-> ——银魂
+> ——果然我的青春恋爱喜剧搞错了
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/26/2022.
 
 </details>
 
-Autogen by LittleJake at 13:23:13
+Autogen by LittleJake at 14:13:20
