@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 06/26/2022.
 
 ### Hitokoto
 
-> 这虽然这是游戏，但可不是闹着玩的。
+> 还能再见面吗? 一定能见面的
 > 
-> ——刀剑神域
+> ——Fantastic Children
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/26/2022.
 
 </details>
 
-Autogen by LittleJake at 05:15:11
+Autogen by LittleJake at 06:18:08
