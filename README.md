@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 06/25/2022.
+Today is 06/26/2022.
 
 ### Hitokoto
 
-> 活下去的意志是最强的力量！
+> 无限接近于零，却又不等于零的可能性。
 > 
-> ——浪客剑心
+> ——游戏人生
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/25/2022.
 
 </details>
 
-Autogen by LittleJake at 23:14:34
+Autogen by LittleJake at 01:40:36
