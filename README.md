@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/27/2022.
 
 ### Hitokoto
 
-> 我觉得你很幸福，因为你可以选择爱我或不爱我，而我只能选择爱你或更爱你。
+> 没有偶然的必然，只有必然的偶然
 > 
-> ——School Days
+> ——魔卡少女樱
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/27/2022.
 
 </details>
 
-Autogen by LittleJake at 19:12:42
+Autogen by LittleJake at 20:16:22
