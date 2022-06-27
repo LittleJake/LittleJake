@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 06/26/2022.
+Today is 06/27/2022.
 
 ### Hitokoto
 
-> 这只手，暂时不洗了
+> 像平常的你一样引发奇迹吧-
 > 
-> ——小林家的龙女仆
+> ——魔法少女小圆
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/26/2022.
 
 </details>
 
-Autogen by LittleJake at 23:14:48
+Autogen by LittleJake at 01:43:39
