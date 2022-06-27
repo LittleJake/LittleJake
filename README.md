@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/27/2022.
 
 ### Hitokoto
 
-> 我们会，慢慢长大成人，随着季节的不停变换 路边盛开的鲜花也在不断变化。
+> 我觉得你很幸福，因为你可以选择爱我或不爱我，而我只能选择爱你或更爱你。
 > 
-> ——未闻花名
+> ——School Days
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/27/2022.
 
 </details>
 
-Autogen by LittleJake at 18:21:55
+Autogen by LittleJake at 19:12:42
