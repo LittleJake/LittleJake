@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 06/27/2022.
 
 ### Hitokoto
 
-> 未来的事无人知晓，所以它才如同这重逢一般，拥有着无限的可能性。
+> 所谓的奇迹就是要发生之后才会有价值存在的吧
 > 
-> ——命运石之门
+> ——EVA
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/27/2022.
 
 </details>
 
-Autogen by LittleJake at 05:26:32
+Autogen by LittleJake at 06:23:22
