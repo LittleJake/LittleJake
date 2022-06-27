@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 06/27/2022.
 
 ### Hitokoto
 
-> 不是我，都是社会的错
+> 人总有一天会孤独一人，然后活在自己的回忆中。为了能笑着于孤独相依为命，我决定战斗下去，决定不会再以泪洗面。
 > 
-> ——我的青春恋爱物语果然有问题
+> ——天使的心跳
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/27/2022.
 
 </details>
 
-Autogen by LittleJake at 09:15:50
+Autogen by LittleJake at 10:19:02
