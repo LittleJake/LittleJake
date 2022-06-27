@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/27/2022.
 
 ### Hitokoto
 
-> 夕阳真是耀眼无比啊。
+> 如果可以，愿来生你不要忘记我，我也不要忘记你那熟悉的温柔。
 > 
-> ——女高中生的虚度日常
+> ——狐妖小红娘
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/27/2022.
 
 </details>
 
-Autogen by LittleJake at 15:18:56
+Autogen by LittleJake at 16:22:55
