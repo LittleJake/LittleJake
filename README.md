@@ -6,9 +6,9 @@ Today is 06/27/2022.
 
 ### Hitokoto
 
-> 只要有你，我便无所不能。
+> 未来的事无人知晓，所以它才如同这重逢一般，拥有着无限的可能性。
 > 
-> ——进击的巨人
+> ——命运石之门
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/27/2022.
 
 </details>
 
-Autogen by LittleJake at 04:50:01
+Autogen by LittleJake at 05:26:32
