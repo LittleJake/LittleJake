@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/28/2022.
 
 ### Hitokoto
 
-> 前天是小兔子,昨天是小鹿,今天是你
+> 既不回头，何必不忘；既然无缘，何须誓言；今日种种，似水无痕；明夕何夕，君已陌路。
 > 
-> ——CLANNAD
+> ——仙剑奇侠传
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/28/2022.
 
 </details>
 
-Autogen by LittleJake at 21:12:38
+Autogen by LittleJake at 22:17:27
