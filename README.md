@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/28/2022.
 
 ### Hitokoto
 
-> 告白当天就要H什么的，真是没办法的男人呢。
+> 如果你都不知道自己想去哪里，那去哪里都是一样的。
 > 
-> ——高坂桐乃
+> ——柴郡猫
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/28/2022.
 
 </details>
 
-Autogen by LittleJake at 16:25:53
+Autogen by LittleJake at 17:23:38
