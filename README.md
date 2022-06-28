@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 06/28/2022.
 
 ### Hitokoto
 
-> 孤高的游荡灵魂不需要羁绊之地
+> 拿起武器，无论顺从还是逃跑，都无法得到自由，既然如此，我们只能战斗，为了自由，站起来吧。
 > 
-> ——春物
+> ——妖精的尾巴
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/28/2022.
 
 </details>
 
-Autogen by LittleJake at 11:13:25
+Autogen by LittleJake at 12:33:42
