@@ -6,9 +6,9 @@ Today is 06/28/2022.
 
 ### Hitokoto
 
-> 既不回头，何必不忘；既然无缘，何须誓言；今日种种，似水无痕；明夕何夕，君已陌路。
+> 如果因为害怕失败，而不去努力，那就不会有能够成功的人。
 > 
-> ——仙剑奇侠传
+> ——樱花庄的宠物女孩
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/28/2022.
 
 </details>
 
-Autogen by LittleJake at 22:17:27
+Autogen by LittleJake at 23:15:14
