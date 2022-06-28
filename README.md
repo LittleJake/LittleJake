@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/28/2022.
 
 ### Hitokoto
 
-> 我们即使发了一千次短信，心与心之间大概也只能靠近1厘米。
+> 既然如此，就再努力一次吧。别在这里愁眉不展，也不要再自欺欺人，重新来过！
 > 
-> ——秒速五厘米
+> ——某科学的超电磁炮
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/28/2022.
 
 </details>
 
-Autogen by LittleJake at 19:12:15
+Autogen by LittleJake at 20:17:25
