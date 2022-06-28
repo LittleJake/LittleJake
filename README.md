@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 06/28/2022.
 
 ### Hitokoto
 
-> 笑是对身边的事物感到一瞬间的幸福而表现出来的东西。
+> 孤高的游荡灵魂不需要羁绊之地
 > 
-> ——CLANNAD
+> ——春物
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/28/2022.
 
 </details>
 
-Autogen by LittleJake at 10:17:23
+Autogen by LittleJake at 11:13:25
