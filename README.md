@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/28/2022.
 
 ### Hitokoto
 
-> 拿起武器，无论顺从还是逃跑，都无法得到自由，既然如此，我们只能战斗，为了自由，站起来吧。
+> 用我那牵强的微笑，活出无人能比的骄傲。
 > 
-> ——妖精的尾巴
+> ——黑执事
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/28/2022.
 
 </details>
 
-Autogen by LittleJake at 12:33:42
+Autogen by LittleJake at 13:37:26
