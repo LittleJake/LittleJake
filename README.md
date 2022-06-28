@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 06/28/2022.
 
 ### Hitokoto
 
-> 我会死在这里，我的每一寸肌肤都会腐烂，除了…一寸，这一寸，它是那么的小，那么的脆弱，却是这世上唯一值得拥有的东西，我们决不能失去或者放弃它，我们决不能让别人把它夺走。
+> 做不到的事没必要勉强去做，不也挺好吗？
 > 
-> ——碧之轨迹
+> ——青春猪头少年不会梦到兔女郎学姐
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/28/2022.
 
 </details>
 
-Autogen by LittleJake at 06:20:37
+Autogen by LittleJake at 07:14:37
