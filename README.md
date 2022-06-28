@@ -6,9 +6,9 @@ Today is 06/28/2022.
 
 ### Hitokoto
 
-> All for one，one for all.
+> 有伤害人的人存在的话，也会有能抚慰伤痕的人
 > 
-> ——海贼王
+> ——水果篮子
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/28/2022.
 
 </details>
 
-Autogen by LittleJake at 08:22:56
+Autogen by LittleJake at 09:15:29
