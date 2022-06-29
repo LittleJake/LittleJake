@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 06/29/2022.
 
 ### Hitokoto
 
-> 无法入眠的凌晨两点，烦躁就像在敲门。
+> 如果今天是最糟糕的，那么明天一定比今天美好，不是吗？
 > 
-> ——RUNNING TO HORIZON
+> ——未来日记
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/29/2022.
 
 </details>
 
-Autogen by LittleJake at 05:24:35
+Autogen by LittleJake at 06:20:13
