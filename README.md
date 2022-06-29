@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/29/2022.
 
 ### Hitokoto
 
-> 死亡不是终点，被遗忘才是。
+> 烈焰中舞动的火花，将赐予邪恶异性交往以天罚。
 > 
-> ——寻梦环游记
+> ——潜行吧！奈亚子W
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/29/2022.
 
 </details>
 
-Autogen by LittleJake at 01:25:25
+Autogen by LittleJake at 03:46:51
