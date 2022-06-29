@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 06/28/2022.
+Today is 06/29/2022.
 
 ### Hitokoto
 
-> 如果因为害怕失败，而不去努力，那就不会有能够成功的人。
+> 死亡不是终点，被遗忘才是。
 > 
-> ——樱花庄的宠物女孩
+> ——寻梦环游记
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/28/2022.
 
 </details>
 
-Autogen by LittleJake at 23:15:14
+Autogen by LittleJake at 01:25:25
