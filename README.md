@@ -6,9 +6,9 @@ Today is 06/29/2022.
 
 ### Hitokoto
 
-> 活在现实中的人是错的，而那些哭泣的人才是正确的，孤独的我们才有人类的样子
+> 加油
 > 
-> ——angel beats
+> ——自编
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/29/2022.
 
 </details>
 
-Autogen by LittleJake at 07:14:47
+Autogen by LittleJake at 08:23:18
