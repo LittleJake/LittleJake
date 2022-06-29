@@ -6,9 +6,9 @@ Today is 06/29/2022.
 
 ### Hitokoto
 
-> 加油
+> 当真心想要做成一件事的时候，人总是孤独的，必须孤身一人，相互依赖上就完了。
 > 
-> ——自编
+> ——魔女之旅
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/29/2022.
 
 </details>
 
-Autogen by LittleJake at 08:23:18
+Autogen by LittleJake at 09:17:13
