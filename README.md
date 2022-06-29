@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/29/2022.
 
 ### Hitokoto
 
-> 这样叹气的话，幸福会像四处逃散的小蜘蛛一样溜走的。
+> 人的一生会遭遇各种各样的事，其中有令人难以置信的事，也有不讲道理的事，但都必须予以克服，这就是生活
 > 
-> ——辉夜大小姐想让我告白
+> ——地狱少女
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/29/2022.
 
 </details>
 
-Autogen by LittleJake at 22:15:17
+Autogen by LittleJake at 23:15:59
