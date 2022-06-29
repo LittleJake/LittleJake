@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 06/29/2022.
 
 ### Hitokoto
 
-> 如果今天是最糟糕的，那么明天一定比今天美好，不是吗？
+> 活在现实中的人是错的，而那些哭泣的人才是正确的，孤独的我们才有人类的样子
 > 
-> ——未来日记
+> ——angel beats
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/29/2022.
 
 </details>
 
-Autogen by LittleJake at 06:20:13
+Autogen by LittleJake at 07:14:47
