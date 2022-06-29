@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 06/29/2022.
 
 ### Hitokoto
 
-> 从小好女色的男人的想像力比不上狗。
+> 这是你所不能理解的，人类感情的极致，比希望更热烈，比绝望更深邃——爱！
 > 
-> ——寒蝉鸣泣之时
+> ——魔法少女小圆新篇 叛逆的物语
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/29/2022.
 
 </details>
 
-Autogen by LittleJake at 16:41:57
+Autogen by LittleJake at 17:40:26
