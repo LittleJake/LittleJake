@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/30/2022.
 
 ### Hitokoto
 
-> Exia，驱逐目标！
+> Explotion！
 > 
-> ——机动战士高达00
+> ——为美好的世界献上祝福
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/30/2022.
 
 </details>
 
-Autogen by LittleJake at 01:25:36
+Autogen by LittleJake at 03:40:57
