@@ -6,9 +6,9 @@ Today is 06/30/2022.
 
 ### Hitokoto
 
-> 这么温暖的世界里有我，要感谢神明了。
+> 想要试着去相互接近，但最后还是无法敞开心扉，结果就是擦肩而过…
 > 
-> ——Comic Girls
+> ——文学少女
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/30/2022.
 
 </details>
 
-Autogen by LittleJake at 07:13:02
+Autogen by LittleJake at 08:22:22
