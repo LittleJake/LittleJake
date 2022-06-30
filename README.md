@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/30/2022.
 
 ### Hitokoto
 
-> 死对任何人都是残酷的，年轻年老、好人坏人都一样。死是平等的，没哪种死亡是特别残酷的，所以死才可怕。品行、年龄、个性、金钱、美貌，这些东西只在生前才有意义。就因能将一切化为乌有，所以怎样的死都是残酷的。
+> 现在的我，一定是世界上最幸福的女孩子。
 > 
-> ——尸鬼
+> ——末日时在做什么？有没有空？可以来拯救吗？
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/30/2022.
 
 </details>
 
-Autogen by LittleJake at 20:17:28
+Autogen by LittleJake at 21:14:47
