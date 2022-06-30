@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 06/30/2022.
 
 ### Hitokoto
 
-> 廉价的自尊、粗劣的傲气，无论哪个后生小辈都很重视这些东西。
+> 忘记本身就是一件不可能的事。
 > 
-> ——狼与香辛料
+> ——我们的存在
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/30/2022.
 
 </details>
 
-Autogen by LittleJake at 05:22:15
+Autogen by LittleJake at 06:20:55
