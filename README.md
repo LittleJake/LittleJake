@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 06/29/2022.
+Today is 06/30/2022.
 
 ### Hitokoto
 
-> 人的一生会遭遇各种各样的事，其中有令人难以置信的事，也有不讲道理的事，但都必须予以克服，这就是生活
+> Exia，驱逐目标！
 > 
-> ——地狱少女
+> ——机动战士高达00
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/29/2022.
 
 </details>
 
-Autogen by LittleJake at 23:15:59
+Autogen by LittleJake at 01:25:36
