@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 06/30/2022.
 
 ### Hitokoto
 
-> 我再也不要看见她哭的样子了，就算我从此从她心目中消失。
+> 我对普通的人类没有兴趣，你们只要是有外星人、未来人、异世界人、超能力者， 就尽管来找我吧！以上！
 > 
-> ——名侦探柯南
+> ——凉宫春日的忧郁
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/30/2022.
 
 </details>
 
-Autogen by LittleJake at 22:15:44
+Autogen by LittleJake at 23:15:34
