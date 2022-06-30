@@ -6,9 +6,9 @@ Today is 06/30/2022.
 
 ### Hitokoto
 
-> “为什么要选择这条路”这种问题，是决不能问出口的，只有在暴风雨里问自己。
+> 廉价的自尊、粗劣的傲气，无论哪个后生小辈都很重视这些东西。
 > 
-> ——三月的狮子
+> ——狼与香辛料
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/30/2022.
 
 </details>
 
-Autogen by LittleJake at 04:37:13
+Autogen by LittleJake at 05:22:15
