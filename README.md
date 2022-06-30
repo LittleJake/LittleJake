@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 06/30/2022.
 
 ### Hitokoto
 
-> 忘记本身就是一件不可能的事。
+> 这么温暖的世界里有我，要感谢神明了。
 > 
-> ——我们的存在
+> ——Comic Girls
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/30/2022.
 
 </details>
 
-Autogen by LittleJake at 06:20:55
+Autogen by LittleJake at 07:13:02
