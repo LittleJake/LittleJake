@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 07/01/2022.
 
 ### Hitokoto
 
-> 大部分人并不想长大，只是没办法继续当一个小孩子
+> 即便我弱了，也并不代表你强了。
 > 
-> ——小林家的龙女仆
+> ——魔法禁书目录
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/01/2022.
 
 </details>
 
-Autogen by LittleJake at 12:34:08
+Autogen by LittleJake at 13:36:20
