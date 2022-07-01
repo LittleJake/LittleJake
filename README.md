@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 07/01/2022.
 
 ### Hitokoto
 
-> 我们的哀伤和年龄是没有关系的。
+> 那么难受，那么痛苦，可是 世界这么美丽...让我如何能够忘记！
 > 
-> ——樱桃小丸子
+> ——朝花夕誓
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/01/2022.
 
 </details>
 
-Autogen by LittleJake at 05:31:52
+Autogen by LittleJake at 06:20:57
