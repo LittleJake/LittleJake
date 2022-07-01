@@ -6,9 +6,9 @@ Today is 07/01/2022.
 
 ### Hitokoto
 
-> 不要就是不要，要学会大声说出口，这样才能保护你自己。
+> 砸瓦鲁多！
 > 
-> ——魔女之旅
+> ——JOJO的奇妙冒险
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/01/2022.
 
 </details>
 
-Autogen by LittleJake at 07:15:48
+Autogen by LittleJake at 08:21:31
