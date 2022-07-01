@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 07/01/2022.
 
 ### Hitokoto
 
-> 人生，一半是现实，一半是梦想。一念花开，一念花落。
+> 人的一生会遭遇各种各样的事，其中有令人难以置信的事，也有不讲道理的事，但这就是生活。
 > 
-> ——火影忍者
+> ——地狱少女
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/01/2022.
 
 </details>
 
-Autogen by LittleJake at 15:18:01
+Autogen by LittleJake at 16:25:41
