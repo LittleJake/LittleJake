@@ -6,9 +6,9 @@ Today is 07/01/2022.
 
 ### Hitokoto
 
-> 即便我弱了，也并不代表你强了。
+> 真正让我难受的，大概是因为让你看到如此狼狈的自己。
 > 
-> ——魔法禁书目录
+> ——元气少女缘结神
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/01/2022.
 
 </details>
 
-Autogen by LittleJake at 13:36:20
+Autogen by LittleJake at 14:15:29
