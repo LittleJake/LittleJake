@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 06/30/2022.
+Today is 07/01/2022.
 
 ### Hitokoto
 
-> 我对普通的人类没有兴趣，你们只要是有外星人、未来人、异世界人、超能力者， 就尽管来找我吧！以上！
+> 相比昨日明日，今天更适合开始。
 > 
-> ——凉宫春日的忧郁
+> ——Comic Girls
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 06/30/2022.
 
 </details>
 
-Autogen by LittleJake at 23:15:34
+Autogen by LittleJake at 01:47:33
