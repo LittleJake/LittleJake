@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 07/01/2022.
 
 ### Hitokoto
 
-> 有的只是很简单的唯一的思想…只此一个！“胜利然后支配”！仅此而已...这才是我唯一的满足感！…至于过程和方法之类…并不重要！
+> 共道人间惆怅事，不知今夕是何年。
 > 
-> ——JOJO的奇妙冒险
+> ——周秦行纪
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/01/2022.
 
 </details>
 
-Autogen by LittleJake at 18:20:50
+Autogen by LittleJake at 19:12:55
