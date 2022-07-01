@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 07/01/2022.
 
 ### Hitokoto
 
-> 鲁鲁修，你知道雪花为什么是白色的吗？因为已经忘记自己本来是什么颜色啊。
+> 大部分人并不想长大，只是没办法继续当一个小孩子
 > 
-> ——叛逆的鲁鲁修
+> ——小林家的龙女仆
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/01/2022.
 
 </details>
 
-Autogen by LittleJake at 11:13:02
+Autogen by LittleJake at 12:34:08
