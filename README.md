@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 07/01/2022.
 
 ### Hitokoto
 
-> 未来始终掌握在自己手中，从中滑落的，我们称之为过去。
+> 我喜欢你们！超喜欢的！大家和我交往吧！绝对会让你们幸福的！
 > 
-> ——末日时在做什么？有没有空？可以来拯救吗？
+> ——学生会的一己之见
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/01/2022.
 
 </details>
 
-Autogen by LittleJake at 09:15:49
+Autogen by LittleJake at 10:17:17
