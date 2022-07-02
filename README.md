@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 07/02/2022.
 
 ### Hitokoto
 
-> 再相见，会是怎样的世界？
+> 所谓的「改变自己，世界就会随之改变」这种事，是不可能的。
 > 
-> ——升起的烟花，从下面看？还是从侧面看?
+> ——我的青春恋爱物语果然有问题
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/02/2022.
 
 </details>
 
-Autogen by LittleJake at 17:14:57
+Autogen by LittleJake at 18:17:47
