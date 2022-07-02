@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 07/02/2022.
 
 ### Hitokoto
 
-> 我这个人呀，能过着这样平凡普通的日子就很开心了。
+> 有些事情我不看透，不是我笨，只是我太善良。
 > 
-> ——我想吃掉你的胰脏
+> ——樱桃小丸子
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/02/2022.
 
 </details>
 
-Autogen by LittleJake at 08:18:53
+Autogen by LittleJake at 09:14:18
