@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 07/02/2022.
 
 ### Hitokoto
 
-> 人生最糟糕的事，一个是饿肚子，一个是孤独。
+> 女生口中的「好人」首先百分之百是「怎样都好的人」的意思，再好也不过止于「方便好使的人」。也就是说，不管怎样都是没戏了。
 > 
-> ——夏日大作战
+> ——果然我的青春恋爱喜剧搞错了
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/02/2022.
 
 </details>
 
-Autogen by LittleJake at 15:15:11
+Autogen by LittleJake at 16:20:24
