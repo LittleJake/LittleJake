@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 07/02/2022.
 
 ### Hitokoto
 
-> 十代目的意志就是我们的意志！
+> 卧龙低伏，入我阵来。
 > 
-> ——家庭教师
+> ——一人之下
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/02/2022.
 
 </details>
 
-Autogen by LittleJake at 19:12:10
+Autogen by LittleJake at 20:16:16
