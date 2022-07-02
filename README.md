@@ -6,9 +6,9 @@ Today is 07/02/2022.
 
 ### Hitokoto
 
-> 我不渴望什么在别的城市迎来的春天，只要和你在一起的春天就好，只要和你在一起就好
+> 我这个人呀，能过着这样平凡普通的日子就很开心了。
 > 
-> ——CLANNAD
+> ——我想吃掉你的胰脏
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/02/2022.
 
 </details>
 
-Autogen by LittleJake at 07:13:59
+Autogen by LittleJake at 08:18:53
