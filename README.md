@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 07/02/2022.
 
 ### Hitokoto
 
-> 有些事情我不看透，不是我笨，只是我太善良。
+> 有了喜欢的人，就会在意各种小事，感觉很不自由，但是，为了那些小事左思右想，心里竟然会这么快乐。
 > 
-> ——樱桃小丸子
+> ——闪烁的青春
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/02/2022.
 
 </details>
 
-Autogen by LittleJake at 09:14:18
+Autogen by LittleJake at 10:16:34
