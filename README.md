@@ -6,9 +6,9 @@ Today is 07/02/2022.
 
 ### Hitokoto
 
-> 有些梦想虽然遥不可及，但不是不可能实现。只要我足够的强。
+> 世界上哪有不会输的英雄啊
 > 
-> ——秦时明月
+> ——凸变英雄
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/02/2022.
 
 </details>
 
-Autogen by LittleJake at 03:44:14
+Autogen by LittleJake at 04:34:38
