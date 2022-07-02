@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 07/02/2022.
 
 ### Hitokoto
 
-> 所谓的「改变自己，世界就会随之改变」这种事，是不可能的。
+> 十代目的意志就是我们的意志！
 > 
-> ——我的青春恋爱物语果然有问题
+> ——家庭教师
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/02/2022.
 
 </details>
 
-Autogen by LittleJake at 18:17:47
+Autogen by LittleJake at 19:12:10
