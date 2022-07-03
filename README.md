@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 07/03/2022.
 
 ### Hitokoto
 
-> 我下定决心要当海贼王，就算因此而战死，那也无所谓。
+> 我不借助别人的力量就没办法跟仰慕的人聊天吗？
 > 
-> ——海贼王
+> ——女高中生的虚度日常
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/03/2022.
 
 </details>
 
-Autogen by LittleJake at 06:18:58
+Autogen by LittleJake at 07:14:29
