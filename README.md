@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 07/03/2022.
 
 ### Hitokoto
 
-> 这个世界对温柔的你可一点也不温柔呀。
+> 喜欢和不讨厌之间可是有着数亿光年的距离的。
 > 
-> ——军火女王
+> ——四月是你的谎言
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/03/2022.
 
 </details>
 
-Autogen by LittleJake at 08:18:00
+Autogen by LittleJake at 09:15:15
