@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 07/03/2022.
 
 ### Hitokoto
 
-> 你一直相信的事，也让我相信吧。活着，是件美好的事。
+> 温柔正确的人总是难以生存，因为这世界既不温柔，也不正确。
 > 
-> ——Angle Beats
+> ——我的青春恋爱物语果然有问题
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/03/2022.
 
 </details>
 
-Autogen by LittleJake at 04:26:15
+Autogen by LittleJake at 05:13:54
