@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 07/03/2022.
 
 ### Hitokoto
 
-> 温柔正确的人总是难以生存，因为这世界既不温柔，也不正确。
+> 我下定决心要当海贼王，就算因此而战死，那也无所谓。
 > 
-> ——我的青春恋爱物语果然有问题
+> ——海贼王
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/03/2022.
 
 </details>
 
-Autogen by LittleJake at 05:13:54
+Autogen by LittleJake at 06:18:58
