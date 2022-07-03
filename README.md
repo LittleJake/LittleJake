@@ -6,9 +6,9 @@ Today is 07/03/2022.
 
 ### Hitokoto
 
-> 大家互相帮助，一起成功，一起幸福什么的，不过是种理想。
+> 风子参上！
 > 
-> ——我的青春恋爱物语果然有问题
+> ——伊吹风子
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/03/2022.
 
 </details>
 
-Autogen by LittleJake at 12:26:57
+Autogen by LittleJake at 13:23:17
