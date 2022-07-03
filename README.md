@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 07/03/2022.
 
 ### Hitokoto
 
-> 把同班的可爱女同学娶回家就是我最大的梦想
+> 最初的一步，泪水之后再一次，雕刻的风景线，消逝在黄昏中的风，直到梦的最后。
 > 
-> ——月色真美
+> ——Clannad
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/03/2022.
 
 </details>
 
-Autogen by LittleJake at 17:15:03
+Autogen by LittleJake at 18:17:46
