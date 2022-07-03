@@ -6,9 +6,9 @@ Today is 07/03/2022.
 
 ### Hitokoto
 
-> 别人的看法都是狗屁，你是谁只有你自己说了才算，这是爹教我的道理。
+> 我爱你，与你何干？
 > 
-> ——哪吒之魔童降世
+> ——歌德
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/03/2022.
 
 </details>
 
-Autogen by LittleJake at 10:16:48
+Autogen by LittleJake at 11:13:22
