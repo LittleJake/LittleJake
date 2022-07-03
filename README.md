@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 07/03/2022.
 
 ### Hitokoto
 
-> 迎接我们的也许是漆黑一片的夜路，即便如此，也要相信自己，勇往直前。 星空会为我们在这条道路上点缀出淡淡星光。
+> 就连一直都无容身之地的我…也不是可以任意舍弃的生命。
 > 
-> ——四月是你的谎言
+> ——夏目友人帐
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/03/2022.
 
 </details>
 
-Autogen by LittleJake at 21:13:00
+Autogen by LittleJake at 22:14:14
