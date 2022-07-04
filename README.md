@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 07/04/2022.
 
 ### Hitokoto
 
-> 那么，开始实验吧！
+> 我除了投三分，就什么都没有了……
 > 
-> ——假面骑士Build
+> ——灌篮高手
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/04/2022.
 
 </details>
 
-Autogen by LittleJake at 22:15:07
+Autogen by LittleJake at 23:15:44
