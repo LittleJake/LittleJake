@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 07/04/2022.
 
 ### Hitokoto
 
-> 只要人活在这世上就一定是有意义的，怎么活是自己选的。
+> 天才的字典里，没有不可能这三个字。
 > 
-> ——我想吃掉你的胰脏
+> ——灌篮高手
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/04/2022.
 
 </details>
 
-Autogen by LittleJake at 06:24:48
+Autogen by LittleJake at 07:14:46
