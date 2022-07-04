@@ -6,9 +6,9 @@ Today is 07/04/2022.
 
 ### Hitokoto
 
-> 即使你忘却了我，我也不会遗忘你。
+> 那么，开始实验吧！
 > 
-> ——菜月昂
+> ——假面骑士Build
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/04/2022.
 
 </details>
 
-Autogen by LittleJake at 21:13:37
+Autogen by LittleJake at 22:15:07
