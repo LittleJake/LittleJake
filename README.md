@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,7 +6,7 @@ Today is 07/04/2022.
 
 ### Hitokoto
 
-> 我们都很执着,而且思念的越深,越是绝望。
+> 我只希望，我喜欢的人可以健康的活着。
 > 
 > ——人渣的本愿
 
@@ -32,4 +32,4 @@ Today is 07/04/2022.
 
 </details>
 
-Autogen by LittleJake at 12:31:58
+Autogen by LittleJake at 13:35:42
