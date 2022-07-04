@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 07/04/2022.
 
 ### Hitokoto
 
-> 听说，樱花花瓣飘落的速度，是每秒5厘米，思念的距离到底有多远。如果樱花下落时是有声音的，你会不会听到我对你的思念
+> 我手中的魔法，是守护挚爱的力量，是坚定这个信念所必须的力量，我一定会拯救你的，无论在何时、何地。
 > 
-> ——秒速五厘米
+> ——魔法少女奈叶
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/04/2022.
 
 </details>
 
-Autogen by LittleJake at 08:20:16
+Autogen by LittleJake at 09:26:33
