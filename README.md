@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 07/04/2022.
 
 ### Hitokoto
 
-> 自认为为他人好而做的事情，并不一定正确。
+> 你的双眼能够看到多远的未来。
 > 
-> ——魔女之旅
+> ——火影忍者
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/04/2022.
 
 </details>
 
-Autogen by LittleJake at 03:48:30
+Autogen by LittleJake at 04:45:35
