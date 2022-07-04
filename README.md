@@ -6,9 +6,9 @@ Today is 07/04/2022.
 
 ### Hitokoto
 
-> 人不会对讨厌人要求理由。莫名的生气、莫名的讨厌、莫名的恶心、什么都能成为讨厌人的理由。
+> 即使你忘却了我，我也不会遗忘你。
 > 
-> ——果然我的青春恋爱喜剧搞错了
+> ——菜月昂
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/04/2022.
 
 </details>
 
-Autogen by LittleJake at 20:16:13
+Autogen by LittleJake at 21:13:37
