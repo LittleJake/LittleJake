@@ -6,9 +6,9 @@ Today is 07/04/2022.
 
 ### Hitokoto
 
-> 最有名的莫过于想死一次吗。
+> 少年少女 向前走吧。
 > 
-> ——阎魔爱
+> ——阳炎PROJECT
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/04/2022.
 
 </details>
 
-Autogen by LittleJake at 14:13:52
+Autogen by LittleJake at 15:16:18
