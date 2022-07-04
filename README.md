@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 07/04/2022.
 
 ### Hitokoto
 
-> 你的所言所行，全都闪烁着光芒，太过刺目，于是我闭上双眼，但内心还是无法停止对你的憧憬。
+> 我会欺骗你，欺骗世界，欺骗自己。
 > 
-> ——四月是你的谎言
+> ——Princess Principle
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/04/2022.
 
 </details>
 
-Autogen by LittleJake at 17:19:24
+Autogen by LittleJake at 18:20:07
