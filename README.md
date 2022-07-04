@@ -6,9 +6,9 @@ Today is 07/04/2022.
 
 ### Hitokoto
 
-> 我会欺骗你，欺骗世界，欺骗自己。
+> 做出一副温柔的样子来折磨人不是更令人难受吗？
 > 
-> ——Princess Principle
+> ——我的青春恋爱物语果然有问题
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/04/2022.
 
 </details>
 
-Autogen by LittleJake at 18:20:07
+Autogen by LittleJake at 19:14:09
