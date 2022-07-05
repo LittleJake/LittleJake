@@ -6,9 +6,9 @@ Today is 07/05/2022.
 
 ### Hitokoto
 
-> 呐，知道么，樱花飘落的速度，是每秒五厘米哦~
+> 为了爱，与梦想！
 > 
-> ——秒速五厘米
+> ——眼大人
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/05/2022.
 
 </details>
 
-Autogen by LittleJake at 14:20:38
+Autogen by LittleJake at 15:17:01
