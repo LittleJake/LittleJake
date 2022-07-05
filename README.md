@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 07/05/2022.
 
 ### Hitokoto
 
-> 扎古不论怎么化妆都不可能变成高达的。
+> 我们的哀伤和年龄是没有关系的。
 > 
-> ——银魂
+> ——樱桃小丸子
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/05/2022.
 
 </details>
 
-Autogen by LittleJake at 01:27:54
+Autogen by LittleJake at 03:42:04
