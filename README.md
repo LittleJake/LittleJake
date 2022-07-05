@@ -6,9 +6,9 @@ Today is 07/05/2022.
 
 ### Hitokoto
 
-> 我们的哀伤和年龄是没有关系的。
+> 24岁的阿升你好，我是15岁的美加子，我现在也还是非常、非常的喜欢阿升哦！
 > 
-> ——樱桃小丸子
+> ——星之声
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/05/2022.
 
 </details>
 
-Autogen by LittleJake at 03:42:04
+Autogen by LittleJake at 04:35:00
