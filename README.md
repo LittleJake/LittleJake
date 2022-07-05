@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 07/05/2022.
 
 ### Hitokoto
 
-> 只要努力活下去，总有一天会笑着回忆。
+> 一般来说，时间会把悲伤冲淡，可是在人的生命中，会有那么一两个特殊的存在，他们的逝去，你永远也不会习惯。
 > 
-> ——不可思议游戏
+> ——冥王神话
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/05/2022.
 
 </details>
 
-Autogen by LittleJake at 08:19:52
+Autogen by LittleJake at 09:16:22
