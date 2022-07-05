@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 07/05/2022.
 
 ### Hitokoto
 
-> 24岁的阿升你好，我是15岁的美加子，我现在也还是非常、非常的喜欢阿升哦！
+> 在未知的未来将要发生的事，一定有它的意义
 > 
-> ——星之声
+> ——火影忍者
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/05/2022.
 
 </details>
 
-Autogen by LittleJake at 04:35:00
+Autogen by LittleJake at 05:19:17
