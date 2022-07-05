@@ -6,9 +6,9 @@ Today is 07/05/2022.
 
 ### Hitokoto
 
-> (눈_눈)
+> 我们不是狼，我们只是长着獠牙的羊......
 > 
-> ——进击的巨人
+> ——羊之歌
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/05/2022.
 
 </details>
 
-Autogen by LittleJake at 20:16:56
+Autogen by LittleJake at 21:13:43
