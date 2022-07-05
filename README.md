@@ -6,9 +6,9 @@ Today is 07/05/2022.
 
 ### Hitokoto
 
-> 美丽的不是这个世界，而是接受了这个世界的你的眼睛。
+> 所谓人，无论是谁到了最后，都会形单影只。
 > 
-> ——吸血鬼骑士
+> ——悠久之翼2
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/05/2022.
 
 </details>
 
-Autogen by LittleJake at 22:14:58
+Autogen by LittleJake at 23:16:46
