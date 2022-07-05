@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 07/05/2022.
 
 ### Hitokoto
 
-> 我是要成为海贼王的男人！
+> 如果要伤害别人的感情才能实现的话，对那个人来说梦想就已经不能称之为梦想了。
 > 
-> ——海贼王
+> ——名侦探柯南
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/05/2022.
 
 </details>
 
-Autogen by LittleJake at 11:14:39
+Autogen by LittleJake at 12:33:39
