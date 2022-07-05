@@ -6,9 +6,9 @@ Today is 07/05/2022.
 
 ### Hitokoto
 
-> 一般来说，时间会把悲伤冲淡，可是在人的生命中，会有那么一两个特殊的存在，他们的逝去，你永远也不会习惯。
+> 不论是过去还是未来，我都会保护你！
 > 
-> ——冥王神话
+> ——旋风管家
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/05/2022.
 
 </details>
 
-Autogen by LittleJake at 09:16:22
+Autogen by LittleJake at 10:17:24
