@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 07/05/2022.
 
 ### Hitokoto
 
-> 忍者的才能不在于所掌握忍术的多少，而在于永不放弃的毅力.笔直向前绝不违背自己的誓言，还有不管何时都不放弃.
+> 呐，知道么，樱花飘落的速度，是每秒五厘米哦~
 > 
-> ——火影忍者
+> ——秒速五厘米
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/05/2022.
 
 </details>
 
-Autogen by LittleJake at 13:46:33
+Autogen by LittleJake at 14:20:38
