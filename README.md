@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 07/05/2022.
 
 ### Hitokoto
 
-> 在未知的未来将要发生的事，一定有它的意义
+> 这是你所不能理解的，人类感情的极致，比希望更热烈，比绝望更深邃——爱！
 > 
-> ——火影忍者
+> ——魔法少女小圆新篇
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/05/2022.
 
 </details>
 
-Autogen by LittleJake at 05:19:17
+Autogen by LittleJake at 06:20:17
