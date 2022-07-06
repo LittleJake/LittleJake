@@ -6,9 +6,9 @@ Today is 07/06/2022.
 
 ### Hitokoto
 
-> 能够用自己喜欢的工作维持生活是件很幸福的事情
+> 我们所过的每个平凡的日常，也许就是连续发生的奇迹。
 > 
-> ——白箱
+> ——日常
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/06/2022.
 
 </details>
 
-Autogen by LittleJake at 01:48:50
+Autogen by LittleJake at 03:48:12
