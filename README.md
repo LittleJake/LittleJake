@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 07/06/2022.
 
 ### Hitokoto
 
-> 为了终止绝望的连锁，希望她能化为照亮正确道路的灯火。
+> 人各有命，上天注定。有人天生为王，有人落草为寇。脚下的路，如果不是自己的选择，那旅程的终点在哪儿，也没人知道，你会走到哪儿，会碰到谁，都不一定。
 > 
-> ——Re：从零开始的异世界生活
+> ——镇魂街
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/06/2022.
 
 </details>
 
-Autogen by LittleJake at 17:22:46
+Autogen by LittleJake at 18:19:38
