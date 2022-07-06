@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 07/06/2022.
 
 ### Hitokoto
 
-> 沒有永远下不停的雨。
+> 干燥的空气，尘埃的味道，我在其中……踏上旅途。
 > 
-> ——秋之回憶
+> ——四月是你的谎言
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/06/2022.
 
 </details>
 
-Autogen by LittleJake at 20:16:27
+Autogen by LittleJake at 21:13:53
