@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 07/05/2022.
+Today is 07/06/2022.
 
 ### Hitokoto
 
-> 所谓人，无论是谁到了最后，都会形单影只。
+> 能够用自己喜欢的工作维持生活是件很幸福的事情
 > 
-> ——悠久之翼2
+> ——白箱
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/05/2022.
 
 </details>
 
-Autogen by LittleJake at 23:16:46
+Autogen by LittleJake at 01:48:50
