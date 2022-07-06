@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 07/06/2022.
 
 ### Hitokoto
 
-> 就算是自私…我也希望那些人能够永远都有笑容…
+> 哭也不会改变什么，这个世界从来不会对任何人温柔。
 > 
-> ——夏目友人帐
+> ——黑执事
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/06/2022.
 
 </details>
 
-Autogen by LittleJake at 11:18:39
+Autogen by LittleJake at 12:34:15
