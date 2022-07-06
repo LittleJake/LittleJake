@@ -6,9 +6,9 @@ Today is 07/06/2022.
 
 ### Hitokoto
 
-> 十年前的你，喜欢过我吗？
+> 为了终止绝望的连锁，希望她能化为照亮正确道路的灯火。
 > 
-> ——路人女主的养成方法
+> ——Re：从零开始的异世界生活
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/06/2022.
 
 </details>
 
-Autogen by LittleJake at 16:31:34
+Autogen by LittleJake at 17:22:46
