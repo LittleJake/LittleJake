@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,7 +6,7 @@ Today is 07/06/2022.
 
 ### Hitokoto
 
-> 干燥的空气，尘埃的味道，我在其中……踏上旅途。
+> 是你，是你，告诉我，若能在黑暗中绽放光芒，便能化作星空，悲伤化作笑颜，已经无需隐藏，漫天闪耀着的星光，都会为你照亮前行。
 > 
 > ——四月是你的谎言
 
@@ -32,4 +32,4 @@ Today is 07/06/2022.
 
 </details>
 
-Autogen by LittleJake at 21:13:53
+Autogen by LittleJake at 22:16:11
