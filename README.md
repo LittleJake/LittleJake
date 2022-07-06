@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 07/06/2022.
 
 ### Hitokoto
 
-> 我们所过的每个平凡的日常，也许就是连续发生的奇迹。
+> 人生在世何其痛苦，所以咖啡至少该甜一点。
 > 
-> ——日常
+> ——我的青春恋爱物语果然有问题
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/06/2022.
 
 </details>
 
-Autogen by LittleJake at 03:48:12
+Autogen by LittleJake at 04:46:45
