@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 07/06/2022.
 
 ### Hitokoto
 
-> 人们只是用好人来称呼对自己有用的人而以，不存在对所有人都有用的人
+> 卧龙低伏，入我阵来。
 > 
-> ——进击的巨人
+> ——一人之下
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/06/2022.
 
 </details>
 
-Autogen by LittleJake at 06:19:46
+Autogen by LittleJake at 07:14:34
