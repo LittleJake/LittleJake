@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 07/06/2022.
 
 ### Hitokoto
 
-> 我们都在梦中，一个叫青春的梦里。梦总有一天会醒来，而回忆会一直闪烁。
+> 人们只是用好人来称呼对自己有用的人而以，不存在对所有人都有用的人
 > 
-> ——校园迷糊大王
+> ——进击的巨人
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/06/2022.
 
 </details>
 
-Autogen by LittleJake at 05:26:56
+Autogen by LittleJake at 06:19:46
