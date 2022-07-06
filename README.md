@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 07/06/2022.
 
 ### Hitokoto
 
-> 哭也不会改变什么，这个世界从来不会对任何人温柔。
+> 世界不完美 所以才显得美丽
 > 
-> ——黑执事
+> ——钢之炼金术士
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/06/2022.
 
 </details>
 
-Autogen by LittleJake at 12:34:15
+Autogen by LittleJake at 13:49:28
