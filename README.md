@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 07/07/2022.
 
 ### Hitokoto
 
-> 但是，我没有后悔，不能后悔，因为，我所做的事情一定没有错！
+> 以彗星为龙，以彗星为绳结。描绘出割裂的彗星舞动的形态。又是一轮岁月。
 > 
-> ——三月的狮子
+> ——你的名字
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/07/2022.
 
 </details>
 
-Autogen by LittleJake at 18:20:03
+Autogen by LittleJake at 19:22:27
