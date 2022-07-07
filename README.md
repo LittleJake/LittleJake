@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 07/07/2022.
 
 ### Hitokoto
 
-> 人不会对讨厌人要求理由。莫名的生气、莫名的讨厌、莫名的恶心、什么都能成为讨厌人的理由。
+> 但是，我没有后悔，不能后悔，因为，我所做的事情一定没有错！
 > 
-> ——果然我的青春恋爱喜剧搞错了
+> ——三月的狮子
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/07/2022.
 
 </details>
 
-Autogen by LittleJake at 17:23:37
+Autogen by LittleJake at 18:20:03
