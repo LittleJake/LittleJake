@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 07/07/2022.
 
 ### Hitokoto
 
-> 失礼。噛みました
+> 区区一只趴在地上的蝼蚁，谁允许你抬起头的， 虫子就要有虫子的样子，低头伏地然后去死。
 > 
-> ——化物语(上)
+> ——fate/zero
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/07/2022.
 
 </details>
 
-Autogen by LittleJake at 04:45:10
+Autogen by LittleJake at 05:23:45
