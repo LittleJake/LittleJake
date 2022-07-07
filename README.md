@@ -6,9 +6,9 @@ Today is 07/07/2022.
 
 ### Hitokoto
 
-> 宛如花朵在风中摇摆起舞，宛如雨露滋润大地，这世界的万物相互依存共同延续。
+> 如果你愿意的话，让我带您去吧，这座小镇，愿望实现的地方……
 > 
-> ——机动战士高达00
+> ——CLANNAD
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/07/2022.
 
 </details>
 
-Autogen by LittleJake at 15:22:29
+Autogen by LittleJake at 16:27:05
