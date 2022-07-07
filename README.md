@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 07/07/2022.
 
 ### Hitokoto
 
-> 求求你，不要对我这么温柔！
+> 梦存高远，志在争霸，这股热情确实值得赞许。但所谓梦，终有一天是要醒来的。
 > 
-> ——秒速五厘米
+> ——fate/zero
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/07/2022.
 
 </details>
 
-Autogen by LittleJake at 11:13:57
+Autogen by LittleJake at 12:32:25
