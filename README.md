@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 07/07/2022.
 
 ### Hitokoto
 
-> 一直保持微笑是有诀窍的，那就是，在想哭的时候放声大哭。
+> 不要为自己的努力道歉，这样太对不起自己了！
 > 
-> ——天使领域
+> ——火影忍者
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/07/2022.
 
 </details>
 
-Autogen by LittleJake at 07:14:55
+Autogen by LittleJake at 08:20:45
