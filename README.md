@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 07/07/2022.
 
 ### Hitokoto
 
-> 大家热爱的事物，擅长的事物都不同，都拥有自己的世界，一个人一个世界，这些互相连接的话，就会展开许多的可能性，广大、未知，就像是宇宙一样。
+> 失礼。噛みました
 > 
-> ——恋爱小行星
+> ——化物语(上)
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/07/2022.
 
 </details>
 
-Autogen by LittleJake at 03:47:41
+Autogen by LittleJake at 04:45:10
