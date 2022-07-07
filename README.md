@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 07/06/2022.
+Today is 07/07/2022.
 
 ### Hitokoto
 
-> 正因为有了音乐，才有了相遇的瞬间，有了相会的感动，有了相逢的人们，有了邂逅的思念。
+> 今日已成往昔，明日即将到来，为此理所当然之事，感到无比痛心。
 > 
-> ——四月是你的谎言
+> ——寻找失去的未来
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/06/2022.
 
 </details>
 
-Autogen by LittleJake at 23:14:54
+Autogen by LittleJake at 01:42:31
