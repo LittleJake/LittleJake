@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 07/07/2022.
 
 ### Hitokoto
 
-> 如果你愿意的话，让我带您去吧，这座小镇，愿望实现的地方……
+> 人不会对讨厌人要求理由。莫名的生气、莫名的讨厌、莫名的恶心、什么都能成为讨厌人的理由。
 > 
-> ——CLANNAD
+> ——果然我的青春恋爱喜剧搞错了
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/07/2022.
 
 </details>
 
-Autogen by LittleJake at 16:27:05
+Autogen by LittleJake at 17:23:37
