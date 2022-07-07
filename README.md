@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 07/07/2022.
 
 ### Hitokoto
 
-> 届けて— 切なさには 名前をつけようか“Snow halation”
+> 我对普通的人类没有兴趣，你们只要是有外星人、未来人、异世界人、超能力者， 就尽管来找我吧！以上！
 > 
-> ——Snow Halation
+> ——凉宫春日的忧郁
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/07/2022.
 
 </details>
 
-Autogen by LittleJake at 20:17:04
+Autogen by LittleJake at 21:14:01
