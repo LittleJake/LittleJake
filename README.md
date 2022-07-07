@@ -6,9 +6,9 @@ Today is 07/07/2022.
 
 ### Hitokoto
 
-> 从进入厨房的瞬间开始，你们就肩负着烹饪美食的责任。
+> 宛如花朵在风中摇摆起舞，宛如雨露滋润大地，这世界的万物相互依存共同延续。
 > 
-> ——食戟之灵
+> ——机动战士高达00
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/07/2022.
 
 </details>
 
-Autogen by LittleJake at 14:15:29
+Autogen by LittleJake at 15:22:29
