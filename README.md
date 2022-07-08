@@ -6,9 +6,9 @@ Today is 07/08/2022.
 
 ### Hitokoto
 
-> 为了维护自己,渐渐地失去,就算无法做好,屡屡受伤 ,也不要心生怨恨。
+> 无论在哪里遇到你，我都会喜欢上你。
 > 
-> ——樱与抱月
+> ——AngleBeats!
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/08/2022.
 
 </details>
 
-Autogen by LittleJake at 14:16:31
+Autogen by LittleJake at 15:16:19
