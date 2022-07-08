@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,7 +6,7 @@ Today is 07/08/2022.
 
 ### Hitokoto
 
-> 不相信自己的人，连努力的价值都没有。
+> 人生在世只有一次，不必勉强选择自己不喜欢的路，随性而生或随性而死都没关系，不过，无论选择哪条路，都不要忘记保护自己所珍惜的人。
 > 
 > ——火影忍者
 
@@ -32,4 +32,4 @@ Today is 07/08/2022.
 
 </details>
 
-Autogen by LittleJake at 16:25:35
+Autogen by LittleJake at 17:25:56
