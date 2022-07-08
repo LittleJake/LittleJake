@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 07/08/2022.
 
 ### Hitokoto
 
-> 如果我是雨的话，也能像连接那永远都不将交汇的天空和大地一样，去连接某个人的心吗。
+> 就是因为你不好，才要留在你身边，给你幸福。
 > 
-> ——BLEACH
+> ——哈尔的移动城堡
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/08/2022.
 
 </details>
 
-Autogen by LittleJake at 08:22:32
+Autogen by LittleJake at 09:17:15
