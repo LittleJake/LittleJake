@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 07/07/2022.
+Today is 07/08/2022.
 
 ### Hitokoto
 
-> 正因为不会发生，人们才称它为”奇迹“
+> 我再也不要看见她哭的样子了，就算我从此从她心目中消失。
 > 
-> ——KANON
+> ——名侦探柯南
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/07/2022.
 
 </details>
 
-Autogen by LittleJake at 23:16:38
+Autogen by LittleJake at 01:42:26
