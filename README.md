@@ -6,9 +6,9 @@ Today is 07/08/2022.
 
 ### Hitokoto
 
-> 齿轮也有齿轮的志气！
+> 人类的赞歌是勇气的赞歌，人类的伟大是勇气的伟大！
 > 
-> ——机动战士高达独角兽
+> ——JOJO的奇妙冒险
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/08/2022.
 
 </details>
 
-Autogen by LittleJake at 12:31:10
+Autogen by LittleJake at 13:35:40
