@@ -6,9 +6,9 @@ Today is 07/08/2022.
 
 ### Hitokoto
 
-> 少罗嗦，你还不如虫子呢！
+> 人啊...想要保护重要东西的时候，就真的能变得很坚强。
 > 
-> ——迷糊餐厅
+> ——火影忍者
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/08/2022.
 
 </details>
 
-Autogen by LittleJake at 03:41:46
+Autogen by LittleJake at 04:38:33
