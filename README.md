@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 07/08/2022.
 
 ### Hitokoto
 
-> 就是因为你不好，才要留在你身边，给你幸福。
+> 你那无聊的幻想，就由我来打破！
 > 
-> ——哈尔的移动城堡
+> ——魔法禁书目录
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/08/2022.
 
 </details>
 
-Autogen by LittleJake at 09:17:15
+Autogen by LittleJake at 10:18:41
