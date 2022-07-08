@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 07/08/2022.
 
 ### Hitokoto
 
-> 人类的赞歌是勇气的赞歌，人类的伟大是勇气的伟大！
+> 为了维护自己,渐渐地失去,就算无法做好,屡屡受伤 ,也不要心生怨恨。
 > 
-> ——JOJO的奇妙冒险
+> ——樱与抱月
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/08/2022.
 
 </details>
 
-Autogen by LittleJake at 13:35:40
+Autogen by LittleJake at 14:16:31
