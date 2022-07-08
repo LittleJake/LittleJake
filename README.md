@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 07/08/2022.
 
 ### Hitokoto
 
-> 有时写信才能表达，平时难以说出口的心声。
+> 重新再说一次，至今为止，真的谢谢你。 然后，今后也请多指教了。
 > 
-> ——紫罗兰的永恒花园
+> ——楠田亞衣奈致东条希
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/08/2022.
 
 </details>
 
-Autogen by LittleJake at 05:22:17
+Autogen by LittleJake at 06:20:49
