@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 07/09/2022.
 
 ### Hitokoto
 
-> 笨蛋,蠢货
+> What, so everyone's supposed to sleep every single night now? You realize that nighttime makes up half of all time?
 > 
-> ——南千秋
+> ——Rick
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/09/2022.
 
 </details>
 
-Autogen by LittleJake at 05:13:26
+Autogen by LittleJake at 06:18:36
