@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 07/09/2022.
 
 ### Hitokoto
 
-> 我不借助别人的力量就没办法跟仰慕的人聊天吗？
+> 我们都在梦中，一个叫青春的梦里。梦总有一天会醒来，而回忆会一直闪烁。
 > 
-> ——女高中生的虚度日常
+> ——校园迷糊大王
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/09/2022.
 
 </details>
 
-Autogen by LittleJake at 14:13:30
+Autogen by LittleJake at 15:16:09
