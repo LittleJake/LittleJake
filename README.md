@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 07/09/2022.
 
 ### Hitokoto
 
-> 即使得不到旁人的认同，即使不曾拥有像样的地位，我们小小的双手也一定，能为明天的某人带去笑容。
+> 喜欢喜欢轻飘飘喜欢喜欢轻飘飘让我们一起来！
 > 
-> ——尽管我们的手中空无一物
+> ——Printemps
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/09/2022.
 
 </details>
 
-Autogen by LittleJake at 07:15:28
+Autogen by LittleJake at 08:19:00
