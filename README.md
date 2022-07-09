@@ -6,9 +6,9 @@ Today is 07/09/2022.
 
 ### Hitokoto
 
-> 看到的感受到的永远都不会消失永远都不会忘记，与各种各样的相遇一同永存。
+> 我们一直在离别中，比如和爱的人，和伤害，甚至和时光。
 > 
-> ——夏目友人帐
+> ——萤火虫之墓
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/09/2022.
 
 </details>
 
-Autogen by LittleJake at 01:18:25
+Autogen by LittleJake at 03:17:48
