@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 07/09/2022.
 
 ### Hitokoto
 
-> 我讨厌温柔的女孩子，温柔的女孩子其实对所有人都温柔，而我却会误以为只对自己温柔，然后沾沾自喜得意忘形，最后弄得不欢而散，双方都受到伤害，所以我才讨厌温柔的女孩子。
+> 声起立华乐独奏，曲末音无心结弦。
 > 
-> ——我的青春恋爱物语果然有问题
+> ——Angel Beats!
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/09/2022.
 
 </details>
 
-Autogen by LittleJake at 17:14:50
+Autogen by LittleJake at 18:18:04
