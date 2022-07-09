@@ -6,9 +6,9 @@ Today is 07/09/2022.
 
 ### Hitokoto
 
-> 我们一直在离别中，比如和爱的人，和伤害，甚至和时光。
+> 正气和狂气，理性和知性，自信和确信，在悲剧性的不合理世界，故事开始了。
 > 
-> ——萤火虫之墓
+> ——绝园的暴风雨
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/09/2022.
 
 </details>
 
-Autogen by LittleJake at 03:17:48
+Autogen by LittleJake at 04:21:37
