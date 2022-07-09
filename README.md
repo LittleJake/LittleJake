@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 07/09/2022.
 
 ### Hitokoto
 
-> 正气和狂气，理性和知性，自信和确信，在悲剧性的不合理世界，故事开始了。
+> 笨蛋,蠢货
 > 
-> ——绝园的暴风雨
+> ——南千秋
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/09/2022.
 
 </details>
 
-Autogen by LittleJake at 04:21:37
+Autogen by LittleJake at 05:13:26
