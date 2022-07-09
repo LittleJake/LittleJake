@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 07/09/2022.
 
 ### Hitokoto
 
-> 因为我想活着，我不能掩藏我心中的本欲，正如我心中爱你美丽,又怎能嘴上装四大皆空。
+> 为了维护自己,渐渐地失去,就算无法做好,屡屡受伤 ,也不要心生怨恨。
 > 
-> ——悟空传
+> ——樱与抱月
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/09/2022.
 
 </details>
 
-Autogen by LittleJake at 20:15:29
+Autogen by LittleJake at 21:13:40
