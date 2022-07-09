@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 07/09/2022.
 
 ### Hitokoto
 
-> 我喜欢你们！超喜欢的！大家和我交往吧！绝对会让你们幸福的！
+> 我不借助别人的力量就没办法跟仰慕的人聊天吗？
 > 
-> ——学生会的一己之见
+> ——女高中生的虚度日常
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/09/2022.
 
 </details>
 
-Autogen by LittleJake at 13:24:49
+Autogen by LittleJake at 14:13:30
