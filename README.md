@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 07/09/2022.
 
 ### Hitokoto
 
-> 於此漆黑世界之中，直至光明遍地之时！All Hail Lelouch！
+> 给我高高的飞起来啊！
 > 
-> ——反叛的鲁路修
+> ——星游记
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/09/2022.
 
 </details>
 
-Autogen by LittleJake at 11:12:38
+Autogen by LittleJake at 12:28:00
