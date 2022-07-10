@@ -6,9 +6,9 @@ Today is 07/10/2022.
 
 ### Hitokoto
 
-> 除了这一颗心，都是你的。
+> 做不到的事没必要勉强去做，不也挺好吗？
 > 
-> ——人渣的本愿
+> ——青春猪头少年不会梦到兔女郎学姐
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/10/2022.
 
 </details>
 
-Autogen by LittleJake at 13:23:49
+Autogen by LittleJake at 14:13:56
