@@ -6,9 +6,9 @@ Today is 07/10/2022.
 
 ### Hitokoto
 
-> 做不到的事没必要勉强去做，不也挺好吗？
+> 喜欢的人喜欢别人不是很正常吗。
 > 
-> ——青春猪头少年不会梦到兔女郎学姐
+> ——四月是你的谎言
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/10/2022.
 
 </details>
 
-Autogen by LittleJake at 14:13:56
+Autogen by LittleJake at 15:16:01
