@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 07/10/2022.
 
 ### Hitokoto
 
-> 已经没什么好害怕了。
+> 我活在我的时间里，她活在她的时间里，因此，我们时间交错的瞬间，对我而言比任何事物都宝贵。
 > 
-> ——魔法少女小圆
+> ——她与她的猫
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/10/2022.
 
 </details>
 
-Autogen by LittleJake at 03:34:28
+Autogen by LittleJake at 04:26:28
