@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 07/10/2022.
 
 ### Hitokoto
 
-> 喜欢的人喜欢别人不是很正常吗。
+> 真可悲，你什么都不知道，在这个世界上没有什么是不重要的！
 > 
-> ——四月是你的谎言
+> ——最终幻想
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/10/2022.
 
 </details>
 
-Autogen by LittleJake at 15:16:01
+Autogen by LittleJake at 16:21:04
