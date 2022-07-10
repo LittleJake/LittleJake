@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 07/10/2022.
 
 ### Hitokoto
 
-> 真正重要的东西，总是没有的人比拥有的人清楚。
+> 我喜欢你，比世界上任何人都喜欢你。
 > 
-> ——银魂
+> ——名侦探柯南
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/10/2022.
 
 </details>
 
-Autogen by LittleJake at 20:15:49
+Autogen by LittleJake at 21:13:08
