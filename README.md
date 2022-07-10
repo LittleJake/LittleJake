@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 07/09/2022.
+Today is 07/10/2022.
 
 ### Hitokoto
 
-> 从你站在桥上看我的 那一刻起你就是我的世界。
+> 於此漆黑世界之中，直至光明遍地之时！All Hail Lelouch！
 > 
-> ——火影忍者
+> ——反叛的鲁路修
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/09/2022.
 
 </details>
 
-Autogen by LittleJake at 23:14:17
+Autogen by LittleJake at 01:49:04
