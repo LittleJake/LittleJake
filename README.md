@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 07/10/2022.
 
 ### Hitokoto
 
-> リア充死ね！
+> 美丽的不是这个世界，而是接受了这个世界的你的眼睛。
 > 
-> ——我的朋友很少
+> ——吸血鬼骑士
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/10/2022.
 
 </details>
 
-Autogen by LittleJake at 11:12:29
+Autogen by LittleJake at 12:27:26
