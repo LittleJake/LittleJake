@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 07/11/2022.
 
 ### Hitokoto
 
-> 人生就是一列开往坟墓的列车，路途上会有很多站，很难有人可以自始至终陪着走完。当陪你的人要下车时，即使不舍也该心存感激，然后挥手道别。
+> 真正重要的东西，总是没有的人比拥有的人清楚。
 > 
-> ——千与千寻
+> ——银魂
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/11/2022.
 
 </details>
 
-Autogen by LittleJake at 10:17:53
+Autogen by LittleJake at 11:12:42
