@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 07/11/2022.
 
 ### Hitokoto
 
-> 来看看你的未来，那就是你的未来，向着未来，一步一步地走去。
+> 也许一个人的快乐会建立在另一个人或者很多人的痛苦之上。但是，自己种下的祸根终有一天会报应在自己的身上的。
 > 
-> ——未来へ(向着未来)
+> ——地狱少女
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/11/2022.
 
 </details>
 
-Autogen by LittleJake at 19:21:57
+Autogen by LittleJake at 20:17:41
