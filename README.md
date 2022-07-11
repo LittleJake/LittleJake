@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
+Good morning work time!
 
 Today is 07/11/2022.
 
 ### Hitokoto
 
-> 有些景色必须前进才能看到，那么只有勇往直前。
+> 在染成红色的天空下，在雨中，流淌着，漂浮着的，最软弱的自己的倒影，朦胧蓝色的回忆。
 > 
-> ——如果有个妹妹就好了
+> ——知晓天空之蓝的人啊
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/11/2022.
 
 </details>
 
-Autogen by LittleJake at 05:22:53
+Autogen by LittleJake at 06:21:21
