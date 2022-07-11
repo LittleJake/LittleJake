@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 07/11/2022.
 
 ### Hitokoto
 
-> 不相信自己的人，连努力的价值都没有。
+> 廉价的自尊、粗劣的傲气，无论哪个后生小辈都很重视这些东西。
 > 
-> ——火影忍者
+> ——狼与香辛料
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/11/2022.
 
 </details>
 
-Autogen by LittleJake at 14:20:39
+Autogen by LittleJake at 15:23:02
