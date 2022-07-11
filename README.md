@@ -6,9 +6,9 @@ Today is 07/11/2022.
 
 ### Hitokoto
 
-> 我们都很执着,而且思念的越深,越是绝望。
+> 来看看你的未来，那就是你的未来，向着未来，一步一步地走去。
 > 
-> ——人渣的本愿
+> ——未来へ(向着未来)
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/11/2022.
 
 </details>
 
-Autogen by LittleJake at 18:20:47
+Autogen by LittleJake at 19:21:57
