@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 07/11/2022.
 
 ### Hitokoto
 
-> 遇到事情不能坐以待毙！
+> 悲痛的事，温柔以对；难过的事，坚强以对。
 > 
-> ——捷德奥特曼
+> ——朝花夕誓
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/11/2022.
 
 </details>
 
-Autogen by LittleJake at 22:15:35
+Autogen by LittleJake at 23:15:42
