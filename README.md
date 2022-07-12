@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 07/12/2022.
 
 ### Hitokoto
 
-> 人们渴望像鸟儿一样自由自在地飞翔，可他们并没有想过，鸟儿也并不自由，它们之所以飞翔，是为了生存。
+> 就连一直都无容身之地的我…也不是可以任意舍弃的生命。
 > 
-> ——奈克瑟斯奥特曼
+> ——夏目友人帐
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/12/2022.
 
 </details>
 
-Autogen by LittleJake at 13:37:56
+Autogen by LittleJake at 14:24:05
