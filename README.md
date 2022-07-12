@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 07/12/2022.
 
 ### Hitokoto
 
-> 女生口中的「好人」首先百分之百是「怎样都好的人」的意思，再好也不过止于「方便好使的人」。也就是说，不管怎样都是没戏了。
+> 汝真是个烂好人
 > 
-> ——果然我的青春恋爱喜剧搞错了
+> ——狼与香辛料
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/12/2022.
 
 </details>
 
-Autogen by LittleJake at 20:17:11
+Autogen by LittleJake at 21:14:35
