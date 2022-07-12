@@ -24,14 +24,16 @@ jobs:
     - name: Run Merge
       if: github.event.inputs.merge
       run: | 
-        echo ";规则地址：${{ github.event.inputs.rule_url }}" >> mobile_ad.list
-        curl ${{ github.event.inputs.rule_url }}|grep "^||[a-zA-Z0-9\.]*^$"|sed 's/||//'|sed 's/\^//'|awk '{print "DOMAIN,"$1}' >> mobile_ad.list
-        cat mobile_ad.list|sort|uniq > mobile_ad.list
+        mv mobile_ad.list mobile_ad.list.tmp
+        echo ";规则地址：${{ github.event.inputs.rule_url }}" >> mobile_ad.list.tmp
+        curl ${{ github.event.inputs.rule_url }}|grep "^||[a-zA-Z0-9\.]*^$"|sed 's/||//'|sed 's/\^//'|awk '{print "DOMAIN,"$1}' >> mobile_ad.list.tmp
+        cat mobile_ad.list.tmp|sort|uniq > mobile_ad.list
     - name: Run Override
       if: github.event.inputs.merge == 'false'
       run: | 
+        rm -f mobile_ad.list
         echo ";规则地址：${{ github.event.inputs.rule_url }}" >> mobile_ad.list
-        curl ${{ github.event.inputs.rule_url }}|grep "^||[a-zA-Z0-9\.]*^$"|sed 's/||//'|sed 's/\^//'|awk '{print "DOMAIN,"$1}' > mobile_ad.list
+        curl ${{ github.event.inputs.rule_url }}|grep "^||[a-zA-Z0-9\.]*^$"|sed 's/||//'|sed 's/\^//'|awk '{print "DOMAIN,"$1}' >> mobile_ad.list
     - name: Commit
       run: |
         git config --global user.email action@github.com
