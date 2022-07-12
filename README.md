@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 07/12/2022.
 
 ### Hitokoto
 
-> 一旦你尝试过天空的味道，你就会永远向上仰望
+> 在未知的未来将要发生的事，一定有它的意义
 > 
-> ——列奥那多·达芬奇
+> ——火影忍者
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/12/2022.
 
 </details>
 
-Autogen by LittleJake at 17:19:33
+Autogen by LittleJake at 18:19:47
