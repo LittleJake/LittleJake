@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 07/12/2022.
 
 ### Hitokoto
 
-> 好红，每当想起你，枫叶就会被染红。
+> 据说之所以有人出现在梦中，是因为对方想见你的心情穿过身体，飞进了你的梦中。
 > 
-> ——银仙
+> ——蜂蜜与四叶草
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/12/2022.
 
 </details>
 
-Autogen by LittleJake at 11:13:51
+Autogen by LittleJake at 12:40:43
