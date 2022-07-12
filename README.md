@@ -6,9 +6,9 @@ Today is 07/12/2022.
 
 ### Hitokoto
 
-> 在未知的未来将要发生的事，一定有它的意义
+> 有些事情我不看透，不是我太笨，只是我太善良。
 > 
-> ——火影忍者
+> ——樱桃小丸子
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/12/2022.
 
 </details>
 
-Autogen by LittleJake at 18:19:47
+Autogen by LittleJake at 19:12:59
