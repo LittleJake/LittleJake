@@ -22,13 +22,13 @@ jobs:
       with:
         ref: rm
     - name: Run Merge
-      if: ${{ github.event.inputs.merge }}
+      if: github.event.inputs.merge
       run: | 
         echo ";规则地址：${{ github.event.inputs.rule_url }}" >> mobile_ad.list
         curl ${{ github.event.inputs.rule_url }}|grep "^||[a-zA-Z0-9\.]*^$"|sed 's/||//'|sed 's/\^//'|awk '{print "DOMAIN,"$1}' >> mobile_ad.list
         cat mobile_ad.list|sort|uniq > mobile_ad.list
     - name: Run Override
-      if: github.event.inputs.merge == ${{ false }}
+      if: github.event.inputs.merge == 'false'
       run: | 
         echo ";规则地址：${{ github.event.inputs.rule_url }}" >> mobile_ad.list
         curl ${{ github.event.inputs.rule_url }}|grep "^||[a-zA-Z0-9\.]*^$"|sed 's/||//'|sed 's/\^//'|awk '{print "DOMAIN,"$1}' > mobile_ad.list
