@@ -28,6 +28,7 @@ jobs:
         echo ";规则地址：${{ github.event.inputs.rule_url }}" >> mobile_ad.list.tmp
         curl ${{ github.event.inputs.rule_url }}|grep "^||[a-zA-Z0-9\.]*^$"|sed 's/||//'|sed 's/\^//'|awk '{print "DOMAIN,"$1}' >> mobile_ad.list.tmp
         cat mobile_ad.list.tmp|sort|uniq > mobile_ad.list
+        rm -f mobile_ad.list.tmp
     - name: Run Override
       if: github.event.inputs.merge == 'false'
       run: | 
