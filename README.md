@@ -1,4 +1,4 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
@@ -6,9 +6,9 @@ Today is 07/12/2022.
 
 ### Hitokoto
 
-> 人啊...想要保护重要东西的时候，就真的能变得很坚强。
+> 即使作为代价要夺走我什么，即使接下来等待我的是什么，即使那样，我无论如何都不想失去他。
 > 
-> ——火影忍者
+> ——少年阴阳师
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/12/2022.
 
 </details>
 
-Autogen by LittleJake at 03:58:32
+Autogen by LittleJake at 05:04:51
