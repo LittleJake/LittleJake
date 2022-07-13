@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 07/13/2022.
 
 ### Hitokoto
 
-> 我一点也不走运。
+> 我只是想要得到「我没有逃避」的记忆吧。
 > 
-> ——Fairy gone
+> ——三月的狮子
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/13/2022.
 
 </details>
 
-Autogen by LittleJake at 09:15:57
+Autogen by LittleJake at 10:20:05
