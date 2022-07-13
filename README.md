@@ -1,4 +1,4 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good afternoon work time!
 
@@ -6,9 +6,9 @@ Today is 07/13/2022.
 
 ### Hitokoto
 
-> 当敌人变成战友多半是为了生存，而战友变成敌人多半是为了金钱。
+> 与其因为不信任而后悔，不如因为相信而后悔。
 > 
-> ——端脑
+> ——刀剑神域
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/13/2022.
 
 </details>
 
-Autogen by LittleJake at 16:24:48
+Autogen by LittleJake at 17:22:18
