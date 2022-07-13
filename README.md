@@ -1,4 +1,4 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good morning work time!
 
@@ -6,9 +6,9 @@ Today is 07/13/2022.
 
 ### Hitokoto
 
-> 连我爸都没打过我
+> 知道和感觉到是两码事。
 > 
-> ——高达0079
+> ——《看见》
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/13/2022.
 
 </details>
 
-Autogen by LittleJake at 06:21:53
+Autogen by LittleJake at 07:15:05
