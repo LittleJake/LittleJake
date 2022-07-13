@@ -6,9 +6,9 @@ Today is 07/13/2022.
 
 ### Hitokoto
 
-> 只要你们不停下来，那前面就一定有我。所以啊，不要停下来……
+> 星星只有在夜里才璀璨夺目啊。
 > 
-> ——机动战士高达 铁血的奥尔芬斯
+> ——四月是你的谎言
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/13/2022.
 
 </details>
 
-Autogen by LittleJake at 21:16:09
+Autogen by LittleJake at 22:14:28
