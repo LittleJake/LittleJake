@@ -1,14 +1,14 @@
-<img alt='Good morning work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
-Good morning work time!
+Good afternoon work time!
 
 Today is 07/13/2022.
 
 ### Hitokoto
 
-> 人类的赞歌就是勇气的赞歌
+> 隐约雷鸣，阴霾天空，即使天无雨，我亦留此地。
 > 
-> ——JOJO的奇妙冒险
+> ——言叶之庭
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/13/2022.
 
 </details>
 
-Autogen by LittleJake at 11:13:53
+Autogen by LittleJake at 12:30:54
