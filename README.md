@@ -1,14 +1,14 @@
-<img alt='Good afternoon work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
-Good afternoon work time!
+Good evening work time!
 
 Today is 07/13/2022.
 
 ### Hitokoto
 
-> 与其因为不信任而后悔，不如因为相信而后悔。
+> 因为喜欢你，所以想继续相信下去。
 > 
-> ——刀剑神域
+> ——空之境界
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/13/2022.
 
 </details>
 
-Autogen by LittleJake at 17:22:18
+Autogen by LittleJake at 18:18:52
