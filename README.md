@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 07/13/2022.
+Today is 07/14/2022.
 
 ### Hitokoto
 
-> 我们所度过的每个平凡的日常，也许就是连续发生的奇迹
+> 当我拔出第二把剑时，就是为了我所爱之人
 > 
-> ——日常
+> ——刀剑神域
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/13/2022.
 
 </details>
 
-Autogen by LittleJake at 23:15:58
+Autogen by LittleJake at 01:44:59
