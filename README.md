@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 07/17/2022.
+Today is 07/18/2022.
 
 ### Hitokoto
 
-> 要是有事情不称心，就起身反抗吧。
+> 不能输，笑吧！
 > 
-> ——魔女之旅
+> ——约定的梦幻岛
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/17/2022.
 
 </details>
 
-Autogen by LittleJake at 00:59:44
+Autogen by LittleJake at 00:55:32
