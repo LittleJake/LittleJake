@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 07/20/2022.
+Today is 07/21/2022.
 
 ### Hitokoto
 
-> 我们不是大人，而是同学吧。
+> 我不会去统治这片大海，在这片大海上，最自由的人就是海贼王！
 > 
-> ——恋如雨止
+> ——海贼王
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/20/2022.
 
 </details>
 
-Autogen by LittleJake at 00:53:16
+Autogen by LittleJake at 00:58:22
