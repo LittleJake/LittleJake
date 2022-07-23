@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 07/22/2022.
+Today is 07/23/2022.
 
 ### Hitokoto
 
-> 樱花满地集于我心，楪舞纷飞祈愿相随
+> 在這手心之中的，就是“心”啊。
 > 
-> ——罪恶王冠
+> ——死神
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/22/2022.
 
 </details>
 
-Autogen by LittleJake at 00:59:36
+Autogen by LittleJake at 00:57:22
