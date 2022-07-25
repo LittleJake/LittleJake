@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 07/24/2022.
+Today is 07/25/2022.
 
 ### Hitokoto
 
-> 你那无聊的幻想，就由我来打破！
+> 所谓的奇迹就是要发生之后才会有价值存在的吧
 > 
-> ——魔法禁书目录
+> ——EVA
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/24/2022.
 
 </details>
 
-Autogen by LittleJake at 00:59:56
+Autogen by LittleJake at 00:56:02
