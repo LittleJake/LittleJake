@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 07/28/2022.
+Today is 07/29/2022.
 
 ### Hitokoto
 
-> 人就是要以自卑为跳板才能跳得更高。
+> 星空之所以美丽，就是因为在无限的宇宙中，不管黑暗如何蔓延，都有星星的光芒去把它照亮。世界也是这样，有绝望的地方，就会有希望产生。
 > 
-> ——银魂
+> ——星游记
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/28/2022.
 
 </details>
 
-Autogen by LittleJake at 00:57:08
+Autogen by LittleJake at 00:58:47
