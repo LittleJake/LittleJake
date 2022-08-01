@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 07/31/2022.
+Today is 08/01/2022.
 
 ### Hitokoto
 
-> 也许一个人的快乐会建立在另一个人或者很多人的痛苦之上。但是，自己种下的祸根终有一天会报应在自己的身上的。
+> 声起立华乐独奏，曲末音无心结弦。
 > 
-> ——地狱少女
+> ——Angel Beats!
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 07/31/2022.
 
 </details>
 
-Autogen by LittleJake at 00:58:59
+Autogen by LittleJake at 01:05:18
