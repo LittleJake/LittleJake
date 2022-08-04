@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 08/03/2022.
+Today is 08/04/2022.
 
 ### Hitokoto
 
-> 为了做一名真正的绅士，即使明知必输无疑，也要有勇气接受挑战！
+> 可爱即是正义。
 > 
-> ——JOJO的奇妙冒险
+> ——游戏人生
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 08/03/2022.
 
 </details>
 
-Autogen by LittleJake at 01:00:17
+Autogen by LittleJake at 01:00:15
