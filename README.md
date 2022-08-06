@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 08/05/2022.
+Today is 08/06/2022.
 
 ### Hitokoto
 
-> 从小好女色的男人的想像力比不上狗。
+> 千山万水，因你不过毫厘
 > 
-> ——寒蝉鸣泣之时
+> ——狐妖小红娘
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 08/05/2022.
 
 </details>
 
-Autogen by LittleJake at 01:05:35
+Autogen by LittleJake at 00:54:43
