@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 08/09/2022.
+Today is 08/10/2022.
 
 ### Hitokoto
 
-> 我只希望，我喜欢的人可以健康的活着。
+> 我明白，洛克昂。我是只能选择战斗的破坏者，所以要战斗，为击败催生战争的人，粉碎这扭曲。
 > 
-> ——人渣的本愿
+> ——机动战士高达00
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 08/09/2022.
 
 </details>
 
-Autogen by LittleJake at 01:02:34
+Autogen by LittleJake at 00:57:42
