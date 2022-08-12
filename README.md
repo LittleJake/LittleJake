@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 08/11/2022.
+Today is 08/12/2022.
 
 ### Hitokoto
 
-> 如果我们能活着出去，千山万水，你愿意陪我一起看吗？
+> 能够轻易就放弃的梦想，有存在的价值么？
 > 
-> ——狐妖小红娘
+> ——守护甜心
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 08/11/2022.
 
 </details>
 
-Autogen by LittleJake at 00:54:56
+Autogen by LittleJake at 00:54:12
