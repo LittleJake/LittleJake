@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 08/13/2022.
+Today is 08/14/2022.
 
 ### Hitokoto
 
-> 人生就是一列开往坟墓的列车，路途上会有很多站，很难有人可以自始至终陪着走完。当陪你的人要下车时，即使不舍也该心存感激，然后挥手道别。
+> 煩い！煩い！煩い！
 > 
-> ——千与千寻
+> ——灼眼的夏娜
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 08/13/2022.
 
 </details>
 
-Autogen by LittleJake at 00:51:11
+Autogen by LittleJake at 00:57:01
