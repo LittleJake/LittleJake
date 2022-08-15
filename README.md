@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 08/14/2022.
+Today is 08/15/2022.
 
 ### Hitokoto
 
-> 煩い！煩い！煩い！
+> 和绝望，和睦相处
 > 
-> ——灼眼的夏娜
+> ——少女终末旅行
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 08/14/2022.
 
 </details>
 
-Autogen by LittleJake at 00:57:01
+Autogen by LittleJake at 00:58:12
