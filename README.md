@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 08/16/2022.
+Today is 08/17/2022.
 
 ### Hitokoto
 
-> 我愿意呀，五十年前就愿意了。
+> 最喜欢你了唷！！ 开玩笑的！！啊--！好害羞 有机会的话会再写信给你。 希望那时，能变得更加坦率捏~
 > 
-> ——狐妖小红娘
+> ——久保由利香致小泉花阳
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 08/16/2022.
 
 </details>
 
-Autogen by LittleJake at 01:02:30
+Autogen by LittleJake at 01:01:24
