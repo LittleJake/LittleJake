@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 08/19/2022.
+Today is 08/20/2022.
 
 ### Hitokoto
 
-> 关于自己的生活，我和你都不是读者，而是作者。至少结局，还是能自己说了算的。
+> 能哭的地方只有厕所和爸爸的怀里。
 > 
-> ——银魂
+> ——Clannad
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 08/19/2022.
 
 </details>
 
-Autogen by LittleJake at 00:59:19
+Autogen by LittleJake at 00:54:24
