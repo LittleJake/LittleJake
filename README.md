@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 08/22/2022.
+Today is 08/23/2022.
 
 ### Hitokoto
 
-> 当一个胖纸没有什么不好，最起码可以温暖其他的人。
+> 哭过喊过便会停止哭泣
 > 
-> ——龙猫
+> ——从零开始的异世界生活
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 08/22/2022.
 
 </details>
 
-Autogen by LittleJake at 00:58:15
+Autogen by LittleJake at 01:05:38
