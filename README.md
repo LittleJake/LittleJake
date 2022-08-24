@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 08/23/2022.
+Today is 08/24/2022.
 
 ### Hitokoto
 
-> 哭过喊过便会停止哭泣
+> 时间并不存在，存在的只有此刻。
 > 
-> ——从零开始的异世界生活
+> ——魔女猎人
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 08/23/2022.
 
 </details>
 
-Autogen by LittleJake at 01:05:38
+Autogen by LittleJake at 00:58:45
