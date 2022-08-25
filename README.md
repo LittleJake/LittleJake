@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 08/24/2022.
+Today is 08/25/2022.
 
 ### Hitokoto
 
-> 时间并不存在，存在的只有此刻。
+> 旅行唯有出发前最愉快，狗儿唯有叫声最吓人，女人唯有背影最美丽。
 > 
-> ——魔女猎人
+> ——狼与香辛料
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 08/24/2022.
 
 </details>
 
-Autogen by LittleJake at 00:58:45
+Autogen by LittleJake at 01:06:14
