@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 08/29/2022.
+Today is 08/30/2022.
 
 ### Hitokoto
 
-> 有阳光的地方就会有阴影，所以有阴影的地方也一定会有阳光。绝望的颜色越是浓厚，在哪里也一定会存在耀眼的希望之光。
+> 无法飞翔的翅膀也是有意义的，因为它是曾经翱翔于天空所留下的珍贵回忆。
 > 
-> ——银魂
+> ——AIR
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 08/29/2022.
 
 </details>
 
-Autogen by LittleJake at 01:03:37
+Autogen by LittleJake at 01:06:26
