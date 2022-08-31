@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 08/30/2022.
+Today is 08/31/2022.
 
 ### Hitokoto
 
-> 无法飞翔的翅膀也是有意义的，因为它是曾经翱翔于天空所留下的珍贵回忆。
+> 堕入黑暗裏的可怜影子啊，停止伤害他人的行为吧，犯下罪行的灵魂…想死一次么？
 > 
-> ——AIR
+> ——地狱少女
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 08/30/2022.
 
 </details>
 
-Autogen by LittleJake at 01:06:26
+Autogen by LittleJake at 01:09:33
