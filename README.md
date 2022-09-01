@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 08/31/2022.
+Today is 09/01/2022.
 
 ### Hitokoto
 
-> 堕入黑暗裏的可怜影子啊，停止伤害他人的行为吧，犯下罪行的灵魂…想死一次么？
+> 我没有梦想，但是我能保护！
 > 
-> ——地狱少女
+> ——假面骑士555
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 08/31/2022.
 
 </details>
 
-Autogen by LittleJake at 01:09:33
+Autogen by LittleJake at 00:57:01
