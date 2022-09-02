@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 09/01/2022.
+Today is 09/02/2022.
 
 ### Hitokoto
 
-> 我没有梦想，但是我能保护！
+> 我想要握紧的并不是匕首或是什么，只不过是他的掌心而已。
 > 
-> ——假面骑士555
+> ——空之境界
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 09/01/2022.
 
 </details>
 
-Autogen by LittleJake at 00:57:01
+Autogen by LittleJake at 01:00:21
