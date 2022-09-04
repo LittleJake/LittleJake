@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 09/03/2022.
+Today is 09/04/2022.
 
 ### Hitokoto
 
-> 好红，每当想起你，枫叶就会被染红。
+> 我是奥尔加·伊滋卡，几颗子弹不要紧的！
 > 
-> ——银仙
+> ——机动战士高达：铁血的孤儿
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 09/03/2022.
 
 </details>
 
-Autogen by LittleJake at 00:56:21
+Autogen by LittleJake at 00:59:07
