@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 09/05/2022.
+Today is 09/06/2022.
 
 ### Hitokoto
 
-> 挡着在我们面前的是巨大庞然的人生，阻隔在我们中间的是广阔无际的时间，对于他们，我们无能为力……
+> 关于自己的生活，我和你都不是读者，而是作者。至少结局，还是能自己说了算的。
 > 
-> ——秒速五厘米
+> ——银魂
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 09/05/2022.
 
 </details>
 
-Autogen by LittleJake at 01:09:51
+Autogen by LittleJake at 01:03:32
