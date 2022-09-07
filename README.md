@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 09/06/2022.
+Today is 09/07/2022.
 
 ### Hitokoto
 
-> 关于自己的生活，我和你都不是读者，而是作者。至少结局，还是能自己说了算的。
+> 吾于冥河沉浮,受尽命运捉弄，纵然汝将忘吾，吾亦伴汝身旁。
 > 
-> ——银魂
+> ——Re：从零开始的异世界生活
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 09/06/2022.
 
 </details>
 
-Autogen by LittleJake at 01:03:32
+Autogen by LittleJake at 01:07:20
