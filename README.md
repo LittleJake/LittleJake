@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130233.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 09/07/2022.
+Today is 09/08/2022.
 
 ### Hitokoto
 
-> 吾于冥河沉浮,受尽命运捉弄，纵然汝将忘吾，吾亦伴汝身旁。
+> 我的愿望是—幸福地活着，幸福地死去。
 > 
-> ——Re：从零开始的异世界生活
+> ——神不在的星期天
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 09/07/2022.
 
 </details>
 
-Autogen by LittleJake at 01:07:20
+Autogen by LittleJake at 01:02:41
