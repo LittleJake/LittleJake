@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 09/09/2022.
+Today is 09/10/2022.
 
 ### Hitokoto
 
-> 人没有回忆是无法活下去的哟
+> 我看到这个世界的恶意，我们正在接受考验。
 > 
-> ——AIR
+> ——机动战士高达00
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 09/09/2022.
 
 </details>
 
-Autogen by LittleJake at 01:05:10
+Autogen by LittleJake at 01:03:54
