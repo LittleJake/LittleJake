@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130220.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 09/13/2022.
+Today is 09/14/2022.
 
 ### Hitokoto
 
-> 十年前的你，喜欢过我吗？
+> 挚友的执念烙印此身，无尽的黑暗化为光明，天上天下，一骑当神！
 > 
-> ——路人女主的养成方法
+> ——天元突破：红莲螺岩
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 09/13/2022.
 
 </details>
 
-Autogen by LittleJake at 01:04:49
+Autogen by LittleJake at 01:01:58
