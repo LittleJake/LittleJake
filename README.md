@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 09/15/2022.
+Today is 09/16/2022.
 
 ### Hitokoto
 
-> 有时语言就像把利刃，使用不当，就会成为凶器。
+> 即便分开，羁绊仍然是存在的，这就是所谓的家人。
 > 
-> ——名侦探柯南
+> ——CLANNAD
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 09/15/2022.
 
 </details>
 
-Autogen by LittleJake at 01:06:57
+Autogen by LittleJake at 01:05:46
