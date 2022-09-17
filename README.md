@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 09/16/2022.
+Today is 09/17/2022.
 
 ### Hitokoto
 
-> 即便分开，羁绊仍然是存在的，这就是所谓的家人。
+> 男人就应该保持冷静，沸腾的水只会被蒸发掉。
 > 
-> ——CLANNAD
+> ——假面骑士kabuto
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 09/16/2022.
 
 </details>
 
-Autogen by LittleJake at 01:05:46
+Autogen by LittleJake at 01:01:33
