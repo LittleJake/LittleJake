@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 09/17/2022.
+Today is 09/18/2022.
 
 ### Hitokoto
 
-> 男人就应该保持冷静，沸腾的水只会被蒸发掉。
+> 卧龙低伏，入我阵来。
 > 
-> ——假面骑士kabuto
+> ——一人之下
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 09/17/2022.
 
 </details>
 
-Autogen by LittleJake at 01:01:33
+Autogen by LittleJake at 01:06:43
