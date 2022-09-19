@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 09/18/2022.
+Today is 09/19/2022.
 
 ### Hitokoto
 
-> 卧龙低伏，入我阵来。
+> 重要的是无论我们选择哪条路，都要担负起选择的责任。
 > 
-> ——一人之下
+> ——蜂蜜与四叶草
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 09/18/2022.
 
 </details>
 
-Autogen by LittleJake at 01:06:43
+Autogen by LittleJake at 01:04:31
