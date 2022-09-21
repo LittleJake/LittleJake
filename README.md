@@ -2,13 +2,13 @@
 
 Good evening work time!
 
-Today is 09/20/2022.
+Today is 09/21/2022.
 
 ### Hitokoto
 
-> 你的所言所行，全都闪烁着光芒，太过刺目，于是我闭上双眼，但内心还是无法停止对你的憧憬。
+> 我不知道离别的滋味是这样凄凉，我不知道说声再见要这么坚强。
 > 
-> ——四月是你的谎言
+> ——千与千寻
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 09/20/2022.
 
 </details>
 
-Autogen by LittleJake at 01:05:36
+Autogen by LittleJake at 01:07:55
