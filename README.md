@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 09/21/2022.
+Today is 09/22/2022.
 
 ### Hitokoto
 
-> 我不知道离别的滋味是这样凄凉，我不知道说声再见要这么坚强。
+> 正因为生命有限，所以才显得重要，正因为生命有限，所以才更应该努力不懈！
 > 
-> ——千与千寻
+> ——名侦探柯南
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 09/21/2022.
 
 </details>
 
-Autogen by LittleJake at 01:07:55
+Autogen by LittleJake at 01:04:43
