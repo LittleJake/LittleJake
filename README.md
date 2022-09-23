@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130159.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 09/22/2022.
+Today is 09/23/2022.
 
 ### Hitokoto
 
-> 正因为生命有限，所以才显得重要，正因为生命有限，所以才更应该努力不懈！
+> 所谓的奇迹正是由于其耀眼而短暂的光芒而被成为奇迹。奇迹终将过去，而过去之后一切会归于沉寂。
 > 
-> ——名侦探柯南
+> ——成神之日
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 09/22/2022.
 
 </details>
 
-Autogen by LittleJake at 01:04:43
+Autogen by LittleJake at 01:07:11
