@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130212.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 09/23/2022.
+Today is 09/24/2022.
 
 ### Hitokoto
 
-> 所谓的奇迹正是由于其耀眼而短暂的光芒而被成为奇迹。奇迹终将过去，而过去之后一切会归于沉寂。
+> 人们只是用好人来称呼对自己有用的人而以，不存在对所有人都有用的人
 > 
-> ——成神之日
+> ——进击的巨人
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 09/23/2022.
 
 </details>
 
-Autogen by LittleJake at 01:07:11
+Autogen by LittleJake at 01:07:43
