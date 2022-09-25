@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130145.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 09/24/2022.
+Today is 09/25/2022.
 
 ### Hitokoto
 
-> 人们只是用好人来称呼对自己有用的人而以，不存在对所有人都有用的人
+> 在染成红色的天空下，在雨中，流淌着，漂浮着的，最软弱的自己的倒影，朦胧蓝色的回忆。
 > 
-> ——进击的巨人
+> ——知晓天空之蓝的人啊
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 09/24/2022.
 
 </details>
 
-Autogen by LittleJake at 01:07:43
+Autogen by LittleJake at 01:03:04
