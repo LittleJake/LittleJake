@@ -1,14 +1,14 @@
-<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026111223.png' align='right' style='max-width:100%;'>
+<img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
 Good evening work time!
 
-Today is 09/25/2022.
+Today is 09/26/2022.
 
 ### Hitokoto
 
-> 在染成红色的天空下，在雨中，流淌着，漂浮着的，最软弱的自己的倒影，朦胧蓝色的回忆。
+> 男人至死都是少年
 > 
-> ——知晓天空之蓝的人啊
+> ——银魂
 
 <details>
 
@@ -32,4 +32,4 @@ Today is 09/25/2022.
 
 </details>
 
-Autogen by LittleJake at 01:03:04
+Autogen by LittleJake at 01:04:48
