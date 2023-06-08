@@ -22,7 +22,7 @@ jobs:
       with:
         ref: rm
     - name: Run Merge
-      if: github.event.inputs.merge
+      if: ${{ github.event.inputs.merge == 'true' }}
       run: | 
         mv mobile_ad.list mobile_ad.list.tmp
         echo ";规则地址：${{ github.event.inputs.rule_url }}" >> mobile_ad.list.tmp
@@ -30,7 +30,7 @@ jobs:
         cat mobile_ad.list.tmp|sort|uniq > mobile_ad.list
         rm -f mobile_ad.list.tmp
     - name: Run Override
-      if: github.event.inputs.merge == 'false'
+      if: ${{ github.event.inputs.merge == 'false' }}
       run: | 
         rm -f mobile_ad.list
         echo ";规则地址：${{ github.event.inputs.rule_url }}" >> mobile_ad.list
