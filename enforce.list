@@ -4,3 +4,4 @@ DOMAIN-SUFFIX,wfs.games
 DOMAIN-SUFFIX,olelive.com
 DOMAIN-SUFFIX,polocloud.xyz
 DOMAIN-SUFFIX,moeli-desu.com
+IP-CIDR,203.104.209.0/24,no-resolve
