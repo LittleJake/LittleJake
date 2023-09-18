@@ -25,7 +25,8 @@ jobs:
       if: ${{ github.event.inputs.merge == 'true' }}
       run: | 
         mv mobile_ad.list mobile_ad.list.tmp
-        for URL in $(echo "${{ github.event.inputs.rule_url }}"|sed 's/|/ /g') do 
+        for URL in $(echo "${{ github.event.inputs.rule_url }}"|sed 's/|/ /g')
+        do 
         echo ";规则地址：$URL" >> mobile_ad.list.tmp
         curl $URL|grep "^||[a-zA-Z0-9\.]*^$"|sed 's/||//'|sed 's/\^//'|awk '{print "DOMAIN,"$1}' >> mobile_ad.list.tmp
         done
@@ -35,7 +36,8 @@ jobs:
       if: ${{ github.event.inputs.merge == 'false' }}
       run: | 
         rm -f mobile_ad.list
-        for URL in $(echo "${{ github.event.inputs.rule_url }}"|sed 's/|/ /g') do 
+        for URL in $(echo "${{ github.event.inputs.rule_url }}"|sed 's/|/ /g')
+        do 
         echo ";规则地址：$URL" >> mobile_ad.list.tmp
         curl ${{ github.event.inputs.rule_url }}|grep "^||[a-zA-Z0-9\.]*^$"|sed 's/||//'|sed 's/\^//'|awk '{print "DOMAIN,"$1}' >> mobile_ad.list
         done
