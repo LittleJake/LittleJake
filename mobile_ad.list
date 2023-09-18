@@ -4,6 +4,7 @@
 ;规则地址：https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt
 ;规则地址：https://easylist-downloads.adblockplus.org/easylist.txt
 ;规则地址：https://raw.fastgit.org/cjx82630/cjxlist/master/cjx-annoyance.txt
+;规则地址：https://raw.github.com/cjx82630/cjxlist/master/cjx-annoyance.txt
 DOMAIN,0.101tubeporn.com
 DOMAIN,0.code.cotsta.ru
 DOMAIN,0001.best
