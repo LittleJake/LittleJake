@@ -6,4 +6,5 @@ DOMAIN-SUFFIX,polocloud.xyz
 DOMAIN-SUFFIX,moeli-desu.com
 DOMAIN-SUFFIX,tenor.com
 DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,waifulabs.com
 IP-CIDR,203.104.209.0/24,no-resolve
