@@ -1,14 +1,6 @@
 <img alt='Good evening work time' src='https://cdn.jsdelivr.net/gh/LittleJake/blog-static-files@imgs/imgs/20201026130227.png' align='right' style='max-width:100%;'>
 
-Good evening work time!
-
-Today is 09/26/2022.
-
-### Hitokoto
-
-> 男人至死都是少年
-> 
-> ——银魂
+Hi, I'm Jake.
 
 <details>
 
@@ -32,4 +24,10 @@ Today is 09/26/2022.
 
 </details>
 
-Autogen by LittleJake at 01:04:48
+
+
+### Sponsors
+
+Thanks for the free VM server (opensource) provided by [DartNode](https://app.dartnode.com/).
+
+<a href="https://app.dartnode.com/"><img src="https://raw.githubusercontent.com/LittleJake/LittleJake/master/images/dartnode.png" width="150" align='left' ></a>
