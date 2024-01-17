@@ -21,11 +21,3 @@ Hi, I'm Jake.
 <a href='https://afdian.net/@LittleJake'>Aifadian</a>
 
 </details>
-
-
-
-### Sponsors
-
-Thanks for the free VM server (opensource) provided by [DartNode](https://dartnode.com/).
-
-<a href="https://dartnode.com/"><img src="https://raw.githubusercontent.com/LittleJake/LittleJake/master/images/dartnode.png" width="150" align='left' ></a>
