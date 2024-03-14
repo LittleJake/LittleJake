@@ -9,8 +9,10 @@ DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,waifulabs.com
 
 DOMAIN,access.mypikpak.net
-DOMAIN,mypikpak.net
+DOMAIN,access.pikpakdrive.com
+DOMAIN,api-drive.mypikpak.net
 
+DOMAIN,api.bunny.net
 DOMAIN,panel-production-libs.b-cdn.net
 
 IP-CIDR,203.104.209.0/24,no-resolve
