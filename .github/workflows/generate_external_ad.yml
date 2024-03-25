@@ -27,6 +27,8 @@ jobs:
     - name: Run Merge
       if: ${{ github.event.inputs.merge == 'true' }}
       run: | 
+        touch mobile_ad.list
+        touch mobile_ad_whitelist.list
         mv mobile_ad.list mobile_ad.list.tmp
         for URL in $(echo "${{ github.event.inputs.blacklist_rule_url }}"|sed 's/|/ /g')
         do 
