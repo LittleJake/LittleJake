@@ -4,10 +4,10 @@ on:
   workflow_dispatch:
     inputs:
       blacklist_rule_url:
-        description: '规则地址 [可选]'
+        description: '黑名单规则地址 [可选]'
         default: 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt|https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt|https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt|https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt|https://easylist-downloads.adblockplus.org/easylist.txt|https://raw.github.com/cjx82630/cjxlist/master/cjx-annoyance.txt'
       whitelist_rule_url:
-        description: '规则地址 [可选]'
+        description: '白名单规则地址 [可选]'
         default: 'https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/ok.txt'
       merge:
         description: '真：文件合并去重，假：覆盖文件 [可选]'
