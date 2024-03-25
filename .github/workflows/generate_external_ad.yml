@@ -34,6 +34,7 @@ jobs:
         do 
         echo ";规则地址：$URL" >> mobile_ad.list.tmp
         curl $URL|grep "^||[a-zA-Z0-9\.]*^$"|sed 's/||//'|sed 's/\^//'|awk '{print "DOMAIN-SUFFIX,"$1}' >> mobile_ad.list.tmp
+        curl $URL|grep "^||[a-zA-Z0-9\.]*^$"|sed 's/||//'|sed 's/\^//'|awk '{print "DOMAIN,"$1}' >> mobile_ad.list.tmp
         done
         cat mobile_ad.list.tmp|sort|uniq > mobile_ad.list
         mv mobile_ad_whitelist.list mobile_ad_whitelist.list.tmp
@@ -41,6 +42,7 @@ jobs:
         do 
         echo ";规则地址：$URL" >> mobile_ad_whitelist.list.tmp
         curl $URL|grep "^@@||[a-zA-Z0-9\.]*^$"|sed 's/@@||//'|sed 's/\^//'|awk '{print "DOMAIN-SUFFIX,"$1}' >> mobile_ad_whitelist.list.tmp
+        curl $URL|grep "^@@||[a-zA-Z0-9\.]*^$"|sed 's/@@||//'|sed 's/\^//'|awk '{print "DOMAIN,"$1}' >> mobile_ad_whitelist.list.tmp
         done
         cat mobile_ad_whitelist.list.tmp|sort|uniq > mobile_ad_whitelist.list
         rm -f *.tmp
@@ -51,12 +53,14 @@ jobs:
         do 
         echo ";规则地址：$URL" >> mobile_ad.list.tmp
         curl $URL|grep "^||[a-zA-Z0-9\.]*^$"|sed 's/||//'|sed 's/\^//'|awk '{print "DOMAIN-SUFFIX,"$1}' >> mobile_ad.list.tmp
+        curl $URL|grep "^||[a-zA-Z0-9\.]*^$"|sed 's/||//'|sed 's/\^//'|awk '{print "DOMAIN,"$1}' >> mobile_ad.list.tmp
         done
         cat mobile_ad.list.tmp|sort|uniq > mobile_ad.list
         for URL in $(echo "${{ github.event.inputs.whitelist_rule_url }}"|sed 's/|/ /g')
         do 
         echo ";规则地址：$URL" >> mobile_ad_whitelist.list.tmp
         curl $URL|grep "^@@||[a-zA-Z0-9\.]*^$"|sed 's/@@||//'|sed 's/\^//'|awk '{print "DOMAIN-SUFFIX,"$1}' >> mobile_ad_whitelist.list.tmp
+        curl $URL|grep "^@@||[a-zA-Z0-9\.]*^$"|sed 's/@@||//'|sed 's/\^//'|awk '{print "DOMAIN,"$1}' >> mobile_ad_whitelist.list.tmp
         done
         cat mobile_ad_whitelist.list.tmp|sort|uniq > mobile_ad_whitelist.list
         rm -f *.tmp
