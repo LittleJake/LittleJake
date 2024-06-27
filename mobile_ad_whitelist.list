@@ -2,8 +2,6 @@
 DOMAIN,000714.xyz
 DOMAIN,ad.jp
 DOMAIN,amazon.com
-DOMAIN,analytics.google.com
-DOMAIN,analytics.twitter.com
 DOMAIN,anquan.org
 DOMAIN,api.lab.amplitude.com
 DOMAIN,api.onesignal.com
@@ -25,7 +23,6 @@ DOMAIN,discover.tt.omtrdc.net
 DOMAIN,discovercard.com
 DOMAIN,disqus.com
 DOMAIN,dpm.demdex.net
-DOMAIN,fonts.gstatic.com
 DOMAIN,fvs.io
 DOMAIN,go.rakuten.com
 DOMAIN,googleapis.com
@@ -61,8 +58,6 @@ DOMAIN,www.secretchina.com
 DOMAIN-SUFFIX,000714.xyz
 DOMAIN-SUFFIX,ad.jp
 DOMAIN-SUFFIX,amazon.com
-DOMAIN-SUFFIX,analytics.google.com
-DOMAIN-SUFFIX,analytics.twitter.com
 DOMAIN-SUFFIX,anquan.org
 DOMAIN-SUFFIX,api.lab.amplitude.com
 DOMAIN-SUFFIX,api.onesignal.com
@@ -84,7 +79,6 @@ DOMAIN-SUFFIX,discover.tt.omtrdc.net
 DOMAIN-SUFFIX,discovercard.com
 DOMAIN-SUFFIX,disqus.com
 DOMAIN-SUFFIX,dpm.demdex.net
-DOMAIN-SUFFIX,fonts.gstatic.com
 DOMAIN-SUFFIX,fvs.io
 DOMAIN-SUFFIX,go.rakuten.com
 DOMAIN-SUFFIX,googleapis.com
