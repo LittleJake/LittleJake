@@ -18,4 +18,8 @@ DOMAIN,api-drive.mypikpak.net
 DOMAIN,api.bunny.net
 DOMAIN,panel-production-libs.b-cdn.net
 
+
+PROCESS-NAME,com.positron_it.zlib
+
+
 IP-CIDR,203.104.209.0/24,no-resolve
