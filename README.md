@@ -8,8 +8,6 @@ Hi, I'm Jake.
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleJake&layout=compact)
 
-[![Jake Liu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LittleJake&layout=compact)](https://wakatime.com/@LittleJake)
-
 </details>
 
 <details>
