@@ -1,0 +1,77 @@
+name: Generate External AD
+
+on: 
+  workflow_dispatch:
+    inputs:
+      blacklist_rule_url:
+        description: '黑名单规则地址 [可选]'
+        default: 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt|https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt|https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt|https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt|https://easylist-downloads.adblockplus.org/easylist.txt|https://raw.github.com/cjx82630/cjxlist/master/cjx-annoyance.txt'
+      whitelist_rule_url:
+        description: '白名单规则地址 [可选]'
+        default: 'https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/ok.txt'
+      merge:
+        description: '真：文件合并去重，假：覆盖文件 [可选]'
+        type: boolean
+        required: false
+        default: true
+   
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    if: github.event.repository.owner.id == github.event.sender.id
+    steps:
+    - name: Checkout
+      uses: actions/checkout@master
+      with:
+        ref: rm
+    - name: Run Merge
+      if: ${{ github.event.inputs.merge == 'true' }}
+      run: | 
+        touch mobile_ad.list
+        touch mobile_ad_whitelist.list
+        mv mobile_ad.list mobile_ad.list.tmp
+        for URL in $(echo "${{ github.event.inputs.blacklist_rule_url }}"|sed 's/|/ /g')
+        do 
+        echo ";规则地址：$URL" >> mobile_ad.list.tmp
+        curl $URL|grep "^||[a-zA-Z0-9\.]*^$"|sed 's/||//'|sed 's/\^//'|awk '{print "DOMAIN-SUFFIX,"$1}' >> mobile_ad.list.tmp
+        curl $URL|grep "^||[a-zA-Z0-9\.]*^$"|sed 's/||//'|sed 's/\^//'|awk '{print "DOMAIN,"$1}' >> mobile_ad.list.tmp
+        done
+        cat mobile_ad.list.tmp|sort|uniq > mobile_ad.list
+        mv mobile_ad_whitelist.list mobile_ad_whitelist.list.tmp
+        for URL in $(echo "${{ github.event.inputs.whitelist_rule_url }}"|sed 's/|/ /g')
+        do 
+        echo ";规则地址：$URL" >> mobile_ad_whitelist.list.tmp
+        curl $URL|grep "^@@||[a-zA-Z0-9\.]*^$"|sed 's/@@||//'|sed 's/\^//'|awk '{print "DOMAIN-SUFFIX,"$1}' >> mobile_ad_whitelist.list.tmp
+        curl $URL|grep "^@@||[a-zA-Z0-9\.]*^$"|sed 's/@@||//'|sed 's/\^//'|awk '{print "DOMAIN,"$1}' >> mobile_ad_whitelist.list.tmp
+        done
+        cat mobile_ad_whitelist.list.tmp|sort|uniq > mobile_ad_whitelist.list
+        rm -f *.tmp
+    - name: Run Override
+      if: ${{ github.event.inputs.merge == 'false' }}
+      run: | 
+        for URL in $(echo "${{ github.event.inputs.blacklist_rule_url }}"|sed 's/|/ /g')
+        do 
+        echo ";规则地址：$URL" >> mobile_ad.list.tmp
+        curl $URL|grep "^||[a-zA-Z0-9\.]*^$"|sed 's/||//'|sed 's/\^//'|awk '{print "DOMAIN-SUFFIX,"$1}' >> mobile_ad.list.tmp
+        curl $URL|grep "^||[a-zA-Z0-9\.]*^$"|sed 's/||//'|sed 's/\^//'|awk '{print "DOMAIN,"$1}' >> mobile_ad.list.tmp
+        done
+        cat mobile_ad.list.tmp|sort|uniq > mobile_ad.list
+        for URL in $(echo "${{ github.event.inputs.whitelist_rule_url }}"|sed 's/|/ /g')
+        do 
+        echo ";规则地址：$URL" >> mobile_ad_whitelist.list.tmp
+        curl $URL|grep "^@@||[a-zA-Z0-9\.]*^$"|sed 's/@@||//'|sed 's/\^//'|awk '{print "DOMAIN-SUFFIX,"$1}' >> mobile_ad_whitelist.list.tmp
+        curl $URL|grep "^@@||[a-zA-Z0-9\.]*^$"|sed 's/@@||//'|sed 's/\^//'|awk '{print "DOMAIN,"$1}' >> mobile_ad_whitelist.list.tmp
+        done
+        cat mobile_ad_whitelist.list.tmp|sort|uniq > mobile_ad_whitelist.list
+        rm -f *.tmp
+    - name: Commit
+      run: |
+        git config --global user.email action@github.com
+        git config --global user.name GitHub Action
+        git add .
+        git commit -m "Action: update AD Rule" -a
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: rm
