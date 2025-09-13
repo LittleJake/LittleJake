@@ -134,6 +134,7 @@ DOMAIN,ws.school.apple.com
 DOMAIN,www.aboluowang.com
 DOMAIN,www.paypalobjects.com
 DOMAIN,www.secretchina.com
+DOMAIN,www.widgets.link
 DOMAIN,xp.apple.com
 DOMAIN-SUFFIX,000714.xyz
 DOMAIN-SUFFIX,account.apple.com
@@ -270,4 +271,5 @@ DOMAIN-SUFFIX,ws.school.apple.com
 DOMAIN-SUFFIX,www.aboluowang.com
 DOMAIN-SUFFIX,www.paypalobjects.com
 DOMAIN-SUFFIX,www.secretchina.com
+DOMAIN-SUFFIX,www.widgets.link
 DOMAIN-SUFFIX,xp.apple.com
