@@ -1,7 +1,9 @@
+;规则地址：https://anti-ad.net/surge.txt
 ;规则地址：https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt
 ;规则地址：https://easylist-downloads.adblockplus.org/easylist.txt
 ;规则地址：https://raw.github.com/cjx82630/cjxlist/master/cjx-annoyance.txt
 ;规则地址：https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockloon.listrdteam.github.io/HostlistsRegistry/assets/filter_29.txt
+;规则地址：https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-QuantumultX.list
 DOMAIN,000dn.com
 DOMAIN,0013.cc
 DOMAIN,0019x.com
