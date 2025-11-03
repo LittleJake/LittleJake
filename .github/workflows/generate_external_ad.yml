@@ -5,7 +5,7 @@ on:
     inputs:
       blacklist_rule_url:
         description: '黑名单规则地址 [可选]'
-        default: 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt|https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt|https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt|https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt|https://easylist-downloads.adblockplus.org/easylist.txt|https://raw.github.com/cjx82630/cjxlist/master/cjx-annoyance.txt'
+        default: 'https://anti-ad.net/surge.txt|https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-QuantumultX.list|https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt|https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt|https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt|https://easylist-downloads.adblockplus.org/easylist.txt|https://raw.github.com/cjx82630/cjxlist/master/cjx-annoyance.txt'
       whitelist_rule_url:
         description: '白名单规则地址 [可选]'
         default: 'https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/ok.txt'
